@@ -7,7 +7,7 @@ by Xiulin Yang, Arianna Bisazza, Nathan Schneider, and Ethan Gotlieb Wilcox
 To set up the environment, run:
 
 ```bash
-conda create -n posh-bench python=3.8
+conda create -n posh-bench python=3.11
 conda activate posh-bench
 pip install -r requirements.txt
 pip install -e . --no-dependencies
