@@ -1,13 +1,15 @@
 # posh-bench
+**The benchmark is currently under manual review and will be released soon. If you want to use the benchmark, please contact Xiulin for further details first!**
 
-This is the repository for the paper: A Unified Assessment of the Poverty of the Stimulus Argument for Neural Language Models
+
+This is the repository for the paper: [A Unified Assessment of the Poverty of the Stimulus Argument for Neural Language Models](https://arxiv.org/abs/2602.09992#:~:text=According%20to%20the%20Poverty%20of,necessary%20to%20explain%20language%20learning.)
 by Xiulin Yang, Arianna Bisazza, Nathan Schneider, and Ethan Gotlieb Wilcox
 
 ## Setup
 To set up the environment, run:
 
 ```bash
-conda create -n posh-bench python=3.8
+conda create -n posh-bench python=3.11
 conda activate posh-bench
 pip install -r requirements.txt
 pip install -e . --no-dependencies
@@ -30,4 +32,14 @@ python benchmark_eval.py model_name --eval_dataset posh --best_checkpoint
 
 
 ## Citation
-Will come soon!
+```
+@misc{yang2026unifiedassessmentpovertystimulus,
+      title={A Unified Assessment of the Poverty of the Stimulus Argument for Neural Language Models}, 
+      author={Xiulin Yang and Arianna Bisazza and Nathan Schneider and Ethan Gotlieb Wilcox},
+      year={2026},
+      eprint={2602.09992},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.09992}, 
+}
+```
