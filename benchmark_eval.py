@@ -79,43 +79,23 @@ def eval_sent_pair(ilm_model, tokenizer, test_set):
 if __name__ == '__main__':
     args = argparse.ArgumentParser('eval language models')
     args.add_argument('model_name', type=str, help='model name')
-    args.add_argument('--best_checkpoint', action='store_true')
     args.add_argument('--eval_dataset', type=str, help='dataset name', default='posh')
     args = args.parse_args()
     dataset = args.eval_dataset
     os.makedirs(f'{dataset}_results', exist_ok=True)
     model_name = args.model_name
-    best_checkpoint = args.best_checkpoint
     refs = list_repo_refs(model_name, repo_type="model")
     num_checkpoints = refs.branches
-    if 'gpt2' in model_name:
-        sep = '-'
-    else:
-        sep = '_'
-    checkpoints = sorted([x.name for x in num_checkpoints if 'main' not in x.name], key=lambda x: int(x.split(sep)[-1]))
     test = read_data(f'{dataset}', dataset)
 
     model_name_name = model_name.split('/')[-1]
     f_results = {}
-    if best_checkpoint:
-        print(model_name)
-        ilm_model = scorer.IncrementalLMScorer(model_name, 'cuda')
-        tokenizer = AutoTokenizer.from_pretrained(model_name)
-        acc, dist = eval_sent_pair(ilm_model, tokenizer, test)
-        f_results['best'] = acc
-        pd.DataFrame(f_results).to_csv(f'{dataset}_results/results_{model_name_name}_best.csv')
-        df_dist = pd.DataFrame.from_dict(dist, orient='index', columns=['distribution'])
-        df_dist.index.name = 'phenomenon'
-        df_dist.to_csv(f'{dataset}_results/distributions_{model_name_name}_best.csv')
-    else:
-        for checkpoint in checkpoints:
-            results = {}
-            print(model_name, checkpoint)
-            ilm_model = scorer.IncrementalLMScorer(model_name, 'cuda',revision=checkpoint)
-            tokenizer = AutoTokenizer.from_pretrained(model_name)
-            acc, dist = eval_sent_pair(ilm_model, tokenizer, test)
-            results[checkpoint] = acc
-            pd.DataFrame(results).to_csv(f'{dataset}_results/results_{model_name_name}_ckpt{checkpoint}.csv')
-            df_dist = pd.DataFrame.from_dict(dist, orient='index', columns=['distribution'])
-            df_dist.index.name = 'phenomenon'
-            # df_dist.to_csv(f'{dataset}_results/distributions_ckpt{checkpoint}.csv')
+    print(model_name)
+    ilm_model = scorer.IncrementalLMScorer(model_name, 'cuda')
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    acc, dist = eval_sent_pair(ilm_model, tokenizer, test)
+    f_results['best'] = acc
+    pd.DataFrame(f_results).to_csv(f'{dataset}_results/results_{model_name_name}_best.csv')
+    df_dist = pd.DataFrame.from_dict(dist, orient='index', columns=['distribution'])
+    df_dist.index.name = 'phenomenon'
+    df_dist.to_csv(f'{dataset}_results/distributions_{model_name_name}_best.csv')
