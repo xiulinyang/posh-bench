@@ -1,9 +1,10 @@
 # posh-bench
-**The benchmark is currently under manual review and will be released soon. If you want to use the benchmark, please contact Xiulin for further details first!**
-
-
 This is the repository for the paper: [A Unified Assessment of the Poverty of the Stimulus Argument for Neural Language Models](https://arxiv.org/abs/2602.09992#:~:text=According%20to%20the%20Poverty%20of,necessary%20to%20explain%20language%20learning.)
 by Xiulin Yang, Arianna Bisazza, Nathan Schneider, and Ethan Gotlieb Wilcox
+
+## update
+July 30, 2026: We manually reviewed the benchmark and revised examples that (i) contained words not included in the word list, (ii) contained unnatural collocations, or (iii) used verbs that can be either transitive or intransitive.
+
 
 ## Setup
 To set up the environment, run:
