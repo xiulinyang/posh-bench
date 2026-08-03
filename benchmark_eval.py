@@ -44,23 +44,15 @@ def read_data(data_path, dataset_name):
 
     return test_set
 
-def eval_sent_pair(ilm_model, tokenizer, test_set):
+def eval_sent_pair(ilm_model,test_set):
     results = {}
     for phe, sents in tqdm(test_set.items()):
         correct = 0
         for sent in sents:
             sent = list(sent)
-            if 'strict' in phe:
-                num_tokens = [len(tokenizer.encode(sent[i],add_special_tokens=False)) for i in range(len(sent))]
-                scores = ilm_model.sequence_score(sent, reduction=lambda x: -x.sum(0).item())
-                ppls = [(i, x/y) for i, (x, y) in enumerate(zip(scores, num_tokens))]
-                ppls = sorted(ppls, key=lambda x: x[1])
-                if ppls[0][0] ==5:
-                    correct += 1
-            else:
-                nll0, nll1 = ilm_model.sequence_score(sent, reduction=lambda x: -x.mean(0).item())
-                if nll0 > nll1:
-                    correct+=1
+            mean_surprisal0, mean_surprisal1 = ilm_model.sequence_score(sent, reduction=lambda x: -x.mean(0).item())
+            if mean_surprisal0 > mean_surprisal1:
+                correct+=1
         acc = correct/len(sents)
         results[phe] = acc
         print(phe, acc)
@@ -85,6 +77,6 @@ if __name__ == '__main__':
     print(model_name)
     ilm_model = scorer.IncrementalLMScorer(model_name, 'cuda')
     tokenizer = AutoTokenizer.from_pretrained(model_name)
-    acc = eval_sent_pair(ilm_model, tokenizer, test)
+    acc = eval_sent_pair(ilm_model, test)
     f_results['best'] = acc
     pd.DataFrame(f_results).to_csv(f'{dataset}_results/results_{model_name_name}_best.csv')
