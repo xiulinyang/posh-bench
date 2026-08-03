@@ -46,10 +46,8 @@ def read_data(data_path, dataset_name):
 
 def eval_sent_pair(ilm_model, tokenizer, test_set):
     results = {}
-    distributions = {}
     for phe, sents in tqdm(test_set.items()):
         correct = 0
-        distribution = []
         for sent in sents:
             sent = list(sent)
             if 'strict' in phe:
@@ -60,19 +58,13 @@ def eval_sent_pair(ilm_model, tokenizer, test_set):
                 if ppls[0][0] ==5:
                     correct += 1
             else:
-                num_token0 = len(tokenizer.encode(sent[0],add_special_tokens=False))
-                num_token1 = len(tokenizer.encode(sent[1],add_special_tokens=False))
-                nll0, nll1 = ilm_model.sequence_score(sent, reduction=lambda x: -x.sum(0).item())
-                ppl0 = nll0/num_token0
-                ppl1 = nll1/num_token1
-                distribution.append(f'{sent[0]}\t{ppl0}\t{sent[1]}\t{ppl1}')
-                if ppl0 > ppl1:
+                nll0, nll1 = ilm_model.sequence_score(sent, reduction=lambda x: -x.mean(0).item())
+                if nll0 > nll1:
                     correct+=1
         acc = correct/len(sents)
         results[phe] = acc
-        distributions[phe] = '|||'.join(distribution)
         print(phe, acc)
-    return results, distributions
+    return results
 
 
 
@@ -93,9 +85,6 @@ if __name__ == '__main__':
     print(model_name)
     ilm_model = scorer.IncrementalLMScorer(model_name, 'cuda')
     tokenizer = AutoTokenizer.from_pretrained(model_name)
-    acc, dist = eval_sent_pair(ilm_model, tokenizer, test)
+    acc = eval_sent_pair(ilm_model, tokenizer, test)
     f_results['best'] = acc
     pd.DataFrame(f_results).to_csv(f'{dataset}_results/results_{model_name_name}_best.csv')
-    df_dist = pd.DataFrame.from_dict(dist, orient='index', columns=['distribution'])
-    df_dist.index.name = 'phenomenon'
-    df_dist.to_csv(f'{dataset}_results/distributions_{model_name_name}_best.csv')

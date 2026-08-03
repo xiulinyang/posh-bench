@@ -1,5 +1,7 @@
 #!/bin/bash
 
+python benchmark_eval.py gpt2 --eval_dataset posh
+
 
 python benchmark_eval.py xiulinyang/gpt2_small_wiki_100M_32768_42 --eval_dataset posh
 python benchmark_eval.py xiulinyang/gpt2_small_wiki_100M_32768_53 --eval_dataset posh
