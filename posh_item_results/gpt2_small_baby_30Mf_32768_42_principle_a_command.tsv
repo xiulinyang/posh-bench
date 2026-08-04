@@ -1,0 +1,501 @@
+sentence1	PPL1	Sentence2	PPL2	Correct
+Lawrence reports that Peter's wife introduces himself to others.	5.69708251953125	Lawrence reports that Peter's wife introduces herself to others.	5.606436252593994	correct
+The female president reports that Ruth's brother introduces herself to others.	5.819329261779785	The female president reports that Ruth's brother introduces himself to others.	5.853702545166016	incorrect
+Ann reports that the male professor who trusts Ann teaches herself.	7.754422664642334	Ann reports that the male professor who trusts Ann teaches himself.	7.883833885192871	incorrect
+Anthony shows that Charlie's mother helps himself.	6.33537483215332	Anthony shows that Charlie's mother helps herself.	6.427834987640381	incorrect
+The lady shows that Helen's husband helps herself.	7.049251079559326	The lady shows that Helen's husband helps himself.	7.281264305114746	incorrect
+The king writes that Brian's daughter hides himself from the enemy.	6.002408981323242	The king writes that Brian's daughter hides herself from the enemy.	5.829560279846191	correct
+The daughter writes that Anna's brother hides herself from the enemy.	5.80455207824707	The daughter writes that Anna's brother hides himself from the enemy.	5.954019546508789	incorrect
+The king reports that William's mother tells himself the truth.	5.826047897338867	The king reports that William's mother tells herself the truth.	5.967990875244141	incorrect
+Sarah reports that Victoria's uncle tells herself the truth.	6.723356246948242	Sarah reports that Victoria's uncle tells himself the truth.	6.607006072998047	correct
+Sarah reports that the boy who tells Sarah the story helps herself.	6.4093828201293945	Sarah reports that the boy who tells Sarah the story helps himself.	6.455092430114746	incorrect
+The king reports that the daughter who tells the king the story helps himself.	5.839332103729248	The king reports that the daughter who tells the king the story helps herself.	5.774362564086914	correct
+The male president learns that Jeff's wife trusts himself.	7.167431831359863	The male president learns that Jeff's wife trusts herself.	7.180900573730469	incorrect
+The female player learns that Mary's uncle trusts herself.	7.189982891082764	The female player learns that Mary's uncle trusts himself.	7.101993083953857	correct
+The female player learns that the man who trusts the female player hits herself.	6.368626594543457	The female player learns that the man who trusts the female player hits himself.	6.2491230964660645	correct
+The male president learns that the princess who trusts the male president hits himself.	6.847209453582764	The male president learns that the princess who trusts the male president hits herself.	6.75760555267334	correct
+Louis hears that Alexander's sister enjoys himself in the park.	5.16305685043335	Louis hears that Alexander's sister enjoys herself in the park.	4.975514888763428	correct
+The lady hears that Maria's husband enjoys herself in the park.	5.501314163208008	The lady hears that Maria's husband enjoys himself in the park.	5.713008880615234	incorrect
+The lady hears that the male president who likes the lady introduces herself to others.	6.039048194885254	The lady hears that the male president who likes the lady introduces himself to others.	5.986976623535156	correct
+Louis hears that the mother who likes Louis introduces himself to others.	5.553917407989502	Louis hears that the mother who likes Louis introduces herself to others.	5.532559394836426	correct
+The princess believes that the male player who joins the princess enjoys herself in the park.	5.776185035705566	The princess believes that the male player who joins the princess enjoys himself in the park.	5.836409568786621	incorrect
+Ryan believes that the female professor who joins Ryan enjoys himself in the park.	6.6948561668396	Ryan believes that the female professor who joins Ryan enjoys herself in the park.	6.685080528259277	correct
+The brother writes that Thomas's sister supports himself.	7.063577651977539	The brother writes that Thomas's sister supports herself.	6.999729633331299	correct
+Elizabeth writes that Helen's brother supports herself.	5.8926825523376465	Elizabeth writes that Helen's brother supports himself.	5.830207824707031	correct
+Elizabeth writes that the male player who supports Elizabeth hides herself from the enemy.	5.8911027908325195	Elizabeth writes that the male player who supports Elizabeth hides himself from the enemy.	5.889113426208496	correct
+The brother writes that the female president who supports the brother hides himself from the enemy.	6.345004081726074	The brother writes that the female president who supports the brother hides herself from the enemy.	6.40270471572876	incorrect
+The boy feels that Tony's sister helps himself.	6.741975784301758	The boy feels that Tony's sister helps herself.	6.679800510406494	correct
+Mary feels that Kelly's son helps herself.	6.8323774337768555	Mary feels that Kelly's son helps himself.	6.855464458465576	incorrect
+Alexander claims that Martin's mother attacks himself.	5.886917591094971	Alexander claims that Martin's mother attacks herself.	5.932403564453125	incorrect
+The female professor claims that Jane's husband attacks herself.	7.1404266357421875	The female professor claims that Jane's husband attacks himself.	7.071954250335693	correct
+The female professor claims that the brother who attacks the female professor asks herself a question.	6.1076979637146	The female professor claims that the brother who attacks the female professor asks himself a question.	6.045595169067383	correct
+Alexander claims that the mother who attacks Alexander asks himself a question.	5.739546775817871	Alexander claims that the mother who attacks Alexander asks herself a question.	5.793415069580078	incorrect
+Maria explains that the male president who leads Maria introduces herself to others.	6.462658882141113	Maria explains that the male president who leads Maria introduces himself to others.	6.503903865814209	incorrect
+Anthony explains that the female player who leads Anthony introduces himself to others.	6.190360069274902	Anthony explains that the female player who leads Anthony introduces herself to others.	6.321351051330566	incorrect
+The brother explains that Martin's daughter enjoys himself in the park.	6.048701286315918	The brother explains that Martin's daughter enjoys herself in the park.	5.905849456787109	correct
+Ann explains that Helen's uncle enjoys herself in the park.	5.363158702850342	Ann explains that Helen's uncle enjoys himself in the park.	5.516021251678467	incorrect
+Ann explains that the male professor who likes Ann talks to herself.	6.68680477142334	Ann explains that the male professor who likes Ann talks to himself.	6.575983047485352	correct
+The brother explains that the daughter who likes the brother talks to himself.	6.06342887878418	The brother explains that the daughter who likes the brother talks to herself.	6.087103366851807	incorrect
+Nick says that Brian's daughter supports himself.	6.6649956703186035	Nick says that Brian's daughter supports herself.	6.412407875061035	correct
+The daughter says that Helen's father supports herself.	6.240638256072998	The daughter says that Helen's father supports himself.	6.396329402923584	incorrect
+The daughter says that the man who calls the daughter hides herself from the enemy.	5.276779651641846	The daughter says that the man who calls the daughter hides himself from the enemy.	5.23970365524292	correct
+Nick says that the female president who calls Nick hides himself from the enemy.	6.342395305633545	Nick says that the female president who calls Nick hides herself from the enemy.	6.513887882232666	incorrect
+The male doctor feels that Dennis's sister asks himself a question.	6.186952114105225	The male doctor feels that Dennis's sister asks herself a question.	6.2550554275512695	incorrect
+The princess feels that Helen's brother asks herself a question.	5.789945125579834	The princess feels that Helen's brother asks himself a question.	5.880857944488525	incorrect
+Fred says that Ben's daughter trains himself.	6.554764270782471	Fred says that Ben's daughter trains herself.	6.463315010070801	correct
+Ann says that Alice's son trains herself.	6.718517303466797	Ann says that Alice's son trains himself.	6.676634788513184	correct
+Ann says that the father who trains Ann supports herself.	7.164764404296875	Ann says that the father who trains Ann supports himself.	7.061056613922119	correct
+Fred says that the female professor who trains Fred supports himself.	7.587018966674805	Fred says that the female professor who trains Fred supports herself.	7.650637149810791	incorrect
+Jeff understands that Charles's sister loves himself.	6.237309455871582	Jeff understands that Charles's sister loves herself.	6.09067440032959	correct
+Kelly understands that Sarah's father loves herself.	6.245420932769775	Kelly understands that Sarah's father loves himself.	6.322831153869629	incorrect
+Kelly understands that the male professor who loves Kelly beats herself.	7.419621467590332	Kelly understands that the male professor who loves Kelly beats himself.	7.400856018066406	correct
+Jeff understands that the female doctor who loves Jeff beats himself.	6.742553234100342	Jeff understands that the female doctor who loves Jeff beats herself.	6.868160724639893	incorrect
+Lawrence learns that Bruce's sister tells himself the truth.	5.846004009246826	Lawrence learns that Bruce's sister tells herself the truth.	5.882981777191162	incorrect
+The girl learns that Victoria's husband tells herself the truth.	5.70680046081543	The girl learns that Victoria's husband tells himself the truth.	5.792998790740967	incorrect
+The girl learns that the male professor who tells the girl the news supports herself.	6.349395275115967	The girl learns that the male professor who tells the girl the news supports himself.	6.531309127807617	incorrect
+Lawrence learns that the woman who tells Lawrence the news supports himself.	6.702852725982666	Lawrence learns that the woman who tells Lawrence the news supports herself.	6.67488431930542	correct
+Thomas writes that Bruce's wife attacks himself.	6.133353233337402	Thomas writes that Bruce's wife attacks herself.	5.9756903648376465	correct
+Anna writes that Helen's son attacks herself.	7.086760520935059	Anna writes that Helen's son attacks himself.	7.145171642303467	incorrect
+Anna writes that the man who attacks Anna talks to herself.	6.058444976806641	Anna writes that the man who attacks Anna talks to himself.	5.927192687988281	correct
+Thomas writes that the mother who attacks Thomas talks to himself.	6.0543317794799805	Thomas writes that the mother who attacks Thomas talks to herself.	6.077277183532715	incorrect
+Alexander sees that Dennis's mother saves himself.	6.8400115966796875	Alexander sees that Dennis's mother saves herself.	6.656143665313721	correct
+The princess sees that Maria's uncle saves herself.	6.451883792877197	The princess sees that Maria's uncle saves himself.	6.670827388763428	incorrect
+The princess sees that the boy who serves the princess introduces herself to others.	5.275705337524414	The princess sees that the boy who serves the princess introduces himself to others.	5.231482028961182	correct
+Alexander sees that the female professor who serves Alexander introduces himself to others.	6.237885475158691	Alexander sees that the female professor who serves Alexander introduces herself to others.	6.443755626678467	incorrect
+Alexander says that Ben's wife hides himself from the enemy.	5.579755783081055	Alexander says that Ben's wife hides herself from the enemy.	5.4561262130737305	correct
+The lady says that Elizabeth's father hides herself from the enemy.	5.388658046722412	The lady says that Elizabeth's father hides himself from the enemy.	5.3919501304626465	incorrect
+The lady says that the male president who invites the lady attacks herself.	6.649158477783203	The lady says that the male president who invites the lady attacks himself.	6.682949542999268	incorrect
+Alexander says that the princess who invites Alexander attacks himself.	7.117584228515625	Alexander says that the princess who invites Alexander attacks herself.	7.218637943267822	incorrect
+Anthony feels that Bill's wife sees himself appear on screen.	6.929275989532471	Anthony feels that Bill's wife sees herself appear on screen.	6.75147819519043	correct
+Elizabeth feels that Jane's husband sees herself appear on screen.	6.162550926208496	Elizabeth feels that Jane's husband sees himself appear on screen.	6.224392414093018	incorrect
+Elizabeth feels that the father who sees Elizabeth protects herself.	5.802175521850586	Elizabeth feels that the father who sees Elizabeth protects himself.	5.877497673034668	incorrect
+Anthony feels that the female professor who sees Anthony protects himself.	6.801734447479248	Anthony feels that the female professor who sees Anthony protects herself.	6.813767910003662	incorrect
+Ben thinks that William's daughter watches himself in the video.	5.708938121795654	Ben thinks that William's daughter watches herself in the video.	5.5205607414245605	correct
+Elizabeth thinks that Elizabeth's brother watches herself in the video.	5.2019548416137695	Elizabeth thinks that Elizabeth's brother watches himself in the video.	5.2705278396606445	incorrect
+Elizabeth thinks that the king who watches Elizabeth introduces herself to others.	5.7458271980285645	Elizabeth thinks that the king who watches Elizabeth introduces himself to others.	5.550558567047119	correct
+Ben thinks that the female professor who watches Ben introduces himself to others.	6.163843154907227	Ben thinks that the female professor who watches Ben introduces herself to others.	6.5431437492370605	incorrect
+Ben learns that James's mother trusts himself.	6.8767008781433105	Ben learns that James's mother trusts herself.	6.802968978881836	correct
+Elizabeth learns that Ruth's husband trusts herself.	5.872468948364258	Elizabeth learns that Ruth's husband trusts himself.	5.763108253479004	correct
+Sarah reports that the king who meets Sarah hides herself from the enemy.	7.126583099365234	Sarah reports that the king who meets Sarah hides himself from the enemy.	6.973380088806152	correct
+Louis reports that the female doctor who meets Louis hides himself from the enemy.	6.265420913696289	Louis reports that the female doctor who meets Louis hides herself from the enemy.	6.280647277832031	incorrect
+Thomas claims that Charles's mother is defending himself.	5.249299049377441	Thomas claims that Charles's mother is defending herself.	5.3558268547058105	incorrect
+Kelly claims that Ann's husband is defending herself.	6.308248996734619	Kelly claims that Ann's husband is defending himself.	6.067327976226807	correct
+Kelly claims that the king who hits Kelly is defending herself.	6.782403469085693	Kelly claims that the king who hits Kelly is defending himself.	6.437985420227051	correct
+Thomas claims that the daughter who hits Thomas is defending himself.	6.229918479919434	Thomas claims that the daughter who hits Thomas is defending herself.	6.241883754730225	incorrect
+Lawrence writes that Nick's daughter beats himself.	6.36120080947876	Lawrence writes that Nick's daughter beats herself.	6.235250949859619	correct
+The wife writes that Sarah's uncle beats herself.	6.3769378662109375	The wife writes that Sarah's uncle beats himself.	6.34201717376709	correct
+The wife writes that the brother who likes the wife supports herself.	6.170692443847656	The wife writes that the brother who likes the wife supports himself.	6.242812156677246	incorrect
+Lawrence writes that the daughter who beats Lawrence supports himself.	7.154273986816406	Lawrence writes that the daughter who beats Lawrence supports herself.	7.049560546875	correct
+Fred says that Roger's daughter introduces himself to others.	5.313221454620361	Fred says that Roger's daughter introduces herself to others.	5.231197357177734	correct
+The lady says that Jane's son introduces herself to others.	4.972177982330322	The lady says that Jane's son introduces himself to others.	4.9519500732421875	correct
+John sees that Oliver's sister trains himself.	6.516905784606934	John sees that Oliver's sister trains herself.	6.379424095153809	correct
+The mother sees that Anna's father trains herself.	6.056504249572754	The mother sees that Anna's father trains himself.	6.211466312408447	incorrect
+The mother sees that the prince who trains the mother asks herself a question.	5.493157863616943	The mother sees that the prince who trains the mother asks himself a question.	5.5193352699279785	incorrect
+John sees that the female player who trains John asks himself a question.	5.96518611907959	John sees that the female player who trains John asks herself a question.	6.178405284881592	incorrect
+Martin understands that Steve's mother enjoys himself in the park.	5.312867164611816	Martin understands that Steve's mother enjoys herself in the park.	5.053462028503418	correct
+The girl understands that Sarah's brother enjoys herself in the park.	5.178088188171387	The girl understands that Sarah's brother enjoys himself in the park.	5.337254524230957	incorrect
+The girl understands that the male player who likes the girl attacks herself.	5.889127731323242	The girl understands that the male player who likes the girl attacks himself.	6.0439133644104	incorrect
+Martin understands that the wife who likes Martin attacks himself.	6.455949306488037	Martin understands that the wife who likes Martin attacks herself.	6.428228378295898	correct
+John explains that Larry's mother sees himself appear on screen.	6.8590497970581055	John explains that Larry's mother sees herself appear on screen.	6.697956562042236	correct
+The female doctor explains that Anna's husband sees herself appear on screen.	6.467660427093506	The female doctor explains that Anna's husband sees himself appear on screen.	6.538689613342285	incorrect
+The female doctor explains that the prince who sees the female doctor respects herself.	6.229840278625488	The female doctor explains that the prince who sees the female doctor respects himself.	6.282114505767822	incorrect
+John explains that the mother who sees John respects himself.	6.781962871551514	John explains that the mother who sees John respects herself.	6.7800421714782715	correct
+James feels that Charlie's wife supports himself.	6.960383892059326	James feels that Charlie's wife supports herself.	6.791268825531006	correct
+The female doctor feels that Catherine's son supports herself.	6.891353607177734	The female doctor feels that Catherine's son supports himself.	6.978216648101807	incorrect
+The female doctor feels that the man who helps the female doctor supports herself.	5.798001289367676	The female doctor feels that the man who helps the female doctor supports himself.	5.860967636108398	incorrect
+James feels that the daughter who helps James supports himself.	6.888124942779541	James feels that the daughter who helps James supports herself.	7.004177570343018	incorrect
+Joe knows that Mike's mother tells himself the truth.	4.961961269378662	Joe knows that Mike's mother tells herself the truth.	5.000926494598389	incorrect
+Sarah knows that Helen's son tells herself the truth.	5.731048583984375	Sarah knows that Helen's son tells himself the truth.	5.701347827911377	correct
+Sarah knows that the male professor who tells Sarah the story introduces herself to others.	6.004087448120117	Sarah knows that the male professor who tells Sarah the story introduces himself to others.	6.110851764678955	incorrect
+Joe knows that the female professor who tells Joe the news introduces himself to others.	5.872162818908691	Joe knows that the female professor who tells Joe the news introduces herself to others.	5.944777488708496	incorrect
+James writes that Nick's sister sees himself appear on screen.	6.608781814575195	James writes that Nick's sister sees herself appear on screen.	6.467330455780029	correct
+Maria writes that Mary's husband sees herself appear on screen.	6.377566337585449	Maria writes that Mary's husband sees himself appear on screen.	6.5187177658081055	incorrect
+Maria writes that the male professor who sees Maria talks to herself.	6.342086315155029	Maria writes that the male professor who sees Maria talks to himself.	6.397003173828125	incorrect
+James writes that the female player who sees James talks to himself.	5.832249164581299	James writes that the female player who sees James talks to herself.	6.1106414794921875	incorrect
+Bill thinks that Mike's wife enjoys himself in the park.	5.249926567077637	Bill thinks that Mike's wife enjoys herself in the park.	5.087224006652832	correct
+Maria thinks that Ruth's son enjoys herself in the park.	5.104475975036621	Maria thinks that Ruth's son enjoys himself in the park.	5.148005485534668	incorrect
+Maria thinks that the male professor who likes Maria defends herself.	6.563902854919434	Maria thinks that the male professor who likes Maria defends himself.	6.540566921234131	correct
+Bill thinks that the female professor who likes Bill defends himself.	6.831017971038818	Bill thinks that the female professor who likes Bill defends herself.	7.035390377044678	incorrect
+Ryan reports that Nick's mother supports himself.	6.911473751068115	Ryan reports that Nick's mother supports herself.	6.706557273864746	correct
+Alice reports that Elizabeth's brother supports herself.	6.983707427978516	Alice reports that Elizabeth's brother supports himself.	7.067317962646484	incorrect
+Alice reports that the brother who calls Alice attacks herself.	6.656431674957275	Alice reports that the brother who calls Alice attacks himself.	6.731800079345703	incorrect
+Ryan reports that the wife who calls Ryan attacks himself.	6.875233173370361	Ryan reports that the wife who calls Ryan attacks herself.	6.901420593261719	incorrect
+Tim shows that Anthony's wife watches himself in the video.	6.003221035003662	Tim shows that Anthony's wife watches herself in the video.	5.708736419677734	correct
+Helen shows that Ann's father watches herself in the video.	5.5014801025390625	Helen shows that Ann's father watches himself in the video.	5.675471782684326	incorrect
+Helen shows that the father who watches Helen hides herself from the enemy.	6.462484359741211	Helen shows that the father who watches Helen hides himself from the enemy.	6.457749843597412	correct
+Tim shows that the princess who watches Tim hides himself from the enemy.	6.763248443603516	Tim shows that the princess who watches Tim hides herself from the enemy.	6.794488906860352	incorrect
+Tim knows that Ben's daughter hits himself.	6.005269527435303	Tim knows that Ben's daughter hits herself.	6.162469863891602	incorrect
+Maria knows that Mary's father hits herself.	6.0745978355407715	Maria knows that Mary's father hits himself.	6.111437797546387	incorrect
+Maria knows that the male professor who hits Maria tells herself the truth.	6.758435249328613	Maria knows that the male professor who hits Maria tells himself the truth.	6.955726623535156	incorrect
+Tim knows that the female professor who hits Tim tells himself the truth.	6.700236797332764	Tim knows that the female professor who hits Tim tells herself the truth.	6.837746620178223	incorrect
+Larry learns that Tim's mother introduces himself to others.	5.596668243408203	Larry learns that Tim's mother introduces herself to others.	5.438907146453857	correct
+The female doctor learns that Kelly's son introduces herself to others.	5.855330944061279	The female doctor learns that Kelly's son introduces himself to others.	5.738248825073242	correct
+The female doctor learns that the male professor who meets the female doctor respects herself.	6.079946994781494	The female doctor learns that the male professor who meets the female doctor respects himself.	6.158747673034668	incorrect
+Larry learns that the lady who meets Larry respects himself.	6.665680885314941	Larry learns that the lady who meets Larry respects herself.	6.704261779785156	incorrect
+Ben claims that Charlie's sister loves himself.	6.204685688018799	Ben claims that Charlie's sister loves herself.	6.353569030761719	incorrect
+The female president claims that Alice's brother loves herself.	6.714227199554443	The female president claims that Alice's brother loves himself.	6.756396770477295	incorrect
+Emma claims that the husband who loves Emma enjoys herself in the park.	5.6737284660339355	Emma claims that the husband who loves Emma enjoys himself in the park.	5.677733421325684	incorrect
+Alexander hears that Mike's wife respects himself.	6.41809606552124	Alexander hears that Mike's wife respects herself.	6.27517557144165	correct
+The wife hears that Mary's brother respects herself.	6.307708740234375	The wife hears that Mary's brother respects himself.	6.523933410644531	incorrect
+The male professor believes that Nick's wife loves himself.	6.92061185836792	The male professor believes that Nick's wife loves herself.	6.8384294509887695	correct
+Sarah believes that Jane's husband loves herself.	6.31999397277832	Sarah believes that Jane's husband loves himself.	6.502842426300049	incorrect
+Sarah believes that the father who loves Sarah supports herself.	7.000266075134277	Sarah believes that the father who loves Sarah supports himself.	7.081481456756592	incorrect
+The female professor believes that the husband who loves the female professor supports herself.	6.613223552703857	The female professor believes that the husband who loves the female professor supports himself.	6.653778553009033	incorrect
+Brian hears that Tony's mother supports himself.	6.411928176879883	Brian hears that Tony's mother supports herself.	6.331175327301025	correct
+Helen hears that Mary's uncle supports herself.	6.295762538909912	Helen hears that Mary's uncle supports himself.	6.478973388671875	incorrect
+Brian hears that the female player who helps Brian tells himself the truth.	5.966397285461426	Brian hears that the female player who helps Brian tells herself the truth.	6.226012229919434	incorrect
+Tony understands that Oliver's daughter asks himself a question.	5.896205902099609	Tony understands that Oliver's daughter asks herself a question.	5.926899433135986	incorrect
+The daughter understands that Anna's son asks herself a question.	5.634458541870117	The daughter understands that Anna's son asks himself a question.	5.668116092681885	incorrect
+The daughter understands that the king who asks the daughter saves herself.	6.824265480041504	The daughter understands that the king who asks the daughter saves himself.	6.830500602722168	incorrect
+Tony understands that the female player who asks Tony saves himself.	7.507787227630615	Tony understands that the female player who asks Tony saves herself.	7.715312957763672	incorrect
+Fred learns that James's wife introduces himself to others.	5.54052209854126	Fred learns that James's wife introduces herself to others.	5.416264057159424	correct
+The female president learns that Alice's brother introduces herself to others.	5.659699440002441	The female president learns that Alice's brother introduces himself to others.	5.623076438903809	correct
+The female president learns that the male player who meets the female president defends herself.	5.709108352661133	The female president learns that the male player who meets the female president defends himself.	5.618066310882568	correct
+Fred learns that the woman who meets Fred defends himself.	5.995093822479248	Fred learns that the woman who meets Fred defends herself.	6.0829010009765625	incorrect
+Bill reports that William's wife enjoys himself in the park.	5.5962347984313965	Bill reports that William's wife enjoys herself in the park.	5.435232639312744	correct
+Ann reports that Sarah's uncle enjoys herself in the park.	5.43654727935791	Ann reports that Sarah's uncle enjoys himself in the park.	5.581547260284424	incorrect
+Ann reports that the male president who likes Ann trusts herself.	7.45729923248291	Ann reports that the male president who likes Ann trusts himself.	7.3435797691345215	correct
+Bill reports that the female doctor who likes Bill trusts himself.	7.058724403381348	Bill reports that the female doctor who likes Bill trusts herself.	7.1165690422058105	incorrect
+Peter feels that Oliver's sister enjoys himself in the park.	5.804224491119385	Peter feels that Oliver's sister enjoys herself in the park.	5.525611877441406	correct
+Maria feels that Anna's husband enjoys herself in the park.	5.1780219078063965	Maria feels that Anna's husband enjoys himself in the park.	5.3483195304870605	incorrect
+Maria feels that the brother who likes Maria enjoys herself in the park.	6.116236209869385	Maria feels that the brother who likes Maria enjoys himself in the park.	6.176243782043457	incorrect
+Peter feels that the lady who likes Peter enjoys himself in the park.	5.727070331573486	Peter feels that the lady who likes Peter enjoys herself in the park.	5.66654634475708	correct
+Oliver explains that Martin's wife introduces himself to others.	5.483138561248779	Oliver explains that Martin's wife introduces herself to others.	5.338705539703369	correct
+The female professor explains that Jane's son introduces herself to others.	5.852036952972412	The female professor explains that Jane's son introduces himself to others.	5.828194618225098	correct
+The female professor explains that the king who visits the female professor supports herself.	7.355097770690918	The female professor explains that the king who visits the female professor supports himself.	7.352016925811768	correct
+Oliver explains that the female player who visits Oliver supports himself.	7.184494495391846	Oliver explains that the female player who visits Oliver supports herself.	7.34058952331543	incorrect
+The man hears that Thomas's daughter hides himself from the enemy.	5.9906816482543945	The man hears that Thomas's daughter hides herself from the enemy.	5.893809795379639	correct
+Catherine hears that Maria's father hides herself from the enemy.	5.75912618637085	Catherine hears that Maria's father hides himself from the enemy.	5.8783769607543945	incorrect
+Catherine hears that the boy who invites Catherine introduces herself to others.	6.533395767211914	Catherine hears that the boy who invites Catherine introduces himself to others.	6.41033411026001	correct
+The man hears that the woman who invites the man introduces himself to others.	5.374526023864746	The man hears that the woman who invites the man introduces herself to others.	5.307240962982178	correct
+Oliver understands that Tim's mother hits himself.	6.4591264724731445	Oliver understands that Tim's mother hits herself.	6.422860622406006	correct
+The mother understands that Maria's father hits herself.	6.677011489868164	The mother understands that Maria's father hits himself.	6.782087802886963	incorrect
+The mother understands that the brother who hits the mother supports herself.	6.576013088226318	The mother understands that the brother who hits the mother supports himself.	6.671494960784912	incorrect
+Oliver understands that the female player who hits Oliver supports himself.	7.174387454986572	Oliver understands that the female player who hits Oliver supports herself.	7.282797813415527	incorrect
+Peter writes that Martin's mother protects himself.	6.200767993927002	Peter writes that Martin's mother protects herself.	6.08651876449585	correct
+Ruth writes that Helen's father protects herself.	6.486156463623047	Ruth writes that Helen's father protects himself.	6.451095104217529	correct
+Ruth writes that the man who joins Ruth saves herself.	6.603635787963867	Ruth writes that the man who joins Ruth saves himself.	6.407063007354736	correct
+Peter writes that the female doctor who joins Peter saves himself.	6.8429412841796875	Peter writes that the female doctor who joins Peter saves herself.	6.969178676605225	incorrect
+The male doctor reports that Harry's wife defends himself.	6.1702494621276855	The male doctor reports that Harry's wife defends herself.	6.307875156402588	incorrect
+The mother reports that Victoria's husband defends herself.	7.19027042388916	The mother reports that Victoria's husband defends himself.	7.101951599121094	correct
+The mother reports that the boy who follows the mother supports herself.	6.4481329917907715	The mother reports that the boy who follows the mother supports himself.	6.383824348449707	correct
+Joe shows that Alexander's mother asks himself a question.	5.193857192993164	Joe shows that Alexander's mother asks herself a question.	5.3137969970703125	incorrect
+The mother shows that Sarah's husband asks herself a question.	5.96687126159668	The mother shows that Sarah's husband asks himself a question.	6.073946952819824	incorrect
+Joe shows that the mother who asks Joe introduces himself to others.	6.2746758460998535	Joe shows that the mother who asks Joe introduces herself to others.	6.318088531494141	incorrect
+Charles explains that Ryan's daughter watches himself in the video.	5.1908488273620605	Charles explains that Ryan's daughter watches herself in the video.	4.881567478179932	correct
+Elizabeth explains that Catherine's son watches herself in the video.	5.299370765686035	Elizabeth explains that Catherine's son watches himself in the video.	5.416844367980957	incorrect
+Elizabeth explains that the boy who watches Elizabeth supports herself.	6.2165961265563965	Elizabeth explains that the boy who watches Elizabeth supports himself.	6.31637716293335	incorrect
+Charles explains that the wife who watches Charles supports himself.	6.486876964569092	Charles explains that the wife who watches Charles supports herself.	6.29699182510376	correct
+The male player explains that Oliver's sister teaches himself.	7.048810005187988	The male player explains that Oliver's sister teaches herself.	6.981936931610107	correct
+The princess explains that Elizabeth's son teaches herself.	6.933454990386963	The princess explains that Elizabeth's son teaches himself.	7.030335903167725	incorrect
+The princess explains that the male doctor who teaches the princess protects herself.	6.354691982269287	The princess explains that the male doctor who teaches the princess protects himself.	6.46410608291626	incorrect
+The male player explains that the mother who teaches the male player protects himself.	6.170668601989746	The male player explains that the mother who teaches the male player protects herself.	6.178973197937012	incorrect
+Thomas feels that Harry's wife introduces himself to others.	5.3609619140625	Thomas feels that Harry's wife introduces herself to others.	5.338176727294922	correct
+Mary feels that Ruth's father introduces herself to others.	5.519989967346191	Mary feels that Ruth's father introduces himself to others.	5.573951721191406	incorrect
+Mary feels that the male player who meets Mary protects herself.	7.430448055267334	Mary feels that the male player who meets Mary protects himself.	7.494022846221924	incorrect
+Thomas feels that the wife who meets Thomas protects himself.	6.7571330070495605	Thomas feels that the wife who meets Thomas protects herself.	6.728092670440674	correct
+Steve explains that Tim's wife introduces himself to others.	5.147645473480225	Steve explains that Tim's wife introduces herself to others.	4.965622901916504	correct
+The lady explains that Sarah's brother introduces herself to others.	5.284592628479004	The lady explains that Sarah's brother introduces himself to others.	5.32118034362793	incorrect
+The lady explains that the male doctor who visits the lady attacks herself.	6.2208147048950195	The lady explains that the male doctor who visits the lady attacks himself.	6.274503707885742	incorrect
+Steve explains that the princess who visits Steve attacks himself.	6.894039154052734	Steve explains that the princess who visits Steve attacks herself.	6.9460906982421875	incorrect
+Jeff shows that William's wife saves himself.	6.678839206695557	Jeff shows that William's wife saves herself.	6.60324764251709	correct
+The girl shows that Victoria's husband saves herself.	6.999385833740234	The girl shows that Victoria's husband saves himself.	7.193263530731201	incorrect
+The girl shows that the brother who saves the girl defends herself.	6.113504886627197	The girl shows that the brother who saves the girl defends himself.	6.068272113800049	correct
+Jeff shows that the female player who saves Jeff defends himself.	6.6198835372924805	Jeff shows that the female player who saves Jeff defends herself.	7.074111461639404	incorrect
+Fred knows that Charles's wife defends himself.	5.905117034912109	Fred knows that Charles's wife defends herself.	5.950134754180908	incorrect
+The daughter knows that Ruth's brother defends herself.	6.0139689445495605	The daughter knows that Ruth's brother defends himself.	5.905831336975098	correct
+Fred knows that the daughter who follows Fred respects himself.	7.127091884613037	Fred knows that the daughter who follows Fred respects herself.	7.202172756195068	incorrect
+The male doctor shows that Oliver's daughter hides himself from the enemy.	6.595671653747559	The male doctor shows that Oliver's daughter hides herself from the enemy.	6.454753875732422	correct
+Elizabeth shows that Helen's brother hides herself from the enemy.	5.649560928344727	Elizabeth shows that Helen's brother hides himself from the enemy.	5.53887939453125	correct
+Elizabeth shows that the prince who invites Elizabeth defends herself.	6.519100189208984	Elizabeth shows that the prince who invites Elizabeth defends himself.	6.423951625823975	correct
+The male doctor shows that the lady who invites the male doctor defends himself.	6.183338165283203	The male doctor shows that the lady who invites the male doctor defends herself.	6.214767932891846	incorrect
+The prince explains that William's sister attacks himself.	6.817787170410156	The prince explains that William's sister attacks herself.	6.923203945159912	incorrect
+The lady explains that Ann's father attacks herself.	6.643197536468506	The lady explains that Ann's father attacks himself.	6.6896772384643555	incorrect
+The lady explains that the prince who attacks the lady sees herself appear on screen.	6.71337366104126	The lady explains that the prince who attacks the lady sees himself appear on screen.	6.7249884605407715	incorrect
+The prince explains that the girl who attacks the prince sees himself appear on screen.	6.789436340332031	The prince explains that the girl who attacks the prince sees herself appear on screen.	6.777160167694092	correct
+The brother learns that Larry's wife saves himself.	6.908833026885986	The brother learns that Larry's wife saves herself.	6.883798122406006	correct
+The wife learns that Anna's father saves herself.	6.242048740386963	The wife learns that Anna's father saves himself.	6.4859795570373535	incorrect
+The wife learns that the prince who saves the wife introduces herself to others.	5.495182514190674	The wife learns that the prince who saves the wife introduces himself to others.	5.543531894683838	incorrect
+The brother learns that the wife who saves the brother introduces himself to others.	5.7397332191467285	The brother learns that the wife who saves the brother introduces herself to others.	5.688573360443115	correct
+The brother learns that Dennis's wife protects himself.	7.295958042144775	The brother learns that Dennis's wife protects herself.	7.141364097595215	correct
+The daughter learns that Ruth's father protects herself.	6.0494866371154785	The daughter learns that Ruth's father protects himself.	6.243336200714111	incorrect
+The daughter learns that the king who joins the daughter helps herself.	6.44325065612793	The daughter learns that the king who joins the daughter helps himself.	6.500323295593262	incorrect
+The brother learns that the princess who joins the brother helps himself.	6.822909355163574	The brother learns that the princess who joins the brother helps herself.	6.725597381591797	correct
+Louis sees that Roger's daughter attacks himself.	6.273773670196533	Louis sees that Roger's daughter attacks herself.	6.189674377441406	correct
+The wife sees that Jane's brother attacks herself.	6.098504543304443	The wife sees that Jane's brother attacks himself.	6.186862945556641	incorrect
+Louis sees that the girl who attacks Louis supports himself.	6.815316677093506	Louis sees that the girl who attacks Louis supports herself.	6.5957350730896	correct
+Roger sees that Jeff's daughter teaches himself.	7.263205051422119	Roger sees that Jeff's daughter teaches herself.	7.132849216461182	correct
+Mary sees that Maria's brother teaches herself.	6.540889739990234	Mary sees that Maria's brother teaches himself.	6.7519941329956055	incorrect
+Mary sees that the father who teaches Mary attacks herself.	6.646928310394287	Mary sees that the father who teaches Mary attacks himself.	6.7560930252075195	incorrect
+Roger sees that the female professor who teaches Roger attacks himself.	7.051702499389648	Roger sees that the female professor who teaches Roger attacks herself.	7.125622749328613	incorrect
+Tony learns that Anthony's wife enjoys himself in the park.	5.747018337249756	Tony learns that Anthony's wife enjoys herself in the park.	5.554019451141357	correct
+The woman learns that Anna's uncle enjoys herself in the park.	5.745330810546875	The woman learns that Anna's uncle enjoys himself in the park.	5.9001359939575195	incorrect
+Tony learns that the female player who likes Tony trains himself.	7.185441970825195	Tony learns that the female player who likes Tony trains herself.	7.427925109863281	incorrect
+Fred knows that Steve's daughter supports himself.	6.884936332702637	Fred knows that Steve's daughter supports herself.	6.785137176513672	correct
+Sarah knows that Mary's father supports herself.	6.082293510437012	Sarah knows that Mary's father supports himself.	6.278384685516357	incorrect
+Sarah knows that the boy who helps Sarah talks to herself.	5.971010208129883	Sarah knows that the boy who helps Sarah talks to himself.	6.016104698181152	incorrect
+Fred knows that the female president who helps Fred talks to himself.	6.242179870605469	Fred knows that the female president who helps Fred talks to herself.	6.462571144104004	incorrect
+Dennis understands that Oliver's sister enjoys himself in the park.	5.790750980377197	Dennis understands that Oliver's sister enjoys herself in the park.	5.616023540496826	correct
+Ruth understands that Ruth's brother enjoys herself in the park.	5.649561882019043	Ruth understands that Ruth's brother enjoys himself in the park.	5.6569671630859375	incorrect
+Ruth understands that the male doctor who likes Ruth trusts herself.	7.135906219482422	Ruth understands that the male doctor who likes Ruth trusts himself.	7.239925384521484	incorrect
+Dennis understands that the princess who likes Dennis trusts himself.	7.4293212890625	Dennis understands that the princess who likes Dennis trusts herself.	7.4090895652771	correct
+The man writes that Bruce's mother beats himself.	6.0421905517578125	The man writes that Bruce's mother beats herself.	6.041563510894775	correct
+The princess writes that Catherine's father beats herself.	6.169569492340088	The princess writes that Catherine's father beats himself.	6.12591028213501	correct
+The princess writes that the male professor who beats the princess asks herself a question.	6.043491840362549	The princess writes that the male professor who beats the princess asks himself a question.	6.111835479736328	incorrect
+The man writes that the wife who beats the man asks himself a question.	4.745591640472412	The man writes that the wife who beats the man asks herself a question.	4.795531272888184	incorrect
+The male player sees that Fred's sister defends himself.	6.411045551300049	The male player sees that Fred's sister defends herself.	6.505948543548584	incorrect
+The daughter sees that Victoria's brother defends herself.	6.033082485198975	The daughter sees that Victoria's brother defends himself.	5.859115123748779	correct
+The daughter sees that the prince who follows the daughter sees herself appear on screen.	6.503594875335693	The daughter sees that the prince who follows the daughter sees himself appear on screen.	6.458024501800537	correct
+Tony says that Jeff's daughter enjoys himself in the park.	5.341457366943359	Tony says that Jeff's daughter enjoys herself in the park.	5.18500280380249	correct
+The mother says that Ruth's husband enjoys herself in the park.	4.923133373260498	The mother says that Ruth's husband enjoys himself in the park.	5.016873359680176	incorrect
+Tony says that the female doctor who likes Tony beats himself.	6.465856075286865	Tony says that the female doctor who likes Tony beats herself.	6.719939231872559	incorrect
+James writes that Louis's daughter defends himself.	6.124478816986084	James writes that Louis's daughter defends herself.	6.219702243804932	incorrect
+The girl writes that Mary's husband defends herself.	5.724880695343018	The girl writes that Mary's husband defends himself.	5.73630952835083	incorrect
+The girl writes that the male president who leads the girl respects herself.	6.442460536956787	The girl writes that the male president who leads the girl respects himself.	6.578243255615234	incorrect
+James writes that the wife who leads James respects himself.	7.0268073081970215	James writes that the wife who leads James respects herself.	7.073441982269287	incorrect
+Anthony reports that Tony's sister trains himself.	6.676585674285889	Anthony reports that Tony's sister trains herself.	6.7883620262146	incorrect
+Mary reports that Ann's father trains herself.	7.397100925445557	Mary reports that Ann's father trains himself.	7.285323143005371	correct
+Mary reports that the male player who trains Mary hides herself from the enemy.	6.9679951667785645	Mary reports that the male player who trains Mary hides himself from the enemy.	7.0434041023254395	incorrect
+Anthony reports that the daughter who trains Anthony hides himself from the enemy.	6.87695837020874	Anthony reports that the daughter who trains Anthony hides herself from the enemy.	6.8003387451171875	correct
+Ryan reports that Nick's sister protects himself.	6.778782367706299	Ryan reports that Nick's sister protects herself.	6.700282096862793	correct
+The female player reports that Catherine's uncle protects herself.	7.812117099761963	The female player reports that Catherine's uncle protects himself.	7.782203674316406	correct
+The female player reports that the father who joins the female player defends herself.	6.593339443206787	The female player reports that the father who joins the female player defends himself.	6.414976119995117	correct
+Ryan reports that the princess who joins Ryan defends himself.	7.429603099822998	Ryan reports that the princess who joins Ryan defends herself.	7.506793022155762	incorrect
+Tony knows that Tim's mother helps himself.	6.249233722686768	Tony knows that Tim's mother helps herself.	6.094753265380859	correct
+Elizabeth knows that Elizabeth's brother helps herself.	5.670096397399902	Elizabeth knows that Elizabeth's brother helps himself.	5.702159881591797	incorrect
+Elizabeth knows that the king who helps Elizabeth talks to herself.	5.947628974914551	Elizabeth knows that the king who helps Elizabeth talks to himself.	5.922718048095703	correct
+Tony knows that the female doctor who helps Tony talks to himself.	6.1819634437561035	Tony knows that the female doctor who helps Tony talks to herself.	6.396135330200195	incorrect
+Joe writes that Harry's mother supports himself.	6.2032012939453125	Joe writes that Harry's mother supports herself.	6.218001842498779	incorrect
+The female president writes that Kelly's husband supports herself.	6.72206449508667	The female president writes that Kelly's husband supports himself.	6.718061923980713	correct
+Joe writes that the female doctor who helps Joe sees himself appear on screen.	6.71189022064209	Joe writes that the female doctor who helps Joe sees herself appear on screen.	6.766519546508789	incorrect
+The man explains that Joe's mother hides himself from the enemy.	5.714250564575195	The man explains that Joe's mother hides herself from the enemy.	5.6240081787109375	correct
+The daughter explains that Sarah's brother hides herself from the enemy.	6.088302135467529	The daughter explains that Sarah's brother hides himself from the enemy.	6.1353912353515625	incorrect
+The man explains that the daughter who invites the man helps himself.	6.163551330566406	The man explains that the daughter who invites the man helps herself.	6.151177883148193	correct
+Bill understands that Fred's daughter beats himself.	6.321239948272705	Bill understands that Fred's daughter beats herself.	6.2730937004089355	correct
+The girl understands that Catherine's uncle beats herself.	6.058654308319092	The girl understands that Catherine's uncle beats himself.	6.130494117736816	incorrect
+The girl understands that the male professor who beats the girl saves herself.	6.332981109619141	The girl understands that the male professor who beats the girl saves himself.	6.562707901000977	incorrect
+Bill understands that the woman who beats Bill saves himself.	6.69379186630249	Bill understands that the woman who beats Bill saves herself.	6.57663106918335	correct
+The man reports that Fred's sister respects himself.	6.404251575469971	The man reports that Fred's sister respects herself.	6.442728519439697	incorrect
+The woman reports that Catherine's father respects herself.	6.502447605133057	The woman reports that Catherine's father respects himself.	6.735545635223389	incorrect
+The woman reports that the prince who finds the woman supports herself.	6.493268013000488	The woman reports that the prince who finds the woman supports himself.	6.612418174743652	incorrect
+The man reports that the princess who finds the man supports himself.	6.507907867431641	The man reports that the princess who finds the man supports herself.	6.527108669281006	incorrect
+Brian believes that Larry's mother defends himself.	5.638572692871094	Brian believes that Larry's mother defends herself.	5.8710198402404785	incorrect
+Victoria believes that Alice's brother defends herself.	5.812680244445801	Victoria believes that Alice's brother defends himself.	5.636086940765381	correct
+Victoria believes that the boy who leads Victoria defends herself.	6.541626930236816	Victoria believes that the boy who leads Victoria defends himself.	6.38181734085083	correct
+Brian believes that the lady who leads Brian defends himself.	6.221900463104248	Brian believes that the lady who leads Brian defends herself.	6.423957824707031	incorrect
+Harry knows that Dennis's wife helps himself.	6.665167331695557	Harry knows that Dennis's wife helps herself.	6.383376121520996	correct
+Maria knows that Alice's uncle helps herself.	6.275580406188965	Maria knows that Alice's uncle helps himself.	6.428656578063965	incorrect
+Maria knows that the boy who calls Maria saves herself.	6.324195384979248	Maria knows that the boy who calls Maria saves himself.	6.482592582702637	incorrect
+Harry knows that the girl who calls Harry saves himself.	6.452664375305176	Harry knows that the girl who calls Harry saves herself.	6.414686679840088	correct
+Peter explains that Alexander's daughter defends himself.	6.173742771148682	Peter explains that Alexander's daughter defends herself.	6.268815517425537	incorrect
+The princess hears that Ruth's brother teaches herself.	6.778201580047607	The princess hears that Ruth's brother teaches himself.	7.086453437805176	incorrect
+The princess hears that the father who teaches the princess asks herself a question.	5.437888145446777	The princess hears that the father who teaches the princess asks himself a question.	5.483035564422607	incorrect
+Tony hears that the lady who teaches Tony asks himself a question.	6.097853660583496	Tony hears that the lady who teaches Tony asks herself a question.	6.237890720367432	incorrect
+Harry reports that Thomas's sister enjoys himself in the park.	5.580422401428223	Harry reports that Thomas's sister enjoys herself in the park.	5.473504543304443	correct
+Catherine reports that Elizabeth's husband enjoys herself in the park.	5.9381303787231445	Catherine reports that Elizabeth's husband enjoys himself in the park.	6.031030178070068	incorrect
+Catherine reports that the male player who likes Catherine supports herself.	7.7523932456970215	Catherine reports that the male player who likes Catherine supports himself.	7.848623275756836	incorrect
+Harry reports that the female professor who likes Harry supports himself.	7.3356032371521	Harry reports that the female professor who likes Harry supports herself.	7.413252830505371	incorrect
+Thomas explains that Jeff's wife enjoys himself in the park.	5.819588661193848	Thomas explains that Jeff's wife enjoys herself in the park.	5.630298614501953	correct
+The woman explains that Catherine's father enjoys herself in the park.	5.435033798217773	The woman explains that Catherine's father enjoys himself in the park.	5.613772392272949	incorrect
+Thomas explains that the princess who likes Thomas watches himself in the video.	6.487147808074951	Thomas explains that the princess who likes Thomas watches herself in the video.	6.37545108795166	correct
+Fred reports that Charlie's wife supports himself.	6.695450305938721	Fred reports that Charlie's wife supports herself.	6.635804653167725	correct
+Maria reports that Anna's brother supports herself.	6.739030838012695	Maria reports that Anna's brother supports himself.	6.88585901260376	incorrect
+Maria reports that the male doctor who supports Maria sees herself appear on screen.	6.838822841644287	Maria reports that the male doctor who supports Maria sees himself appear on screen.	6.987105846405029	incorrect
+Fred reports that the lady who supports Fred sees himself appear on screen.	7.0003862380981445	Fred reports that the lady who supports Fred sees herself appear on screen.	6.979552268981934	correct
+The male professor thinks that Harry's wife trains himself.	7.053296089172363	The male professor thinks that Harry's wife trains herself.	7.0721755027771	incorrect
+The lady thinks that Ruth's brother trains herself.	6.664760112762451	The lady thinks that Ruth's brother trains himself.	6.6150898933410645	correct
+The lady thinks that the prince who trains the lady enjoys herself in the park.	5.428883075714111	The lady thinks that the prince who trains the lady enjoys himself in the park.	5.439019203186035	incorrect
+The male professor thinks that the female player who trains the male professor enjoys himself in the park.	5.949440002441406	The male professor thinks that the female player who trains the male professor enjoys herself in the park.	5.918925762176514	correct
+John reports that Martin's mother saves himself.	6.704372406005859	John reports that Martin's mother saves herself.	6.668581008911133	correct
+Kelly reports that Victoria's brother saves herself.	7.40624475479126	Kelly reports that Victoria's brother saves himself.	7.177330017089844	correct
+Kelly reports that the male player who serves Kelly asks herself a question.	6.857351303100586	Kelly reports that the male player who serves Kelly asks himself a question.	6.743917942047119	correct
+John reports that the female professor who serves John asks himself a question.	6.496316909790039	John reports that the female professor who serves John asks herself a question.	6.596225261688232	incorrect
+John hears that Oliver's daughter respects himself.	6.307531356811523	John hears that Oliver's daughter respects herself.	6.164611339569092	correct
+The woman hears that Elizabeth's uncle respects herself.	6.488101482391357	The woman hears that Elizabeth's uncle respects himself.	6.721560001373291	incorrect
+John hears that the female doctor who understands John enjoys himself in the park.	6.022487163543701	John hears that the female doctor who understands John enjoys herself in the park.	5.8987555503845215	correct
+Ryan says that Tim's sister talks to himself.	5.143982887268066	Ryan says that Tim's sister talks to herself.	5.288282871246338	incorrect
+Alice says that Anna's father talks to herself.	4.697439670562744	Alice says that Anna's father talks to himself.	4.753328323364258	incorrect
+Alice says that the king who believes Alice enjoys herself in the park.	5.5314226150512695	Alice says that the king who believes Alice enjoys himself in the park.	5.610079288482666	incorrect
+Ryan says that the female doctor who believes Ryan enjoys himself in the park.	5.954013347625732	Ryan says that the female doctor who believes Ryan enjoys herself in the park.	5.9753522872924805	incorrect
+Roger hears that James's wife hides himself from the enemy.	6.239414215087891	Roger hears that James's wife hides herself from the enemy.	6.018177509307861	correct
+The girl hears that Mary's uncle hides herself from the enemy.	6.082587242126465	The girl hears that Mary's uncle hides himself from the enemy.	6.30372428894043	incorrect
+The girl hears that the boy who invites the girl teaches herself.	6.239039421081543	The girl hears that the boy who invites the girl teaches himself.	6.346221923828125	incorrect
+Roger hears that the female player who invites Roger teaches himself.	7.460041522979736	Roger hears that the female player who invites Roger teaches herself.	7.503176689147949	incorrect
+The prince knows that Brian's daughter hides himself from the enemy.	5.750536918640137	The prince knows that Brian's daughter hides herself from the enemy.	5.608015060424805	correct
+The lady knows that Ruth's husband hides herself from the enemy.	5.4659881591796875	The lady knows that Ruth's husband hides himself from the enemy.	5.543361186981201	incorrect
+The prince knows that the wife who invites the prince enjoys himself in the park.	5.968751430511475	The prince knows that the wife who invites the prince enjoys herself in the park.	5.925281524658203	correct
+The male player explains that John's sister beats himself.	6.5895843505859375	The male player explains that John's sister beats herself.	6.596667766571045	incorrect
+The lady explains that Maria's husband beats herself.	6.127253532409668	The lady explains that Maria's husband beats himself.	6.2502760887146	incorrect
+The lady explains that the male player who beats the lady watches herself in the video.	5.5892720222473145	The lady explains that the male player who beats the lady watches himself in the video.	5.699151992797852	incorrect
+The male player explains that the female doctor who beats the male player watches himself in the video.	5.4110894203186035	The male player explains that the female doctor who beats the male player watches herself in the video.	5.326026916503906	correct
+James explains that Mike's mother supports himself.	6.589707374572754	James explains that Mike's mother supports herself.	6.340231895446777	correct
+Mary explains that Mary's son supports herself.	6.705101013183594	Mary explains that Mary's son supports himself.	6.7722978591918945	incorrect
+Mary explains that the prince who helps Mary respects herself.	6.9372878074646	Mary explains that the prince who helps Mary respects himself.	6.994755744934082	incorrect
+James explains that the girl who helps James respects himself.	6.572304725646973	James explains that the girl who helps James respects herself.	6.564265251159668	correct
+Thomas thinks that Tony's wife saves himself.	6.16043758392334	Thomas thinks that Tony's wife saves herself.	6.1683855056762695	incorrect
+Alice thinks that Sarah's son saves herself.	5.971108436584473	Alice thinks that Sarah's son saves himself.	6.030231475830078	incorrect
+Alice thinks that the brother who serves Alice helps herself.	6.511511325836182	Alice thinks that the brother who serves Alice helps himself.	6.70662260055542	incorrect
+Thomas thinks that the mother who serves Thomas helps himself.	6.550077438354492	Thomas thinks that the mother who serves Thomas helps herself.	6.47163200378418	correct
+Ben reports that Mike's daughter hits himself.	7.048077583312988	Ben reports that Mike's daughter hits herself.	7.216928482055664	incorrect
+Victoria reports that Elizabeth's son hits herself.	6.67031717300415	Victoria reports that Elizabeth's son hits himself.	6.556225776672363	correct
+Victoria reports that the prince who hits Victoria asks herself a question.	6.576664924621582	Victoria reports that the prince who hits Victoria asks himself a question.	6.531854152679443	correct
+Ben reports that the woman who hits Ben asks himself a question.	5.682581901550293	Ben reports that the woman who hits Ben asks herself a question.	5.981369972229004	incorrect
+The king learns that James's daughter saves himself.	6.798274040222168	The king learns that James's daughter saves herself.	6.839360237121582	incorrect
+Alice learns that Alice's uncle saves herself.	6.69932222366333	Alice learns that Alice's uncle saves himself.	6.807609558105469	incorrect
+The queen learns that the male president who saves the queen enjoys herself in the park.	5.895489692687988	The queen learns that the male president who saves the queen enjoys himself in the park.	5.918599605560303	incorrect
+Roger shows that Louis's wife sees himself appear on screen.	7.1606364250183105	Roger shows that Louis's wife sees herself appear on screen.	6.9496660232543945	correct
+Sarah shows that Anna's uncle sees herself appear on screen.	7.028314113616943	Sarah shows that Anna's uncle sees himself appear on screen.	7.1196088790893555	incorrect
+Sarah shows that the prince who sees Sarah introduces herself to others.	6.392553329467773	Sarah shows that the prince who sees Sarah introduces himself to others.	6.352957248687744	correct
+Roger shows that the wife who sees Roger introduces himself to others.	6.200404167175293	Roger shows that the wife who sees Roger introduces herself to others.	6.192158222198486	correct
+Brian explains that Roger's daughter saves himself.	6.751184940338135	Brian explains that Roger's daughter saves herself.	6.686431884765625	correct
+Maria explains that Elizabeth's father saves herself.	6.295869827270508	Maria explains that Elizabeth's father saves himself.	6.343945026397705	incorrect
+Maria explains that the king who serves Maria asks herself a question.	6.4226861000061035	Maria explains that the king who serves Maria asks himself a question.	6.324275493621826	correct
+Brian explains that the female professor who serves Brian asks himself a question.	6.440659999847412	Brian explains that the female professor who serves Brian asks herself a question.	6.605656147003174	incorrect
+Bill writes that Tim's mother watches himself in the video.	5.594921112060547	Bill writes that Tim's mother watches herself in the video.	5.4537177085876465	correct
+Mary writes that Catherine's uncle watches herself in the video.	5.92624044418335	Mary writes that Catherine's uncle watches himself in the video.	6.070531845092773	incorrect
+Mary writes that the prince who watches Mary introduces herself to others.	6.162630558013916	Mary writes that the prince who watches Mary introduces himself to others.	6.1183977127075195	correct
+Bill writes that the princess who watches Bill introduces himself to others.	6.379225254058838	Bill writes that the princess who watches Bill introduces herself to others.	6.389032363891602	incorrect
+James learns that Harry's daughter tells himself the truth.	5.258904933929443	James learns that Harry's daughter tells herself the truth.	5.3463921546936035	incorrect
+Ann learns that Victoria's husband tells herself the truth.	5.811110973358154	Ann learns that Victoria's husband tells himself the truth.	5.763244152069092	correct
+Ann learns that the king who tells Ann the news defends herself.	6.454018592834473	Ann learns that the king who tells Ann the news defends himself.	6.1467485427856445	correct
+James learns that the girl who tells James the news defends himself.	5.811587810516357	James learns that the girl who tells James the news defends herself.	5.883679389953613	incorrect
+Ben knows that Alexander's daughter watches himself in the video.	5.742132663726807	Ben knows that Alexander's daughter watches herself in the video.	5.474814414978027	correct
+Ruth knows that Catherine's brother watches herself in the video.	5.645467281341553	Ruth knows that Catherine's brother watches himself in the video.	5.820090293884277	incorrect
+Ruth knows that the male president who watches Ruth saves herself.	7.25014591217041	Ruth knows that the male president who watches Ruth saves himself.	7.352059841156006	incorrect
+Ben knows that the daughter who watches Ben saves himself.	6.418651103973389	Ben knows that the daughter who watches Ben saves herself.	6.674576759338379	incorrect
+The man knows that Dennis's mother tells himself the truth.	5.397745609283447	The man knows that Dennis's mother tells herself the truth.	5.430263519287109	incorrect
+Kelly knows that Ruth's son tells herself the truth.	5.556758880615234	Kelly knows that Ruth's son tells himself the truth.	5.46755838394165	correct
+Kelly knows that the brother who tells Kelly the news watches herself in the video.	5.97978401184082	Kelly knows that the brother who tells Kelly the news watches himself in the video.	5.898143768310547	correct
+The man knows that the girl who tells the man the news watches himself in the video.	4.7912468910217285	The man knows that the girl who tells the man the news watches herself in the video.	4.681569576263428	correct
+Jeff understands that Nick's wife trains himself.	6.893019676208496	Jeff understands that Nick's wife trains herself.	6.771129608154297	correct
+The girl understands that Anna's son trains herself.	6.286855220794678	The girl understands that Anna's son trains himself.	6.39751672744751	incorrect
+The girl understands that the male president who trains the girl defends herself.	6.2345781326293945	The girl understands that the male president who trains the girl defends himself.	6.146515846252441	correct
+Jeff understands that the lady who trains Jeff defends himself.	6.70873498916626	Jeff understands that the lady who trains Jeff defends herself.	6.941516876220703	incorrect
+Lawrence thinks that Alexander's wife supports himself.	7.022526741027832	Lawrence thinks that Alexander's wife supports herself.	6.8180413246154785	correct
+Alice thinks that Ruth's father supports herself.	5.800385475158691	Alice thinks that Ruth's father supports himself.	6.055055618286133	incorrect
+Alice thinks that the father who supports Alice helps herself.	5.930545330047607	Alice thinks that the father who supports Alice helps himself.	6.204661846160889	incorrect
+Lawrence thinks that the female president who supports Lawrence helps himself.	6.928658962249756	Lawrence thinks that the female president who supports Lawrence helps herself.	6.953580856323242	incorrect
+The father understands that Anthony's mother watches himself in the video.	5.861719131469727	The father understands that Anthony's mother watches herself in the video.	5.570838928222656	correct
+Mary understands that Mary's brother watches herself in the video.	5.872161865234375	Mary understands that Mary's brother watches himself in the video.	6.063779354095459	incorrect
+Mary understands that the boy who watches Jane introduces herself to others.	6.266872406005859	Mary understands that the boy who watches Jane introduces himself to others.	6.15505838394165	correct
+The father understands that the lady who watches the father introduces himself to others.	5.308844089508057	The father understands that the lady who watches the father introduces herself to others.	5.307092666625977	correct
+Martin learns that Martin's sister talks to himself.	5.131799221038818	Martin learns that Martin's sister talks to herself.	5.283309459686279	incorrect
+The female player learns that Victoria's son talks to herself.	6.483265399932861	The female player learns that Victoria's son talks to himself.	6.277881622314453	correct
+The female player learns that the prince who believes the female player defends herself.	6.466550827026367	The female player learns that the prince who believes the female player defends himself.	6.317826747894287	correct
+Martin learns that the princess who believes Martin defends himself.	6.394924163818359	Martin learns that the princess who believes Martin defends herself.	6.515987396240234	incorrect
+James explains that Martin's sister talks to himself.	5.321066856384277	James explains that Martin's sister talks to herself.	5.518662929534912	incorrect
+The lady explains that Elizabeth's son talks to herself.	5.805300235748291	The lady explains that Elizabeth's son talks to himself.	5.665097236633301	correct
+The lady explains that the male doctor who believes the lady introduces herself to others.	5.502132892608643	The lady explains that the male doctor who believes the lady introduces himself to others.	5.548699378967285	incorrect
+James explains that the wife who believes James introduces himself to others.	6.087790012359619	James explains that the wife who believes James introduces herself to others.	6.023020267486572	correct
+Bill thinks that Alexander's wife enjoys himself in the park.	5.295381546020508	Bill thinks that Alexander's wife enjoys herself in the park.	5.079946041107178	correct
+The wife thinks that Alice's brother enjoys herself in the park.	5.4092631340026855	The wife thinks that Alice's brother enjoys himself in the park.	5.521246910095215	incorrect
+The wife thinks that the boy who likes her daughter supports herself.	6.082759857177734	The wife thinks that the boy who likes her daughter supports himself.	6.289340019226074	incorrect
+Bill thinks that the wife who likes Bill supports himself.	7.162823677062988	Bill thinks that the wife who likes Bill supports herself.	7.1578521728515625	correct
+Charlie understands that Martin's mother enjoys himself in the park.	5.42149019241333	Charlie understands that Martin's mother enjoys herself in the park.	5.101418972015381	correct
+Maria understands that Helen's father enjoys herself in the park.	5.253272533416748	Maria understands that Helen's father enjoys himself in the park.	5.374085903167725	incorrect
+Maria understands that the prince who likes Maria trusts herself.	7.14585542678833	Maria understands that the prince who likes Maria trusts himself.	7.144317626953125	correct
+Charlie understands that the lady who likes Charlie trusts himself.	6.473435878753662	Charlie understands that the lady who likes Charlie trusts herself.	6.478194713592529	incorrect
+Tim believes that Oliver's wife watches himself in the video.	5.75784158706665	Tim believes that Oliver's wife watches herself in the video.	5.4683990478515625	correct
+The lady believes that Helen's son watches herself in the video.	5.520137786865234	The lady believes that Helen's son watches himself in the video.	5.6523966789245605	incorrect
+The lady believes that the male president who watches the lady hides herself from the enemy.	6.152872085571289	The lady believes that the male president who watches the lady hides himself from the enemy.	6.210242748260498	incorrect
+Tim believes that the female player who watches Tim hides himself from the enemy.	6.284327983856201	Tim believes that the female player who watches Tim hides herself from the enemy.	6.404948711395264	incorrect
+The boy learns that Ben's wife sees himself appear on screen.	6.359397888183594	The boy learns that Ben's wife sees herself appear on screen.	6.342668533325195	correct
+The female president learns that Kelly's uncle sees herself appear on screen.	7.085952281951904	The female president learns that Kelly's uncle sees himself appear on screen.	7.015817642211914	correct
+The boy learns that the female president who sees the boy tells himself the truth.	5.700098991394043	The boy learns that the female president who sees the boy tells herself the truth.	5.880091667175293	incorrect
+Louis reports that Ryan's sister trusts himself.	6.2876410484313965	Louis reports that Ryan's sister trusts herself.	6.302578926086426	incorrect
+The female player reports that Kelly's uncle trusts herself.	7.763806343078613	The female player reports that Kelly's uncle trusts himself.	7.527527809143066	correct
+The female player reports that the father who trusts the female player asks herself a question.	6.024764537811279	The female player reports that the father who trusts the female player asks himself a question.	5.882234573364258	correct
+Louis reports that the female doctor who trusts Louis asks himself a question.	5.984918117523193	Louis reports that the female doctor who trusts Louis asks herself a question.	6.001071453094482	incorrect
+Bruce thinks that Bill's wife hits himself.	6.259346008300781	Bruce thinks that Bill's wife hits herself.	6.237905979156494	correct
+The female president thinks that Alice's husband hits herself.	6.881848335266113	The female president thinks that Alice's husband hits himself.	6.826219081878662	correct
+The female president thinks that the prince who hits the female president teaches herself.	6.325230121612549	The female president thinks that the prince who hits the female president teaches himself.	6.315473556518555	correct
+Bruce thinks that the female doctor who hits Bruce teaches himself.	7.011165618896484	Bruce thinks that the female doctor who hits Bruce teaches herself.	7.047934055328369	incorrect
+The father reports that William's daughter introduces himself to others.	5.828155517578125	The father reports that William's daughter introduces herself to others.	5.877891540527344	incorrect
+Elizabeth reports that Catherine's husband introduces herself to others.	4.96921968460083	Elizabeth reports that Catherine's husband introduces himself to others.	4.94806432723999	correct
+Elizabeth reports that the male professor who trusts Elizabeth tells herself the truth.	6.270475387573242	Elizabeth reports that the male professor who trusts Elizabeth tells himself the truth.	6.314451217651367	incorrect
+The father reports that the princess who trusts the father tells himself the truth.	6.06532621383667	The father reports that the princess who trusts the father tells herself the truth.	6.010765552520752	correct
+Larry hears that Charles's mother saves himself.	6.603723049163818	Larry hears that Charles's mother saves herself.	6.493316650390625	correct
+Ann hears that Ruth's father saves herself.	6.200760364532471	Ann hears that Ruth's father saves himself.	6.337937355041504	incorrect
+Larry hears that the girl who serves Larry loves himself.	6.688968658447266	Larry hears that the girl who serves Larry loves herself.	6.588621139526367	correct
+The male professor sees that Louis's wife supports himself.	7.4683685302734375	The male professor sees that Louis's wife supports herself.	7.306694030761719	correct
+The female professor sees that Sarah's husband supports herself.	7.088751316070557	The female professor sees that Sarah's husband supports himself.	7.216743469238281	incorrect
+The female professor sees that the male professor who helps the female professor trusts herself.	6.383274555206299	The female professor sees that the male professor who helps the female professor trusts himself.	6.397599697113037	incorrect
+The male professor sees that the female professor who helps the male professor trusts himself.	6.573529243469238	The male professor sees that the female professor who helps the male professor trusts herself.	6.586121082305908	incorrect
+Charles reports that Mike's sister saves himself.	5.778836727142334	Charles reports that Mike's sister saves herself.	5.895544528961182	incorrect
+The female player reports that Sarah's father saves herself.	7.372921943664551	The female player reports that Sarah's father saves himself.	7.2562408447265625	correct
+The female player reports that the male professor who serves the female player talks to herself.	6.282866477966309	The female player reports that the male professor who serves the female player talks to himself.	6.243406295776367	correct
+Charles reports that the princess who serves Charles talks to himself.	6.221958160400391	Charles reports that the princess who serves Charles talks to herself.	6.092200756072998	correct
+William understands that Bill's wife enjoys himself in the park.	5.36209774017334	William understands that Bill's wife enjoys herself in the park.	5.1629533767700195	correct
+Jane understands that Jane's son enjoys herself in the park.	5.401975631713867	Jane understands that Jane's son enjoys himself in the park.	5.399343013763428	correct
+Jane understands that the boy who likes Jane helps herself.	6.615986347198486	Jane understands that the boy who likes Jane helps himself.	6.563724994659424	correct
+William understands that the woman who likes William helps himself.	6.157094955444336	William understands that the woman who likes William helps herself.	5.9843597412109375	correct
+The male professor learns that William's wife loves himself.	7.001105785369873	The male professor learns that William's wife loves herself.	6.999092102050781	correct
+Mary learns that Helen's uncle loves herself.	6.220226287841797	Mary learns that Helen's uncle loves himself.	6.246641159057617	incorrect
+The male professor learns that the wife who loves the male professor supports himself.	7.022800922393799	The male professor learns that the wife who loves the male professor supports herself.	6.89547872543335	correct
+Charles hears that Ryan's daughter talks to himself.	5.030930995941162	Charles hears that Ryan's daughter talks to herself.	5.087518215179443	incorrect
+The princess hears that Ann's son talks to herself.	6.150917053222656	The princess hears that Ann's son talks to himself.	5.983872413635254	correct
+The princess hears that the prince who believes the princess tells herself the truth.	5.343791484832764	The princess hears that the prince who believes the princess tells himself the truth.	5.365767955780029	incorrect
+Charles hears that the mother who believes Charles tells himself the truth.	5.288090705871582	Charles hears that the mother who believes Charles tells herself the truth.	5.237196445465088	correct
+John explains that Oliver's wife enjoys himself in the park.	5.605734348297119	John explains that Oliver's wife enjoys herself in the park.	5.338228702545166	correct
+The princess explains that Maria's uncle enjoys herself in the park.	5.773550987243652	The princess explains that Maria's uncle enjoys himself in the park.	5.91659688949585	incorrect
+The princess explains that the male player who likes the princess loves herself.	6.440637588500977	The princess explains that the male player who likes the princess loves himself.	6.406253337860107	correct
+John explains that the female president who likes John loves himself.	6.61356782913208	John explains that the female president who likes John loves herself.	6.6604228019714355	incorrect
+The male president says that Peter's daughter hides himself from the enemy.	5.607667922973633	The male president says that Peter's daughter hides herself from the enemy.	5.535701274871826	correct
+The female professor says that Anna's husband hides herself from the enemy.	5.909218788146973	The female professor says that Anna's husband hides himself from the enemy.	5.913725852966309	incorrect
+The female professor says that the male player who invites the female professor enjoys herself in the park.	5.697295665740967	The female professor says that the male player who invites the female professor enjoys himself in the park.	5.716114521026611	incorrect
+The male president says that the mother who invites the male president enjoys himself in the park.	5.686896800994873	The male president says that the mother who invites the male president enjoys herself in the park.	5.577366352081299	correct
+Bruce feels that John's mother attacks himself.	6.139991283416748	Bruce feels that John's mother attacks herself.	6.038590908050537	correct
+The daughter feels that Maria's brother attacks herself.	6.826667785644531	The daughter feels that Maria's brother attacks himself.	7.043849945068359	incorrect
+Bruce feels that the female doctor who attacks Bruce introduces himself to others.	5.864322662353516	Bruce feels that the female doctor who attacks Bruce introduces herself to others.	6.071396827697754	incorrect
+Charles thinks that Bill's sister enjoys himself in the park.	4.937173843383789	Charles thinks that Bill's sister enjoys herself in the park.	4.776853561401367	correct
+The woman thinks that Mary's uncle enjoys herself in the park.	5.378152370452881	The woman thinks that Mary's uncle enjoys himself in the park.	5.520562648773193	incorrect
+Ann thinks that the boy who likes her introduces herself to others.	5.268764019012451	Ann thinks that the boy who likes her introduces himself to others.	5.107029438018799	correct
+Larry knows that Ryan's wife saves himself.	6.7872819900512695	Larry knows that Ryan's wife saves herself.	6.7357497215271	correct
+The girl knows that Sarah's brother saves herself.	5.754744529724121	The girl knows that Sarah's brother saves himself.	5.92434549331665	incorrect
+The girl knows that the male player who saves the girl helps herself.	5.780338764190674	The girl knows that the male player who saves the girl helps himself.	6.004329204559326	incorrect
+Larry knows that the female president who saves Larry helps himself.	7.177420139312744	Larry knows that the female president who saves Larry helps herself.	7.2175493240356445	incorrect
+The male president reports that Oliver's mother protects himself.	7.171817779541016	The male president reports that Oliver's mother protects herself.	7.150990962982178	correct
+Elizabeth reports that Mary's son protects herself.	5.696191310882568	Elizabeth reports that Mary's son protects himself.	5.614288806915283	correct
+Elizabeth reports that the male doctor who joins Elizabeth hits herself.	6.897212982177734	Elizabeth reports that the male doctor who joins Elizabeth hits himself.	6.981878757476807	incorrect
+The male president reports that the lady who joins the male president hits himself.	6.790056228637695	The male president reports that the lady who joins the male president hits herself.	6.6880598068237305	correct
+Alice feels that Emma's father respects herself.	5.919110298156738	Alice feels that Emma's father respects himself.	6.362277030944824	incorrect
+Mary feels that Helen's son respects herself.	6.963181495666504	Mary feels that Helen's son respects himself.	7.123571395874023	incorrect
+Mary feels that the man who understands Mary introduces herself to others.	5.700061798095703	Mary feels that the man who understands Mary introduces himself to others.	5.593716144561768	correct
+Dennis feels that the female professor who understands Dennis introduces himself to others.	6.3155646324157715	Dennis feels that the female professor who understands Dennis introduces herself to others.	6.4529194831848145	incorrect
+Ryan knows that Alexander's daughter teaches himself.	6.404938697814941	Ryan knows that Alexander's daughter teaches herself.	6.183252811431885	correct
+Catherine knows that Catherine's son teaches herself.	6.646900653839111	Catherine knows that Catherine's son teaches himself.	6.79311990737915	incorrect
+Catherine knows that the father who teaches Catherine beats herself.	6.468710422515869	Catherine knows that the father who teaches Catherine beats himself.	6.488137722015381	incorrect
+Sarah knows that the man who teaches Sarah beats herself.	6.106835842132568	Sarah knows that the man who teaches Sarah beats himself.	6.029279708862305	correct
+Peter writes that John's wife helps himself.	6.4711527824401855	Peter writes that John's wife helps herself.	6.129457473754883	correct
+Sarah writes that Victoria's husband helps herself.	7.027281284332275	Sarah writes that Victoria's husband helps himself.	7.188351154327393	incorrect
+Sarah writes that the boy who helps Sarah helps herself.	6.6721415519714355	Sarah writes that the boy who helps Sarah helps himself.	6.852921962738037	incorrect
+Peter writes that the woman who helps Peter helps himself.	6.016311168670654	Peter writes that the woman who helps Peter helps herself.	5.969832897186279	correct
+Martin hears that Martin's mother defends himself.	5.4152984619140625	Martin hears that Martin's mother defends herself.	5.441526412963867	incorrect
+Ruth hears that Helen's uncle defends herself.	6.404496192932129	Ruth hears that Helen's uncle defends himself.	6.175119876861572	correct
+Ruth hears that the male president who leads Ruth tells herself the truth.	6.789041519165039	Ruth hears that the male president who leads Ruth tells himself the truth.	6.859949588775635	incorrect
+Martin hears that the female doctor who leads Martin tells himself the truth.	6.122726917266846	Martin hears that the female doctor who leads Martin tells herself the truth.	6.177399635314941	incorrect
+Charlie hears that Jeff's daughter introduces himself to others.	5.588316440582275	Charlie hears that Jeff's daughter introduces herself to others.	5.48770809173584	correct
+Victoria hears that Alice's son introduces herself to others.	5.34744119644165	Victoria hears that Alice's son introduces himself to others.	5.285087585449219	correct
+Victoria hears that the boy who visits Victoria respects herself.	6.8647565841674805	Victoria hears that the boy who visits Victoria respects himself.	6.89511251449585	incorrect
+Charlie hears that the princess who visits Charlie respects himself.	6.988562107086182	Charlie hears that the princess who visits Charlie respects herself.	7.008823394775391	incorrect
+Tim believes that Nick's wife asks himself a question.	5.2267656326293945	Tim believes that Nick's wife asks herself a question.	5.338787078857422	incorrect
+The lady believes that Jane's father asks herself a question.	5.19101095199585	The lady believes that Jane's father asks himself a question.	5.203460216522217	incorrect
+The lady believes that the male professor who asks the lady helps herself.	6.443004131317139	The lady believes that the male professor who asks the lady helps himself.	6.667718887329102	incorrect
+Tim believes that the female professor who asks Tim helps himself.	6.9071364402771	Tim believes that the female professor who asks Tim helps herself.	6.91436243057251	incorrect
+Jeff knows that Brian's daughter attacks himself.	6.345486164093018	Jeff knows that Brian's daughter attacks herself.	6.343852519989014	correct
+Sarah knows that Elizabeth's uncle attacks herself.	6.70462703704834	Sarah knows that Elizabeth's uncle attacks himself.	6.624853610992432	correct
+Sarah knows that the king who attacks Sarah hits herself.	7.791576385498047	Sarah knows that the king who attacks Sarah hits himself.	7.676690101623535	correct
+Jeff knows that the girl who attacks Jeff hits himself.	6.88905668258667	Jeff knows that the girl who attacks Jeff hits herself.	6.887401103973389	correct
+Alexander feels that Mike's mother trusts himself.	6.388691425323486	Alexander feels that Mike's mother trusts herself.	6.275827884674072	correct
+Alice feels that Jane's son trusts herself.	6.82935905456543	Alice feels that Jane's son trusts himself.	6.960122108459473	incorrect
+Alice feels that the male doctor who trusts Alice attacks herself.	7.0030646324157715	Alice feels that the male doctor who trusts Alice attacks himself.	7.191539764404297	incorrect
+Alexander feels that the female player who trusts Alexander attacks himself.	6.870578289031982	Alexander feels that the female player who trusts Alexander attacks herself.	7.053387641906738	incorrect
+Charles says that Ben's mother loves himself.	4.58830451965332	Charles says that Ben's mother loves herself.	4.523121356964111	correct
+Ann says that Alice's father loves herself.	5.454850196838379	Ann says that Alice's father loves himself.	5.688572883605957	incorrect
+Ann says that the male president who loves Ann helps herself.	7.178211688995361	Ann says that the male president who loves Ann helps himself.	7.1578240394592285	correct
+Thomas believes that Dennis's daughter introduces himself to others.	5.338340759277344	Thomas believes that Dennis's daughter introduces herself to others.	5.418369293212891	incorrect
+The female president believes that Elizabeth's father introduces herself to others.	5.283486366271973	The female president believes that Elizabeth's father introduces himself to others.	5.273387432098389	correct
+The female president believes that the male professor who visits the female president supports herself.	6.48836088180542	The female president believes that the male professor who visits the female president supports himself.	6.498753070831299	incorrect
+Thomas believes that the princess who visits Thomas supports himself.	7.487697601318359	Thomas believes that the princess who visits Thomas supports herself.	7.495754241943359	incorrect
+The mother believes that Ann's husband asks herself a question.	5.820616245269775	The mother believes that Ann's husband asks himself a question.	5.8013176918029785	correct
+The mother believes that Ann's husband introduces herself to others.	5.5244855880737305	The mother believes that Ann's husband introduces himself to others.	5.416540145874023	correct

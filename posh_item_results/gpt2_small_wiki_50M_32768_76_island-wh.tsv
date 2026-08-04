@@ -1,0 +1,501 @@
+sentence1	PPL1	Sentence2	PPL2	Correct
+Who did this father learn whether Louis served at the party?	6.610610008239746	Who did this father learn that Louis served at the party?	6.090630531311035	correct
+What did this father learn whether Louis taught?	7.689474582672119	What did this father learn that Louis taught?	6.775023460388184	correct
+What might this father find out who taught?	6.514080047607422	What might this father find out he taught?	6.555893421173096	incorrect
+What might this father find out who drew?	6.775476455688477	What might this father find out he drew?	6.5229291915893555	correct
+Who did this male professor know whether Ryan found?	7.837422847747803	Who did this male professor know that Ryan found?	7.325375080108643	correct
+What did this male professor know whether Ryan shared with others?	7.070320129394531	What did this male professor know that Ryan shared with others?	6.810792446136475	correct
+What won't this male professor know who shared with others?	7.002171993255615	What won't this male professor know he shared with others?	6.893707275390625	correct
+What won't this male professor know who chose?	7.460673809051514	What won't this male professor know he chose?	7.233340740203857	correct
+Who did this woman hear whether Elizabeth defeated?	8.231927871704102	Who did this woman hear that Elizabeth defeated?	7.425144195556641	correct
+What doesn't this woman know who chose?	6.582350730895996	What doesn't this woman know she chose?	6.059410095214844	correct
+What doesn't this woman know who found?	6.805459976196289	What doesn't this woman know she found?	6.440289497375488	correct
+What did the man hear whether Anna remembered?	7.349746227264404	What did the man hear that Anna remembered?	6.425269603729248	correct
+What would the man say who remembered?	6.119559288024902	What would the man say he remembered?	5.606295108795166	correct
+What would the man say who chose?	6.018433094024658	What would the man say he chose?	5.418149948120117	correct
+What did this girl see whether Bill built?	8.047622680664062	What did this girl see that Bill built?	7.273634433746338	correct
+What can't this girl believe who built?	7.0954179763793945	What can't this girl believe she built?	6.704988956451416	correct
+What didn't this male player know who wrote?	6.544675827026367	What didn't this male player know he wrote?	6.485227108001709	correct
+What didn't this male player know who fought for?	6.3296380043029785	What didn't this male player know he fought for?	6.326075077056885	correct
+Who did this woman see whether Maria taught?	7.327602863311768	Who did this woman see that Maria taught?	7.029621601104736	correct
+What don't these women tell us who shared?	7.224606990814209	What don't these women tell us they shared?	6.650199890136719	correct
+Who did this mother learn whether Maria killed?	7.870561599731445	Who did this mother learn that Maria killed?	7.048656940460205	correct
+What didn't this mother realize who served at the party?	6.48904275894165	What didn't this mother realize she served at the party?	6.5923027992248535	incorrect
+Who did the lady remember whether Michael served at the party?	5.890551567077637	Who did the lady remember that Michael served at the party?	5.455379486083984	correct
+What will the lady find out who helped?	5.59895133972168	What will the lady find out she helped?	5.797971725463867	incorrect
+Who did the father learn whether Charles asked?	6.98199462890625	Who did the father learn that Charles asked?	6.1934356689453125	correct
+What did the male doctor hear whether Peter was watching?	6.785617351531982	What did the male doctor hear that Peter was watching?	5.974715709686279	correct
+What did the male doctor hear whether Peter shared?	7.620245933532715	What did the male doctor hear that Peter shared?	6.735221862792969	correct
+What can't the male doctor believe who shared?	7.401161193847656	What can't the male doctor believe he shared?	7.010356426239014	correct
+What can't the male doctor believe who finished?	6.953060626983643	What can't the male doctor believe he finished?	6.453886985778809	correct
+Who did the male president learn whether Steve met?	7.855462074279785	Who did the male president learn that Steve met?	7.264437198638916	correct
+What did the male president learn whether Steve chose?	7.7554473876953125	What did the male president learn that Steve chose?	7.153108596801758	correct
+What shouldn't the male president find out who chose?	5.649356365203857	What shouldn't the male president find out he chose?	5.493393898010254	correct
+What shouldn't the male president find out who described?	5.990872859954834	What shouldn't the male president find out he described?	6.09747838973999	incorrect
+Who did the female professor explain whether Helen trusted?	7.672268390655518	Who did the female professor explain that Helen trusted?	7.356903076171875	correct
+What did the female professor explain whether Helen put on the table?	6.477115631103516	What did the female professor explain that Helen put on the table?	6.156793594360352	correct
+What didn't the female professor realize who put on the table?	6.26179313659668	What didn't the female professor realize she put on the table?	6.051754951477051	correct
+What didn't the female professor realize who found?	7.52858304977417	What didn't the female professor realize she found?	7.253518104553223	correct
+What could this lady believe who wrote?	7.449735641479492	What could this lady believe she wrote?	7.027274131774902	correct
+Who did this daughter know whether Anna saved?	7.56901216506958	Who did this daughter know that Anna saved?	7.119283199310303	correct
+What did this daughter know whether Anna saved?	7.71950101852417	What did this daughter know that Anna saved?	7.267287731170654	correct
+What doesn't this daughter find out who saved?	6.485753536224365	What doesn't this daughter find out she saved?	6.225451469421387	correct
+What doesn't this daughter find out who informed her mother about?	5.775592803955078	What doesn't this daughter find out she informed her mother about?	5.8586554527282715	incorrect
+Who did the princess explain whether Ann saw?	7.676630973815918	Who did the princess explain that Ann saw?	6.682229042053223	correct
+What did the princess explain whether Ann saved?	7.907209396362305	What did the princess explain that Ann saved?	6.937761306762695	correct
+What did the female professor learn whether Louis shared?	7.99312162399292	What did the female professor learn that Louis shared?	7.30301570892334	correct
+What must the female professor decide who shared?	8.107526779174805	What must the female professor decide she shared?	8.153879165649414	incorrect
+What must the female professor decide who taught?	7.000617027282715	What must the female professor decide she taught?	7.428564548492432	incorrect
+Who did this woman decide whether Philip helped?	7.440671443939209	Who did this woman decide that Philip helped?	7.408442497253418	correct
+What did this woman decide whether Philip built?	7.905919075012207	What did this woman decide that Philip built?	7.662425994873047	correct
+What must this woman decide who built?	7.514810085296631	What must this woman decide she built?	7.76135778427124	incorrect
+What must this woman decide who wrote?	6.926664352416992	What must this woman decide she wrote?	6.906602382659912	correct
+Who did this male doctor say whether Gary helped?	7.204774856567383	Who did this male doctor say that Gary helped?	6.486653804779053	correct
+What did this male doctor say whether Gary helped?	7.412530899047852	What did this male doctor say that Gary helped?	6.808653354644775	correct
+What must this male doctor say who helped?	7.5490403175354	What must this male doctor say he helped?	7.298388481140137	correct
+What must this male doctor say who served at the party?	6.39715051651001	What must this male doctor say he served at the party?	6.476778984069824	incorrect
+Who did the female doctor know whether Bill found?	7.06398344039917	Who did the female doctor know that Bill found?	6.25044059753418	correct
+What did the female doctor know whether Bill made?	6.857089996337891	What did the female doctor know that Bill made?	6.2054853439331055	correct
+What didn't the female doctor realize who made?	6.787507057189941	What didn't the female doctor realize she made?	6.6044602394104	correct
+What didn't the female doctor realize who finished?	6.756769180297852	What didn't the female doctor realize she finished?	6.49968957901001	correct
+Who did this father say whether Louis saw?	7.387754917144775	Who did this father say that Louis saw?	6.573712348937988	correct
+What did this father say whether Louis wrote?	7.212916374206543	What did this father say that Louis wrote?	6.499238014221191	correct
+What can this father learn who wrote?	7.145645618438721	What can this father learn he wrote?	6.640868186950684	correct
+What can this father learn who can't control?	6.121678829193115	What can this father learn he can't control?	5.8974809646606445	correct
+Who did this female professor know whether Scott helped?	7.347222328186035	Who did this female professor know that Scott helped?	7.0301923751831055	correct
+What did this female professor know whether Scott taught?	7.399813175201416	What did this female professor know that Scott taught?	6.957117080688477	correct
+What didn't this female professor realize who taught?	7.899098873138428	What didn't this female professor realize she taught?	7.81414794921875	correct
+What didn't this female professor realize who was fighting against?	7.453802108764648	What didn't this female professor realize she was fighting against?	7.206746578216553	correct
+Who did the brother see whether Ryan asked about?	6.9305572509765625	Who did the brother see that Ryan asked about?	6.39552640914917	correct
+Who did this male professor explain whether Joe married?	7.68142032623291	Who did this male professor explain that Joe married?	7.36265230178833	correct
+What did this male professor explain whether Joe finished?	8.423795700073242	What did this male professor explain that Joe finished?	7.871415138244629	correct
+What didn't this male professor realize who finished?	8.403617858886719	What didn't this male professor realize he finished?	8.092836380004883	correct
+What didn't this male professor realize who saved?	8.312606811523438	What didn't this male professor realize he saved?	8.060763359069824	correct
+What did the male professor say whether Helen chose?	7.5465850830078125	What did the male professor say that Helen chose?	7.098949909210205	correct
+What will the male professor remember who chose?	7.52912712097168	What will the male professor remember he chose?	7.34440803527832	correct
+What will the male professor remember who learned?	7.2153425216674805	What will the male professor remember he learned?	7.156132698059082	correct
+Who did the father remember whether Mary led?	6.909635543823242	Who did the father remember that Mary led?	6.279298782348633	correct
+What mustn't the father say who left at home?	4.9491987228393555	What mustn't the father say he left at home?	4.866168022155762	correct
+Who did this lady decide whether Dennis watched?	8.123014450073242	Who did this lady decide that Dennis watched?	7.855275630950928	correct
+What did this lady decide whether Dennis drew?	8.093305587768555	What did this lady decide that Dennis drew?	7.8024420738220215	correct
+What won't this lady believe who drew?	8.174481391906738	What won't this lady believe she drew?	7.680941581726074	correct
+Who did the male player know whether Peter trusted?	6.419106960296631	Who did the male player know that Peter trusted?	6.120118141174316	correct
+What did the male player know whether Peter finished?	6.58574104309082	What did the male player know that Peter finished?	6.089687824249268	correct
+What does the male player need to find who finished?	5.999287128448486	What does the male player need to find he finished?	5.934107303619385	correct
+Who did the man remember whether Carl followed?	6.576660633087158	Who did the man remember that Carl followed?	6.15372371673584	correct
+What did the man remember whether Carl taught?	6.826968193054199	What did the man remember that Carl taught?	6.224521636962891	correct
+What won't the man tell us who taught?	6.212886810302734	What won't the man tell us he taught?	6.174173355102539	correct
+What won't the man tell us who informed about?	6.600879192352295	What won't the man tell us he informed about?	6.641775608062744	incorrect
+Who did the man see whether Louis attacked?	6.491289138793945	Who did the man see that Louis attacked?	6.097648620605469	correct
+Who did the princess hear whether Carl followed?	7.805205821990967	Who did the princess hear that Carl followed?	7.077539920806885	correct
+What did the princess hear whether Carl fought?	8.166868209838867	What did the princess hear that Carl fought?	7.306720733642578	correct
+What didn't the princess decide who won?	5.663949489593506	What didn't the princess decide she won?	5.437643051147461	correct
+Who did the male player explain whether Bruce supported?	7.309840679168701	Who did the male player explain that Bruce supported?	6.859371185302734	correct
+What did the male player explain whether Bruce described?	7.208082675933838	What did the male player explain that Bruce described?	6.785414695739746	correct
+What would the male player find out who described?	6.3138427734375	What would the male player find out he described?	6.502394199371338	incorrect
+Who did this boy hear whether James saw?	8.147302627563477	Who did this boy hear that James saw?	7.051061630249023	correct
+What did this boy hear whether James learned?	8.032085418701172	What did this boy hear that James learned?	7.125502109527588	correct
+What will this boy decide who taught his friend?	6.28750467300415	What will this boy decide he taught his friend?	6.633971214294434	incorrect
+What will this boy decide who served at the party at the table?	5.6399736404418945	What will this boy decide he served at the party at the table?	5.930284023284912	incorrect
+Who did this boy know whether Edward met?	7.260523319244385	Who did this boy know that Edward met?	6.691243648529053	correct
+What did this boy know whether Edward fought for?	7.041018009185791	What did this boy know that Edward fought for?	6.451721668243408	correct
+Who did the princess say whether Louis led?	7.5177202224731445	Who did the princess say that Louis led?	6.574885368347168	correct
+What did the princess say whether Louis got?	7.41032600402832	What did the princess say that Louis got?	6.657018184661865	correct
+What can't the princess tell her who got?	5.926346778869629	What can't the princess tell her she got?	5.500459671020508	correct
+What can't the princess tell her who trusted?	6.300879955291748	What can't the princess tell her she trusted?	5.589350700378418	correct
+Who did this daughter say whether Steve served at the table?	6.746755599975586	Who did this daughter say that Steve served at the table?	6.142057418823242	correct
+What did this female president explain whether Jane understood?	8.308697700500488	What did this female president explain that Jane understood?	7.765988826751709	correct
+What did this female president explain whether Jane played with?	8.243375778198242	What did this female president explain that Jane played with?	7.7156572341918945	correct
+What did this female president decide who played with?	7.21079158782959	What did this female president decide she played with?	7.26092004776001	incorrect
+Who did this female president remember whether Bobby told the secret?	7.380146026611328	Who did this female president remember that Bobby told the secret?	7.067537784576416	correct
+What did this female president remember whether Bobby helped to do?	7.372152328491211	What did this female president remember that Bobby helped to do?	6.862720489501953	correct
+What won't this female president see who helped to finish?	6.542832851409912	What won't this female president see she helped to finish?	6.5789594650268555	incorrect
+What won't this female president see who won at the game?	6.188682556152344	What won't this female president see she won at the game?	6.148824691772461	correct
+What can't this male doctor find out who chose?	6.360986709594727	What can't this male doctor find out he chose?	6.207568645477295	correct
+Who did this female professor know whether Martin served at the party?	6.611924648284912	Who did this female professor know that Martin served at the party?	6.505073070526123	correct
+What did this female professor know whether Martin drew?	8.225808143615723	What did this female professor know that Martin drew?	7.83385705947876	correct
+What won't this female professor realize who drew?	8.525252342224121	What won't this female professor realize she drew?	8.258134841918945	correct
+What won't this female professor realize who told her student about?	7.293712139129639	What won't this female professor realize she told her student about?	7.072818279266357	correct
+What did the wife know whether Walter wrote?	6.509889125823975	What did the wife know that Walter wrote?	5.886688232421875	correct
+What could the wife learn who wrote?	6.882591724395752	What could the wife learn she wrote?	6.307816982269287	correct
+What could the wife learn who taught?	6.841116905212402	What could the wife learn she taught?	6.380101203918457	correct
+Who did the mother write whether Jason trained?	7.407641410827637	Who did the mother write that Jason trained?	6.784269332885742	correct
+What did the mother write whether Jason found?	7.648067474365234	What did the mother write that Jason found?	6.6606011390686035	correct
+Who did the female president learn whether Catherine defeated?	7.6291632652282715	Who did the female president learn that Catherine defeated?	7.016397953033447	correct
+What did the female president learn whether Catherine chose?	7.63836669921875	What did the female president learn that Catherine chose?	6.953823089599609	correct
+What doesn't the female president say who chose?	6.712784290313721	What doesn't the female president say she chose?	6.205099582672119	correct
+What doesn't the female president say who raised?	6.974087715148926	What doesn't the female president say she raised?	6.597068786621094	correct
+Who did the women know whether Sarah joined?	6.135954856872559	Who did the women know that Sarah joined?	5.444989204406738	correct
+What may the women say who drew?	6.816969871520996	What may the women say she drew?	6.546618938446045	correct
+Who did this daughter explain whether Jane watched?	7.624653339385986	Who did this daughter explain that Jane watched?	6.979236602783203	correct
+What did this daughter explain whether Jane learned?	7.586757183074951	What did this daughter explain that Jane learned?	6.9123454093933105	correct
+What didn't the mother say who talked to the student about?	5.373908996582031	What didn't the mother say she talked to the student about?	5.361454963684082	correct
+Who did the girl decide whether Jane told her about?	5.487232208251953	Who did the girl decide that Jane told her about?	5.239495754241943	correct
+What did the girl decide whether Jane played with?	6.5974249839782715	What did the girl decide that Jane played with?	6.1707611083984375	correct
+What can't the girl know who played with?	5.4382781982421875	What can't the girl know she played with?	5.2511162757873535	correct
+What can't the girl know who described?	6.290746212005615	What can't the girl know she described?	5.877741813659668	correct
+Who did the mother remember whether Richard led?	7.354947566986084	Who did the mother remember that Richard led?	6.463955879211426	correct
+What did the mother remember whether Richard learned?	7.130271911621094	What did the mother remember that Richard learned?	6.294098377227783	correct
+What can the mother find out who learned?	5.565249919891357	What can the mother find out she learned?	5.547664165496826	correct
+Who did this lady know whether Gary taught?	7.6921210289001465	Who did this lady know that Gary taught?	7.0686845779418945	correct
+What did this lady know whether Gary drew?	7.976522445678711	What did this lady know that Gary drew?	7.3378095626831055	correct
+What will this lady know who drew?	7.273248195648193	What will this lady know she drew?	7.119750022888184	correct
+What will this lady know who described?	7.572906970977783	What will this lady know she described?	7.315289497375488	correct
+Who did the wife write whether Alice met?	6.980766773223877	Who did the wife write that Alice met?	6.208312511444092	correct
+What did the wife write whether Alice moved?	7.021525859832764	What did the wife write that Alice moved?	6.388825416564941	correct
+What may the wife remember who moved?	7.034897804260254	What may the wife remember she moved?	7.138057708740234	incorrect
+Who did the women decide whether Peter trusted?	6.310489177703857	Who did the women decide that Peter trusted?	6.036345958709717	correct
+What do the women need to decide who told them about?	4.505383014678955	What do the women need to decide they told them about?	5.086282253265381	incorrect
+Who did the male president know whether Mary defeated?	6.937934398651123	Who did the male president know that Mary defeated?	6.52700138092041	correct
+What did the male president know whether Mary held?	7.25691556930542	What did the male president know that Mary held?	6.795963287353516	correct
+What didn't the male president remember who held?	7.065167427062988	What didn't the male president remember he held?	7.128416538238525	incorrect
+What didn't the male president remember who described?	7.19851541519165	What didn't the male president remember he described?	7.236158847808838	incorrect
+Who did this female professor know whether Fred found?	8.059304237365723	Who did this female professor know that Fred found?	7.588316440582275	correct
+What did this female professor know whether Fred finished?	8.323391914367676	What did this female professor know that Fred finished?	7.747796058654785	correct
+What may this female professor remember who finished?	8.190713882446289	What may this female professor remember she finished?	7.989017486572266	correct
+Who did this male player know whether Oliver trained?	7.71613073348999	Who did this male player know that Oliver trained?	7.523001194000244	correct
+What did this male player know whether Oliver taught?	7.74724817276001	What did this male player know that Oliver taught?	7.4504876136779785	correct
+What could this male player believe who taught?	7.588291168212891	What could this male player believe he taught?	7.349194526672363	correct
+What could this male player believe who told him about?	6.529463291168213	What could this male player believe he told him about?	6.562081813812256	incorrect
+Who did the wife know whether Oliver taught?	6.986591339111328	Who did the wife know that Oliver taught?	6.422230243682861	correct
+What did the wife know whether Oliver taught?	7.049968719482422	What did the wife know that Oliver taught?	6.486384391784668	correct
+What couldn't the wife see who taught?	6.464163780212402	What couldn't the wife see she taught?	6.466590881347656	incorrect
+Who did the male player remember whether Alice trusted?	6.946830749511719	Who did the male player remember that Alice trusted?	6.65629243850708	correct
+What did the male player remember whether Alice helped?	6.727880477905273	What did the male player remember that Alice helped?	6.432965278625488	correct
+What doesn't the male player remember who helped?	6.275577068328857	What doesn't the male player remember he helped?	6.544963359832764	incorrect
+What doesn't the male player remember who put on the table?	5.361178398132324	What doesn't the male player remember he put on the table?	5.532460689544678	incorrect
+Who did the boy say whether Joe married?	6.449272155761719	Who did the boy say that Joe married?	5.769958972930908	correct
+What did this male player know whether Edward won in the game?	6.086278438568115	What did this male player know that Edward won in the game?	5.783699035644531	correct
+What couldn't this male player realize who won?	6.936676979064941	What couldn't this male player realize he won?	6.791131496429443	correct
+What couldn't this male player realize who informed him about?	6.849691390991211	What couldn't this male player realize he informed him about?	7.0773024559021	incorrect
+Who did the mother explain whether Gary saved?	7.189909934997559	Who did the mother explain that Gary saved?	6.449906826019287	correct
+What did the mother explain whether Gary taught?	7.143693923950195	What did the mother explain that Gary taught?	6.4421586990356445	correct
+What shouldn't the mother find out who taught?	4.7448410987854	What shouldn't the mother find out she taught?	4.898348331451416	incorrect
+What shouldn't the mother find out who built?	4.930187225341797	What shouldn't the mother find out she built?	5.003161907196045	incorrect
+Who did the male president hear whether Scott loved?	7.627004146575928	Who did the male president hear that Scott loved?	6.654116153717041	correct
+What did the male president hear whether Scott taught?	7.784335613250732	What did the male president hear that Scott taught?	7.093843936920166	correct
+What could the male president believe who taught?	7.394066333770752	What could the male president believe he taught?	7.013675689697266	correct
+What could the male president believe who learned?	7.5558366775512695	What could the male president believe he learned?	7.10651969909668	correct
+Who did the female doctor decide whether Scott followed?	6.224156856536865	Who did the female doctor decide that Scott followed?	6.100872993469238	correct
+What did the female doctor decide whether Scott fought for?	6.479045867919922	What did the female doctor decide that Scott fought for?	6.076058864593506	correct
+Who did the female president learn whether Pierre supported?	7.914573669433594	Who did the female president learn that Pierre supported?	7.310520648956299	correct
+What did the female president learn whether Pierre played with?	7.848361492156982	What did the female president learn that Pierre played with?	7.115914344787598	correct
+What mustn't the female president remember who played with?	6.545053005218506	What mustn't the female president remember she played with?	6.468837738037109	correct
+What mustn't the female president remember who told her about?	5.843512535095215	What mustn't the female president remember she told her about?	6.069783687591553	incorrect
+Who did this brother explain whether Mary visited?	8.038595199584961	Who did this brother explain that Mary visited?	7.329450607299805	correct
+What did this brother explain whether Mary learned?	7.786989688873291	What did this brother explain that Mary learned?	7.090205669403076	correct
+What should this brother remember who learned?	7.268627643585205	What should this brother remember he learned?	7.361695766448975	incorrect
+What should this brother remember who helped to do?	6.539633274078369	What should this brother remember he helped to do?	6.492172718048096	correct
+Who did this girl know whether Philip served at the table?	6.469488620758057	Who did this girl know that Philip served at the table?	6.130275726318359	correct
+What did this girl know whether Philip described?	8.087249755859375	What did this girl know that Philip described?	7.325481414794922	correct
+What will this girl believe who described?	7.5747389793396	What will this girl believe she described?	6.988618850708008	correct
+What will this girl believe who told them?	6.037569999694824	What will this girl believe she told them?	5.946127891540527	correct
+Who did this female president write whether Thomas supported?	8.34328556060791	Who did this female president write that Thomas supported?	7.822055339813232	correct
+What did this female president write whether Thomas moved?	8.450831413269043	What did this female president write that Thomas moved?	7.868562698364258	correct
+What does this female president need to tell him who moved?	6.195298671722412	What does this female president need to tell him she moved?	6.2339301109313965	incorrect
+Who did this father know whether Jane supported?	7.205915927886963	Who did this father know that Jane supported?	6.589511871337891	correct
+What did this father know whether Jane learned?	7.362181186676025	What did this father know that Jane learned?	6.634909152984619	correct
+What must this father decide who learned?	7.366297721862793	What must this father decide he learned?	7.5360212326049805	incorrect
+What must this father decide who informed him about?	6.407848834991455	What must this father decide he informed him about?	7.07508659362793	incorrect
+Who did this lady learn whether Alice defeated?	8.229151725769043	Who did this lady learn that Alice defeated?	7.536280632019043	correct
+What did the father know whether Anna remembered?	6.806514739990234	What did the father know that Anna remembered?	6.099924087524414	correct
+What mustn't the father believe who remembered?	6.345621109008789	What mustn't the father believe he remembered?	5.814276218414307	correct
+What mustn't the father believe who won?	5.506669998168945	What mustn't the father believe he won?	5.135837078094482	correct
+Who did the female professor hear whether Martin trusted?	8.786084175109863	Who did the female professor hear that Martin trusted?	8.219999313354492	correct
+What did the female professor hear whether Martin drew?	8.469310760498047	What did the female professor hear that Martin drew?	7.869513511657715	correct
+What did the female professor remember who drew?	6.993398189544678	What did the female professor remember she drew?	7.058408737182617	incorrect
+What did the female professor remember who found?	6.970268249511719	What did the female professor remember she found?	6.845834732055664	correct
+Who did the male president explain whether Scott followed?	7.069692134857178	Who did the male president explain that Scott followed?	6.476264953613281	correct
+What did the male president explain whether Scott drew?	7.8927788734436035	What did the male president explain that Scott drew?	7.268538475036621	correct
+What did the mother decide whether James described?	7.078438758850098	What did the mother decide that James described?	6.613543510437012	correct
+What can't the mother know who described?	6.685978889465332	What can't the mother know she described?	6.341643810272217	correct
+What can't the mother know who moved?	5.936622619628906	What can't the mother know she moved?	5.930601119995117	correct
+Who did the king say whether Bobby attacked?	6.85453462600708	Who did the king say that Bobby attacked?	6.150386810302734	correct
+What did the king say whether Bobby served at the party?	6.121478080749512	What did the king say that Bobby served at the party?	5.788570404052734	correct
+Who did this brother explain whether Bobby supported?	8.46584701538086	Who did this brother explain that Bobby supported?	7.831501483917236	correct
+What did this brother explain whether Bobby remembered?	8.396844863891602	What did this brother explain that Bobby remembered?	7.657143592834473	correct
+What would this brother realize who remembered?	8.15849494934082	What would this brother realize he remembered?	7.821131229400635	correct
+What would this brother realize who taught?	7.879665851593018	What would this brother realize he taught?	7.8928303718566895	incorrect
+Who did this female president learn whether Bruce loved?	8.491543769836426	Who did this female president learn that Bruce loved?	7.695364952087402	correct
+What did this female president learn whether Bruce served at the party?	6.903600215911865	What did this female president learn that Bruce served at the party?	6.582641124725342	correct
+Who did this wife know whether Tim loved?	7.110719203948975	Who did this wife know that Tim loved?	6.375721454620361	correct
+What did this wife know whether Tim built?	7.755513668060303	What did this wife know that Tim built?	7.050503730773926	correct
+What won't this wife know who built?	7.09607458114624	What won't this wife know she built?	7.095971584320068	correct
+What won't this wife know who wrote?	6.707000255584717	What won't this wife know she wrote?	6.501742362976074	correct
+Who did the female player learn whether James supported?	7.464998722076416	Who did the female player learn that James supported?	6.834970474243164	correct
+What did the female player learn whether James found?	7.420413494110107	What did the female player learn that James found?	6.69603967666626	correct
+What may the female player remember who found?	7.314881324768066	What may the female player remember she found?	7.239142417907715	correct
+What may the female player remember who remembered?	7.028939723968506	What may the female player remember she remembered?	6.900797367095947	correct
+Who did the father remember whether Thomas trusted?	7.207111358642578	Who did the father remember that Thomas trusted?	6.448247909545898	correct
+Who did this girl remember whether Walter called?	8.24201774597168	Who did this girl remember that Walter called?	7.396411895751953	correct
+What did this girl remember whether Walter talked to her about?	6.476023197174072	What did this girl remember that Walter talked to her about?	5.867799282073975	correct
+What should this girl say who described?	7.766898155212402	What should this girl say she described?	7.2524871826171875	correct
+Who did this mother know whether Anna told the story?	6.136385917663574	Who did this mother know that Anna told the story?	5.819240093231201	correct
+What did this mother know whether Anna described?	8.186198234558105	What did this mother know that Anna described?	7.511519432067871	correct
+Who did the wife hear whether Ruth watched?	7.216039180755615	Who did the wife hear that Ruth watched?	6.265347003936768	correct
+What did the wife hear whether Ruth moved?	7.054002285003662	What did the wife hear that Ruth moved?	6.185159683227539	correct
+What will the wife remember who moved?	6.58212423324585	What will the wife remember she moved?	6.693477153778076	incorrect
+What will the wife remember who raised?	6.752465724945068	What will the wife remember she raised?	6.4205732345581055	correct
+Who did the man hear whether Bruce visited?	7.159425735473633	Who did the man hear that Bruce visited?	6.247428894042969	correct
+What did the mother learn whether Ted taught?	7.58250617980957	What did the mother learn that Ted taught?	6.698507308959961	correct
+Who did the women say whether Tim trusted?	7.142838954925537	Who did the women say that Tim trusted?	6.279078483581543	correct
+What did the women say whether Tim trusted?	7.235701560974121	What did the women say that Tim trusted?	6.467795372009277	correct
+What will the women find out who talked to her about?	4.514306545257568	What will the women find out she talked to her about?	4.7836174964904785	incorrect
+What will the women find out who wrote?	5.243669509887695	What will the women find out they wrote?	5.419281482696533	incorrect
+Who did this male president learn whether James saved?	8.186883926391602	Who did this male president learn that James saved?	7.433872699737549	correct
+What did this male president learn whether James won?	8.20536994934082	What did this male president learn that James won?	7.37730598449707	correct
+Who did the brother know whether Jason met?	6.72065544128418	Who did the brother know that Jason met?	6.140608787536621	correct
+What did the brother know whether Jason won?	6.5381879806518555	What did the brother know that Jason won?	5.829346656799316	correct
+What couldn't the brother realize who won?	6.584019660949707	What couldn't the brother realize he won?	6.323504447937012	correct
+What couldn't the brother realize who taught?	7.136329650878906	What couldn't the brother realize he taught?	7.178176403045654	incorrect
+Who did this father think whether Kelly met?	7.901106357574463	Who did this father think that Kelly met?	6.82459831237793	correct
+What will this father say who left at home?	5.490086078643799	What will this father say he left at home?	5.383107662200928	correct
+Who did this mother say whether Ryan saw?	7.57603120803833	Who did this mother say that Ryan saw?	6.641745090484619	correct
+What did this mother say whether Ryan described?	8.069543838500977	What did this mother say that Ryan described?	7.19365930557251	correct
+What will this male president remember who saved?	7.521415710449219	What will this male president remember he saved?	7.344491958618164	correct
+What will this male president remember who described?	8.0438232421875	What will this male president remember he described?	7.980085849761963	correct
+What can't this man know who talked to John about?	5.7782440185546875	What can't this man know he talked to John about?	5.727601051330566	correct
+Who did the princess hear whether Alice found?	7.837958812713623	Who did the princess hear that Alice found?	6.814518928527832	correct
+What did the princess hear whether Alice built?	8.154769897460938	What did the princess hear that Alice built?	7.187477111816406	correct
+What won't the princess tell her who built?	6.650301456451416	What won't the princess tell her she built?	6.391777992248535	correct
+What won't the princess tell her who raised?	6.705783367156982	What won't the princess tell her she raised?	6.274807929992676	correct
+Who did this female player think whether Philip asked about?	7.873729228973389	Who did this female player think that Philip asked about?	7.271812438964844	correct
+What did this female player think whether Philip controlled?	8.509947776794434	What did this female player think that Philip controlled?	7.733578205108643	correct
+What can't this female player realize who controlled?	7.369439125061035	What can't this female player realize she controlled?	7.18094539642334	correct
+What can't this female player realize who built?	7.4279303550720215	What can't this female player realize she built?	7.424610614776611	correct
+Who did the wife know whether Steve led?	6.893816947937012	Who did the wife know that Steve led?	6.199982166290283	correct
+What did the wife know whether Steve made?	6.80130672454834	What did the wife know that Steve made?	6.0658979415893555	correct
+What can't the wife see who made?	6.272579193115234	What can't the wife see she made?	6.293569087982178	incorrect
+What can't the wife see who hit?	6.074589729309082	What can't the wife see she hit?	6.086614608764648	incorrect
+Who did this female president think whether Richard defeated?	8.116572380065918	Who did this female president think that Richard defeated?	7.483000755310059	correct
+What did this female president think whether Richard moved?	8.25045108795166	What did this female president think that Richard moved?	7.589186668395996	correct
+Who did the female professor remember whether Alice trusted?	7.520885944366455	Who did the female professor remember that Alice trusted?	7.242969036102295	correct
+What did the female professor remember whether Alice chose?	7.36454439163208	What did the female professor remember that Alice chose?	7.041384696960449	correct
+Who did this female player say whether Catherine trained?	8.350804328918457	Who did this female player say that Catherine trained?	7.8170037269592285	correct
+What did this female player say whether Catherine finished?	7.980449199676514	What did this female player say that Catherine finished?	7.303178787231445	correct
+Who did the mother know whether Maria led?	6.781651973724365	Who did the mother know that Maria led?	6.198447227478027	correct
+What couldn't the mother say who made?	6.228722095489502	What couldn't the mother say she made?	6.124098300933838	correct
+What did this female professor remember whether Alice hit?	8.310669898986816	What did this female professor remember that Alice hit?	7.9675445556640625	correct
+What would this female professor tell who hit?	7.848431587219238	What would this female professor tell she hit?	8.008296012878418	incorrect
+What would this female professor tell who remembered?	7.903256416320801	What would this female professor tell she remembered?	7.863168716430664	correct
+Who did this mother remember whether Ann defeated?	7.873157978057861	Who did this mother remember that Ann defeated?	7.109711170196533	correct
+What will this mother believe who shared with her?	6.112617492675781	What will this mother believe she shared with her?	5.803915500640869	correct
+Who did the father hear whether Bruce served at the party?	5.849925994873047	Who did the father hear that Bruce served at the party?	5.227365970611572	correct
+What did the father hear whether Bruce found?	6.820605754852295	What did the father hear that Bruce found?	5.905757427215576	correct
+What couldn't the father see who found?	6.820645809173584	What couldn't the father see he found?	6.509798049926758	correct
+Who did the brother remember whether Victoria defeated?	7.611128330230713	Who did the brother remember that Victoria defeated?	6.95720911026001	correct
+What did the brother remember whether Victoria remembered?	7.455977439880371	What did the brother remember that Victoria remembered?	6.529456615447998	correct
+Who did this brother learn whether Victoria visited?	8.571334838867188	Who did this brother learn that Victoria visited?	7.466818332672119	correct
+What didn't this brother know who found?	7.328495025634766	What didn't this brother know he found?	7.0698041915893555	correct
+Who did the wife know whether Ted invited to the party?	5.93438720703125	Who did the wife know that Ted invited to the party?	5.615842342376709	correct
+Who did this male professor hear whether Kevin asked about?	7.945621013641357	Who did this male professor hear that Kevin asked about?	7.447699069976807	correct
+What did this male professor hear whether Kevin helped with?	8.433241844177246	What did this male professor hear that Kevin helped with?	7.948657512664795	correct
+What didn't this male professor see who helped with?	7.833698272705078	What didn't this male professor see he helped with?	7.854133605957031	incorrect
+What did this mother say whether Charles made?	7.631476879119873	What did this mother say that Charles made?	6.875019073486328	correct
+Who did this brother know whether Kevin met?	7.486704349517822	Who did this brother know that Kevin met?	7.014097213745117	correct
+What could this brother remember who taught?	7.524271011352539	What could this brother remember he taught?	7.898404121398926	incorrect
+Who did this female doctor learn whether Charles trusted?	8.079427719116211	Who did this female doctor learn that Charles trusted?	7.381914138793945	correct
+What did this female doctor learn whether Charles served at the party?	6.759505271911621	What did this female doctor learn that Charles served at the party?	6.328195571899414	correct
+What will this female doctor find out who served at the party?	5.472487449645996	What will this female doctor find out she served at the party?	5.816317558288574	incorrect
+What will this female doctor find out who won?	5.711861610412598	What will this female doctor find out she won?	5.598786354064941	correct
+Who did this boy know whether Richard saved?	7.395819664001465	Who did this boy know that Richard saved?	6.8426923751831055	correct
+What did this boy know whether Richard drew?	7.541400909423828	What did this boy know that Richard drew?	6.923063278198242	correct
+What doesn't this boy learn who drew?	8.076644897460938	What doesn't this boy learn he drew?	7.594415664672852	correct
+What doesn't this boy learn who fought for?	7.398306846618652	What doesn't this boy learn he fought for?	6.83644437789917	correct
+Who did the prince hear whether Kelly trusted?	8.226349830627441	Who did the prince hear that Kelly trusted?	7.000258445739746	correct
+What did the prince hear whether Kelly helped with?	7.66199254989624	What did the prince hear that Kelly helped with?	6.610267162322998	correct
+Who did this female doctor know whether Edward defeated?	7.330471515655518	Who did this female doctor know that Edward defeated?	6.858500003814697	correct
+What did this female doctor know whether Edward built?	7.6550445556640625	What did this female doctor know that Edward built?	7.060029029846191	correct
+What may this female doctor learn who built?	8.322790145874023	What may this female doctor learn she built?	7.891329765319824	correct
+Who did the male player explain whether Sarah attacked?	6.97585391998291	Who did the male player explain that Sarah attacked?	6.526762008666992	correct
+What did the male player explain whether Sarah helped with?	7.262465953826904	What did the male player explain that Sarah helped with?	6.821968078613281	correct
+What didn't the male player know who helped with?	6.080470561981201	What didn't the male player know he helped with?	6.015542507171631	correct
+Who did the king say whether Elizabeth invited to the party?	6.269467830657959	Who did the king say that Elizabeth invited to the party?	5.823309421539307	correct
+What did the king say whether Elizabeth served at the party?	6.066840648651123	What did the king say that Elizabeth served at the party?	5.720244884490967	correct
+What would the king know who liked?	6.674529552459717	What would the king know he liked?	5.992345809936523	correct
+What would the king know who saved?	6.464259624481201	What would the king know he saved?	6.256750583648682	correct
+Who did the women learn whether Mary liked?	6.869645118713379	Who did the women learn that Mary liked?	5.94295072555542	correct
+What did the women learn whether Mary shared with her?	6.0935282707214355	What did the women learn that Mary shared with her?	5.407540321350098	correct
+What don't the women know who shared?	6.7876386642456055	What don't the women know she shared?	6.469485282897949	correct
+What don't the women know who raised?	6.169704437255859	What don't the women know she raised?	5.964509963989258	correct
+Who did this lady remember whether Alice trained with?	7.718469619750977	Who did this lady remember that Alice trained with?	7.234007835388184	correct
+What did this lady remember whether Alice controlled?	8.694721221923828	What did this lady remember that Alice controlled?	8.148343086242676	correct
+Who did this female doctor know whether Maria met with?	6.909461498260498	Who did this female doctor know that Maria met with?	6.41000509262085	correct
+What did this female doctor know whether Maria helped with?	7.285139560699463	What did this female doctor know that Maria helped with?	6.889486789703369	correct
+What can't this female doctor find out who helped with?	6.398475646972656	What can't this female doctor find out she helped with?	6.360443115234375	correct
+What can't this female doctor find out who talked to her about?	5.256036281585693	What can't this female doctor find out she talked to her about?	5.391989231109619	incorrect
+Who did this princess remember whether Kelly trained?	9.030582427978516	Who did this princess remember that Kelly trained?	8.071883201599121	correct
+What did this princess remember whether Kelly raised?	9.815857887268066	What did this princess remember that Kelly raised?	8.815778732299805	correct
+Who did the daughter think whether Ryan attacked?	7.353867530822754	Who did the daughter think that Ryan attacked?	6.106314659118652	correct
+What did the daughter think whether Ryan built?	7.420551300048828	What did the daughter think that Ryan built?	6.2123212814331055	correct
+Who did the women hear whether Pierre saw?	7.212852478027344	Who did the women hear that Pierre saw?	6.241418838500977	correct
+What did the women hear whether Pierre informed him about?	6.5727739334106445	What did the women hear that Pierre informed him about?	6.169305324554443	correct
+What will the women remember who informed her about?	5.742343425750732	What will the women remember she informed her about?	6.169882774353027	incorrect
+Who did this female doctor remember whether Helen loved?	7.621108055114746	Who did this female doctor remember that Helen loved?	7.014845848083496	correct
+What did this female doctor remember whether Helen taught?	7.85161018371582	What did this female doctor remember that Helen taught?	7.314648151397705	correct
+What should this female doctor decide who taught?	7.1334028244018555	What should this female doctor decide she taught?	7.465222358703613	incorrect
+What should this female doctor decide who told the man?	6.40084171295166	What should this female doctor decide she told the man?	6.830331325531006	incorrect
+What did this brother say whether Maria moved to her house?	6.116156101226807	What did this brother say that Maria moved to her house?	5.8048200607299805	correct
+Who did the mother hear whether Bruce led?	7.058747291564941	Who did the mother hear that Bruce led?	6.024966239929199	correct
+What did the mother hear whether Bruce made?	7.0604634284973145	What did the mother hear that Bruce made?	6.118602752685547	correct
+Who did the male player hear whether Kelly married?	7.293814659118652	Who did the male player hear that Kelly married?	6.512669086456299	correct
+What did the male player hear whether Kelly taught?	7.6874260902404785	What did the male player hear that Kelly taught?	6.834310531616211	correct
+What might the male player find out who taught?	6.36229133605957	What might the male player find out he taught?	6.595771789550781	incorrect
+What might the male player find out who told us?	5.593116283416748	What might the male player find out he told us?	5.845459938049316	incorrect
+Who did this daughter explain whether Victoria met?	7.578353404998779	Who did this daughter explain that Victoria met?	6.923719882965088	correct
+What did this daughter explain whether Victoria shared?	7.945114612579346	What did this daughter explain that Victoria shared?	7.322543144226074	correct
+What does this daughter know who shared with her mother?	5.719217777252197	What does this daughter know she shared with her mother?	5.439390182495117	correct
+What does this daughter know who built?	6.904045104980469	What does this daughter know she built?	6.711244583129883	correct
+Who did the female president explain whether Philip found?	7.81926155090332	Who did the female president explain that Philip found?	7.164181232452393	correct
+What did the female president explain whether Philip made?	7.665218830108643	What did the female president explain that Philip made?	7.033181190490723	correct
+What will the female president learn who made?	7.685882568359375	What will the female president learn she made?	7.146940231323242	correct
+What will the female president learn who learned?	7.447782516479492	What will the female president learn she learned?	6.8758745193481445	correct
+Who did this female president remember whether Fred joined?	8.273149490356445	Who did this female president remember that Fred joined?	7.629861831665039	correct
+Who did this woman say whether Carl met?	7.543989181518555	Who did this woman say that Carl met?	6.733347415924072	correct
+What did this woman say whether Carl drew?	7.610203266143799	What did this woman say that Carl drew?	6.735719680786133	correct
+What didn't this woman remember who drew?	7.356631755828857	What didn't this woman remember she drew?	7.42861270904541	incorrect
+What didn't this woman remember who chose?	7.216386318206787	What didn't this woman remember she chose?	7.064430236816406	correct
+Who did this daughter remember whether Philip invited?	8.514127731323242	Who did this daughter remember that Philip invited?	7.803103923797607	correct
+What did this daughter remember whether Philip moved to his house?	6.602994441986084	What did this daughter remember that Philip moved to his house?	6.239622592926025	correct
+What will this man say who told the doctor about?	5.428232669830322	What will this man say he told the doctor about?	5.263103485107422	correct
+Who did the female professor learn whether Tim attacked?	7.44787073135376	Who did the female professor learn that Tim attacked?	6.809027194976807	correct
+What did the female professor learn whether Tim saved?	7.833054542541504	What did the female professor learn that Tim saved?	7.204983234405518	correct
+What can the female professor believe who saved?	7.490804672241211	What can the female professor believe she saved?	6.811983108520508	correct
+What can the female professor believe who found?	7.687987327575684	What can the female professor believe she found?	7.101706504821777	correct
+Who did this wife remember whether Catherine trusted?	8.1978759765625	Who did this wife remember that Catherine trusted?	7.58258056640625	correct
+What did this wife remember whether Catherine drew?	8.714590072631836	What did this wife remember that Catherine drew?	7.943003177642822	correct
+What doesn't this wife know who drew?	7.220318794250488	What doesn't this wife know she drew?	7.021730422973633	correct
+Who did the father know whether James visited?	6.495078086853027	Who did the father know that James visited?	5.791876792907715	correct
+What did the father know whether James taught?	6.158310890197754	What did the father know that James taught?	5.479748249053955	correct
+Who did this brother learn whether Mary taught English to?	7.485592842102051	Who did this brother learn that Mary taught English to?	6.836137294769287	correct
+Who did this brother learn whether Mary shared the food with?	7.279087066650391	Who did this brother learn that Mary shared the food with?	6.406156539916992	correct
+Who could this father learn who shared the room with?	6.290816783905029	Who could this father learn he shared the room with?	6.287436485290527	correct
+Who did this male doctor write whether James visited?	7.487608432769775	Who did this male doctor write that James visited?	6.629844665527344	correct
+What did this male doctor write whether James informed him about?	6.865814208984375	What did this male doctor write that James informed him about?	6.310708522796631	correct
+What did this male doctor decide who made up?	6.400951862335205	What did this male doctor decide he made up?	6.5674357414245605	incorrect
+What did the male president think whether Sarah saved?	7.420162677764893	What did the male president think that Sarah saved?	6.560487270355225	correct
+What shouldn't the male president know who saved?	5.906704902648926	What shouldn't the male president know he saved?	5.739392280578613	correct
+What shouldn't the male president know who helped with?	6.08642578125	What shouldn't the male president know he helped with?	5.967906951904297	correct
+Who did this lady say whether Ryan joined?	7.568637847900391	Who did this lady say that Ryan joined?	6.736876487731934	correct
+What did this mother learn whether Fred watched?	8.696249961853027	What did this mother learn that Fred watched?	7.78524923324585	correct
+What did this mother learn whether Fred wrote?	8.243885040283203	What did this mother learn that Fred wrote?	7.357303619384766	correct
+What won't this mother see who wrote?	7.044206619262695	What won't this mother see she wrote?	7.198246002197266	incorrect
+What won't this mother see who raised?	7.42232084274292	What won't this mother see she raised?	7.340202808380127	correct
+Who did the male doctor learn whether Alice supported?	7.126821994781494	Who did the male doctor learn that Alice supported?	6.382595539093018	correct
+What did the male doctor learn whether Alice found?	7.226826190948486	What did the male doctor learn that Alice found?	6.471983909606934	correct
+What couldn't the male doctor learn who found?	7.240810871124268	What couldn't the male doctor learn he found?	6.767201900482178	correct
+What couldn't the male doctor remember who wrote?	6.438800811767578	What couldn't the male doctor remember he wrote?	6.519033908843994	incorrect
+Who did the princess remember whether Elizabeth trained?	7.6384053230285645	Who did the princess remember that Elizabeth trained?	6.898879051208496	correct
+What did the princess write whether Elizabeth drew?	7.9003143310546875	What did the princess write that Elizabeth drew?	6.859964847564697	correct
+What didn't the princess say who drew?	6.550692081451416	What didn't the princess say she drew?	6.134456157684326	correct
+What didn't the princess say who won?	5.580527305603027	What didn't the princess say she won?	5.281123638153076	correct
+Who did this female professor explain whether Elizabeth attacked?	8.063559532165527	Who did this female professor explain that Elizabeth attacked?	7.561737060546875	correct
+What did this female professor explain whether Elizabeth taught?	7.780832767486572	What did this female professor explain that Elizabeth taught?	7.335793495178223	correct
+Who did this female professor hear whether Louis helped?	8.897683143615723	Who did this female professor hear that Louis helped?	8.261367797851562	correct
+What did this female professor hear whether Louis finished?	9.010990142822266	What did this female professor hear that Louis finished?	8.1025972366333	correct
+What couldn't this female professor learn who finished?	8.25551986694336	What couldn't this female professor learn she finished?	7.89020299911499	correct
+Who did the male president know whether Carl understood at the meeting?	6.283545970916748	Who did the male president know that Carl understood at the meeting?	5.859857559204102	correct
+What did the male president know whether Carl shared with him?	6.045011520385742	What did the male president know that Carl shared with him?	5.65015983581543	correct
+What would the male president learn who shared with the man?	6.70175838470459	What would the male president learn he shared with the man?	6.358225345611572	correct
+What would the male president learn who helped with?	7.962643146514893	What would the male president learn he helped with?	7.490538120269775	correct
+Who did the male president hear whether Ryan supported?	8.19287109375	Who did the male president hear that Ryan supported?	7.34094762802124	correct
+What did the male president hear whether Ryan moved?	7.877187252044678	What did the male president hear that Ryan moved?	7.179415225982666	correct
+What can the male president learn who moved?	8.123800277709961	What can the male president learn he moved?	7.936853408813477	correct
+What can the male president learn who made?	8.073469161987305	What can the male president learn he made?	7.409328937530518	correct
+Who did this male player see whether Dennis invited?	7.422757625579834	Who did this male player see that Dennis invited?	7.431929111480713	incorrect
+What did this male player see whether Dennis trusted?	7.957181453704834	What did this male player see that Dennis trusted?	7.847573280334473	correct
+What could this male player decide who trusted?	7.5549516677856445	What could this male player decide he trusted?	7.671260833740234	incorrect
+What did the man remember whether Catherine made?	7.070201873779297	What did the man remember that Catherine made?	6.267047882080078	correct
+What can't the man remember who made?	6.291745662689209	What can't the man remember he made?	6.063259601593018	correct
+What can't the man remember who moved?	6.298023223876953	What can't the man remember he moved?	6.440863609313965	incorrect
+Who did this brother write whether Gary called?	8.567526817321777	Who did this brother write that Gary called?	7.420295715332031	correct
+What will this brother learn who taught?	7.236556053161621	What will this brother learn he taught?	7.023087978363037	correct
+Who did the mother explain whether Kevin led?	7.085719585418701	Who did the mother explain that Kevin led?	6.447843551635742	correct
+What did the mother explain whether Kevin informed her about?	6.360320568084717	What did the mother explain that Kevin informed her about?	5.865752696990967	correct
+What couldn't the mother know who informed her about?	5.621615886688232	What couldn't the mother know she informed her about?	5.9501142501831055	incorrect
+What couldn't the mother know who talked to her about?	5.042068004608154	What couldn't the mother know she talked to her about?	5.126497745513916	incorrect
+Who did this female doctor explain whether Dennis talked to her about?	6.392822265625	Who did this female doctor explain that Dennis talked to her about?	5.886473655700684	correct
+What did this female doctor explain whether Dennis informed her about?	7.147029876708984	What did this female doctor explain that Dennis informed her about?	6.69293737411499	correct
+What can this female doctor say who informed her about?	6.406713962554932	What can this female doctor say she informed her about?	6.196889877319336	correct
+What can this female doctor say who shared with her?	6.086805820465088	What can this female doctor say she shared with her?	5.784855842590332	correct
+Who did the lady remember whether Martin hit?	7.008655071258545	Who did the lady remember that Martin hit?	6.325399398803711	correct
+What did the lady remember whether Martin described?	7.909048557281494	What did the lady remember that Martin described?	6.930856227874756	correct
+What would the lady remember who described?	7.590066432952881	What would the lady remember she described?	7.41944694519043	correct
+Who did this female doctor learn whether Edward supported?	8.186123847961426	Who did this female doctor learn that Edward supported?	7.379261493682861	correct
+What did this female doctor learn whether Edward moved?	8.125113487243652	What did this female doctor learn that Edward moved?	7.421544551849365	correct
+What must this female doctor remember who moved?	7.817138671875	What must this female doctor remember she moved?	7.997493743896484	incorrect
+What must this female doctor remember who found?	7.8685688972473145	What must this female doctor remember she found?	7.852581024169922	correct
+Who did this prince hear whether Anna trusted?	8.496366500854492	Who did this prince hear that Anna trusted?	7.891502380371094	correct
+What did this prince hear whether Anna drew?	8.855365753173828	What did this prince hear that Anna drew?	8.087228775024414	correct
+Who did the prince write whether Gary trained?	8.056296348571777	Who did the prince write that Gary trained?	7.394744873046875	correct
+What did the prince write whether Gary taught?	7.545519828796387	What did the prince write that Gary taught?	6.7973432540893555	correct
+What does the prince say who taught?	6.062139511108398	What does the prince say he taught?	5.533405780792236	correct
+What does the prince say who learned because of him?	5.632948398590088	What does the prince say he learned because of him?	5.259261131286621	correct
+Who did the daughter think whether Fred loved?	7.085603713989258	Who did the daughter think that Fred loved?	5.943150520324707	correct
+Who did the princess learn whether Walter found?	7.799134254455566	Who did the princess learn that Walter found?	6.678387641906738	correct
+What didn't the princess tell her who taught?	6.063833713531494	What didn't the princess tell her she taught?	5.922024250030518	correct
+Who did this wife say whether Charles visited?	7.811493396759033	Who did this wife say that Charles visited?	6.928251266479492	correct
+What did this wife say whether Charles told us?	6.627795696258545	What did this wife say that Charles told us?	5.887567520141602	correct
+Who did this male doctor know whether Kevin invited?	6.960394382476807	Who did this male doctor know that Kevin invited?	6.736506938934326	correct
+What did this male doctor know whether Kevin helped with?	7.193429470062256	What did this male doctor know that Kevin helped with?	6.776426792144775	correct
+What doesn't this male doctor believe who helped with?	7.30867338180542	What doesn't this male doctor believe he helped with?	6.830981731414795	correct
+What doesn't this male doctor believe who taught?	7.015296459197998	What doesn't this male doctor believe he taught?	6.769224643707275	correct
+Who did the prince hear whether Steve found?	8.027359008789062	Who did the prince hear that Steve found?	6.984049320220947	correct
+What did the prince hear whether Steve hit?	7.223119735717773	What did the prince hear that Steve hit?	6.274013042449951	correct
+What might the prince remember who hit?	7.223088264465332	What might the prince remember he hit?	7.250389575958252	incorrect
+What might the prince remember who won?	6.6466593742370605	What might the prince remember he won?	6.465938091278076	correct
+Who did this woman learn whether Ted called?	8.426287651062012	Who did this woman learn that Ted called?	7.293025016784668	correct
+What did this woman learn whether Ted controlled?	8.489421844482422	What did this woman learn that Ted controlled?	7.618820667266846	correct
+What may this woman learn who controlled?	7.8652663230896	What may this woman learn she controlled?	7.020218372344971	correct
+What may this woman learn who fought for?	7.248997688293457	What may this woman learn she fought for?	6.7317047119140625	correct
+Who did the women say whether Kevin served at the party?	5.76777458190918	Who did the women say that Kevin served at the party?	5.171876430511475	correct
+What did the women say whether Kevin won?	6.295675754547119	What did the women say that Kevin won?	5.442075252532959	correct
+What won't the women reveal who won?	5.781378746032715	What won't the women reveal she won?	5.936030387878418	incorrect
+What won't the women reveal who told us?	5.72634220123291	What won't the women reveal she told us?	6.036458492279053	incorrect
+Who did this brother say whether Ryan met with?	7.600653648376465	Who did this brother say that Ryan met with?	6.664873123168945	correct
+Who did the male president explain whether Ruth loved very much?	6.793684005737305	Who did the male president explain that Ruth loved very much?	6.14622163772583	correct
+What did the male president explain whether Ruth held?	7.528739929199219	What did the male president explain that Ruth held?	6.94058084487915	correct
+What mustn't the male president believe who held?	6.77583646774292	What mustn't the male president believe he held?	6.356686592102051	correct
+What mustn't the male president believe who found?	6.871311187744141	What mustn't the male president believe he found?	6.462192535400391	correct
+Who did this female doctor say whether Nick joined?	7.552656650543213	Who did this female doctor say that Nick joined?	6.735435485839844	correct
+What will this female doctor say who wrote about?	6.729550361633301	What will this female doctor say she wrote about?	6.226278781890869	correct
+Who did this male president explain whether Philip helped?	7.873186111450195	Who did this male president explain that Philip helped?	7.4589667320251465	correct
+What did this male president explain whether Philip held?	8.476531982421875	What did this male president explain that Philip held?	7.956419467926025	correct
+What couldn't this male president learn who held?	8.21804141998291	What couldn't this male president learn he held?	7.797956943511963	correct
+What couldn't this male president learn who taught?	7.883183002471924	What couldn't this male president learn he taught?	7.53941535949707	correct
+Who did this boy hear whether Scott trusted?	8.151103973388672	Who did this boy hear that Scott trusted?	7.2182297706604	correct
+What can this male professor remember who remembered?	7.913949012756348	What can this male professor remember he remembered?	7.749955177307129	correct
+What did this male player explain whether Catherine taught?	7.842458248138428	What did this male player explain that Catherine taught?	7.48592472076416	correct
+Who did the girl explain whether Kelly remembered?	7.003012180328369	Who did the girl explain that Kelly remembered?	6.107213020324707	correct
+What did the girl explain whether Kelly wrote?	7.031397819519043	What did the girl explain that Kelly wrote?	6.235486030578613	correct
+Who did this brother hear whether Thomas supported?	8.59416389465332	Who did this brother hear that Thomas supported?	7.684680938720703	correct
+What did this brother hear whether Thomas talked to him about?	6.6707940101623535	What did this brother hear that Thomas talked to him about?	5.826557636260986	correct
+What would this brother know who remembered?	7.631148338317871	What would this brother know he remembered?	7.165524482727051	correct
+What mustn't this wife believe who described?	7.288519859313965	What mustn't this wife believe she described?	6.792720317840576	correct
+Who did the female professor know whether Helen met?	6.997226238250732	Who did the female professor know that Helen met?	6.772394180297852	correct
+What did the female professor know whether Helen played?	7.136688232421875	What did the female professor know that Helen played?	6.844114303588867	correct
+Who did this princess learn whether Mary trusted?	8.713789939880371	Who did this princess learn that Mary trusted?	7.952011585235596	correct
+What would this prince see who fought for?	6.848502159118652	What would this prince see he fought for?	7.18602180480957	incorrect
+What would this prince see who controlled?	7.650218963623047	What would this prince see he controlled?	7.798788547515869	incorrect
+What did this man write whether Walter made?	7.471169471740723	What did this man write that Walter made?	6.9314656257629395	correct
+What couldn't this man find out who made?	6.214550495147705	What couldn't this man find out he made?	6.025241851806641	correct
+What couldn't this man find out who chose?	6.287639617919922	What couldn't this man find out he chose?	5.997714519500732	correct
+What would the brother believe who found?	7.304439544677734	What would the brother believe he found?	6.666268825531006	correct
+What didn't this king tell who helped?	7.627063751220703	What didn't this king tell he helped?	7.8983845710754395	incorrect
+What mustn't the boy say who described?	6.631123065948486	What mustn't the boy say he described?	6.296480655670166	correct
+What mustn't the boy say who talked to him about?	4.923919200897217	What mustn't the boy say he talked to him about?	4.717428207397461	correct
+What did the boy see whether Helen drew on the paper?	6.1288862228393555	What did the boy see that Helen drew on the paper?	5.811360836029053	correct
+What doesn't this male professor know who talked to him about?	6.122088432312012	What doesn't this male professor know he talked to him about?	5.976651668548584	correct
+What doesn't this male professor know who played with?	7.287745952606201	What doesn't this male professor know he played with?	7.006932258605957	correct
+What will the male player say who moved to the park?	5.643546104431152	What will the male player say he moved to the park?	5.721927642822266	incorrect
+What didn't this female president know who saved?	7.324415683746338	What didn't this female president know she saved?	7.126576900482178	correct
+Who did this female doctor hear whether Ted attacked?	8.342196464538574	Who did this female doctor hear that Ted attacked?	7.4934210777282715	correct
+What did this female doctor hear whether Ted talked to her about?	7.143670558929443	What did this female doctor hear that Ted talked to her about?	6.425649166107178	correct
+Who did the mother explain whether Michael invited to the party?	5.824758052825928	Who did the mother explain that Michael invited to the party?	5.536319255828857	correct
+What couldn't the mother remember who taught?	6.6532697677612305	What couldn't the mother remember she taught?	6.929198265075684	incorrect
+What won't this male professor decide who won?	6.682244777679443	What won't this male professor decide he won?	6.706238746643066	incorrect
+What did the brother learn who shared with the man?	5.933622360229492	What did the brother learn he shared with the man?	5.6620025634765625	correct
+What did the brother learn who taught?	6.53084135055542	What did the brother learn he taught?	6.355004787445068	correct
+What can't this lady know who found?	7.239316940307617	What can't this lady know she found?	6.911894798278809	correct
+What can't this lady know who helped with?	7.158026695251465	What can't this lady know she helped with?	6.912230968475342	correct
+What did the female doctor think whether Alice helped with?	6.901297092437744	What did the female doctor think that Alice helped with?	6.247617721557617	correct

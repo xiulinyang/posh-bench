@@ -1,0 +1,501 @@
+sentence1	PPL1	Sentence2	PPL2	Correct
+Who did the customer who talked to love that man?	5.324109077453613	Who did the customer who talked to that man love?	5.317890167236328	correct
+Who did the customer who loved talk to that man?	5.448543071746826	Who did the customer who loved that man talk to?	5.566932678222656	incorrect
+What did this male professor who understood follow the rule?	6.803344249725342	What did this male professor who understood the rule follow?	7.4190216064453125	incorrect
+What did this male professor who protected understand the rule?	7.050332069396973	What did this male professor who protected the rule understand?	7.086766242980957	incorrect
+Who did the writer who trusted call that teacher?	6.673377990722656	Who did the writer who trusted that teacher call?	6.635924816131592	correct
+Who did the writer who called trust that teacher?	6.343336582183838	Who did the writer who called that teacher trust?	6.11220645904541	correct
+Who did this male professor who contacted see this child?	6.7001214027404785	Who did this male professor who contacted this child see?	7.108025550842285	incorrect
+Who did this male professor who saw contact this child?	6.190135955810547	Who did this male professor who saw this child contact?	6.141298294067383	correct
+Who did the visitor who defeated beat Mike?	7.609229564666748	Who did the visitor who defeated Mike beat?	7.404257297515869	correct
+Who did that prince who beat defeat Alice?	6.9503984451293945	Who did that prince who beat Alice defeat?	6.660682678222656	correct
+Who did the student who trusted visit Robert?	7.819063186645508	Who did the student who trusted Robert visit?	7.319397449493408	correct
+Who did this daughter who beat talk to that president?	6.340710163116455	Who did this daughter who beat that president talk to?	6.139169216156006	correct
+Who did this daughter who talked to beat that president?	6.336065292358398	Who did this daughter who talked to that president beat?	6.410381317138672	incorrect
+Who did this male president who believed hide the teacher?	6.627257823944092	Who did this male president who believed the teacher hide?	6.680622100830078	incorrect
+Who did this male president who hid believe the teacher?	6.503123760223389	Who did this male president who hid the teacher believe?	6.422511577606201	correct
+Who did the judge who saw contact this minister?	5.805240631103516	Who did the judge who saw this minister contact?	6.055050849914551	incorrect
+Who did the judge who contacted see this minister?	6.32658576965332	Who did the judge who contacted this minister see?	6.725903034210205	incorrect
+Who did the doctor who talked to beat Alexander?	6.228714466094971	Who did the doctor who talked to Alexander beat?	6.678472995758057	incorrect
+Who did the doctor who beat talk to Alexander?	6.279489517211914	Who did the doctor who beat Alexander talk to?	6.282247066497803	incorrect
+Who did that female president who met support this parent?	6.848968029022217	Who did that female president who met this parent support?	6.434051036834717	correct
+Who did that female president who supported meet this parent?	7.103079319000244	Who did that female president who supported this parent meet?	6.515357971191406	correct
+Who did that daughter who believed call the police?	5.771691799163818	Who did that daughter who believed the police call?	5.78896951675415	incorrect
+Who did that daughter who called believe the police?	5.8314385414123535	Who did that daughter who called the police believe?	5.7186689376831055	correct
+Who did the professor who found talk to this student?	5.855372905731201	Who did the professor who found this student talk to?	5.9422430992126465	incorrect
+Who did the professor who talked to find this student?	5.806612968444824	Who did the professor who talked to this student find?	5.946561813354492	incorrect
+Who did the judge who beat select that teacher?	6.259388446807861	Who did the judge who beat that teacher select?	6.934335708618164	incorrect
+Who did the judge who selected beat that teacher?	6.954611301422119	Who did the judge who selected that teacher beat?	6.80809211730957	correct
+Who did the driver who beat save this doctor?	6.631815433502197	Who did the driver who beat this doctor save?	7.241069316864014	incorrect
+Who did the driver who saved beat this doctor?	6.593227863311768	Who did the driver who saved this doctor beat?	6.605733871459961	incorrect
+Who did his wife who trusted defeat Henry?	7.084084510803223	Who did his wife who trusted Henry defeat?	6.903895378112793	correct
+Who did his wife who defeated trust Henry?	7.404083728790283	Who did his wife who defeated Henry trust?	6.7805280685424805	correct
+Who did the coach who visited talk to this leader?	6.727036952972412	Who did the coach who visited this leader talk to?	6.975561618804932	incorrect
+Who did the coach who talked to visit this leader?	6.5769805908203125	Who did the coach who talked to this leader visit?	6.61743688583374	incorrect
+Who did the girl who visited attack that team?	5.866302967071533	Who did the girl who visited that team attack?	5.976789951324463	incorrect
+Who did the girl who attacked visit that team?	5.6979475021362305	Who did the girl who attacked that team visit?	5.4402756690979	correct
+Who did the driver who saved visit Mary?	7.060226917266846	Who did the driver who saved Mary visit?	6.896493911743164	correct
+Who did the driver who visited save Mary?	6.850840091705322	Who did the driver who visited Mary save?	7.6421098709106445	incorrect
+Who did the professor who met recognize William?	7.435090065002441	Who did the professor who met William recognize?	7.243007659912109	correct
+Who did the professor who recognized meet William?	7.981021881103516	Who did the professor who recognized William meet?	7.198642730712891	correct
+Who did the soldier who contacted defeat that government?	6.618782997131348	Who did the soldier who contacted that government defeat?	6.975207805633545	incorrect
+Who did the soldier who defeated contact that government?	6.638983249664307	Who did the soldier who defeated that government contact?	6.466718673706055	correct
+Who did that male doctor who kicked believe the woman?	6.507302761077881	Who did that male doctor who kicked the woman believe?	6.752257823944092	incorrect
+Who did that male doctor who believed marry the woman?	6.033830642700195	Who did that male doctor who believed the woman marry?	6.099475860595703	incorrect
+Who did the teacher who defeated select that coach?	7.067585468292236	Who did the teacher who defeated that coach select?	7.799025058746338	incorrect
+Who did the teacher who selected defeat that coach?	6.965277194976807	Who did the teacher who selected that coach defeat?	7.166146278381348	incorrect
+Who did the assistant who kicked believe the student?	6.901644229888916	Who did the assistant who kicked the student believe?	6.55599308013916	correct
+Who did the assistant who believed marry the student?	6.652291297912598	Who did the assistant who believed the student marry?	6.189406871795654	correct
+Who did the writer who met trust Victor?	6.53615140914917	Who did the writer who met Victor trust?	6.267266273498535	correct
+Who did the writer who trusted meet Victor?	7.2244672775268555	Who did the writer who trusted Victor meet?	6.974428176879883	correct
+Who did the director who loved support her parent?	6.617414951324463	Who did the director who loved her parent support?	6.401573181152344	correct
+Who did the director who supported love her parent?	6.658292770385742	Who did the director who supported her parent love?	6.379792213439941	correct
+Who did that girl who called defeat Jane?	6.360976696014404	Who did that girl who called Jane defeat?	6.137699127197266	correct
+Who did that girl who defeated call Jane?	7.170483112335205	Who did that girl who defeated Jane call?	6.566664695739746	correct
+Who did the farmer who selected trust that student?	7.36378812789917	Who did the farmer who selected that student trust?	6.8497700691223145	correct
+Who did the farmer who trusted select that student?	7.319793701171875	Who did the farmer who trusted that student select?	7.243185520172119	correct
+Who did the soldier who injured find the police officer?	6.077049255371094	Who did the soldier who injured the police officer find?	5.611315727233887	correct
+Who did the soldier who found injure the police officer?	5.883598327636719	Who did the soldier who found the police officer injure?	5.7278313636779785	correct
+Who did the judge who visited select the teacher?	6.179719924926758	Who did the judge who visited the teacher select?	6.510768413543701	incorrect
+Who did the judge who selected visit the teacher?	6.754814624786377	Who did the judge who selected the teacher visit?	6.251820087432861	correct
+Who did the judge who visited follow the student?	6.712945938110352	Who did the judge who visited the student follow?	6.861673831939697	incorrect
+Who did the judge who protected visit the student?	6.898693561553955	Who did the judge who protected the student visit?	5.943603992462158	correct
+Who did this daughter who called select that friend?	6.69170618057251	Who did this daughter who called that friend select?	7.648518085479736	incorrect
+Who did this daughter who selected call that friend?	7.112360000610352	Who did this daughter who selected that friend call?	6.878489017486572	correct
+Who did the female president who trusted injure the child?	6.613489627838135	Who did the female president who trusted the child injure?	6.474749565124512	correct
+Who did the female president who injured trust the child?	6.519235134124756	Who did the female president who injured the child trust?	6.281018257141113	correct
+What did the president who works for support that government?	5.680432319641113	What did the president who works for that government support?	5.629074573516846	correct
+What did the president who supported work for that government?	5.183683395385742	What did the president who supported that government work for?	5.236352920532227	incorrect
+Who did the manager who invited save this doctor?	6.353898048400879	Who did the manager who invited this doctor save?	6.950046062469482	incorrect
+Who did the manager who saved invite this doctor?	6.634798049926758	Who did the manager who saved this doctor invite?	6.426743030548096	correct
+Who did the soldier who visited hit that man?	6.232679843902588	Who did the soldier who visited that man hit?	6.657173156738281	incorrect
+Who did the soldier who hit visit that man?	6.365210056304932	Who did the soldier who hit that man visit?	6.182733535766602	correct
+Who did that king who visited select this friend?	6.88313627243042	Who did that king who visited this friend select?	7.5092620849609375	incorrect
+Who did the doctor who invited select the teacher?	5.690122604370117	Who did the doctor who invited the teacher select?	5.990809917449951	incorrect
+Who did the doctor who selected invite the teacher?	6.018103122711182	Who did the doctor who selected the teacher invite?	5.34810209274292	correct
+Who did the soldier who visited talk to this team?	6.323836803436279	Who did the soldier who visited this team talk to?	6.150817394256592	correct
+Who did the soldier who talked to visit this team?	6.065410614013672	Who did the soldier who talked to this team visit?	6.0218119621276855	correct
+Who did the manager who contacted visit Mary?	7.188529014587402	Who did the manager who contacted Mary visit?	6.849433898925781	correct
+Who did the manager who visited contact Mary?	7.227618217468262	Who did the manager who visited Mary contact?	6.973870277404785	correct
+Who did the professor who recognized marry this actor?	6.614713668823242	Who did the professor who recognized this actor marry?	6.349106788635254	correct
+Who did the professor who kicked recognize this actor?	6.774698734283447	Who did the professor who kicked this actor recognize?	7.065631866455078	incorrect
+Who did the president who found select this professor?	6.219058990478516	Who did the president who found this professor select?	6.624029636383057	incorrect
+Who did the president who selected find this professor?	6.659574508666992	Who did the president who selected this professor find?	6.257637023925781	correct
+Who did the student who saw support the friend?	6.452378749847412	Who did the student who saw the friend support?	5.887106418609619	correct
+Who did the student who supported see the friend?	6.554322719573975	Who did the student who supported the friend see?	6.760550498962402	incorrect
+Who did the director who talked to recognize Nick?	6.4311957359313965	Who did the director who talked to Nick recognize?	6.559515476226807	incorrect
+Who did the director who recognized talk to Nick?	6.705511569976807	Who did the director who recognized Nick talk to?	6.335411548614502	correct
+Who did the teacher who hit call this student?	6.661959171295166	Who did the teacher who hit this student call?	6.170300006866455	correct
+Who did the teacher who called hit this student?	6.414469242095947	Who did the teacher who called this student hit?	5.748171329498291	correct
+Who did the soldier who saved beat Bobby?	6.714841842651367	Who did the soldier who saved Bobby beat?	7.396233558654785	incorrect
+Who did the soldier who beat save Bobby?	6.8737568855285645	Who did the soldier who beat Bobby save?	7.084807872772217	incorrect
+Who did that mother who watched attack this soldier?	6.678908348083496	Who did that mother who watched this soldier attack?	6.087807655334473	correct
+Who did that mother who attacked watch this soldier?	6.656240463256836	Who did that mother who attacked this soldier watch?	6.503902435302734	correct
+Who did the singer who trusted love his parent?	6.897367000579834	Who did the singer who trusted his parent love?	6.939426898956299	incorrect
+Who did the singer who loved trust his parent?	6.656248569488525	Who did the singer who loved his parent trust?	6.314425468444824	correct
+Who did the manager who defeated beat Carl?	7.2448625564575195	Who did the manager who defeated Carl beat?	7.56026554107666	incorrect
+Who did the manager who beat defeat Carl?	6.977937698364258	Who did the manager who beat Carl defeat?	6.749919891357422	correct
+What did the worker who supported work for the army?	5.09920597076416	What did the worker who supported the army work for?	5.312495708465576	incorrect
+What did the worker who worked for support the army?	5.309406757354736	What did the worker who worked for the army support?	5.091688632965088	correct
+Who did the teacher who talked to trust the player?	5.65645694732666	Who did the teacher who talked to the player trust?	5.712285041809082	incorrect
+Who did the teacher who trusted talk to the player?	6.182033061981201	Who did the teacher who trusted the player talk to?	6.22473669052124	incorrect
+Who did the singer who loved follow this team?	6.2821855545043945	Who did the singer who loved this team follow?	6.655610084533691	incorrect
+Who did the singer who protected love this team?	7.081349849700928	Who did the singer who protected this team love?	6.195181369781494	correct
+Who did that woman who visited call that student?	6.253763198852539	Who did that woman who visited that student call?	6.157905578613281	correct
+Who did that woman who called visit that student?	6.2936601638793945	Who did that woman who called that student visit?	5.65932559967041	correct
+Who did the judge who saved hide the student?	6.893085956573486	Who did the judge who saved the student hide?	6.142190456390381	correct
+Who did the judge who hid save the student?	6.382919788360596	Who did the judge who hid the student save?	6.438561916351318	incorrect
+Who did the female player who selected trust Tom?	7.463831424713135	Who did the female player who selected Tom trust?	7.411229610443115	correct
+Who did the female player who trusted select Tom?	7.904593467712402	Who did the female player who trusted Tom select?	7.919501304626465	incorrect
+Who did that female president who found trust Sarah?	7.21633768081665	Who did that female president who found Sarah trust?	7.028688430786133	correct
+Who did that female president who trusted find Sarah?	7.729872703552246	Who did that female president who trusted Sarah find?	7.744089603424072	incorrect
+Who did the assistant who talked to defeat Adam?	6.212575435638428	Who did the assistant who talked to Adam defeat?	6.33890438079834	incorrect
+Who did the assistant who defeated talk to Adam?	6.910277366638184	Who did the assistant who defeated Adam talk to?	6.680943012237549	correct
+Who did the teacher who selected talk to the student?	5.869561195373535	Who did the teacher who selected the student talk to?	5.620770454406738	correct
+Who did the teacher who talked to select the student?	5.555272102355957	Who did the teacher who talked to the student select?	5.387568473815918	correct
+Who did the farmer who invited support his parent?	6.112030506134033	Who did the farmer who invited his parent support?	6.496581077575684	incorrect
+Who did the farmer who supported invite his parent?	6.814242362976074	Who did the farmer who supported his parent invite?	6.4925432205200195	correct
+Who did the lawyer who kicked hit this man?	6.3031907081604	Who did the lawyer who kicked this man hit?	6.274962425231934	correct
+Who did the lawyer who hit marry this man?	5.911604404449463	Who did the lawyer who hit this man marry?	6.2249932289123535	incorrect
+Who did the visitor who called follow the child?	6.129737854003906	Who did the visitor who called the child follow?	5.902490139007568	correct
+Who did the visitor who protected call the child?	6.543764591217041	Who did the visitor who protected the child call?	5.982143878936768	correct
+Who did the officer who attacked injure the child?	5.810990810394287	Who did the officer who attacked the child injure?	5.846059322357178	incorrect
+Who did the officer who injured attack the child?	6.448538303375244	Who did the officer who injured the child attack?	6.06406831741333	correct
+Who did the customer who kicked select the friend?	6.68794584274292	Who did the customer who kicked the friend select?	6.770089626312256	incorrect
+Who did the customer who selected marry the friend?	6.617624759674072	Who did the customer who selected the friend marry?	6.148880481719971	correct
+Who did the student who hit hide this doctor?	7.1327080726623535	Who did the student who hit this doctor hide?	7.045394420623779	correct
+Who did the student who hid hit this doctor?	7.018573760986328	Who did the student who hid this doctor hit?	6.636829376220703	correct
+Who did the visitor who saved love the man?	6.409659385681152	Who did the visitor who saved the man love?	5.8349456787109375	correct
+Who did the visitor who loved save the man?	6.315742492675781	Who did the visitor who loved the man save?	6.09058141708374	correct
+Who did the lawyer who defeated select that coach?	7.119166851043701	Who did the lawyer who defeated that coach select?	7.804884433746338	incorrect
+Who did the lawyer who selected defeat that coach?	7.183215618133545	Who did the lawyer who selected that coach defeat?	7.49125862121582	incorrect
+Who did these women who found marry the man?	5.38338565826416	Who did these women who found the man marry?	5.265239238739014	correct
+Who did these women who kicked find the man?	5.959875583648682	Who did these women who kicked the man find?	6.177091121673584	incorrect
+Who did the artist who believed visit Michael?	6.884521484375	Who did the artist who believed Michael visit?	6.940690517425537	incorrect
+Who did the artist who visited believe Michael?	7.004281044006348	Who did the artist who visited Michael believe?	6.914287567138672	correct
+Who did the writer who selected call the friend?	6.9263596534729	Who did the writer who selected the friend call?	6.6137919425964355	correct
+Who did the writer who called select the friend?	6.328828811645508	Who did the writer who called the friend select?	6.668345928192139	incorrect
+Who did the president who kicked save the soldier?	6.196935653686523	Who did the president who kicked the soldier save?	6.479589462280273	incorrect
+Who did the president who saved marry the soldier?	6.150941371917725	Who did the president who saved the soldier marry?	5.670786380767822	correct
+Who did the visitor who understood defeat Ruth?	7.098064422607422	Who did the visitor who understood Ruth defeat?	7.1039719581604	incorrect
+Who did the visitor who defeated understand Ruth?	7.750982284545898	Who did the visitor who defeated Ruth understand?	7.198757648468018	correct
+Who did the father who beat believe in that student?	6.258595943450928	Who did the father who beat that student believe in?	6.156492710113525	correct
+Who did the father who believed in beat that student?	6.184687614440918	Who did the father who believed in that student beat?	6.186724662780762	incorrect
+Who did the lawyer who kicked see the student?	6.6051506996154785	Who did the lawyer who kicked the student see?	6.439456462860107	correct
+Who did the lawyer who saw marry the student?	6.290882587432861	Who did the lawyer who saw the student marry?	5.718556880950928	correct
+Who did the lawyer who invited recognize Robert?	7.836636066436768	Who did the lawyer who invited Robert recognize?	7.521214008331299	correct
+Who did the lawyer who recognized invite Robert?	7.606636047363281	Who did the lawyer who recognized Robert invite?	7.664343357086182	incorrect
+Who did the student who recognized select that teacher?	6.734735012054443	Who did the student who recognized that teacher select?	7.28544282913208	incorrect
+Who did the student who selected recognize that teacher?	7.03103494644165	Who did the student who selected that teacher recognize?	6.640694618225098	correct
+Who did the musician who trusted talk to that player?	6.603721618652344	Who did the musician who trusted that player talk to?	6.648386478424072	incorrect
+Who did the musician who talked to trust that player?	6.1208415031433105	Who did the musician who talked to that player trust?	6.323760509490967	incorrect
+Who did the female player who loved see the student?	7.025758266448975	Who did the female player who loved the student see?	6.821238994598389	correct
+Who did the female player who saw love the student?	6.755334377288818	Who did the female player who saw the student love?	6.383782863616943	correct
+Who did this king who called select this parent?	6.862677574157715	Who did this king who called this parent select?	7.228357791900635	incorrect
+Who did this king who selected call this parent?	7.621538162231445	Who did this king who selected this parent call?	6.925493240356445	correct
+Who did that female professor who understood contact that minister?	7.299415588378906	Who did that female professor who understood that minister contact?	7.7630934715271	incorrect
+Who did that female professor who contacted understand that minister?	7.57565450668335	Who did that female professor who contacted that minister understand?	7.507791042327881	correct
+Who did the assistant who invited hide that teacher?	6.758114337921143	Who did the assistant who invited that teacher hide?	6.948722839355469	incorrect
+Who did the assistant who hid invite that teacher?	7.12305212020874	Who did the assistant who hid that teacher invite?	6.334030628204346	correct
+Who did the man who found beat Anna?	5.789267063140869	Who did the man who found Anna beat?	6.252947807312012	incorrect
+Who did the man who beat find Anna?	5.955073833465576	Who did the man who beat Anna find?	6.638049602508545	incorrect
+Who did the professor who found trust this friend?	6.606436729431152	Who did the professor who found this friend trust?	6.21117639541626	correct
+Who did the professor who trusted find this friend?	6.584111213684082	Who did the professor who trusted this friend find?	6.727231502532959	incorrect
+Who did the male doctor who loved trust this student?	6.702078342437744	Who did the male doctor who loved this student trust?	6.3961262702941895	correct
+Who did the male doctor who trusted love this student?	6.8688483238220215	Who did the male doctor who trusted this student love?	6.596102237701416	correct
+Who did the teacher who understood trust Sarah?	6.485986709594727	Who did the teacher who understood Sarah trust?	6.914155960083008	incorrect
+Who did the teacher who trusted understand Sarah?	7.447940349578857	Who did the teacher who trusted Sarah understand?	6.749934196472168	correct
+Who did the musician who killed select this doctor?	6.307342529296875	Who did the musician who killed this doctor select?	6.995617389678955	incorrect
+Who did the musician who selected kill this doctor?	6.981415748596191	Who did the musician who selected this doctor kill?	6.465824604034424	correct
+Who did the manager who recognized talk to this student?	6.678043365478516	Who did the manager who recognized this student talk to?	6.308152198791504	correct
+Who did the manager who talked to recognize this student?	6.259762763977051	Who did the manager who talked to this student recognize?	6.521495342254639	incorrect
+Who did that man who protected marry that woman?	5.760443210601807	Who did that man who protected that woman marry?	5.692436695098877	correct
+Who did that man who kicked follow that woman?	5.8036274909973145	Who did that man who kicked that woman follow?	6.169021129608154	incorrect
+Who did the manager who injured beat Gary?	7.479644775390625	Who did the manager who injured Gary beat?	7.109353065490723	correct
+Who did the manager who beat injure Gary?	6.7684783935546875	Who did the manager who beat Gary injure?	6.396629810333252	correct
+Who did the student who contacted believe this woman?	6.391983985900879	Who did the student who contacted this woman believe?	6.8112311363220215	incorrect
+Who did the student who believed contact this woman?	6.2047529220581055	Who did the student who believed this woman contact?	6.478524208068848	incorrect
+Who did the assistant who selected believe that student?	7.197603225708008	Who did the assistant who selected that student believe?	6.8152546882629395	correct
+Who did the assistant who believed select that student?	7.136793613433838	Who did the assistant who believed that student select?	7.426624774932861	incorrect
+Who did the musician who believed see the woman?	6.102719783782959	Who did the musician who believed the woman see?	6.3370184898376465	incorrect
+Who did the musician who saw believe the woman?	5.971242427825928	Who did the musician who saw the woman believe?	6.0382537841796875	incorrect
+Who did the driver who loved find that man?	6.205516338348389	Who did the driver who loved that man find?	6.4228668212890625	incorrect
+Who did the driver who found love that man?	5.623487949371338	Who did the driver who found that man love?	5.665816307067871	incorrect
+Who did the female professor who recognized select this teacher?	7.055311679840088	Who did the female professor who selected this teacher recognize?	6.9200921058654785	correct
+Who did the female professor who selected recognize this teacher?	7.117773532867432	Who did the female professor who recognized this teacher select?	7.34431791305542	incorrect
+Who did the manager who trusted hide that student?	7.282012939453125	Who did the manager who trusted that student hide?	6.82886266708374	correct
+Who did the manager who hid trust that student?	6.918397903442383	Who did the manager who hid that student trust?	6.398033142089844	correct
+Who did that man who injured talk to the team member?	6.152929306030273	Who did that man who injured the team member talk to?	5.958073139190674	correct
+Who did that man who talked to injure the team member?	5.877245903015137	Who did that man who talked to the team member injure?	6.346724987030029	incorrect
+Who did that man who defeated save the doctor?	5.7245774269104	Who did that man who defeated the doctor save?	6.4965500831604	incorrect
+Who did that man who saved defeat the doctor?	5.890614986419678	Who did that man who saved the doctor defeat?	5.497511863708496	correct
+Who did the player who hid select that friend?	6.525583744049072	Who did the player who hid that friend select?	7.005267143249512	incorrect
+Who did the player who selected hide that friend?	6.803153991699219	Who did the player who selected that friend hide?	6.71355676651001	correct
+Who did the musician who called trust Maria?	7.0488600730896	Who did the musician who called Maria trust?	6.881001949310303	correct
+Who did the musician who trusted call Maria?	7.656820297241211	Who did the musician who trusted Maria call?	7.109066963195801	correct
+Who did the doctor who saved love her parent?	6.490020751953125	Who did the doctor who saved her parent love?	6.229902744293213	correct
+Who did the doctor who loved save her parent?	6.6146931648254395	Who did the doctor who loved her parent save?	6.354763031005859	correct
+Who did this man who protected trust that friend?	6.280483722686768	Who did this man who protected that friend trust?	6.411930561065674	incorrect
+Who did this man who trusted follow that friend?	6.463840961456299	Who did this man who trusted that friend follow?	6.509527206420898	incorrect
+Who did the judge who saved defeat this army?	6.3266167640686035	Who did the judge who saved this army defeat?	6.149801731109619	correct
+Who did the judge who defeated save this army?	6.347466468811035	Who did the judge who defeated this army save?	6.8217620849609375	incorrect
+Who did the officer who hit see that teacher?	6.173941135406494	Who did the officer who hit that teacher see?	6.46522331237793	incorrect
+Who did the officer who saw hit that teacher?	6.110150337219238	Who did the officer who saw that teacher hit?	5.867184638977051	correct
+Who did that father who saw defeat Dan?	6.639578819274902	Who did that father who saw Dan defeat?	6.161006450653076	correct
+Who did that father who defeated see Dan?	7.082559108734131	Who did that father who defeated Dan see?	7.232912063598633	incorrect
+What did the brother who supported attack that army?	6.32077693939209	What did the brother who supported that army attack?	6.099524021148682	correct
+What did the brother who attacked support that army?	6.26436710357666	What did the brother who attacked that army support?	6.168596267700195	correct
+Who did the politician who selected meet this leader?	7.074455261230469	Who did the politician who selected this leader meet?	6.488128185272217	correct
+Who did the politician who met select this leader?	6.482608318328857	Who did the politician who met this leader select?	6.972145080566406	incorrect
+Who did the lawyer who trusted call this student?	7.130167007446289	Who did the lawyer who trusted this student call?	6.397041320800781	correct
+Who did the lawyer who called trust this student?	6.690766334533691	Who did the lawyer who called this student trust?	6.078428268432617	correct
+Who did the soldier who saw talk to the minister?	5.404075622558594	Who did the soldier who saw the minister talk to?	5.221963405609131	correct
+Who did the soldier who talked to see the minister?	5.541755676269531	Who did the soldier who talked to the minister see?	6.003756999969482	incorrect
+Who did the actress who met defeat Sarah?	6.975269317626953	Who did the actress who met Sarah defeat?	6.460960388183594	correct
+Who did the actress who defeated meet Sarah?	7.424269676208496	Who did the actress who defeated Sarah meet?	6.84530782699585	correct
+Who did this female player who supported like this student?	6.9692606925964355	Who did this female player who supported this student like?	7.023002624511719	incorrect
+Who did this female player who liked support this student?	7.176293849945068	Who did this female player who liked this student support?	6.633642673492432	correct
+Who did the player who talked to support his parents?	5.369508266448975	Who did the player who talked to his parents support?	5.810734272003174	incorrect
+Who did the player who supported talk to his parents?	5.658298015594482	Who did the player who supported his parents talk to?	5.807753562927246	incorrect
+Who did the writer who found trust Jane?	6.991825103759766	Who did the writer who found Jane trust?	6.560959815979004	correct
+Who did the writer who trusted find Jane?	7.339949607849121	Who did the writer who trusted Jane find?	7.149431228637695	correct
+Who did this male professor who selected see this child?	7.043471813201904	Who did this male professor who selected this child see?	6.945721626281738	correct
+Who did this male professor who saw select this child?	6.453256130218506	Who did this male professor who saw this child select?	6.826521396636963	incorrect
+Who did the soldier who watched meet this president?	6.766086101531982	Who did the soldier who watched this president meet?	6.400477886199951	correct
+Who did the soldier who met watch this president?	6.396327495574951	Who did the soldier who met this president watch?	6.215992450714111	correct
+Who did the musician who supported recognize Dan?	7.316778182983398	Who did the musician who supported Dan recognize?	7.654918670654297	incorrect
+Who did the musician who recognized support Dan?	7.760861396789551	Who did the musician who recognized Dan support?	7.147087097167969	correct
+Who did the boy who contacted trust this player?	6.735622882843018	Who did the boy who contacted this player trust?	6.861467361450195	incorrect
+Who did the boy who trusted contact this player?	6.908085346221924	Who did the boy who trusted this player contact?	6.535617828369141	correct
+Who did the actress who talked to hit the players?	5.930090427398682	Who did the actress who talked to the players hit?	5.924063682556152	correct
+Who did the actress who hit talk to the players?	5.906543731689453	Who did the actress who hit the players talk to?	6.349526882171631	incorrect
+Who did the manager who saw believe that man?	5.724106788635254	Who did the manager who saw that man believe?	5.88157844543457	incorrect
+Who did the manager who believed see that man?	6.127862930297852	Who did the manager who believed that man see?	6.293050289154053	incorrect
+Who did that princess who supported invite this president?	7.247314453125	Who did that princess who supported this president invite?	6.946196556091309	correct
+Who did that princess who invited support this president?	6.8464555740356445	Who did that princess who invited this president support?	7.033978462219238	incorrect
+What did the player who supported defeat that team?	5.72460412979126	What did the player who supported that team defeat?	5.470321178436279	correct
+What did the player who defeated support that team?	5.648347854614258	What did the player who defeated that team support?	5.5010881423950195	correct
+Who did the writer who defeated select that coach?	6.935946941375732	Who did the writer who defeated that coach select?	7.710989952087402	incorrect
+Who did the writer who selected defeat that coach?	6.868019104003906	Who did the writer who selected that coach defeat?	7.25011682510376	incorrect
+Who did the engineer who liked see this president?	6.599756240844727	Who did the engineer who liked this president see?	6.780454635620117	incorrect
+Who did the engineer who saw like this president?	6.012186527252197	Who did the engineer who saw this president like?	6.0929179191589355	incorrect
+Who did the lawyer who saw call this student?	6.302948951721191	Who did the lawyer who saw this student call?	5.665874481201172	correct
+Who did the lawyer who called see this student?	6.173239231109619	Who did the lawyer who called this student see?	6.2920145988464355	incorrect
+Who did the writer who trusted support the team?	6.235395908355713	Who did the writer who trusted the team support?	6.102702617645264	correct
+Who did the writer who supported trust the team?	6.231722354888916	Who did the writer who supported the team trust?	5.724697589874268	correct
+Who did the male player who hit find the police?	5.9972758293151855	Who did the male player who hit the police find?	6.071702480316162	incorrect
+Who did the male player who found hit the police?	6.022489070892334	Who did the male player who found the police hit?	5.868812084197998	correct
+Who did the director who met hit this boy?	5.946875095367432	Who did the director who met this boy hit?	5.638063907623291	correct
+Who did the director who hit meet this boy?	6.146276950836182	Who did the director who hit this boy meet?	6.426257133483887	incorrect
+Who did the student who hit believe this woman?	6.688643932342529	Who did the student who hit this woman believe?	7.064883708953857	incorrect
+Who did the student who believed hit this woman?	6.633090496063232	Who did the student who believed this woman hit?	6.420661449432373	correct
+Who did the coach who recognized injure this student?	7.347805976867676	Who did the coach who recognized this student injure?	7.1747331619262695	correct
+Who did the coach who injured recognize this student?	7.603147983551025	Who did the coach who injured this student recognize?	7.795754432678223	incorrect
+Who did the wife who liked visit this teacher?	6.607770919799805	Who did the wife who liked this teacher visit?	6.13592004776001	correct
+Who did the wife who visited like this teacher?	6.230259895324707	Who did the wife who visited this teacher like?	6.636260032653809	incorrect
+Who did that professor who understood hit this man?	6.86301851272583	Who did that professor who understood this man hit?	6.788624286651611	correct
+Who did that professor who hit understand this man?	7.030741214752197	Who did that professor who hit this man understand?	6.9489426612854	correct
+Who did the player who visited marry that woman?	6.188159465789795	Who did the player who visited that woman marry?	6.432930946350098	incorrect
+Who did the player who kicked visit that woman?	6.227232933044434	Who did the player who kicked that woman visit?	6.209849834442139	correct
+Who did the doctor who believed contact that worker?	6.351840019226074	Who did the doctor who believed that worker contact?	6.7037353515625	incorrect
+Who did the doctor who contacted believe that worker?	6.465638637542725	Who did the doctor who contacted that worker believe?	6.929040908813477	incorrect
+Who did the lawyer who defeated call the friend?	7.115866661071777	Who did the lawyer who defeated the friend call?	6.972440242767334	correct
+Who did the lawyer who called defeat the friend?	6.479215621948242	Who did the lawyer who called the friend defeat?	6.5274152755737305	incorrect
+Who did the soldier who called like that friend?	5.67095422744751	Who did the soldier who called that friend like?	6.287520408630371	incorrect
+Who did the soldier who liked call that friend?	6.161139488220215	Who did the soldier who liked that friend call?	6.389693260192871	incorrect
+Who did the driver who liked kill the soldier?	6.10116720199585	Who did the driver who liked the soldier kill?	5.930771827697754	correct
+Who did the driver who killed like the soldier?	5.808475494384766	Who did the driver who killed the soldier like?	6.067830562591553	incorrect
+Who did the mother who trusted visit Patrick?	7.468573093414307	Who did the mother who trusted Patrick visit?	7.349980354309082	correct
+Who did the mother who visited trust Patrick?	7.021069049835205	Who did the mother who visited Patrick trust?	7.154557704925537	incorrect
+Who did the manager who beat trust Gary?	7.303923606872559	Who did the manager who beat Gary trust?	6.501421928405762	correct
+Who did the manager who trusted beat Gary?	7.619357109069824	Who did the manager who trusted Gary beat?	7.3886823654174805	correct
+Who did the singer who attacked trust this player?	7.094943523406982	Who did the singer who attacked this player trust?	6.7265706062316895	correct
+Who did the singer who trusted attack this player?	7.719919681549072	Who did the singer who trusted this player attack?	7.151012897491455	correct
+Who did the manager who contacted hide the doctor?	6.142263889312744	Who did the manager who contacted the doctor hide?	6.231869697570801	incorrect
+Who did the manager who hid contact the doctor?	5.7679948806762695	Who did the manager who hid the doctor contact?	5.676712989807129	correct
+Who did the musician who invited select the teacher?	6.277342319488525	Who did the musician who invited the teacher select?	6.496275901794434	incorrect
+Who did the musician who selected invite the teacher?	6.661391735076904	Who did the musician who selected the teacher invite?	6.170952796936035	correct
+Who did the boy who supported believe that teacher?	6.438377380371094	Who did the boy who supported that teacher believe?	6.235300540924072	correct
+Who did the boy who believed support that teacher?	6.3319549560546875	Who did the boy who believed that teacher support?	6.290349960327148	correct
+Who did the worker who beat trust Larry?	7.6384077072143555	Who did the worker who beat Larry trust?	7.273255348205566	correct
+Who did the worker who trusted beat Larry?	7.9878363609313965	Who did the worker who trusted Larry beat?	7.775612831115723	correct
+Who did that lady who called save that soldier?	6.28218412399292	Who did that lady who called that soldier save?	7.1289801597595215	incorrect
+Who did that lady who saved call that soldier?	6.506412982940674	Who did that lady who saved that soldier call?	6.272261142730713	correct
+Who did the artist who trusted invite that teacher?	6.922461986541748	Who did the artist who trusted that teacher invite?	6.446582794189453	correct
+Who did the artist who invited trust that teacher?	6.175306797027588	Who did the artist who invited that teacher trust?	6.746894359588623	incorrect
+Who did that woman who found call that student?	5.933595180511475	Who did that woman who found that student call?	5.705244541168213	correct
+Who did that woman who called find that student?	5.9828667640686035	Who did that woman who called that student find?	6.394796848297119	incorrect
+Who did the writer who called find the woman?	5.580515384674072	Who did the writer who called the woman find?	6.318488121032715	incorrect
+Who did the writer who found call the woman?	5.8638691902160645	Who did the writer who found the woman call?	5.405714511871338	correct
+Who did this king who watched see this child?	6.402116775512695	Who did this king who watched this child see?	6.329294681549072	correct
+Who did this king who saw watch this child?	6.285374641418457	Who did this king who saw this child watch?	6.035030841827393	correct
+Who did this mother who supported injure that student?	6.6157755851745605	Who did this mother who supported that student injure?	6.3946757316589355	correct
+Who did this mother who injured support that student?	7.016633033752441	Who did this mother who injured that student support?	6.549654960632324	correct
+Who did the driver who found trust Alexander?	6.859684467315674	Who did the driver who found Alexander trust?	6.848001956939697	correct
+Who did the driver who trusted find Alexander?	7.422463893890381	Who did the driver who trusted Alexander find?	7.0624918937683105	correct
+Who did that king who found visit Charles?	7.569029331207275	Who did that king who found Charles visit?	7.43610143661499	correct
+Who did that king who visited find Charles?	7.390902519226074	Who did that king who visited Charles find?	7.6342949867248535	incorrect
+Who did the worker who selected hit the player?	6.790196895599365	Who did the worker who selected the player hit?	6.291689395904541	correct
+Who did the worker who hit select the player?	6.353962421417236	Who did the worker who hit the player select?	6.942328453063965	incorrect
+Who did the customer who saved invite this teacher?	6.634795665740967	Who did the customer who saved this teacher invite?	6.2305827140808105	correct
+Who did the customer who invited save this teacher?	6.443939208984375	Who did the customer who invited this teacher save?	6.788813591003418	incorrect
+Who did this mother who understood trust this player?	6.928178787231445	Who did this mother who understood this player trust?	6.73495626449585	correct
+Who did this mother who trusted understand this player?	7.034702777862549	Who did this mother who trusted this player understand?	6.839715957641602	correct
+Who did those women who called hit this boy?	6.014976501464844	Who did those women who called this boy hit?	6.106949806213379	incorrect
+Who did those women who hit call this boy?	6.030733108520508	Who did those women who hit this boy call?	6.2068772315979	incorrect
+Who did the politician who loved contact that minister?	6.697520732879639	Who did the politician who loved that minister contact?	7.14599609375	incorrect
+Who did the politician who contacted love that minister?	6.741640567779541	Who did the politician who contacted that minister love?	6.75205135345459	incorrect
+Who did the mother who saw love this woman?	5.213305950164795	Who did the mother who saw this woman love?	5.400134563446045	incorrect
+Who did the mother who loved see this woman?	5.414900302886963	Who did the mother who loved this woman see?	5.41936731338501	incorrect
+Who did the male president who hit believe this man?	6.134396553039551	Who did the male president who hit this man believe?	6.477695465087891	incorrect
+Who did the male president who believed hit this man?	6.055430889129639	Who did the male president who believed this man hit?	6.35370397567749	incorrect
+Who did this mother who talked to believe this teacher?	6.108481407165527	Who did this mother who talked to this teacher believe?	6.352698802947998	incorrect
+Who did this mother who believed talk to this teacher?	6.1892218589782715	Who did this mother who believed this teacher talk to?	6.188899517059326	correct
+Who did the visitor who attacked beat Ruth?	7.14880895614624	Who did the visitor who attacked Ruth beat?	7.309395790100098	incorrect
+Who did the visitor who beat attack Ruth?	7.359220027923584	Who did the visitor who beat Ruth attack?	7.02943229675293	correct
+Who did that female president who watched like the teacher?	6.262810230255127	Who did that female president who watched the teacher like?	6.366900444030762	incorrect
+Who did that female president who liked watch the teacher?	6.563054084777832	Who did that female president who liked the teacher watch?	6.341124057769775	correct
+Who did the writer who saved call this friend?	6.304502010345459	Who did the writer who saved this friend call?	5.766331672668457	correct
+Who did the writer who called save this friend?	5.921591758728027	Who did the writer who called this friend save?	6.460742473602295	incorrect
+Who did the musician who invited visit Walter?	7.185260772705078	Who did the musician who invited Walter visit?	7.274319648742676	incorrect
+Who did the musician who visited invite Walter?	7.161994934082031	Who did the musician who visited Walter invite?	7.438033580780029	incorrect
+Who did that female professor who kicked trust Phil?	7.88299036026001	Who did that female professor who kicked Phil trust?	7.816526889801025	correct
+Who did that female professor who trusted marry Phil?	8.259456634521484	Who did that female professor who trusted Phil marry?	7.895360469818115	correct
+Who did the women who saw contact the soldier?	4.987355709075928	Who did the women who saw the soldier contact?	5.023379325866699	incorrect
+Who did the women who contacted see the soldier?	5.617963790893555	Who did the women who contacted the soldier see?	6.138529300689697	incorrect
+Who did the officer who supported hit that man?	6.083799839019775	Who did the officer who supported that man hit?	6.134888648986816	incorrect
+Who did the officer who hit support that man?	5.954432010650635	Who did the officer who hit that man support?	5.96116828918457	incorrect
+Who did the manager who understood visit Maria?	7.168575286865234	Who did the manager who understood Maria visit?	7.0173749923706055	correct
+Who did the manager who visited understand Maria?	7.160635948181152	Who did the manager who visited Maria understand?	6.708984375	correct
+Who did that female president who liked marry that man?	6.0860700607299805	Who did that female president who liked that man marry?	6.371624946594238	incorrect
+Who did that female president who kicked like that man?	5.8134989738464355	Who did that female president who kicked that man like?	6.398898124694824	incorrect
+Who did the officer who called visit James?	6.711975574493408	Who did the officer who called James visit?	6.549274444580078	correct
+Who did the officer who visited call James?	6.867401123046875	Who did the officer who visited James call?	6.848476409912109	correct
+Who did the artist who talked to believe this teacher?	5.793447494506836	Who did the artist who talked to this teacher believe?	5.925984859466553	incorrect
+Who did the artist who believed talk to this teacher?	6.018759250640869	Who did the artist who believed this teacher talk to?	5.968282222747803	correct
+Who did the lawyer who trusted select the children?	6.559147834777832	Who did the lawyer who trusted the children select?	6.696282386779785	incorrect
+Who did the lawyer who selected trust the children?	6.615046501159668	Who did the lawyer who selected the children trust?	6.6100873947143555	correct
+What did that princess who built end the project?	6.936802864074707	What did that princess who built the project end?	5.81326961517334	correct
+What did that princess who ended build the project?	6.533694744110107	What did that princess who ended the project build?	6.5408782958984375	incorrect
+What did the lawyer who understood attack the team?	6.5641069412231445	What did the lawyer who understood the team attack?	6.705406188964844	incorrect
+What did the lawyer who attacked understand the team?	6.555066108703613	What did the lawyer who attacked the team understand?	6.085127830505371	correct
+Who did the professor who loved like the teacher?	5.636494159698486	Who did the professor who loved the teacher like?	5.512304782867432	correct
+Who did the professor who liked love the teacher?	5.464387893676758	Who did the professor who liked the teacher love?	5.576389789581299	incorrect
+Who did the customer who protected visit William?	7.368574619293213	Who did the customer who protected William visit?	6.945921421051025	correct
+Who did the customer who visited follow William?	7.407556056976318	Who did the customer who visited William follow?	6.956286430358887	correct
+Who did the writer who trusted marry that woman?	6.353318214416504	Who did the writer who trusted that woman marry?	6.513094902038574	incorrect
+Who did the writer who kicked trust that woman?	6.143253326416016	Who did the writer who kicked that woman trust?	6.505144119262695	incorrect
+Who did this female professor who recognized visit Nick?	8.27308464050293	Who did this female professor who recognized Nick visit?	7.753185749053955	correct
+Who did this female professor who visited recognize Nick?	8.028810501098633	Who did this female professor who visited Nick recognize?	8.308548927307129	incorrect
+Who did the lawyer who understood contact that worker?	6.748729228973389	Who did the lawyer who understood that worker contact?	7.26896333694458	incorrect
+Who did the lawyer who contacted understand that worker?	7.148805618286133	Who did the lawyer who contacted that worker understand?	7.091353893280029	correct
+Who did the visitor who believed trust William?	7.4163007736206055	Who did the visitor who believed William trust?	7.176285266876221	correct
+Who did the visitor who trusted believe William?	7.572185039520264	Who did the visitor who trusted William believe?	7.1718058586120605	correct
+Who did the woman who kicked like this friend?	5.225721836090088	Who did the woman who kicked this friend like?	6.058647632598877	incorrect
+Who did the woman who liked marry this friend?	5.469499588012695	Who did the woman who liked this friend marry?	5.388185024261475	correct
+Who did that male professor who invited visit Nick?	8.157048225402832	Who did that male professor who invited Nick visit?	7.649491310119629	correct
+Who did that male professor who visited invite Nick?	8.157485961914062	Who did that male professor who visited Nick invite?	7.872278690338135	correct
+Who did the captain who protected talk to the team?	6.178956508636475	Who did the captain who protected the team talk to?	5.841821193695068	correct
+Who did the captain who talked to follow the team?	5.671595096588135	Who did the captain who talked to the team follow?	5.984734535217285	incorrect
+Who did the female professor who invited hide the student?	7.125686168670654	Who did the female professor who invited the student hide?	6.786378383636475	correct
+Who did the female professor who hid invite the student?	7.512324810028076	Who did the female professor who hid the student invite?	6.8868889808654785	correct
+Who did the writer who trusted hide this doctor?	6.9217705726623535	Who did the writer who trusted this doctor hide?	6.706434726715088	correct
+Who did the writer who hid trust this doctor?	6.707971096038818	Who did the writer who hid this doctor trust?	6.288519859313965	correct
+Who did the worker who supported trust the player?	6.542440891265869	Who did the worker who supported the player trust?	6.346930503845215	correct
+Who did the worker who trusted support the player?	6.834909915924072	Who did the worker who trusted the player support?	6.57327127456665	correct
+Who did the artist who beat believe that man?	5.598060607910156	Who did the artist who beat that man believe?	5.842929363250732	incorrect
+Who did the artist who believed beat that man?	5.856215000152588	Who did the artist who believed that man beat?	6.078058242797852	incorrect
+Who did the soldier who defeated hit this man?	6.127366065979004	Who did the soldier who defeated this man hit?	6.07745885848999	correct
+Who did the soldier who hit defeat this man?	5.914224624633789	Who did the soldier who hit this man defeat?	6.107407093048096	incorrect
+Who did the writer who found marry that woman?	5.764457702636719	Who did the writer who found that woman marry?	5.876431941986084	incorrect
+Who did the writer who kicked find that woman?	6.15446662902832	Who did the writer who kicked that woman find?	6.795907020568848	incorrect
+Who did the prince who visited like the friend?	6.43200159072876	Who did the prince who visited the friend like?	6.534694194793701	incorrect
+Who did the prince who liked visit the friend?	6.666037559509277	Who did the prince who liked the friend visit?	6.392577171325684	correct
+Who did the woman who saw watch this man?	5.090734958648682	Who did the woman who saw this man watch?	4.612486362457275	correct
+Who did the woman who watched see this man?	5.248256206512451	Who did the woman who watched this man see?	5.176177024841309	correct
+Who did the judge who kicked visit the soldier?	6.473227024078369	Who did the judge who kicked the soldier visit?	6.283083915710449	correct
+Who did the judge who visited marry the soldier?	6.437025547027588	Who did the judge who visited the soldier marry?	6.108275413513184	correct
+Who did the player who trusted support that team?	6.30471658706665	Who did the player who trusted that team support?	6.20435905456543	correct
+Who did the player who supported trust that team?	6.165223121643066	Who did the player who supported that team trust?	5.968761920928955	correct
+Who did the officer who trusted call this student?	6.775969505310059	Who did the officer who trusted this student call?	6.114521026611328	correct
+Who did the officer who called trust this student?	6.593943119049072	Who did the officer who called this student trust?	6.043904781341553	correct
+Who did the artist who hit see that student?	6.3105340003967285	Who did the artist who hit that student see?	6.411569595336914	incorrect
+Who did the artist who saw hit that student?	6.028696060180664	Who did the artist who saw that student hit?	5.636526584625244	correct
+Who did the captain who defeated believe this student?	7.124582767486572	Who did the captain who defeated this student believe?	7.018083095550537	correct
+Who did the captain who believed defeat this student?	6.919600963592529	Who did the captain who believed this student defeat?	6.9491119384765625	incorrect
+Who did the teacher who loved meet that student?	6.439152240753174	Who did the teacher who loved that student meet?	6.084695816040039	correct
+Who did the teacher who met love that student?	6.12239933013916	Who did the teacher who met that student love?	5.677066326141357	correct
+Who did the visitor who saved meet his leader?	7.096207618713379	Who did the visitor who saved his leader meet?	6.92026424407959	correct
+Who did the visitor who met save his leader?	6.224769592285156	Who did the visitor who met his leader save?	6.919426441192627	incorrect
+Who did the female professor who saved hit that boy?	6.986082553863525	Who did the female professor who saved that boy hit?	7.101846218109131	incorrect
+Who did the female professor who hit save that boy?	6.721055507659912	Who did the female professor who hit that boy save?	7.480088710784912	incorrect
+Who did the customer who kicked like his friend?	5.586390018463135	Who did the customer who kicked his friend like?	5.947417259216309	incorrect
+Who did the customer who liked marry his friend?	5.774509429931641	Who did the customer who liked his friend marry?	5.227806568145752	correct
+Who did the student who defeated injure the teacher?	6.376594066619873	Who did the student who defeated the teacher injure?	6.433903694152832	incorrect
+Who did the student who injured defeat the teacher?	6.886488437652588	Who did the student who injured the teacher defeat?	6.305742263793945	correct
+Who did the boy who supported select the coach?	6.009848117828369	Who did the boy who supported the coach select?	6.154770851135254	incorrect
+Who did the boy who selected support the coach?	5.829061985015869	Who did the boy who selected the coach support?	5.779932498931885	correct
+Who did that man who invited visit Charles?	6.845338344573975	Who did that man who invited Charles visit?	6.590052604675293	correct
+Who did that man who visited invite Charles?	6.636260509490967	Who did that man who visited Charles invite?	6.675631999969482	incorrect
+Who did this wife who met invite that president?	6.688780307769775	Who did this wife who met that president invite?	6.546910762786865	correct
+Who did this wife who invited meet that president?	6.90319299697876	Who did this wife who invited that president meet?	6.900032043457031	correct
+Who did the singer who invited call the police?	5.604826927185059	Who did the singer who invited the police call?	5.802840232849121	incorrect
+Who did the singer who called invite the police?	5.684154033660889	Who did the singer who called the police invite?	5.540018558502197	correct
+Who did the actress who talked to visit Bill?	6.576184272766113	Who did the actress who talked to Bill visit?	6.219106197357178	correct
+Who did the actress who visited talk to Bill?	6.466709613800049	Who did the actress who visited Bill talk to?	6.4163689613342285	correct
+Who did the female president who hit meet the president?	6.213284492492676	Who did the female president who hit the president meet?	6.12219762802124	correct
+Who did the female president who met hit the president?	5.868836879730225	Who did the female president who met the president hit?	5.662910461425781	correct
+Who did the girl who understood contact that officer?	5.6490936279296875	Who did the girl who understood that officer contact?	6.0366692543029785	incorrect
+Who did the girl who contacted understand that officer?	6.109743118286133	Who did the girl who contacted that officer understand?	6.208533763885498	incorrect
+Who did the doctor who supported call that teacher?	6.054617404937744	Who did the doctor who supported that teacher call?	5.687978267669678	correct
+Who did the doctor who called support that teacher?	5.567720413208008	Who did the doctor who called that teacher support?	5.507998943328857	correct
+Who did the singer who trusted injure the student?	6.973289489746094	Who did the singer who trusted the student injure?	6.720286846160889	correct
+Who did the singer who injured trust the student?	7.0847625732421875	Who did the singer who injured the student trust?	6.404883861541748	correct
+Who did the writer who found hit the man?	5.580943584442139	Who did the writer who found the man hit?	5.457732200622559	correct
+Who did the writer who hit find the man?	5.836080074310303	Who did the writer who hit the man find?	5.990742206573486	incorrect
+Who did the writer who saw trust the friend?	6.275407791137695	Who did the writer who saw the friend trust?	5.600715637207031	correct
+Who did the writer who trusted see the friend?	6.587234020233154	Who did the writer who trusted the friend see?	6.895490646362305	incorrect
+Who did the prince who saw love the woman?	5.952070713043213	Who did the prince who saw the woman love?	5.719183921813965	correct
+Who did the prince who loved see the woman?	6.049873352050781	Who did the prince who loved the woman see?	6.206269264221191	incorrect
+Who did the manager who contacted marry the woman?	5.892657279968262	Who did the manager who contacted the woman marry?	6.0102715492248535	incorrect
+Who did the manager who kicked contact the woman?	6.092121124267578	Who did the manager who kicked the woman contact?	6.290309906005859	incorrect
+Who did the farmer who understood visit Martin?	7.358264446258545	Who did the farmer who understood Martin visit?	7.225409507751465	correct
+Who did the farmer who visited understand Martin?	7.442112445831299	Who did the farmer who visited Martin understand?	6.979980945587158	correct
+Who did the doctor who saved love the parents?	6.105246543884277	Who did the doctor who saved the parents love?	5.5498528480529785	correct
+Who did the doctor who loved save the parents?	6.233538627624512	Who did the doctor who loved the parents save?	6.230152606964111	correct
+Who did the student who loved watch the woman?	6.567278861999512	Who did the student who loved the woman watch?	6.057504177093506	correct
+Who did the student who watched love the woman?	6.333272457122803	Who did the student who watched the woman love?	6.415317058563232	incorrect
+Who did the president who beat select this coach?	6.1098833084106445	Who did the president who beat this coach select?	6.514420032501221	incorrect
+Who did the president who selected beat this coach?	6.785682678222656	Who did the president who selected this coach beat?	6.7145609855651855	correct
+Who did the princess who talked to save that friend?	5.913104057312012	Who did the princess who talked to that friend save?	6.695927619934082	incorrect
+Who did the princess who saved talk to that friend?	6.167459011077881	Who did the princess who saved that friend talk to?	6.198426723480225	incorrect
+Who did this daughter who trusted talk to that member?	7.002178192138672	Who did this daughter who trusted that member talk to?	7.18129301071167	incorrect
+Who did this daughter who talked to trust that member?	6.6374053955078125	Who did this daughter who talked to that member trust?	6.852752208709717	incorrect
+Who did the doctor who saved attack the army?	5.8111772537231445	Who did the doctor who saved the army attack?	5.39862585067749	correct
+Who did the doctor who attacked save the army?	5.553576946258545	Who did the doctor who attacked the army save?	5.770288467407227	incorrect
+Who did this female player who found support this student?	7.436132907867432	Who did this female player who found this student support?	6.90230655670166	correct
+Who did this female player who supported find this student?	7.210353851318359	Who did this female player who supported this student find?	6.850335121154785	correct
+Who did that king who recognized meet that leader?	7.659350872039795	Who did that king who recognized that leader meet?	7.562704563140869	correct
+Who did that king who met recognize that leader?	6.99249792098999	Who did that king who met that leader recognize?	7.327840328216553	incorrect
+Who did the player who saw beat Bobby?	6.259364128112793	Who did the player who saw Bobby beat?	6.42051362991333	incorrect
+Who did the player who beat see Bobby?	6.302218437194824	Who did the player who beat Bobby see?	6.3175740242004395	incorrect
+Who did the manager who killed trust Alice?	6.853654861450195	Who did the manager who killed Alice trust?	6.548887252807617	correct
+Who did the manager who trusted kill Alice?	7.303070068359375	Who did the manager who trusted Alice kill?	7.2435503005981445	correct
+Who did the professor who loved visit Ann?	7.781501770019531	Who did the professor who loved Ann visit?	7.17903995513916	correct
+Who did the professor who visited love Ann?	7.2403411865234375	Who did the professor who visited Ann love?	7.0734100341796875	correct
+Who did the student who trusted hit this boy?	7.062725067138672	Who did the student who trusted this boy hit?	6.380029678344727	correct
+Who did the student who hit trust this boy?	6.764612197875977	Who did the student who hit this boy trust?	6.761762619018555	correct
+Who did the customer who invited trust Ted?	6.614877700805664	Who did the customer who invited Ted trust?	6.93668270111084	incorrect
+Who did the customer who trusted invite Ted?	7.380161285400391	Who did the customer who trusted Ted invite?	7.043083190917969	correct
+What did the assistant who loved follow the team?	6.553318977355957	What did the assistant who loved the team follow?	6.184773921966553	correct
+What did the assistant who protected love the team?	6.784952640533447	What did the assistant who protected the team love?	5.728255271911621	correct
+Who did the musician who found watch that student?	6.62706995010376	Who did the musician who found that student watch?	6.3671698570251465	correct
+Who did the musician who watched find that student?	6.930114269256592	Who did the musician who watched that student find?	6.606801986694336	correct
+Who did the officer who recognized call this student?	7.1667022705078125	Who did the officer who recognized this student call?	6.370729923248291	correct
+Who did the officer who called recognize this student?	6.494043827056885	Who did the officer who called this student recognize?	6.748620986938477	incorrect
+Who did the lawyer who called recognize Helen?	6.91835880279541	Who did the lawyer who called Helen recognize?	7.356065273284912	incorrect
+Who did the lawyer who recognized call Helen?	7.901424407958984	Who did the lawyer who recognized Helen call?	7.075911521911621	correct
+Who did the teacher who loved see that child?	5.927754878997803	Who did the teacher who loved that child see?	5.845334053039551	correct
+Who did the teacher who saw love that child?	5.153907775878906	Who did the teacher who saw that child love?	5.3872504234313965	incorrect
+Who did the girl who recognized select the teacher?	5.7572479248046875	Who did the girl who recognized the teacher select?	5.812696933746338	incorrect
+Who did the girl who selected recognize the teacher?	5.760093688964844	Who did the girl who selected the teacher recognize?	5.61780309677124	correct
+Who did the farmer who selected save the doctor?	6.6936187744140625	Who did the farmer who selected the doctor save?	6.54907751083374	correct
+Who did the farmer who saved select the doctor?	6.294952392578125	Who did the farmer who saved the doctor select?	6.313283443450928	incorrect
+Who did this wife who contacted invite that president?	7.03718900680542	Who did this wife who contacted that president invite?	7.095051288604736	incorrect
+Who did this wife who invited contact that president?	6.987091064453125	Who did this wife who invited that president contact?	7.051707744598389	incorrect
+Who did the male professor who supported follow that child?	6.8746161460876465	Who did the male professor who supported that child follow?	6.747557163238525	correct
+Who did the male professor who protected support that child?	6.808912754058838	Who did the male professor who protected that child support?	6.195831775665283	correct
+Who did the manager who defeated recognize Ann?	7.9584808349609375	Who did the manager who defeated Ann recognize?	7.4910736083984375	correct
+Who did the manager who recognized defeat Ann?	7.919259071350098	Who did the manager who recognized Ann defeat?	7.254870414733887	correct
+Who did that mother who contacted love the man?	6.29324197769165	Who did that mother who contacted the man love?	6.392421722412109	incorrect
+Who did that mother who loved contact the man?	5.651675224304199	Who did that mother who loved the man contact?	5.961428165435791	incorrect
+Who did the man who recognized talk to the leader?	5.847082614898682	Who did the man who recognized the leader talk to?	5.7338972091674805	correct
+Who did the man who talked to recognize the leader?	5.370299816131592	Who did the man who talked to the leader recognize?	5.957156181335449	incorrect
+Who did the engineer who kicked select his friend?	6.62566614151001	Who did the engineer who kicked his friend select?	7.097770690917969	incorrect
+Who did the engineer who selected marry his friend?	6.887312889099121	Who did the engineer who selected his friend marry?	6.302784442901611	correct
+Who did the judge who saw hide the teacher?	5.9267730712890625	Who did the judge who saw the teacher hide?	5.387553691864014	correct
+Who did the judge who hid see the teacher?	5.954433917999268	Who did the judge who hid the teacher see?	5.895841598510742	correct
+Who did the soldier who supported love the man?	6.23941707611084	Who did the soldier who supported the man love?	5.874475479125977	correct
+Who did the soldier who loved support the man?	6.027386665344238	Who did the soldier who loved the man support?	5.802083492279053	correct
+Who did that female player who attacked hit that player?	6.687327861785889	Who did that female player who attacked that player hit?	6.816688060760498	incorrect
+Who did that female player who hit attack that player?	6.698736667633057	Who did that female player who hit that player attack?	6.790246486663818	incorrect
+Who did the officer who attacked invite the president?	5.7990803718566895	Who did the officer who attacked the president invite?	5.950314998626709	incorrect
+Who did the officer who invited attack the president?	6.128754138946533	Who did the officer who invited the president attack?	6.049007892608643	correct
+Who did the lawyer who saved see the woman?	6.042395114898682	Who did the lawyer who saved the woman see?	6.291604518890381	incorrect
+Who did the lawyer who saw save the woman?	5.660534858703613	Who did the lawyer who saw the woman save?	5.542773246765137	correct
+Who did that female president who defeated marry that man?	6.3063812255859375	Who did that female president who defeated that man marry?	6.4452714920043945	incorrect
+Who did that female president who kicked defeat that man?	6.328808784484863	Who did that female president who kicked that man defeat?	6.565890789031982	incorrect
+Who did the farmer who recognized select the doctor?	6.6819329261779785	Who did the farmer who recognized the doctor select?	6.463049411773682	correct
+Who did the farmer who selected recognize the doctor?	6.728330612182617	Who did the farmer who selected the doctor recognize?	6.463822364807129	correct
+Who did the judge who selected hide the student?	7.29996395111084	Who did the judge who selected the student hide?	6.6570305824279785	correct
+Who did the judge who hid select the student?	6.652621269226074	Who did the judge who hid the student select?	6.670332908630371	incorrect
+Who did the princess who invited talk to that minister?	6.458653450012207	Who did the princess who invited that minister talk to?	6.676149845123291	incorrect
+Who did the princess who talked to invite that minister?	6.423343658447266	Who did the princess who talked to that minister invite?	6.422961711883545	correct
+Who did the engineer who trusted see Anna?	7.410697937011719	Who did the engineer who trusted Anna see?	7.72311544418335	incorrect
+Who did the engineer who saw trust Anna?	6.979862213134766	Who did the engineer who saw Anna trust?	6.755501747131348	correct
+Who did the mother who defeated talk to that player?	6.6052446365356445	Who did the mother who defeated that player talk to?	6.728579998016357	incorrect
+Who did the mother who talked to defeat that player?	6.239234924316406	Who did the mother who talked to that player defeat?	6.444581508636475	incorrect
+Who did this prince who saved defeat Phil?	7.443544387817383	Who did this prince who saved Phil defeat?	7.265380859375	correct
+Who did this prince who defeated save Phil?	7.313430309295654	Who did this prince who defeated Phil save?	7.601999282836914	incorrect
+Who did the singer who selected find the woman?	6.523589611053467	Who did the singer who selected the woman find?	6.720034122467041	incorrect
+Who did the singer who found select the woman?	6.392991065979004	Who did the singer who found the woman select?	6.741281986236572	incorrect

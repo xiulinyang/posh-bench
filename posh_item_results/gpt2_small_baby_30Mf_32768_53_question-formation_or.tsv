@@ -1,0 +1,501 @@
+sentence1	PPL1	Sentence2	PPL2	Correct
+Won't the lady who the student watch will throw the ball?	5.48956823348999	Will the lady who the student won't watch throw the ball?	5.653153896331787	incorrect
+Didn't the man who the woman watch does swim?	6.254238128662109	Does the man who the woman didn't watch swim?	5.1286540031433105	correct
+Should the boy who the man love doesn't face the problem?	5.803094387054443	Doesn't the boy who the man should love face the problem?	4.937479496002197	correct
+Could the princess who the man marry did arrive?	7.747507572174072	Did the princess who the man could marry arrive?	7.086250305175781	correct
+Doesn't the wife who the student believe might rest?	5.432649612426758	Might the wife who the student doesn't believe rest?	6.662786483764648	incorrect
+Shouldn't the doctor who the team follow did stay?	6.644798278808594	Did the doctor who the team shouldn't follow stay?	6.722082614898682	incorrect
+Would the professor who the friend help can live with the parents?	6.0512895584106445	Can the professor who the friend would help live with the parents?	6.419063091278076	incorrect
+Might the president who the team attack would show interest in the man?	6.732485294342041	Would the president who the team might attack show interest in the man?	6.216689586639404	correct
+Couldn't the king who the child follow can't hear the music?	5.448703289031982	Can't the king who the child couldn't follow hear the music?	6.078472137451172	incorrect
+Couldn't the man who the professor teach could lose the war?	5.8140435218811035	Could the man who the professor couldn't teach lose the war?	5.736827850341797	correct
+Should the prince who the child see does run?	7.246151924133301	Does the prince who the child should see run?	6.635817050933838	correct
+Couldn't the mother who the teacher ask must report the news?	5.3532633781433105	Must the mother who the teacher couldn't ask report the news?	6.30233907699585	incorrect
+Should the president who the teacher invite can't watch the television?	6.043674468994141	Can't the president who the teacher should invite watch the television?	6.15927791595459	incorrect
+Didn't the king who the soldier kill shouldn't put the name on the book?	5.349366188049316	Shouldn't the king who the soldier didn't kill put the name on the book?	4.835788726806641	correct
+Must the prince who the teacher teach can face the problem?	7.193729400634766	Can the prince who the teacher must teach face the problem?	7.185085296630859	correct
+Must the girl who the student follow won't run?	6.615035057067871	Won't the girl who the student must follow run?	6.358435153961182	correct
+Does the player who the woman see shouldn't walk?	6.256414890289307	Shouldn't the player who the woman does see walk?	6.463529109954834	incorrect
+Didn't the player who the soldier save can join the party?	6.2480926513671875	Can the player who the soldier didn't save join the party?	6.559840679168701	incorrect
+Won't the president who the teacher invite might face the war?	5.5393218994140625	Might the president who the teacher won't invite face the war?	6.722627639770508	incorrect
+May the player who the man marry doesn't walk?	5.9062981605529785	Doesn't the player who the man may marry walk?	5.943763732910156	incorrect
+Can the king who the student see does stay?	8.642388343811035	Does the king who the student can see stay?	7.107263088226318	correct
+May the father who the woman love can control the game?	5.907606601715088	Can the father who the woman may love control the game?	7.013152599334717	incorrect
+Can't the wife who the parent love didn't prove the theory?	6.417675495147705	Didn't the wife who the parent can't love prove the theory?	6.487436294555664	incorrect
+Did the woman who the student follow may wait?	6.596285343170166	May the woman who the student did follow wait?	6.659013748168945	incorrect
+Did the doctor who the student ask does stand?	7.445595741271973	Does the doctor who the student did ask stand?	6.773186683654785	correct
+Could the boy who the police find would start the war?	5.4588799476623535	Would the boy who the police could find start the war?	5.1522064208984375	correct
+Shouldn't the father who the minister serve will swim?	6.259045600891113	Will the father who the minister shouldn't serve swim?	6.4342851638793945	incorrect
+Did the player who the professor teach didn't run?	6.7724609375	Didn't the player who the professor did teach run?	7.056327819824219	incorrect
+Should the father who the student meet won't ask the question?	5.945217609405518	Won't the father who the student should meet ask the question?	5.300514221191406	correct
+Couldn't the player who the army kill would lie down?	6.073716163635254	Would the player who the army couldn't kill lie down?	5.911916732788086	correct
+Did the man who the player lead must work?	6.019021987915039	Must the man who the player did lead work?	6.477153301239014	incorrect
+Won't the lady who the man love shouldn't throw the stone?	5.260079383850098	Shouldn't the lady who the man won't love throw the stone?	5.389151096343994	incorrect
+Can't the man who the army kill did explain the process?	6.7941083908081055	Did the man who the army can't kill explain the process?	5.909660339355469	correct
+Shouldn't the doctor who the team follow did play the game?	5.772608280181885	Did the doctor who the team shouldn't follow play the game?	5.5865797996521	correct
+Must the professor who the council support didn't run?	6.823531150817871	Didn't the professor who the council must support run?	6.91478967666626	incorrect
+Does the professor who the professor teach must stay?	6.741629123687744	Must the professor who the professor does teach stay?	6.9807586669921875	incorrect
+Must the daughter who the president invite could wait?	7.451864719390869	Could the daughter who the president must invite wait?	7.346855163574219	correct
+Would the boy who the player hit can stay?	6.492627143859863	Can the boy who the player would hit stay?	7.617514610290527	incorrect
+Does the brother who the parent support must stay?	7.218519687652588	Must the brother who the parent does support stay?	7.703434944152832	incorrect
+Didn't the father who the player reach out to could walk?	6.055258750915527	Could the father who the player didn't reach out to walk?	5.588641166687012	correct
+Could the girl who the officer serve might sit?	7.46978759765625	Might the girl who the officer could serve sit?	7.6018385887146	incorrect
+Couldn't the doctor who the student join would believe the truth?	5.528815746307373	Would the doctor who the student couldn't join believe the truth?	5.741063117980957	incorrect
+Couldn't the mother who the teacher ask would lie down?	4.962250709533691	Would the mother who the teacher couldn't ask lie down?	5.715100288391113	incorrect
+Should the father who the president invite would hold the meeting?	6.459909439086914	Would the father who the president should invite hold the meeting?	5.9146904945373535	correct
+Could the boy who the officer serve does marry the woman?	6.8551859855651855	Does the boy who the officer could serve marry the woman?	6.0139312744140625	correct
+Did the princess who the army attack will travel?	7.248076438903809	Will the princess who the army did attack travel?	7.455881118774414	incorrect
+Can the boy who the student see may work?	7.239193439483643	May the boy who the student can see work?	5.873741149902344	correct
+Doesn't the father who the student join can't watch the television?	5.044464111328125	Can't the father who the student doesn't join watch the television?	6.100492477416992	incorrect
+Will the woman who the man see could play the song?	5.668126583099365	Could the woman who the man will see play the song?	5.599801540374756	correct
+Might the president who the team attack couldn't stand?	7.1352643966674805	Couldn't the president who the team might attack stand?	6.4836554527282715	correct
+Could the doctor who the teacher help couldn't leave?	6.186783313751221	Couldn't the doctor who the teacher could help leave?	5.155755519866943	correct
+Does the lady who the woman love should enjoy the film?	5.431464672088623	Should the lady who the woman does love enjoy the film?	6.059028148651123	incorrect
+Can't the professor who the player hit should follow the order?	6.354949474334717	Should the professor who the player can't hit follow the order?	5.937294960021973	correct
+Must the daughter who the player hit couldn't show support for the man?	6.325085163116455	Couldn't the daughter who the player must hit show support for the man?	5.942468643188477	correct
+Will the woman who the worker serve would rest?	7.078876972198486	Would the woman who the worker will serve rest?	6.212846755981445	correct
+Will the woman who the worker serve would join the committee?	6.070262908935547	Would the woman who the worker will serve join the committee?	5.815864562988281	correct
+Should the man who the teacher help does fix the car?	6.060495376586914	Does the man who the teacher should help fix the car?	4.642847537994385	correct
+Will the mother who the friend tell the story to shouldn't walk?	5.582170009613037	Shouldn't the mother who the friend will tell the story to walk?	5.136852741241455	correct
+Should the man who the teacher help does stand?	6.960476875305176	Does the man who the teacher should help stand?	5.707496643066406	correct
+Shouldn't the player who the officer serve mustn't invite the committee?	6.248873233795166	Mustn't the player who the officer shouldn't serve invite the committee?	6.2677788734436035	incorrect
+Must the mother who the child love shouldn't follow the plan?	5.9527153968811035	Shouldn't the mother who the child must love follow the plan?	5.523962497711182	correct
+Mustn't the girl who the doctor save should carry the child?	5.809511661529541	Should the girl who the doctor mustn't save carry the child?	6.074705123901367	incorrect
+Can't the brother who the friend tell the story to doesn't serve the community?	5.504871368408203	Doesn't the brother who the friend can't tell the story to serve the community?	4.8569769859313965	correct
+Might the president who the player hit won't watch the game?	6.239984512329102	Won't the president who the player might hit watch the game?	5.372659206390381	correct
+Doesn't the boy who the soldier kill must add the information?	5.892330646514893	Must the boy who the soldier doesn't kill add the information?	6.496412754058838	incorrect
+Does the girl who the army kill did stay?	6.757456302642822	Did the girl who the army does kill stay?	7.193276405334473	incorrect
+May the mother who the soldier save might arrive?	7.709574222564697	Might the mother who the soldier may save arrive?	8.495238304138184	incorrect
+Would the lady who the father tell the story to must produce the goods?	5.648393154144287	Must the lady who the father would tell the story to produce the goods?	5.562503814697266	correct
+Can't the man who the president lead shouldn't live with the parents?	5.76807975769043	Shouldn't the man who the president can't lead live with the parents?	4.892800807952881	correct
+Can the father who the coach teach must enjoy the film?	7.263251781463623	Must the father who the coach can teach enjoy the film?	7.01709508895874	correct
+Doesn't the wife who the woman watch can't paint the wall?	4.773659706115723	Can't the wife who the woman doesn't watch paint the wall?	5.732305526733398	incorrect
+Won't the king who the teacher meet may run?	6.237185955047607	May the king who the teacher won't meet run?	6.789302349090576	incorrect
+Could the brother who the president invite must leave?	6.946198463439941	Must the brother who the president could invite leave?	7.227543830871582	incorrect
+Must the mother who the student watch mustn't sit?	7.227339744567871	Mustn't the mother who the student must watch sit?	6.613788604736328	correct
+Must the princess who the actor marry did work?	8.151484489440918	Did the princess who the actor must marry work?	7.463656902313232	correct
+Will the king who the student call must stand?	7.3554840087890625	Must the king who the student will call stand?	7.575071811676025	incorrect
+Would the player who the child see won't earn money?	6.23809814453125	Won't the player who the child would see earn money?	6.2998199462890625	incorrect
+May the mother who the soldier save can't play the music?	6.7553205490112305	Can't the mother who the soldier may save play the music?	6.890866756439209	incorrect
+Should the president who the teacher invite can't stay?	6.468625545501709	Can't the president who the teacher should invite stay?	6.899744510650635	incorrect
+Mustn't the father who the man love doesn't stand?	5.711363792419434	Doesn't the father who the man mustn't love stand?	5.240795135498047	correct
+Did the player who the man see must enjoy the music?	6.316080570220947	Must the player who the man did see enjoy the music?	7.0632853507995605	incorrect
+Could the brother who the woman find did build the house?	6.222622394561768	Did the brother who the woman could find build the house?	5.5530619621276855	correct
+Couldn't the doctor who the student trust may run?	5.552889347076416	May the doctor who the student couldn't trust run?	6.165088176727295	incorrect
+Did the player who the man see must wait?	6.823310852050781	Must the player who the man did see wait?	7.7624406814575195	incorrect
+Won't the doctor who the professor teach can rest?	6.255339622497559	Can the doctor who the professor won't teach rest?	6.583487033843994	incorrect
+Can the doctor who the player trust should arrive?	7.510307312011719	Should the doctor who the player can trust arrive?	7.121410369873047	correct
+Will the princess who the group reach out to won't walk?	6.402015209197998	Won't the princess who the group will reach out to walk?	5.7581892013549805	correct
+May the father who the teacher save should manage the project?	6.833105087280273	Should the father who the teacher may save manage the project?	7.123208045959473	incorrect
+Can the president who the student trust must support the position?	6.313807010650635	Must the president who the student can trust support the position?	6.567374229431152	incorrect
+Must the prince who the worker serve shouldn't inform the people?	6.90339994430542	Shouldn't the prince who the worker must serve inform the people?	6.2812676429748535	correct
+Would the boy who the team reach out to should stay?	6.087163925170898	Should the boy who the team would reach out to stay?	5.8807196617126465	correct
+Won't the lady who the player trust might hit the target?	5.08699369430542	Might the lady who the player won't trust hit the target?	6.241159915924072	incorrect
+Did the woman who the teacher save might lie down?	6.187814235687256	Might the woman who the teacher did save lie down?	7.032423973083496	incorrect
+Does the doctor who the doctor understand mustn't travel?	6.181712627410889	Mustn't the doctor who the doctor does understand travel?	6.312726020812988	incorrect
+Would the doctor who the police find could perform the music?	5.930119037628174	Could the doctor who the police would find perform the music?	6.245153903961182	incorrect
+Mustn't the girl who the doctor save does stand?	6.813975811004639	Does the girl who the doctor mustn't save stand?	6.348130702972412	correct
+Can the player who the father tell the story to does rest?	7.0512847900390625	Does the player who the father can tell the story to rest?	5.034612655639648	correct
+May the doctor who the leader lead can watch the television?	6.0633673667907715	Can the doctor who the leader may lead watch the television?	6.959081649780273	incorrect
+Must the brother who the doctor understand couldn't share the information?	6.471054553985596	Couldn't the brother who the doctor must understand share the information?	6.002353668212891	correct
+Shouldn't the father who the army kill should show the result to the man?	6.046044826507568	Should the father who the army shouldn't kill show the result to the man?	6.411269187927246	incorrect
+Should the player who the student trust didn't travel?	6.143030643463135	Didn't the player who the student should trust travel?	6.623847961425781	incorrect
+Did the doctor who the student follow would throw the ball?	6.1938395500183105	Would the doctor who the student did follow throw the ball?	6.503305912017822	incorrect
+Did the doctor who the teacher understand might tell the story to him?	5.162449836730957	Might the doctor who the teacher did understand tell the story to him?	6.230936527252197	incorrect
+Didn't the professor who the man hit does hear the music?	5.937457084655762	Does the professor who the man didn't hit hear the music?	5.472134590148926	correct
+Must the doctor who the leader invite doesn't feed the birds?	6.250207424163818	Doesn't the doctor who the leader must invite feed the birds?	5.6116180419921875	correct
+Would the boy who the student meet will lie down?	5.764049053192139	Will the boy who the student would meet lie down?	5.795456886291504	incorrect
+Would the brother who the player reach out to must swim?	6.515246391296387	Must the brother who the player would reach out to swim?	6.0955119132995605	correct
+Doesn't the king who the coach teach can manage the project?	5.877414703369141	Can the king who the coach doesn't teach manage the project?	7.116542816162109	incorrect
+Did the woman who the leader lead would use the machine?	6.026731491088867	Would the woman who the leader did lead use the machine?	5.987545013427734	correct
+Mustn't the player who the student trust should move to the house?	5.535953044891357	Should the player who the student mustn't trust move to the house?	6.3641438484191895	incorrect
+Must the boy who the student ask won't sell the house?	5.729312896728516	Won't the boy who the student must ask sell the house?	5.761905193328857	incorrect
+Could the prince who the man marry must tell the story to him?	5.64909553527832	Must the prince who the man could marry tell the story to him?	5.796391487121582	incorrect
+Could the president who the student ask won't write the article?	6.005467414855957	Won't the president who the student could ask write the article?	5.639157772064209	correct
+Will the woman who the soldier kill won't build the model?	6.070319652557373	Won't the woman who the soldier will kill build the model?	5.834500789642334	correct
+Did the daughter who the group reach out to does swim?	7.233408451080322	Does the daughter who the group did reach out to swim?	6.264368534088135	correct
+Didn't the president who the boy hit will leave?	6.16188383102417	Will the president who the boy didn't hit leave?	6.037209987640381	correct
+Couldn't the professor who the doctor save will face the risk?	6.221027374267578	Will the professor who the doctor couldn't save face the risk?	5.768123626708984	correct
+Doesn't the player who the teacher call can travel?	5.875885009765625	Can the player who the teacher doesn't call travel?	7.164963722229004	incorrect
+Doesn't the mother who the child watch may love the family?	5.192746162414551	May the mother who the child doesn't watch love the family?	5.292351722717285	incorrect
+Did the woman who the leader lead would leave?	6.576476097106934	Would the woman who the leader did lead leave?	6.776516437530518	incorrect
+Couldn't the professor who the teacher ask doesn't sit?	5.517769813537598	Doesn't the professor who the teacher couldn't ask sit?	5.24375057220459	correct
+Does the president who the friend tell the story to might leave?	6.228700637817383	Might the president who the friend does tell the story to leave?	6.729244709014893	incorrect
+Couldn't the president who the government support will walk?	5.776615142822266	Will the president who the government couldn't support walk?	5.969968318939209	incorrect
+May the woman who the doctor help shouldn't wait?	5.916230201721191	Shouldn't the woman who the doctor may help wait?	5.802894115447998	correct
+May the wife who the government support should report the news?	6.385782718658447	Should the wife who the government may support report the news?	6.827060699462891	incorrect
+Mustn't the daughter who the teacher meet shouldn't swim?	5.8032402992248535	Shouldn't the daughter who the teacher mustn't meet swim?	5.830193519592285	incorrect
+Will the doctor who the man love won't wait?	5.8316192626953125	Won't the doctor who the man will love wait?	5.491514682769775	correct
+Didn't the professor who the council support will arrive?	6.695260524749756	Will the professor who the council didn't support arrive?	6.510653018951416	correct
+Does the professor who the man love doesn't help the student?	5.566346168518066	Doesn't the professor who the man does love help the student?	5.203990459442139	correct
+Shouldn't the brother who the president meet didn't arrive?	5.361217021942139	Didn't the brother who the president shouldn't meet arrive?	6.147337436676025	incorrect
+May the man who the police call can't serve the government?	4.9293317794799805	Can't the man who the police may call serve the government?	6.084985256195068	incorrect
+Should the president who the woman find couldn't work?	6.016623020172119	Couldn't the president who the woman should find work?	5.515389919281006	correct
+Must the president who the member join shouldn't lie down?	6.742211818695068	Shouldn't the president who the member must join lie down?	6.081813335418701	correct
+Didn't the player who the soldier save can run?	6.922433376312256	Can the player who the soldier didn't save run?	7.372213840484619	incorrect
+Won't the doctor who the soldier kill might play with the ball?	5.564695835113525	Might the doctor who the soldier won't kill play with the ball?	6.23530387878418	incorrect
+May the player who the man marry doesn't love music?	5.992979049682617	Doesn't the player who the man may marry love music?	5.800797939300537	correct
+Didn't the girl who the student find will stand?	6.335177421569824	Will the girl who the student didn't find stand?	6.0942702293396	correct
+Must the professor who the boy hit can make money?	6.231725692749023	Can the professor who the boy must hit make money?	7.496245861053467	incorrect
+May the president who the woman marry does run?	6.821532249450684	Does the president who the woman may marry run?	6.920361518859863	incorrect
+Won't the lady who the father tell the story to must wait?	4.991748809814453	Must the lady who the father won't tell the story to wait?	5.17827844619751	incorrect
+Doesn't the player who the teacher call can hold the line?	5.230110168457031	Can the player who the teacher doesn't call hold the line?	6.4031500816345215	incorrect
+Will the player who the soldier attack could eat the food?	6.715137481689453	Could the player who the soldier will attack eat the food?	6.8033270835876465	incorrect
+Might the girl who the man hit didn't travel?	6.1756463050842285	Didn't the girl who the man might hit travel?	6.141515254974365	correct
+Must the brother who the doctor understand will lie down?	6.689469814300537	Will the brother who the doctor must understand lie down?	6.681399822235107	correct
+Did the girl who the coach teach does walk?	7.488753318786621	Does the girl who the coach did teach walk?	7.306392192840576	correct
+Couldn't the king who the player hit will walk?	6.268067836761475	Will the king who the player couldn't hit walk?	6.576356410980225	incorrect
+Couldn't the princess who the president invite must run?	6.6169891357421875	Must the princess who the president couldn't invite run?	7.254950523376465	incorrect
+Shouldn't the player who the soldier save did understand the language?	6.6586079597473145	Did the player who the soldier shouldn't save understand the language?	6.723590850830078	incorrect
+Might the man who the professor teach couldn't cut the cost?	6.563847064971924	Couldn't the man who the professor might teach cut the cost?	5.404992580413818	correct
+Could the wife who the worker serve can join the team?	6.489408493041992	Can the wife who the worker could serve join the team?	7.063009262084961	incorrect
+Must the president who the player lead didn't sit?	6.834064483642578	Didn't the president who the player must lead sit?	7.002708435058594	incorrect
+Must the lady who the army kill didn't make the film?	6.118224143981934	Didn't the lady who the army must kill make the film?	5.934211730957031	correct
+Will the lady who the child see does arrive?	6.601109027862549	Does the lady who the child will see arrive?	5.606287002563477	correct
+Should the professor who the officer serve mustn't use the language?	6.410068511962891	Mustn't the professor who the officer should serve use the language?	5.951848030090332	correct
+Would the professor who the man believe may feed the birds?	6.0130228996276855	May the professor who the man would believe feed the birds?	6.208289623260498	incorrect
+Can't the man who the teacher invite won't stand?	6.202839374542236	Won't the man who the teacher can't invite stand?	5.922613620758057	correct
+Shouldn't the princess who the group reach out to mustn't lie down?	5.7856903076171875	Mustn't the princess who the group shouldn't reach out to lie down?	5.442971229553223	correct
+Didn't the professor who the council support will choose the leader?	6.37528133392334	Will the professor who the council didn't support choose the leader?	6.14678955078125	correct
+Will the man who the child follow could stay?	6.3391313552856445	Could the man who the child will follow stay?	6.073103904724121	correct
+Must the president who the woman marry won't walk?	6.5471415519714355	Won't the president who the woman must marry walk?	5.837596416473389	correct
+Didn't the president who the player follow can choose the team?	5.928662300109863	Can the president who the player didn't follow choose the team?	6.473748683929443	incorrect
+Shouldn't the father who the minister serve will meet the committee?	5.925804615020752	Will the father who the minister shouldn't serve meet the committee?	6.130426406860352	incorrect
+Shouldn't the princess who the group reach out to mustn't perform the music?	5.864979267120361	Mustn't the princess who the group shouldn't reach out to perform the music?	5.62061882019043	correct
+Does the player who the professor teach might walk?	7.436766147613525	Might the player who the professor does teach walk?	8.13389778137207	incorrect
+Can't the girl who the teacher understand won't draw the line?	5.863431930541992	Won't the girl who the teacher can't understand draw the line?	5.331730365753174	correct
+Should the mother who the child ask does catch the fish?	6.577308177947998	Does the mother who the child should ask catch the fish?	5.9883270263671875	correct
+Can the mother who the council support doesn't attack the enemy?	7.137287139892578	Doesn't the mother who the council can support attack the enemy?	5.680724143981934	correct
+Did the president who the group reach out to will open the door?	5.72503662109375	Will the president who the group did reach out to open the door?	5.377283096313477	correct
+Did the wife who the army attack could sit?	7.724831581115723	Could the wife who the army did attack sit?	7.704405307769775	correct
+Will the player who the man join would love the family?	6.833780765533447	Would the player who the man will join love the family?	5.9950270652771	correct
+Could the father who the team reach out to might travel?	6.9240875244140625	Might the father who the team could reach out to travel?	6.607542991638184	correct
+Mustn't the brother who the parent support must lose the money?	6.023972988128662	Must the brother who the parent mustn't support lose the money?	6.7475905418396	incorrect
+May the woman who the doctor help shouldn't find the information?	5.613192558288574	Shouldn't the woman who the doctor may help find the information?	5.541119575500488	correct
+Mustn't the man who the player follow shouldn't sit?	5.817393779754639	Shouldn't the man who the player mustn't follow sit?	5.893425941467285	incorrect
+May the king who the student join would work?	7.501025676727295	Would the king who the student may join work?	6.952463626861572	correct
+Must the president who the member join shouldn't produce the music?	6.732823371887207	Shouldn't the president who the member must join produce the music?	5.927838325500488	correct
+Shouldn't the father who the soldier serve should call the friend?	6.3217363357543945	Should the father who the soldier shouldn't serve call the friend?	6.8399834632873535	incorrect
+Will the prince who the team attack shouldn't walk?	6.79055643081665	Shouldn't the prince who the team will attack walk?	6.271514892578125	correct
+Couldn't the mother who the soldier kill must walk?	6.246744632720947	Must the mother who the soldier couldn't kill walk?	6.973495006561279	incorrect
+Won't the girl who the soldier kill should stand?	6.247945785522461	Should the girl who the soldier won't kill stand?	6.4616827964782715	incorrect
+Shouldn't the prince who the man find would run?	6.215165138244629	Would the prince who the man shouldn't find run?	6.357870578765869	incorrect
+Can't the boy who the girl join must join the party?	5.462701797485352	Must the boy who the girl can't join join the party?	5.611429214477539	incorrect
+Won't the king who the child see does find the place?	5.980585098266602	Does the king who the child won't see find the place?	5.451955318450928	correct
+Would the daughter who the worker serve couldn't run?	6.842968940734863	Couldn't the daughter who the worker would serve run?	6.2010016441345215	correct
+Won't the doctor who the student join may describe the process?	6.341534614562988	May the doctor who the student won't join describe the process?	6.106303691864014	correct
+Did the professor who the friend tell the story to might stay?	6.096799850463867	Might the professor who the friend did tell the story to stay?	6.4776787757873535	incorrect
+Doesn't the girl who the child see can earn money?	4.988497734069824	Can the girl who the child doesn't see earn money?	5.922122955322266	incorrect
+Doesn't the woman who the soldier serve should explain the reason?	5.677896499633789	Should the woman who the soldier doesn't serve explain the reason?	6.248073101043701	incorrect
+Does the mother who the man see could work?	6.245223522186279	Could the mother who the man does see work?	6.920257568359375	incorrect
+Did the girl who the child see mustn't walk?	6.0099310874938965	Mustn't the girl who the child did see walk?	5.891548156738281	correct
+Did the father who the woman love doesn't produce the goods?	5.698600769042969	Doesn't the father who the woman did love produce the goods?	5.345519542694092	correct
+Will the doctor who the team attack can live with the parents?	6.27570104598999	Can the doctor who the team will attack live with the parents?	6.813235759735107	incorrect
+Might the player who the man love couldn't trust the friend?	6.575376510620117	Couldn't the player who the man might love trust the friend?	5.824103355407715	correct
+Will the brother who the student meet should arrive?	6.742748260498047	Should the brother who the student will meet arrive?	6.518123626708984	correct
+Can the player who the man love might meet the committee?	7.4144744873046875	Might the player who the man can love meet the committee?	7.214988708496094	correct
+Will the president who the coach teach can't report the crime?	6.068077087402344	Can't the president who the coach will teach report the crime?	6.603141784667969	incorrect
+Must the professor who the student believe couldn't win the race?	5.57512092590332	Couldn't the professor who the student must believe win the race?	5.722475051879883	incorrect
+Won't the player who the officer serve can stay?	6.8704514503479	Can the player who the officer won't serve stay?	7.221402645111084	incorrect
+Didn't the woman who the student follow won't see the game?	5.684136390686035	Won't the woman who the student didn't follow see the game?	5.425907135009766	correct
+Could the boy who the man hit might show the evidence to him?	5.518310070037842	Might the boy who the man could hit show the evidence to him?	5.989185810089111	incorrect
+Can't the doctor who the player hit can end the game?	5.994237422943115	Can the doctor who the player can't hit end the game?	5.960305690765381	correct
+Should the mother who the child ask does run?	7.044180393218994	Does the mother who the child should ask run?	6.4210333824157715	correct
+Mustn't the daughter who the teacher meet shouldn't invite the guest?	5.956734657287598	Shouldn't the daughter who the teacher mustn't meet invite the guest?	5.956822872161865	incorrect
+Must the lady who the army kill didn't rest?	7.012101173400879	Didn't the lady who the army must kill rest?	6.119506359100342	correct
+Might the professor who the police find can arrive?	7.2995171546936035	Can the professor who the police might find arrive?	7.481977939605713	incorrect
+Must the mother who the friend trust can walk?	6.802060604095459	Can the mother who the friend must trust walk?	7.8952178955078125	incorrect
+Might the daughter who the friend call won't swim?	6.825917720794678	Won't the daughter who the friend might call swim?	6.410983562469482	correct
+Will the doctor who the man love must give the letter to him?	5.352800369262695	Must the doctor who the man will love give the letter to him?	5.659841537475586	incorrect
+Can't the doctor who the student see may tell the story to him?	5.4529290199279785	May the doctor who the student can't see tell the story to him?	4.967119216918945	correct
+Doesn't the father who the student join might lie down?	5.534000396728516	Might the father who the student doesn't join lie down?	6.915755271911621	incorrect
+Didn't the doctor who the team follow mustn't wait?	6.3629913330078125	Mustn't the doctor who the team didn't follow wait?	6.279834747314453	correct
+Doesn't the woman who the student believe mustn't lie down?	4.786074161529541	Mustn't the woman who the student doesn't believe lie down?	5.338211536407471	incorrect
+May the king who the soldier attack will play the music?	6.5791192054748535	Will the king who the soldier may attack play the music?	7.060953617095947	incorrect
+Might the father who the president invite won't watch the video?	6.9348344802856445	Won't the father who the president might invite watch the video?	5.804444789886475	correct
+Would the king who the student join might buy the book?	6.382726192474365	Might the king who the student would join buy the book?	7.200223445892334	incorrect
+Must the princess who the actor marry did design the program?	7.8200201988220215	Did the princess who the actor must marry design the program?	7.270977020263672	correct
+Should the president who the student understand couldn't travel?	6.653826713562012	Couldn't the president who the student should understand travel?	5.910621166229248	correct
+Shouldn't the woman who the government support may run?	5.738927364349365	May the woman who the government shouldn't support run?	5.891057014465332	incorrect
+Must the woman who the man believe couldn't stay?	5.89114236831665	Couldn't the woman who the man must believe stay?	5.571074962615967	correct
+Would the king who the soldier save must hit the ball?	6.8974785804748535	Must the king who the soldier would save hit the ball?	6.839458465576172	correct
+Doesn't the girl who the government support did rest?	6.121734619140625	Did the girl who the government doesn't support rest?	6.552635192871094	incorrect
+Can't the wife who the child ask could work?	6.478814601898193	Could the wife who the child can't ask work?	6.100014686584473	correct
+Must the wife who the parent love didn't sit?	6.73936128616333	Didn't the wife who the parent must love sit?	6.666905879974365	correct
+May the president who the soldier save can hold the meeting?	6.84151554107666	Can the president who the soldier may save hold the meeting?	7.713154315948486	incorrect
+May the boy who the mother tell the story to couldn't support the team?	5.5259199142456055	Couldn't the boy who the mother may tell the story to support the team?	5.280233860015869	correct
+Mustn't the wife who the man find didn't reach the agreement?	5.861374855041504	Didn't the wife who the man mustn't find reach the agreement?	5.878775119781494	incorrect
+Should the man who the actor marry will inform the police?	5.959315299987793	Will the man who the actor should marry inform the police?	5.393230438232422	correct
+Would the princess who the teacher meet did prove the theory?	7.012665748596191	Did the princess who the teacher would meet prove the theory?	6.921453475952148	correct
+Can the professor who the player lead didn't trust the assistant?	6.614593505859375	Didn't the professor who the player can lead trust the assistant?	6.671832084655762	incorrect
+May the man who the police call can't arrive?	5.0961480140686035	Can't the man who the police may call arrive?	6.340847969055176	incorrect
+Couldn't the president who the doctor understand didn't sit?	6.077306747436523	Didn't the president who the doctor couldn't understand sit?	6.1829938888549805	incorrect
+Should the player who the student watch mustn't sit?	7.115429401397705	Mustn't the player who the student should watch sit?	6.604576110839844	correct
+May the doctor who the teacher help doesn't drive the bus?	5.3981218338012695	Doesn't the doctor who the teacher may help drive the bus?	4.9556121826171875	correct
+Can the girl who the president meet doesn't reach out to the man?	5.85337495803833	Doesn't the girl who the president can meet reach out to the man?	5.191761493682861	correct
+Can the president who the student trust must lie down?	6.864917278289795	Must the president who the student can trust lie down?	6.940345764160156	incorrect
+Can the wife who the actor marry will leave?	8.34288501739502	Will the wife who the actor can marry leave?	7.097052574157715	correct
+Couldn't the father who the doctor save shouldn't buy the goods?	5.484890460968018	Shouldn't the father who the doctor couldn't save buy the goods?	5.3255791664123535	correct
+Should the president who the woman believe won't prove the theory?	6.252593994140625	Won't the president who the woman should believe prove the theory?	5.910429954528809	correct
+Would the daughter who the president invite could find the information?	6.087960243225098	Could the daughter who the president would invite find the information?	6.288848876953125	incorrect
+Does the father who the boy hit couldn't watch the video?	5.455262184143066	Couldn't the father who the boy does hit watch the video?	5.5161638259887695	incorrect
+Did the wife who the player join would stand?	7.194740295410156	Would the wife who the player did join stand?	7.401518821716309	incorrect
+Didn't the brother who the woman see will travel?	6.339900016784668	Will the brother who the woman didn't see travel?	5.9266743659973145	correct
+Did the boy who the teacher meet can leave?	5.976086139678955	Can the boy who the teacher did meet leave?	7.83555793762207	incorrect
+Does the girl who the army attack can sit?	6.944590091705322	Can the girl who the army does attack sit?	8.041183471679688	incorrect
+Should the president who the teacher ask would buy the house?	5.98297119140625	Would the president who the teacher should ask buy the house?	5.633054256439209	correct
+Will the father who the student trust did wait?	6.564829349517822	Did the father who the student will trust wait?	6.819316387176514	incorrect
+Can the doctor who the player trust should invite the guest?	7.36352014541626	Should the doctor who the player can trust invite the guest?	6.932670593261719	correct
+May the boy who the mother tell the story to couldn't lie down?	5.122766971588135	Couldn't the boy who the mother may tell the story to lie down?	4.857143402099609	correct
+Shouldn't the doctor who the team attack does learn the language?	6.254961013793945	Does the doctor who the team shouldn't attack learn the language?	6.303229808807373	incorrect
+Did the woman who the player reach out to can stay?	6.103707790374756	Can the woman who the player did reach out to stay?	6.369204521179199	incorrect
+Shouldn't the brother who the soldier serve didn't swim?	5.927638530731201	Didn't the brother who the soldier shouldn't serve swim?	6.527292728424072	incorrect
+Does the professor who the leader invite mustn't sit?	6.659614562988281	Mustn't the professor who the leader does invite sit?	7.086443901062012	incorrect
+May the professor who the army attack shouldn't walk?	6.914773464202881	Shouldn't the professor who the army may attack walk?	6.623409271240234	correct
+Didn't the princess who the president lead does travel?	7.474053859710693	Does the princess who the president didn't lead travel?	6.6167755126953125	correct
+Did the brother who the child watch couldn't stand?	6.349680423736572	Couldn't the brother who the child did watch stand?	5.959742546081543	correct
+Can't the player who the leader meet might stop the program?	6.730851650238037	Might the player who the leader can't meet stop the program?	6.512206554412842	correct
+Must the professor who the student understand can't save the energy?	6.351893901824951	Can't the professor who the student must understand save the energy?	7.080615997314453	incorrect
+Can the boy who the student see may tell the truth?	6.053863525390625	May the boy who the student can see tell the truth?	4.898123264312744	correct
+Would the professor who the woman find mustn't run?	6.466597080230713	Mustn't the professor who the woman would find run?	6.278768062591553	correct
+Might the president who the player hit won't stand?	7.040218353271484	Won't the president who the player might hit stand?	6.199938774108887	correct
+Won't the daughter who the team reach out to can't wait?	5.46257209777832	Can't the daughter who the team won't reach out to wait?	5.66400146484375	incorrect
+Will the president who the player hit did trust the friend?	6.965019226074219	Did the president who the player will hit trust the friend?	6.606614589691162	correct
+Could the prince who the friend tell the story to can't walk?	5.879410743713379	Can't the prince who the friend could tell the story to walk?	5.632598400115967	correct
+Could the prince who the friend tell the story to can't play the game?	5.379001617431641	Can't the prince who the friend could tell the story to play the game?	5.05225944519043	correct
+Didn't the doctor who the team follow mustn't make the book?	6.447144031524658	Mustn't the doctor who the team didn't follow make the book?	6.0346503257751465	correct
+Doesn't the brother who the player join shouldn't travel?	5.610774993896484	Shouldn't the brother who the player doesn't join travel?	5.5958428382873535	correct
+Would the mother who the woman marry didn't report the crime?	5.379515647888184	Didn't the mother who the woman would marry report the crime?	5.79721212387085	incorrect
+Might the doctor who the minister lead did end the war?	6.998345851898193	Did the doctor who the minister might lead end the war?	5.9658203125	correct
+Can the professor who the leader meet could live with the family?	6.730902671813965	Could the professor who the leader can meet live with the family?	5.705897808074951	correct
+May the man who the officer serve shouldn't love the family?	5.832217693328857	Shouldn't the man who the officer may serve love the family?	5.67210578918457	correct
+Mustn't the president who the student ask will throw the stone?	6.376184940338135	Will the president who the student mustn't ask throw the stone?	6.552682399749756	incorrect
+Did the woman who the student follow will live with the parents?	5.6045451164245605	Will the woman who the student did follow live with the parents?	6.023833274841309	incorrect
+Doesn't the daughter who the team attack won't prove the theory?	5.807721138000488	Won't the daughter who the team doesn't attack prove the theory?	6.478396892547607	incorrect
+Doesn't the daughter who the student meet would swim?	5.9893479347229	Would the daughter who the student doesn't meet swim?	6.245666027069092	incorrect
+Could the princess who the man marry did drive the car?	6.5920586585998535	Did the princess who the man could marry drive the car?	5.893528461456299	correct
+Will the woman who the man see could walk?	6.083638668060303	Could the woman who the man will see walk?	6.163992881774902	incorrect
+May the president who the group reach out to can't show support for the man?	5.865606784820557	Can't the president who the group may reach out to show support for the man?	5.6453399658203125	correct
+Mustn't the wife who the man find didn't stand?	5.990683555603027	Didn't the wife who the man mustn't find stand?	5.908125400543213	correct
+Did the king who the parent help didn't stay?	6.781346321105957	Didn't the king who the parent did help stay?	6.851569652557373	incorrect
+Can the girl who the president meet may arrive?	7.437169551849365	May the girl who the president can meet arrive?	6.3100433349609375	correct
+Doesn't the president who the doctor help mustn't run?	5.8940558433532715	Mustn't the president who the doctor doesn't help run?	5.844048976898193	correct
+Should the father who the mother tell the story to can't stay?	5.474591255187988	Can't the father who the mother should tell the story to stay?	5.144139289855957	correct
+May the king who the student join would produce the result?	7.194966793060303	Would the king who the student may join produce the result?	6.74403190612793	correct
+Won't the president who the police find shouldn't end the war?	4.821077823638916	Shouldn't the president who the police won't find end the war?	4.733891010284424	correct
+Can't the player who the president lead shouldn't lead the team?	6.1451640129089355	Shouldn't the player who the president can't lead lead the team?	4.946402072906494	correct
+Can the father who the woman watch mustn't walk?	7.1920976638793945	Mustn't the father who the woman can watch walk?	6.095974922180176	correct
+Did the doctor who the doctor understand did wait?	6.904302597045898	Did the doctor who the doctor did understand wait?	6.6453471183776855	correct
+Mustn't the president who the child love may study the history?	6.189285755157471	May the president who the child mustn't love study the history?	6.06817626953125	correct
+Must the girl who the teacher meet will rest?	6.807984828948975	Will the girl who the teacher must meet rest?	6.341108798980713	correct
+Shouldn't the doctor who the soldier save can't run?	6.226615905761719	Can't the doctor who the soldier shouldn't save run?	6.973379135131836	incorrect
+Does the man who the doctor help won't stay?	5.40219259262085	Won't the man who the doctor does help stay?	5.704926013946533	incorrect
+Should the daughter who the woman see didn't hit the record?	5.910383701324463	Didn't the daughter who the woman should see hit the record?	5.508756637573242	correct
+Couldn't the president who the student find didn't love music?	5.659214973449707	Didn't the president who the student couldn't find love music?	5.753007411956787	incorrect
+Will the lady who the student believe may wait?	6.323328018188477	May the lady who the student will believe wait?	6.065083026885986	correct
+Mustn't the doctor who the worker serve may rest?	6.534127712249756	May the doctor who the worker mustn't serve rest?	6.744143962860107	incorrect
+Won't the student who the professor teach must wait?	6.10878849029541	Must the student who the professor won't teach wait?	6.558190822601318	incorrect
+Doesn't the princess who the boy hit can't work?	5.221926689147949	Can't the princess who the boy doesn't hit work?	6.20827579498291	incorrect
+Might the father who the president invite won't stand?	7.403730392456055	Won't the father who the president might invite stand?	6.458436012268066	correct
+May the mother who the soldier save might earn money?	7.472403049468994	Might the mother who the soldier may save earn money?	8.110140800476074	incorrect
+Didn't the brother who the student understand couldn't run?	6.40111780166626	Couldn't the brother who the student didn't understand run?	5.547220230102539	correct
+Will the brother who the student meet should invite the committee?	6.537668704986572	Should the brother who the student will meet invite the committee?	6.457615852355957	correct
+Could the brother who the president invite did read the book?	6.291834354400635	Did the brother who the president could invite read the book?	5.960653305053711	correct
+Can't the president who the player hit doesn't lie down?	5.898353576660156	Doesn't the president who the player can't hit lie down?	4.909322261810303	correct
+May the doctor who the friend support couldn't reach out to the professor?	6.055897235870361	Couldn't the doctor who the friend may support reach out to the professor?	5.912238597869873	correct
+Mustn't the player who the student trust should rest?	6.209741115570068	Should the player who the student mustn't trust rest?	7.10707950592041	incorrect
+Mustn't the boy who the woman marry could swim?	5.916304588317871	Could the boy who the woman mustn't marry swim?	6.167762279510498	incorrect
+Doesn't the king who the student find does stand?	6.687722682952881	Does the king who the student doesn't find stand?	6.594065189361572	correct
+Mustn't the mother who the man believe doesn't lead the group?	5.459467887878418	Doesn't the mother who the man mustn't believe lead the group?	5.087397575378418	correct
+Can't the doctor who the player hit doesn't work?	5.976541996002197	Doesn't the doctor who the player can't hit work?	5.1046271324157715	correct
+Does the wife who the friend help doesn't create art?	6.622776031494141	Doesn't the wife who the friend does help create art?	5.915648937225342	correct
+Can't the boy who the student meet should arrive?	6.853903293609619	Should the boy who the student can't meet arrive?	6.5092082023620605	correct
+Couldn't the girl who the coach teach did win the war?	5.394955635070801	Did the girl who the coach couldn't teach win the war?	5.750965118408203	incorrect
+Does the boy who the soldier save shouldn't swim?	6.616848945617676	Shouldn't the boy who the soldier does save swim?	6.6483354568481445	incorrect
+Might the man who the woman find did follow the road?	6.256649017333984	Did the man who the woman might find follow the road?	5.2648138999938965	correct
+Doesn't the king who the teacher meet may describe the picture?	6.004638671875	May the king who the teacher doesn't meet describe the picture?	6.427754878997803	incorrect
+Should the mother who the child love shouldn't travel?	5.702171325683594	Shouldn't the mother who the child should love travel?	5.140286445617676	correct
+Didn't the player who the student watch could win the match?	5.449183940887451	Could the player who the student didn't watch win the match?	5.812501907348633	incorrect
+Couldn't the professor who the friend trust may start the war?	5.3940324783325195	May the professor who the friend couldn't trust start the war?	5.989083766937256	incorrect
+Can the boy who the student meet won't save the energy?	6.727229118347168	Won't the boy who the student can meet save the energy?	5.864720821380615	correct
+Did the professor who the actor marry may walk?	8.074108123779297	May the professor who the actor did marry walk?	7.553524494171143	correct
+Should the professor who the council support did close the door?	6.435236930847168	Did the professor who the council should support close the door?	5.895838260650635	correct
+Might the brother who the president meet didn't buy the goods?	5.960163593292236	Didn't the brother who the president might meet buy the goods?	5.623578071594238	correct
+Mustn't the president who the teacher teach will rest?	6.642704010009766	Will the president who the teacher mustn't teach rest?	6.958273410797119	incorrect
+Does the prince who the mother tell the story to could win the game?	5.732156276702881	Could the prince who the mother does tell the story to win the game?	5.847142219543457	incorrect
+Couldn't the president who the police find shouldn't stay?	5.285189628601074	Shouldn't the president who the police couldn't find stay?	5.371489524841309	incorrect
+Mustn't the woman who the boy hit could sit?	5.923581600189209	Could the woman who the boy mustn't hit sit?	6.338505268096924	incorrect
+Might the president who the soldier save can arrive?	8.365256309509277	Can the president who the soldier might save arrive?	8.335172653198242	correct
+Does the prince who the man believe doesn't join the team?	5.5435590744018555	Doesn't the prince who the man does believe join the team?	5.510977745056152	correct
+Doesn't the player who the student follow does paint the wall?	6.124823570251465	Does the player who the student doesn't follow paint the wall?	5.759695053100586	correct
+Won't the player who the officer serve did call the friend?	7.060311794281006	Did the player who the officer won't serve call the friend?	6.690135478973389	correct
+Mustn't the president who the teacher teach will save the money?	5.969180107116699	Will the president who the teacher mustn't teach save the money?	5.971504211425781	incorrect
+Shouldn't the daughter who the child see can run?	5.8432159423828125	Can the daughter who the child shouldn't see run?	6.929490566253662	incorrect
+Doesn't the player who the teacher believe mustn't marry the woman?	5.019390106201172	Mustn't the player who the teacher doesn't believe marry the woman?	5.71854829788208	incorrect
+Didn't the president who the teacher call can't feed the birds?	5.774916648864746	Can't the president who the teacher didn't call feed the birds?	5.944370269775391	incorrect
+Should the woman who the army attack might sit?	7.217129707336426	Might the woman who the army should attack sit?	7.623892307281494	incorrect
+Can't the doctor who the student see should travel?	6.854001045227051	Should the doctor who the student can't see travel?	5.968090057373047	correct
+Does the boy who the doctor understand can't live with the family?	5.145946979522705	Can't the boy who the doctor does understand live with the family?	6.52207088470459	incorrect
+Won't the professor who the man watch should leave?	6.245798587799072	Should the professor who the man won't watch leave?	6.459632396697998	incorrect
+Mustn't the woman who the father tell the story to could hear the news?	5.011878967285156	Could the woman who the father mustn't tell the story to hear the news?	4.792652130126953	correct
+Doesn't the brother who the player join should teach the class?	5.842981815338135	Should the brother who the player doesn't join teach the class?	6.112473487854004	incorrect
+Doesn't the player who the actor marry could love music?	6.333930015563965	Could the player who the actor doesn't marry love music?	6.750005722045898	incorrect
+Might the player who the mother tell the story to mustn't walk?	6.504424095153809	Mustn't the player who the mother might tell the story to walk?	5.606062889099121	correct
+Can't the mother who the teacher ask won't walk?	5.565268516540527	Won't the mother who the teacher can't ask walk?	5.471850395202637	correct
+Won't the professor who the friend help couldn't end the game?	5.793520450592041	Couldn't the professor who the friend won't help end the game?	5.203108787536621	correct
+Would the lady who the soldier attack couldn't sit?	6.573085308074951	Couldn't the lady who the soldier would attack sit?	6.279073715209961	correct
+Might the man who the boy find did sit?	7.527770519256592	Did the man who the boy might find sit?	5.945431232452393	correct
+Doesn't the doctor who the child watch might sell the goods?	5.545022964477539	Might the doctor who the child doesn't watch sell the goods?	6.325052738189697	incorrect
+Would the prince who the man watch can lie down?	6.364127159118652	Can the prince who the man would watch lie down?	7.060284614562988	incorrect
+Can the father who the teacher save should stay?	7.779839515686035	Should the father who the teacher can save stay?	7.02576208114624	correct
+Might the king who the woman love can't buy the goods?	6.073397159576416	Can't the king who the woman might love buy the goods?	6.1452789306640625	incorrect
+Should the man who the actor marry may work?	7.0616135597229	May the man who the actor should marry work?	6.387969017028809	correct
+Won't the mother who the leader invite may lie down?	5.978481769561768	May the mother who the leader won't invite lie down?	6.327304840087891	incorrect
+May the professor who the student understand can't run?	6.354900360107422	Can't the professor who the student may understand run?	7.574461460113525	incorrect
+Shouldn't the professor who the man hit mustn't work?	5.530336856842041	Mustn't the professor who the man shouldn't hit work?	5.626352310180664	incorrect
+Does the woman who the soldier serve should stay?	6.387246131896973	Should the woman who the soldier does serve stay?	7.0594377517700195	incorrect
+Shouldn't the president who the woman invite might join the party?	5.129205703735352	Might the president who the woman shouldn't invite join the party?	6.28816032409668	incorrect
+Would the brother who the man believe can design the system?	6.309708595275879	Can the brother who the man would believe design the system?	7.587295055389404	incorrect
+Won't the doctor who the leader invite doesn't stay?	5.770741939544678	Doesn't the doctor who the leader won't invite stay?	5.463124752044678	correct
+Will the president who the coach teach can't arrive?	6.564277172088623	Can't the president who the coach will teach arrive?	7.259282112121582	incorrect
+Does the princess who the child love would rest?	6.167588233947754	Would the princess who the child does love rest?	6.609039306640625	incorrect
+Can the brother who the worker serve shouldn't walk?	7.485538482666016	Shouldn't the brother who the worker can serve walk?	6.2594099044799805	correct
+Won't the professor who the man hit mustn't leave?	5.808396816253662	Mustn't the professor who the man won't hit leave?	5.878354072570801	incorrect
+Can the prince who the player reach out to may walk?	6.9924187660217285	May the prince who the player can reach out to walk?	5.643449306488037	correct
+Might the woman who the soldier save doesn't feed the birds?	6.669798851013184	Doesn't the woman who the soldier might save feed the birds?	5.408453464508057	correct
+Couldn't the president who the child follow may swim?	6.308313846588135	May the president who the child couldn't follow swim?	6.489116191864014	incorrect
+Didn't the doctor who the government support could control the game?	5.901881694793701	Could the doctor who the government didn't support control the game?	5.564982891082764	correct
+Mustn't the player who the leader invite would run?	6.476229667663574	Would the player who the leader mustn't invite run?	6.975271701812744	incorrect
+Would the man who the teacher tell the story to mustn't keep the record?	4.740620136260986	Mustn't the man who the teacher would tell the story to keep the record?	4.8497114181518555	incorrect
+Would the woman who the soldier save did stand?	7.540464878082275	Did the woman who the soldier would save stand?	6.899337291717529	correct
+Won't the lady who the student watch will walk?	6.145656585693359	Will the lady who the student won't watch walk?	6.106280326843262	correct
+Can't the father who the player reach out to doesn't support the team?	5.809084415435791	Doesn't the father who the player can't reach out to support the team?	4.398834705352783	correct
+Didn't the wife who the man hit can't lead the group?	5.281108379364014	Can't the wife who the man didn't hit lead the group?	5.703409671783447	incorrect
+Can the woman who the army attack might protect the people?	6.491534233093262	Might the woman who the army can attack protect the people?	6.597411632537842	incorrect
+Would the wife who the woman find can't walk?	5.671020030975342	Can't the wife who the woman would find walk?	6.787976264953613	incorrect
+Won't the man who the president invite does swim?	6.575511455535889	Does the man who the president won't invite swim?	5.697702407836914	correct
+Could the prince who the man find would drive the truck?	6.004618167877197	Would the prince who the man could find drive the truck?	5.739929676055908	correct
+Can't the man who the officer serve should walk?	7.06707763671875	Should the man who the officer can't serve walk?	5.907710075378418	correct
+Can the professor who the child see may stay?	7.774067401885986	May the professor who the child can see stay?	6.576404094696045	correct
+Might the professor who the student meet doesn't stay?	6.919087886810303	Doesn't the professor who the student might meet stay?	5.4965314865112305	correct
+Might the president who the teacher believe must rest?	7.741567134857178	Must the president who the teacher might believe rest?	7.521063327789307	correct
+Does the doctor who the team reach out to would allow access?	6.715030193328857	Would the doctor who the team does reach out to allow access?	6.781529903411865	incorrect
+Can't the man who the president lead shouldn't run?	6.535379886627197	Shouldn't the man who the president can't lead run?	5.3948893547058105	correct
+Can the professor who the doctor save would protect the language?	8.082283020019531	Would the professor who the doctor can save protect the language?	6.720174789428711	correct
+Didn't the king who the leader lead might rest?	6.911413669586182	Might the king who the leader didn't lead rest?	7.309596061706543	incorrect
+Should the player who the student trust won't understand the language?	6.177732944488525	Won't the player who the student should trust understand the language?	6.116265296936035	correct
+Can't the boy who the student watch did trust the assistant?	7.109408855438232	Did the boy who the student can't watch trust the assistant?	6.029420375823975	correct
+Mustn't the man who the player follow might manage the team?	5.797720909118652	Might the man who the player mustn't follow manage the team?	6.587524890899658	incorrect
+Didn't the woman who the student follow won't lie down?	5.679858684539795	Won't the woman who the student didn't follow lie down?	5.240955352783203	correct
+Mustn't the princess who the teacher believe would stay?	6.376795768737793	Would the princess who the teacher mustn't believe stay?	6.88197660446167	incorrect
+Should the prince who the child see did lead the group?	6.419977188110352	Did the prince who the child should see lead the group?	5.6133270263671875	correct
+Couldn't the father who the soldier serve should stay?	6.178690433502197	Should the father who the soldier couldn't serve stay?	6.818090438842773	incorrect
+Would the player who the president lead shouldn't rest?	7.104550361633301	Shouldn't the player who the president would lead rest?	6.096553802490234	correct
+May the lady who the child see doesn't explain the reason?	5.36719274520874	Doesn't the lady who the child may see explain the reason?	5.009192943572998	correct
+Might the mother who the council support could stand?	7.971890449523926	Could the mother who the council might support stand?	7.363034725189209	correct
+Could the father who the minister serve might stand?	7.546156406402588	Might the father who the minister could serve stand?	7.7920403480529785	incorrect
+Can the wife who the actor marry will call the friend?	7.930059432983398	Will the wife who the actor can marry call the friend?	6.752112865447998	correct
+Didn't the brother who the police call doesn't stay?	5.560354232788086	Doesn't the brother who the police didn't call stay?	5.103477954864502	correct
+Didn't the father who the player reach out to could show support for the man?	5.999820709228516	Could the father who the player didn't reach out to show support for the man?	5.485363006591797	correct
+Should the brother who the army kill couldn't sell the car?	5.956793308258057	Couldn't the brother who the army should kill sell the car?	5.3776164054870605	correct
+Mustn't the woman who the father tell the story to could stay?	5.385618209838867	Could the woman who the father mustn't tell the story to stay?	5.166965484619141	correct
+Shouldn't the doctor who the leader lead can rest?	6.223371505737305	Can the doctor who the leader shouldn't lead rest?	7.533348083496094	incorrect
+Could the brother who the student watch mustn't live with the parents?	6.172235488891602	Mustn't the brother who the student could watch live with the parents?	5.736642837524414	correct
+May the prince who the teacher help doesn't leave?	6.446392059326172	Doesn't the prince who the teacher may help leave?	6.07562255859375	correct
+Mustn't the prince who the group reach out to should marry the woman?	5.879695415496826	Should the prince who the group mustn't reach out to marry the woman?	5.74457311630249	correct
+Could the lady who the player follow mustn't watch the game?	5.996467590332031	Mustn't the lady who the player could follow watch the game?	5.788999080657959	correct
+Couldn't the professor who the soldier serve can play the song?	6.2541728019714355	Can the professor who the soldier couldn't serve play the song?	6.961434841156006	incorrect
+Might the princess who the president lead would allow access?	8.01784610748291	Would the princess who the president might lead allow access?	7.520465850830078	correct
+Might the man who the woman marry didn't enjoy the music?	5.565619945526123	Didn't the man who the woman might marry enjoy the music?	5.424803733825684	correct
+Might the lady who the teacher teach doesn't face the risk?	6.894505500793457	Doesn't the lady who the teacher might teach face the risk?	5.73301362991333	correct
+Would the daughter who the student call could travel?	6.596479892730713	Could the daughter who the student would call travel?	7.0267333984375	incorrect
+Doesn't the girl who the government support does carry the child?	5.524943828582764	Does the girl who the government doesn't support carry the child?	5.289609432220459	correct
+Could the wife who the player join would report the crime?	6.84960412979126	Would the wife who the player could join report the crime?	6.550387382507324	correct
+Would the boy who the student meet will manage the team?	5.8573126792907715	Will the boy who the student would meet manage the team?	6.131763458251953	incorrect
+Does the doctor who the man help won't use the system?	5.875693321228027	Won't the doctor who the man does help use the system?	5.574427604675293	correct
+Could the mother who the student watch mustn't meet the team?	6.648216247558594	Mustn't the mother who the student could watch meet the team?	6.2248148918151855	correct
+Would the daughter who the teacher understand can't put pressure on the team?	5.44624662399292	Can't the daughter who the teacher would understand put pressure on the team?	6.266002178192139	incorrect
+Would the daughter who the doctor understand didn't travel?	6.728143215179443	Didn't the daughter who the doctor would understand travel?	6.641486644744873	correct
+Can't the president who the woman marry won't sell the goods?	5.552036285400391	Won't the president who the woman can't marry sell the goods?	5.049701690673828	correct
+May the player who the student ask would walk?	7.13108491897583	Would the player who the student may ask walk?	7.483819007873535	incorrect
+Does the mother who the man see couldn't invite the friend?	6.118569850921631	Couldn't the mother who the man does see invite the friend?	6.055375576019287	correct
+Could the president who the group reach out to may travel?	6.882689952850342	May the president who the group could reach out to travel?	5.771578311920166	correct
+Couldn't the professor who the government support might run?	6.127941131591797	Might the professor who the government couldn't support run?	6.804009914398193	incorrect
+Shouldn't the professor who the leader meet can't fix the problem?	5.338587284088135	Can't the professor who the leader shouldn't meet fix the problem?	6.05869197845459	incorrect
+Can the president who the player lead didn't buy the house?	6.107692718505859	Didn't the president who the player can lead buy the house?	6.050864219665527	correct
+Can't the woman who the student watch didn't keep the record?	5.928234577178955	Didn't the woman who the student can't watch keep the record?	5.833627223968506	correct
+Can the brother who the student follow doesn't arrive?	7.594963073730469	Doesn't the brother who the student can follow arrive?	6.070499420166016	correct
+Didn't the brother who the police call doesn't watch the game?	5.289923191070557	Doesn't the brother who the police didn't call watch the game?	4.797387599945068	correct
+Doesn't the girl who the student find will fix the car?	5.088719367980957	Will the girl who the student doesn't find fix the car?	5.384032249450684	incorrect
+Could the brother who the student watch mustn't walk?	6.943445682525635	Mustn't the brother who the student could watch walk?	6.439688682556152	correct
+Couldn't the president who the police find may wait?	5.8275146484375	May the president who the police couldn't find wait?	5.590640544891357	correct
+Shouldn't the man who the boy hit must watch the video?	5.197294235229492	Must the man who the boy shouldn't hit watch the video?	5.860581874847412	incorrect
+Shouldn't the professor who the student meet does explain the reason?	6.058997631072998	Does the professor who the student shouldn't meet explain the reason?	5.563239097595215	correct
+Will the mother who the player trust may watch the film?	6.249912261962891	May the mother who the player will trust watch the film?	6.48809814453125	incorrect
+Shouldn't the doctor who the student find did study the language?	5.829920291900635	Did the doctor who the student shouldn't find study the language?	5.606105327606201	correct
+Mustn't the president who the student ask will lie down?	6.287458419799805	Will the president who the student mustn't ask lie down?	6.171565055847168	correct
+Can't the man who the student trust did rest?	6.732677459716797	Did the man who the student can't trust rest?	5.930539608001709	correct
+Does the professor who the man find must leave?	6.543803691864014	Must the professor who the man does find leave?	7.476376533508301	incorrect
+Shouldn't the doctor who the team attack does swim?	6.812169551849365	Does the doctor who the team shouldn't attack swim?	6.759797096252441	correct
+Does the mother who the team follow couldn't keep the record?	6.192938804626465	Couldn't the mother who the team does follow keep the record?	6.279230117797852	incorrect
+Should the professor who the officer serve mustn't stand?	7.0648627281188965	Mustn't the professor who the officer should serve stand?	6.486559867858887	correct
+Should the mother who the soldier save might draw attention?	7.681715965270996	Might the mother who the soldier should save draw attention?	7.999539852142334	incorrect
+Couldn't the professor who the teacher invite should believe the story?	5.755019664764404	Should the professor who the teacher couldn't invite believe the story?	6.078680515289307	incorrect
+Won't the king who the child see does stay?	6.505548000335693	Does the king who the child won't see stay?	5.932288646697998	correct
+Doesn't the player who the actor marry could leave?	6.2985663414001465	Could the player who the actor doesn't marry leave?	6.7546515464782715	incorrect
+Could the professor who the army attack couldn't design the system?	6.310858726501465	Couldn't the professor who the army could attack design the system?	5.934416770935059	correct
+Won't the prince who the parent love couldn't stop the car?	5.328231334686279	Couldn't the prince who the parent won't love stop the car?	5.597252368927002	incorrect
+Can't the man who the officer serve should close the eyes?	6.564519882202148	Should the man who the officer can't serve close the eyes?	5.608808994293213	correct
+Won't the king who the group reach out to must allow access?	6.665521144866943	Must the king who the group won't reach out to allow access?	6.574824810028076	correct
+Shouldn't the brother who the soldier serve didn't play with the ball?	5.282876014709473	Didn't the brother who the soldier shouldn't serve play with the ball?	5.752248764038086	incorrect
+Didn't the man who the council support must run?	6.054389476776123	Must the man who the council didn't support run?	6.1990203857421875	incorrect
+Will the man who the child follow could live with the family?	5.415702819824219	Could the man who the child will follow live with the family?	5.203363418579102	correct
+Couldn't the doctor who the student trust may lose the war?	5.488128662109375	May the doctor who the student couldn't trust lose the war?	6.144204616546631	incorrect
+Must the professor who the student believe couldn't walk?	6.117608070373535	Couldn't the professor who the student must believe walk?	6.190317630767822	incorrect
+Didn't the president who the child love may buy the house?	5.844707489013672	May the president who the child didn't love buy the house?	5.13576602935791	correct
+Does the boy who the soldier save shouldn't fix the car?	6.2544965744018555	Shouldn't the boy who the soldier does save fix the car?	6.213274955749512	correct
+Mustn't the wife who the child ask doesn't ask the question?	5.175579071044922	Doesn't the wife who the child mustn't ask ask the question?	4.575726509094238	correct
+Can't the president who the woman love didn't wait?	6.075024127960205	Didn't the president who the woman can't love wait?	5.989448070526123	correct
+Mustn't the wife who the woman find would ask the question?	5.648587703704834	Would the wife who the woman mustn't find ask the question?	5.5254225730896	correct
+Shouldn't the player who the teacher ask does play with the ball?	5.683594703674316	Does the player who the teacher shouldn't ask play with the ball?	5.283050537109375	correct
+Doesn't the king who the soldier serve won't stand?	5.844286918640137	Won't the king who the soldier doesn't serve stand?	6.042000770568848	incorrect
+Will the doctor who the teacher believe mustn't sit?	6.421426296234131	Mustn't the doctor who the teacher will believe sit?	6.266980171203613	correct
+Did the player who the police find couldn't stop the program?	5.726855754852295	Couldn't the player who the police did find stop the program?	5.788937568664551	incorrect
+Can't the mother who the father tell the story to did ask the question?	5.086269378662109	Did the mother who the father can't tell the story to ask the question?	4.491817951202393	correct
+Couldn't the man who the professor teach could work?	5.666845798492432	Could the man who the professor couldn't teach work?	5.439276218414307	correct
+Could the player who the government support must keep the record?	6.664528846740723	Must the player who the government could support keep the record?	6.503704071044922	correct
+Will the prince who the team attack couldn't love music?	7.068892478942871	Couldn't the prince who the team will attack love music?	6.692531108856201	correct
+Couldn't the king who the player hit will face the problem?	5.735487937927246	Will the king who the player couldn't hit face the problem?	6.045133590698242	incorrect
+Can the player who the father tell the story to must read the story?	5.968726634979248	Must the player who the father can tell the story to read the story?	5.260339260101318	correct
+Does the prince who the mother tell the story to couldn't run?	5.799087047576904	Couldn't the prince who the mother does tell the story to run?	5.633702754974365	correct
+Might the boy who the leader invite didn't wait?	6.9018378257751465	Didn't the boy who the leader might invite wait?	6.529318332672119	correct
+Shouldn't the professor who the friend tell the story to might send the message?	5.460539817810059	Might the professor who the friend shouldn't tell the story to send the message?	5.616086959838867	incorrect
+Does the brother who the parent support might work?	7.067885398864746	Might the brother who the parent does support work?	7.429937839508057	incorrect
+Can't the woman who the teacher save does walk?	7.405702114105225	Does the woman who the teacher can't save walk?	5.891757965087891	correct
+Could the woman who the man find did choose the leader?	6.333808422088623	Did the woman who the man could find choose the leader?	5.639166355133057	correct
+Might the president who the doctor save should sit?	8.483325004577637	Should the president who the doctor might save sit?	7.727093696594238	correct
+Couldn't the doctor who the student join would stand?	6.1675896644592285	Would the doctor who the student couldn't join stand?	6.509396553039551	incorrect
+Would the daughter who the doctor understand didn't join the party?	5.9921722412109375	Didn't the daughter who the doctor would understand join the party?	6.11199951171875	incorrect
+Didn't the king who the child see did sit?	6.9557785987854	Did the king who the child didn't see sit?	6.198651313781738	correct
+Did the king who the man see won't show the result to the man?	5.7041802406311035	Won't the king who the man did see show the result to the man?	6.023299694061279	incorrect
+Could the daughter who the police find won't stay?	5.998605251312256	Won't the daughter who the police could find stay?	6.1498847007751465	incorrect
+Could the mother who the child watch may arrive?	6.807555198669434	May the mother who the child could watch arrive?	6.593533992767334	correct
+Mustn't the professor who the leader invite does lie down?	6.643307685852051	Does the professor who the leader mustn't invite lie down?	6.136495590209961	correct
+Mustn't the woman who the boy hit could call the friend?	5.8037495613098145	Could the woman who the boy mustn't hit call the friend?	6.220343589782715	incorrect
+Shouldn't the girl who the woman find may swim?	5.7555060386657715	May the girl who the woman shouldn't find swim?	5.605590343475342	correct
+Would the president who the group reach out to can't wait?	5.634134292602539	Can't the president who the group would reach out to wait?	6.064572811126709	incorrect
+Might the king who the woman love can't leave?	6.336508274078369	Can't the king who the woman might love leave?	6.691432952880859	incorrect
+Will the doctor who the man believe doesn't travel?	5.962888717651367	Doesn't the doctor who the man will believe travel?	5.693096160888672	correct
+Will the daughter who the soldier attack might travel?	7.369668960571289	Might the daughter who the soldier will attack travel?	7.759746551513672	incorrect
+Won't the daughter who the army kill could protect the forest?	6.087660789489746	Could the daughter who the army won't kill protect the forest?	6.412766933441162	incorrect
+Shouldn't the president who the woman watch mustn't buy the house?	5.366688251495361	Mustn't the president who the woman shouldn't watch buy the house?	5.652322769165039	incorrect
+Couldn't the brother who the worker serve shouldn't close the eyes?	5.930701732635498	Shouldn't the brother who the worker couldn't serve close the eyes?	5.867591857910156	correct
+Might the wife who the man love didn't lie down?	6.063803672790527	Didn't the wife who the man might love lie down?	5.712734222412109	correct
+Can the player who the doctor help can't run?	7.456104278564453	Can't the player who the doctor can help run?	6.977808475494385	correct
+Must the president who the student see may sit?	7.945107936859131	May the president who the student must see sit?	6.94021463394165	correct
+Won't the mother who the soldier attack can't design the program?	6.2769389152526855	Can't the mother who the soldier won't attack design the program?	6.534890651702881	incorrect
+Can't the president who the man find mustn't walk?	6.458938121795654	Mustn't the president who the man can't find walk?	5.821990966796875	correct
+Will the girl who the parent support mustn't earn money?	6.542903900146484	Mustn't the girl who the parent will support earn money?	6.100871562957764	correct
+Did the player who the police find couldn't swim?	6.084852695465088	Couldn't the player who the police did find swim?	6.371389389038086	incorrect
+Would the boy who the team reach out to should produce the result?	6.011981964111328	Should the boy who the team would reach out to produce the result?	5.6642537117004395	correct
+Won't the daughter who the student call could trust the assistant?	5.7726240158081055	Could the daughter who the student won't call trust the assistant?	6.545951843261719	incorrect

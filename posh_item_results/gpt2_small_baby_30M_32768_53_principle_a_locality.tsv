@@ -1,0 +1,501 @@
+sentence1	PPL1	Sentence2	PPL2	Correct
+Catherine sees herself joined this committee.	7.241232872009277	Catherine sees herself joining this committee.	6.618683338165283	correct
+Gary sees himself joined this committee.	7.47440242767334	Gary sees himself joining this committee.	7.107635974884033	correct
+The girl explains that the man believes in herself.	5.890137195587158	The girl explains that the man believes in himself.	5.544034481048584	correct
+Jerry explains that the female player believes in himself.	5.642970561981201	Jerry explains that the female player believes in herself.	5.656497955322266	incorrect
+Kelly knows that the king enjoys herself.	5.895872116088867	Kelly knows that the king enjoys himself.	5.441549777984619	correct
+Anthony knows that the female president enjoys himself.	5.749168872833252	Anthony knows that the female president enjoys herself.	5.836751461029053	incorrect
+Kelly imagines herself enjoyed that music.	6.730486869812012	Kelly imagines herself enjoying that music.	6.534662246704102	correct
+Anthony caught himself enjoyed that music.	7.64155387878418	Anthony caught himself enjoying that music.	7.3509202003479	correct
+Alice knows that the man introduces herself to others.	5.2473039627075195	Alice knows that the man introduces himself to others.	4.797814846038818	correct
+William knows that the woman introduces himself to others.	4.890861511230469	William knows that the woman introduces herself to others.	4.788753986358643	correct
+Alice pictures herself described the process.	7.571598052978516	Alice pictures herself describing the process.	7.596795082092285	incorrect
+William pictures himself described the process.	7.093022346496582	William pictures himself describing the process.	7.027735233306885	correct
+Victoria explains that the father hides herself.	6.663184642791748	Victoria explains that the father hides himself.	6.1973795890808105	correct
+Jack explains that his mother hides himself.	5.519994735717773	Jack explains that his mother hides herself.	5.638943195343018	incorrect
+Sarah shows that her brother enjoys herself.	5.352940559387207	Sarah shows that her brother enjoys himself.	5.407320499420166	incorrect
+Robert shows that the female president enjoys himself.	5.453607559204102	Robert shows that the female president enjoys herself.	5.461861610412598	incorrect
+Sarah caught herself enjoyed the film.	6.8579912185668945	Sarah caught herself enjoying the film.	6.6262078285217285	correct
+Robert caught himself enjoyed the film.	5.9781389236450195	Robert caught himself enjoying the film.	5.696334362030029	correct
+The daughter imagines herself opened this door.	6.568051338195801	The daughter imagines herself opening this door.	6.661582946777344	incorrect
+Dan imagines himself opened this door.	7.0346198081970215	Dan imagines himself opening this door.	7.077335834503174	incorrect
+Jane feels that the prince teaches herself French.	6.218865394592285	Jane feels that the prince teaches himself French.	6.00661563873291	correct
+The king feels that the wife teaches himself French.	6.450397491455078	The king feels that the wife teaches herself French.	6.2026824951171875	correct
+Jane imagines herself taught the course.	7.289341449737549	Jane imagines herself teaching the course.	7.011013507843018	correct
+The king saw himself taught the course.	6.796477317810059	The king saw himself teaching the course.	6.373982906341553	correct
+Anna feels that the father depends on herself.	6.4735918045043945	Anna feels that the father depends on himself.	6.414509296417236	correct
+The male player feels that the wife depends on himself.	5.828126430511475	The male player feels that the wife depends on herself.	5.617605209350586	correct
+Anna imagines herself lived with her parents.	5.867619037628174	Anna imagines herself living with her parents.	5.751665115356445	correct
+The male player sees himself lived with his parents.	5.988243103027344	The male player sees himself living with his parents.	5.588107585906982	correct
+Maria imagines herself finished a project.	7.318475723266602	Maria imagines herself finishing a project.	7.217764854431152	correct
+Oliver imagines himself finished a project.	6.537447929382324	Oliver imagines himself finishing a project.	6.654818058013916	incorrect
+The wife hears that the male player sees herself appear on television.	6.309807777404785	The wife hears that the male player sees himself appear on television.	6.227060317993164	correct
+The father hears that the female president sees himself appear on television.	6.213982582092285	The father hears that the female president sees herself appear on television.	6.350154399871826	incorrect
+The wife sees herself joined the party.	5.646993160247803	The wife sees herself joining the party.	5.436826229095459	correct
+The father sees himself joined the party.	5.3993425369262695	The father sees himself joining the party.	5.275920391082764	correct
+The lady heard that the brother introduced herself to others.	6.4489593505859375	The lady heard that the brother introduced himself to others.	6.343222141265869	correct
+Adam heard that the female president introduced himself to others.	6.016422748565674	Adam heard that the female president introduced herself to others.	6.059185028076172	incorrect
+The lady imagines herself started this project.	7.073451995849609	The lady imagines herself starting this project.	6.756002902984619	correct
+Adam sees himself started this project.	6.807275295257568	Adam sees himself starting this project.	5.970308780670166	correct
+The boy wrote that the lady protected himself.	5.833491325378418	The boy wrote that the lady protected herself.	5.829564094543457	correct
+The boy pictures himself opened the museum.	7.042368412017822	The boy pictures himself opening the museum.	7.293207168579102	incorrect
+Ann means that the father improves herself.	5.318399429321289	Ann means that the father improves himself.	5.012310028076172	correct
+The male president means that the lady improves himself.	6.029428005218506	The male president means that the lady improves herself.	5.851622104644775	correct
+The female doctor sees herself threw this ball.	6.807381629943848	The female doctor sees herself throwing this ball.	6.346673488616943	correct
+John sees himself threw this ball.	6.627152442932129	John sees himself throwing this ball.	6.07861852645874	correct
+The female president explains that the prince saves herself.	6.329526424407959	The female president explains that the prince saves himself.	6.205474853515625	correct
+The prince explains that the girl saves himself.	6.840365409851074	The prince explains that the girl saves herself.	6.592101097106934	correct
+The girl hears that the male player supports herself.	7.276030540466309	The girl hears that the male player supports himself.	7.499928951263428	incorrect
+Stephen hears that the female doctor supports himself.	5.978035926818848	Stephen hears that the female doctor supports herself.	5.784020900726318	correct
+Alice sees that the father supports herself.	6.674210071563721	Alice sees that the father supports himself.	6.200279712677002	correct
+Adam sees that the daughter supports himself.	5.98780632019043	Adam sees that the daughter supports herself.	5.819700241088867	correct
+Alice sees herself raised some children.	7.70574951171875	Alice sees herself raising some children.	7.144767761230469	correct
+Adam sees himself raised some children.	7.149758338928223	Adam sees himself raising some children.	6.640904426574707	correct
+The woman means to say that the brother protected herself.	5.616042137145996	The woman means to say that the brother protected himself.	5.479249477386475	correct
+Paul means to say that the girl protected himself.	4.762562274932861	Paul means to say that the girl protected herself.	4.511867523193359	correct
+The woman imagines herself designed that program.	6.996075630187988	The woman imagines herself designing that program.	7.205129623413086	incorrect
+Paul imagines himself designed that program.	6.949350833892822	Paul imagines himself designing that program.	7.232913970947266	incorrect
+The female professor learns that the male professor sees herself appear on television.	6.319774150848389	The female professor learns that the male professor sees himself appear on television.	6.214776039123535	correct
+The man learns that the girl sees himself appear on television.	5.388557434082031	The man learns that the girl sees herself appear on television.	5.534653663635254	incorrect
+The female professor imagines herself joined this team.	7.524513244628906	The female professor imagines herself joining this team.	7.084402084350586	correct
+The man imagines himself joined this team.	6.720069885253906	The man imagines himself joining this team.	6.7744951248168945	incorrect
+Mary understands that the male doctor saved herself.	5.8272247314453125	Mary understands that the male doctor saved himself.	5.848414421081543	incorrect
+Matt understands that the girl saved himself.	6.341301918029785	Matt understands that the girl saved herself.	6.203434944152832	correct
+Mary knows that the male professor introduced herself to others.	6.227573394775391	Mary knows that the male professor introduced himself to others.	6.2452168464660645	incorrect
+Carl knows that the wife introduced himself to others.	5.845388412475586	Carl knows that the wife introduced herself to others.	5.70847749710083	correct
+Ruth imagines herself won this game.	6.551918983459473	Ruth imagines herself winning this game.	6.171535015106201	correct
+Stephen imagines himself won this game.	6.665071964263916	Stephen imagines himself winning this game.	6.215608596801758	correct
+The girl sees that the male player changed herself.	6.944128513336182	The girl sees that the male player changed himself.	7.20473575592041	incorrect
+Dennis sees that the mother changed himself.	6.2481818199157715	Dennis sees that the mother changed herself.	5.792555332183838	correct
+The girl sees herself closed her eyes.	5.558394908905029	The girl sees herself closing her eyes.	4.852358818054199	correct
+Dennis sees himself closed his eyes.	5.641760349273682	Dennis sees himself closing his eyes.	5.287238597869873	correct
+Victoria knows that the prince helps herself to food.	6.4069952964782715	Victoria knows that the prince helps himself to food.	6.213246822357178	correct
+The male president knows that the mother helps himself to food.	6.247128009796143	The male president knows that the mother helps herself to food.	5.9702982902526855	correct
+Victoria finds herself called that meeting.	7.030779838562012	Victoria finds herself calling that meeting.	6.541553497314453	correct
+The male president finds himself called that meeting.	7.33127498626709	The male president finds himself calling that meeting.	6.953730583190918	correct
+Carl imagines himself sold that house.	6.901086807250977	Carl imagines himself selling that house.	6.857105255126953	correct
+The female player means to say that the male president hit herself.	5.923089981079102	The female player means to say that the male president hit himself.	5.860047817230225	correct
+Oliver means to say that the lady hit himself.	5.674156188964844	Oliver means to say that the lady hit herself.	5.608316421508789	correct
+The female player imagines herself hit the target.	6.1938982009887695	The female player imagines herself hitting the target.	6.02386999130249	correct
+Oliver imagines himself hit the target.	5.930613040924072	Oliver imagines himself hitting the target.	6.00117826461792	incorrect
+The mother learns that the king supports herself.	6.38800048828125	The mother learns that the king supports himself.	6.253344535827637	correct
+Anthony learns that the female player supports himself.	6.070009708404541	Anthony learns that the female player supports herself.	6.1191582679748535	incorrect
+The mother imagines herself supported that family.	7.5081400871276855	The mother imagines herself supporting that family.	7.355607986450195	correct
+Anthony imagines himself supported that family.	7.535740375518799	Anthony imagines himself supporting that family.	7.605373859405518	incorrect
+Victoria learns that the man prepares herself for the job.	4.59949254989624	Victoria learns that the man prepares himself for the job.	4.555788040161133	correct
+The male player learns that the wife prepares himself for the job.	4.7844038009643555	The male player learns that the wife prepares herself for the job.	4.598948001861572	correct
+Victoria imagines herself finished this season.	6.959756851196289	Victoria imagines herself finishing this season.	7.153230667114258	incorrect
+The male player imagines himself finished this season.	6.757137775421143	The male player imagines himself finishing this season.	7.011526584625244	incorrect
+The female professor imagines herself drove a bus.	7.131791114807129	The female professor imagines herself driving a bus.	6.32307767868042	correct
+Jason imagines himself drove a bus.	6.624846935272217	Jason imagines himself driving a bus.	6.36817741394043	correct
+The woman finds herself painted a wall.	5.954084873199463	The woman finds herself painting a wall.	5.4262003898620605	correct
+Charles finds himself painted some wall.	6.638975143432617	Charles finds himself painting some wall.	6.662381649017334	incorrect
+The female president hears that the prince trusts herself.	6.73500919342041	The female president hears that the prince trusts himself.	6.583707332611084	correct
+The father hears that the female president trusts himself.	7.102503299713135	The father hears that the female president trusts herself.	7.055222511291504	correct
+The female president sees herself trusted this friend.	7.675583839416504	The female president sees herself trusting this friend.	6.892334461212158	correct
+The father sees himself trusted this friend.	6.985327243804932	The father sees himself trusting this friend.	6.340875148773193	correct
+Alice sees herself added a record to the system.	6.722451686859131	Alice sees herself adding a record to the system.	6.393004417419434	correct
+Alexander sees himself added a record to the system.	6.210572719573975	Alexander sees himself adding a record to the system.	5.910045146942139	correct
+The woman says that the king understands herself.	5.670950889587402	The woman says that the king understands himself.	5.425841808319092	correct
+Ben says that the woman understands himself.	6.030545711517334	Ben says that the woman understands herself.	5.96890926361084	correct
+Victoria imagines herself threw the ball.	6.673806190490723	Victoria imagines herself throwing the ball.	6.224815368652344	correct
+Adam pictures himself threw the ball.	6.755557537078857	Adam pictures himself throwing the ball.	6.969912052154541	incorrect
+Maria pictures herself sold a car.	7.538349151611328	Maria pictures herself selling a car.	7.737321376800537	incorrect
+The boy pictures himself sold a car.	6.761648178100586	The boy pictures himself selling a car.	6.991966724395752	incorrect
+The female president feels that the boy loses herself in the game.	5.0943098068237305	The female president feels that the boy loses himself in the game.	4.778387069702148	correct
+Ben feels that the female player loses himself in the game.	5.211564540863037	Ben feels that the female player loses herself in the game.	5.205016136169434	correct
+The female president imagines herself lost that game.	6.654676914215088	The female president imagines herself losing that game.	6.366049766540527	correct
+Ben pictures himself lost that game.	8.164192199707031	Ben pictures himself losing that game.	8.189483642578125	incorrect
+The princess pictures herself moved to this house.	6.694109916687012	The princess pictures herself moving to this house.	6.760593414306641	incorrect
+Paul pictures himself moved to that house.	7.069586277008057	Paul pictures himself moving to that house.	7.090597152709961	incorrect
+The girl shows that the male doctor understands herself.	6.233882904052734	The girl shows that the male doctor understands himself.	6.466259479522705	incorrect
+Sam shows that the daughter understands himself.	7.038748741149902	Sam shows that the daughter understands herself.	6.7531514167785645	correct
+The girl pictures herself understood that story.	6.985315322875977	The girl pictures herself understanding that story.	7.47965669631958	incorrect
+Sam pictures himself understood that story.	7.595385551452637	Sam pictures himself understanding that story.	8.132755279541016	incorrect
+The female professor reports that the man believes in herself.	5.927492141723633	The female professor reports that the man believes in himself.	5.604166030883789	correct
+Jerry reports that the female player believes in himself.	5.656684398651123	Jerry reports that the female player believes in herself.	5.615440368652344	correct
+The female professor imagined herself believed this news.	8.538182258605957	The female professor imagined herself believing this news.	8.016489028930664	correct
+Jerry finds himself believed this news.	6.698681831359863	Jerry finds himself believing this news.	6.160081386566162	correct
+Maria shows that the boy supports herself.	6.7839484214782715	Maria shows that the boy supports himself.	6.24522590637207	correct
+The brother shows that the mother supports himself.	6.536648273468018	The brother shows that the mother supports herself.	6.428092002868652	correct
+Maria pictures herself raised the money for children.	7.493823528289795	Maria pictures herself raising the money for children.	7.197246074676514	correct
+The brother pictures himself raised the money for children.	7.3243842124938965	The brother pictures himself raising the money for children.	7.12734317779541	correct
+The female professor feels that the male president loves herself.	6.141092777252197	The female professor feels that the male president loves himself.	6.232120037078857	incorrect
+Matt feels that the mother loves himself.	5.935774803161621	Matt feels that the mother loves herself.	5.692684173583984	correct
+The female professor imagines herself enjoyed some music.	7.4326348304748535	The female professor imagines herself enjoying some music.	7.215775489807129	correct
+Matt pictures himself loved some music.	8.437398910522461	Matt pictures himself loving some music.	8.933128356933594	incorrect
+Ruth understands that the male professor is defending herself.	5.66183614730835	Ruth understands that the male professor is defending himself.	5.669303894042969	incorrect
+The male doctor understands that the female doctor is defending himself.	5.144114017486572	The male doctor understands that the female doctor is defending herself.	4.828771114349365	correct
+Elizabeth says that the prince saved herself.	4.634256839752197	Elizabeth says that the prince saved himself.	4.2323479652404785	correct
+Robert says that the wife saved himself.	5.069486618041992	Robert says that the wife saved herself.	5.087733745574951	incorrect
+Elizabeth sees herself saved some time.	5.6639084815979	Elizabeth sees herself saving some time.	5.082835674285889	correct
+Robert sees himself saved some time.	6.097140789031982	Robert sees himself saving some time.	5.238090515136719	correct
+Jane pictures herself added this number to the list.	6.06384801864624	Jane pictures herself adding this number to the list.	5.969521999359131	correct
+The male doctor pictures himself added this number to the list.	6.177657604217529	The male doctor pictures himself adding this number to the list.	6.212786674499512	incorrect
+Elizabeth explains that the king saves herself.	5.463739395141602	Elizabeth explains that the king saves himself.	5.130581855773926	correct
+Lawrence explains that the daughter saves himself.	6.730539321899414	Lawrence explains that the daughter saves herself.	6.343216419219971	correct
+The wife imagines herself tried this method.	7.282125473022461	The wife imagines herself trying this method.	7.249109268188477	correct
+Ryan imagines himself tried this method.	7.182201862335205	Ryan imagines himself trying this method.	7.374887466430664	incorrect
+The female player sees herself tried that method.	8.01533031463623	The female player sees herself trying that method.	7.502936363220215	correct
+Jerry sees himself tried that method.	7.682487487792969	Jerry sees himself trying that method.	7.106805324554443	correct
+Ruth writes that the boy changed herself.	5.932738304138184	Ruth writes that the boy changed himself.	5.51328706741333	correct
+The male doctor writes that the female president changed himself.	6.390952110290527	The male doctor writes that the female president changed herself.	6.2880659103393555	correct
+Ruth pictures herself closed the door.	6.87790584564209	Ruth pictures herself closing the door.	6.767031192779541	correct
+The male doctor pictures himself closed the door.	7.219326972961426	The male doctor pictures himself closing the door.	7.091538429260254	correct
+The woman shows that the father studies herself in the picture.	5.876734256744385	The woman shows that the father studies himself in the picture.	5.764060974121094	correct
+Matt shows that the woman studies himself in the picture.	5.9528422355651855	Matt shows that the woman studies herself in the picture.	5.744421482086182	correct
+The woman pictures herself studied history.	8.38219928741455	The woman pictures herself studying history.	7.93798828125	correct
+Matt pictures himself studied the history.	7.692746162414551	Matt pictures himself studying the history.	7.949333667755127	incorrect
+Ann imagines herself married a woman.	6.351576805114746	Ann imagines herself marrying a woman.	6.3959174156188965	incorrect
+The man pictures himself married a woman.	6.509023189544678	The man pictures himself marrying a woman.	6.659245491027832	incorrect
+Catherine understands that the male professor hid herself.	6.840316295623779	Catherine understands that the male professor hid himself.	6.799350738525391	correct
+The male doctor understands that the lady hid himself.	6.723482608795166	The male doctor understands that the lady hid herself.	6.344648838043213	correct
+Helen sees herself explained the reason.	7.254945755004883	Helen sees herself explaining the reason.	6.860770225524902	correct
+Dan sees himself explained the reason.	7.627460479736328	Dan sees himself explaining the reason.	7.0713324546813965	correct
+The woman finds herself carried the water.	6.443115711212158	The woman finds herself carrying the water.	5.808541774749756	correct
+Paul finds himself carried the water.	6.569119930267334	Paul finds himself carrying the water.	5.945436477661133	correct
+Jane thinks that the brother introduced herself to others.	6.144031047821045	Jane thinks that the brother introduced himself to others.	5.787313938140869	correct
+Adam thinks that the female doctor introduced himself to others.	5.891175746917725	Adam thinks that the female doctor introduced herself to others.	5.813748836517334	correct
+Jane finds herself took the picture.	5.970900058746338	Jane finds herself taking the picture.	5.437443733215332	correct
+Adam finds himself took the picture.	5.4090986251831055	Adam finds himself taking the picture.	5.102559566497803	correct
+Jane writes that the prince found herself in a picture.	4.629274845123291	Jane writes that the prince found himself in a picture.	4.528908729553223	correct
+Jason writes that the girl found himself in a picture.	4.523096561431885	Jason writes that the girl found herself in a picture.	4.297046661376953	correct
+Jane pictures herself found the job.	7.817122459411621	Jane pictures herself finding the job.	8.130728721618652	incorrect
+Jason pictures himself found the job.	7.743073463439941	Jason pictures himself finding the job.	8.136280059814453	incorrect
+The female president reports that the prince saved herself.	5.955252170562744	The female president reports that the prince saved himself.	5.657613277435303	correct
+Sam reports that the female player saved himself.	6.425024509429932	Sam reports that the female player saved herself.	6.484373092651367	incorrect
+The woman thinks that the male player helps herself to food.	6.491230487823486	The woman thinks that the male player helps himself to food.	6.661870956420898	incorrect
+Jason thinks that the wife helps himself to food.	6.53230619430542	Jason thinks that the wife helps herself to food.	6.221126556396484	correct
+The woman finds herself helped this child.	7.135920524597168	The woman finds herself helping this child.	6.208727836608887	correct
+Jason finds himself helped this child.	7.1672682762146	Jason finds himself helping this child.	6.453272342681885	correct
+The princess understands that the prince believes in herself.	5.299569129943848	The princess understands that the prince believes in himself.	5.357678413391113	incorrect
+Victor understands that the female player believes in himself.	5.982947826385498	Victor understands that the female player believes in herself.	5.990869998931885	incorrect
+The female president finds herself shared the information.	6.5377068519592285	The female president finds herself sharing the information.	6.2919158935546875	correct
+Roger finds himself shared the information.	6.375448226928711	Roger finds himself sharing the information.	6.213580131530762	correct
+Ann hears that the father cares for herself.	6.182293891906738	Ann hears that the father cares for himself.	5.776889801025391	correct
+Gary hears that the girl cares for himself.	5.594513893127441	Gary hears that the girl cares for herself.	5.238077640533447	correct
+Ann sees herself bought some goods.	7.1734137535095215	Ann sees herself buying some goods.	6.440988063812256	correct
+Gary sees himself bought some goods.	7.588590621948242	Gary sees himself buying some goods.	6.922750473022461	correct
+The female doctor explains that the man helps herself to food.	6.154654026031494	The female doctor explains that the man helps himself to food.	5.9891037940979	correct
+Matt explains that the female professor helps himself to food.	7.102343559265137	Matt explains that the female professor helps herself to food.	7.083045959472656	correct
+The wife writes that the father teaches herself French.	5.83768367767334	The wife writes that the father teaches himself French.	5.8880791664123535	incorrect
+Roger writes that the woman teaches himself French.	6.008090496063232	Roger writes that the woman teaches herself French.	5.630306243896484	correct
+The wife pictures herself taught a course.	7.971614837646484	The wife pictures herself teaching a course.	7.384794235229492	correct
+Roger pictures himself taught a course.	7.7150421142578125	Roger pictures himself teaching a course.	7.356663227081299	correct
+The mother imagines herself moved the rock.	7.086409568786621	The mother imagines herself moving the rock.	6.769689559936523	correct
+Martin imagines himself moved the rock.	6.203484535217285	Martin imagines himself moving the rock.	5.814410209655762	correct
+The mother imagines herself drew that picture.	6.687891006469727	The mother imagines herself drawing that picture.	6.366890907287598	correct
+Thomas imagines himself drew that picture.	6.641622066497803	Thomas imagines himself drawing that picture.	6.627676963806152	correct
+Alice sees that the king hit herself.	6.471896171569824	Alice sees that the king hit himself.	6.358087062835693	correct
+Jerry sees that the princess hit himself.	6.185866355895996	Jerry sees that the princess hit herself.	5.723340034484863	correct
+Alice sees herself hit that record.	7.631805419921875	Alice sees herself hitting that record.	7.326935768127441	correct
+Jerry sees himself hit that record.	6.872846603393555	Jerry sees himself hitting that record.	6.620042324066162	correct
+Catherine believes that the boy is fighting for herself.	4.724643707275391	Catherine believes that the boy is fighting for himself.	4.3011884689331055	correct
+Dennis believes that the female president is fighting for himself.	4.781340599060059	Dennis believes that the female president is fighting for herself.	4.779204368591309	correct
+Catherine imagines herself fought the fire.	6.9151763916015625	Catherine imagines herself fighting the fire.	6.34475040435791	correct
+Dennis imagines himself fought the fire.	6.086134433746338	Dennis imagines himself fighting the fire.	5.925510883331299	correct
+Alice feels that the father is protecting herself.	5.505673885345459	Alice feels that the father is protecting himself.	4.969633102416992	correct
+The man feels that the girl is protecting himself.	4.629654407501221	The man feels that the girl is protecting herself.	4.622776985168457	correct
+Alice imagines herself opened an account.	7.226890563964844	Alice imagines herself opening an account.	7.589245796203613	incorrect
+The man pictures himself opened an account.	7.309411525726318	The man pictures himself opening an account.	7.681665897369385	incorrect
+Alice reports that the boy helps herself to food.	6.823496341705322	Alice reports that the boy helps himself to food.	6.398354530334473	correct
+The king reports that the woman helps himself to food.	6.869235515594482	The king reports that the woman helps herself to food.	6.683779239654541	correct
+Alice finds herself helped a family.	6.739990234375	Alice finds herself helping a family.	5.464041709899902	correct
+The king finds himself helped a family.	6.6145243644714355	The king finds himself helping a family.	5.621796607971191	correct
+Ruth thinks that the male doctor helps herself to food.	5.881732940673828	Ruth thinks that the male doctor helps himself to food.	6.144273281097412	incorrect
+Martin thinks that the woman helps himself to food.	5.740062236785889	Martin thinks that the woman helps herself to food.	5.490172863006592	correct
+Ruth finds herself fixed that car.	6.524953842163086	Ruth finds herself fixing that car.	6.280881881713867	correct
+Martin finds himself fixed that car.	6.0680365562438965	Martin finds himself fixing that car.	5.757399559020996	correct
+Anna believes that the brother was defending herself.	5.757475852966309	Anna believes that the brother was defending himself.	5.47103214263916	correct
+Jack believes that the mother was defending himself.	4.968361854553223	Jack believes that the mother was defending herself.	4.679727554321289	correct
+Alice sees herself stopped this car.	8.33223819732666	Alice sees herself stopping this car.	7.253036022186279	correct
+The father sees himself stopped this car.	6.618025302886963	The father sees himself stopping this car.	6.124710559844971	correct
+Sarah believes that the prince is drawing a picture of herself.	4.176102638244629	Sarah believes that the prince is drawing a picture of himself.	4.049232482910156	correct
+Oliver believes that the girl is drawing a picture of himself.	3.989800453186035	Oliver believes that the girl is drawing a picture of herself.	3.902228355407715	correct
+Sarah imagines herself drew a line.	6.50633430480957	Sarah imagines herself drawing a line.	6.177518844604492	correct
+Oliver imagines himself drew a line.	6.534794807434082	Oliver imagines himself drawing a line.	6.223084926605225	correct
+Kelly feels that the brother trusts herself.	6.849373817443848	Kelly feels that the brother trusts himself.	6.557163715362549	correct
+The boy feels that the daughter trusts himself.	6.54921817779541	The boy feels that the daughter trusts herself.	6.464919090270996	correct
+Kelly imagines herself trusted the assistant.	7.389682292938232	Kelly imagines herself trusting the assistant.	7.1662139892578125	correct
+The boy pictures himself trusted the assistant.	8.543514251708984	The boy pictures himself trusting the assistant.	8.040205001831055	correct
+Helen pictures herself performed a song.	6.990896224975586	Helen pictures herself performing a song.	7.096104621887207	incorrect
+John pictures himself performed a song.	7.493981838226318	John pictures himself performing a song.	7.641112327575684	incorrect
+The lady knows that the male player is dressing herself.	5.727720737457275	The lady knows that the male player is dressing himself.	5.621484756469727	correct
+The male player knows that the female professor is dressing himself.	5.7899274826049805	The male player knows that the female professor is dressing herself.	5.79438591003418	incorrect
+The lady finds herself fought in that war.	6.645102500915527	The lady finds herself fighting in that war.	6.306023597717285	correct
+The male player finds himself fought in that war.	6.464095115661621	The male player finds himself fighting in that war.	6.257330894470215	correct
+Mary pictures herself gave that speech.	7.309066295623779	Mary pictures herself giving that speech.	7.1508612632751465	correct
+Alexander pictures himself gave that speech.	7.2617363929748535	Alexander pictures himself giving that speech.	7.2013044357299805	correct
+Sarah finds herself asked that question.	6.142419338226318	Sarah finds herself asking that question.	5.166448593139648	correct
+The prince finds himself asked that question.	6.80233907699585	The prince finds himself asking that question.	5.929381370544434	correct
+Catherine imagines herself performed this music.	7.162330627441406	Catherine imagines herself performing this music.	6.896456241607666	correct
+Dennis pictures himself performed this music.	6.683328628540039	Dennis pictures himself performing this music.	7.049551486968994	incorrect
+The wife explains that the male president is attacking herself.	5.810910701751709	The wife explains that the male president is attacking himself.	5.843108177185059	incorrect
+Lawrence explains that the princess is attacking himself.	5.888199329376221	Lawrence explains that the princess is attacking herself.	5.678786754608154	correct
+The mother learns that the father asked herself a question.	4.959983825683594	The mother learns that the father asked himself a question.	4.850493907928467	correct
+Ryan learns that the female player asked himself a question.	5.294600963592529	Ryan learns that the female player asked herself a question.	5.464866638183594	incorrect
+The mother imagines herself asked some questions.	6.197032928466797	The mother imagines herself asking some questions.	5.682561874389648	correct
+Ryan imagines himself asked some questions.	6.40534782409668	Ryan imagines himself asking some questions.	6.144604206085205	correct
+Ruth reports that the father depends on herself.	5.471984386444092	Ruth reports that the father depends on himself.	5.20362663269043	correct
+Victor reports that the girl depends on himself.	5.537648677825928	Victor reports that the girl depends on herself.	5.261008262634277	correct
+Ruth finds herself lived with her parents.	4.712825775146484	Ruth finds herself living with her parents.	4.341516494750977	correct
+Victor finds himself lived with his parents.	5.246003150939941	Victor finds himself living with his parents.	5.132681846618652	correct
+Maria imagines herself performed this song.	6.761604309082031	Maria imagines herself performing this song.	6.489498615264893	correct
+Paul imagines himself performed this song.	6.07671594619751	Paul imagines himself performing this song.	5.963216781616211	correct
+Sarah thinks that the male professor brought herself to the park.	5.622012615203857	Sarah thinks that the male professor brought himself to the park.	5.572770118713379	correct
+Roger thinks that the female player brought himself to the park.	5.425930500030518	Roger thinks that the female player brought herself to the park.	5.483221054077148	incorrect
+Sarah finds herself brought about the change.	5.887143611907959	Sarah finds herself bringing about the change.	5.74440336227417	correct
+Roger finds himself brought about the change.	6.260787010192871	Roger finds himself bringing about the change.	6.18316650390625	correct
+The wife writes that the boy helps herself to food.	6.065732479095459	The wife writes that the boy helps himself to food.	5.9002461433410645	correct
+The male professor writes that the female player helps himself to food.	6.675967216491699	The male professor writes that the female player helps herself to food.	6.514977931976318	correct
+The wife pictures herself fixed the car.	7.321463584899902	The wife pictures herself fixing the car.	7.183650016784668	correct
+The male professor pictures himself fixed the car.	8.616277694702148	The male professor pictures himself fixing the car.	8.376521110534668	correct
+The girl imagines herself found the place.	6.255682945251465	The girl imagines herself finding the place.	6.609309196472168	incorrect
+Jimmy imagines himself found the place.	4.932495594024658	Jimmy imagines himself finding the place.	5.5335845947265625	incorrect
+Ruth thinks that the male professor understands herself.	6.59263277053833	Ruth thinks that the male professor understands himself.	6.685454368591309	incorrect
+The father thinks that the lady understands himself.	5.81962251663208	The father thinks that the lady understands herself.	5.698224067687988	correct
+Ruth finds herself understood the story.	5.906256675720215	Ruth finds herself understanding the story.	5.956314563751221	incorrect
+The father finds himself understood the story.	6.03987455368042	The father finds himself understanding the story.	6.120522975921631	incorrect
+Catherine believes that the male player has prepared herself for the job.	5.150660037994385	Catherine believes that the male player has prepared himself for the job.	5.277246475219727	incorrect
+Alexander believes that the princess prepared himself for the job.	5.463128089904785	Alexander believes that the princess prepared herself for the job.	5.065086841583252	correct
+Catherine imagines herself sent the message.	6.119850158691406	Catherine imagines herself sending the message.	6.387228012084961	incorrect
+Alexander imagines himself sent the message.	5.510685920715332	Alexander imagines himself sending the message.	5.961347579956055	incorrect
+The female professor means to say that the prince is teaching herself.	5.8913116455078125	The female professor means to say that the prince is teaching himself.	5.637345790863037	correct
+The male president means to say that the wife is teaching himself.	5.333131313323975	The male president means to say that the wife is teaching herself.	5.331826686859131	correct
+The female professor imagines herself taught that class.	7.666388034820557	The female professor imagines herself teaching that class.	7.118805885314941	correct
+The male president imagines himself taught that class.	7.357882022857666	The male president imagines himself teaching that class.	7.061915874481201	correct
+Helen learns that the male professor changed herself.	7.0037641525268555	Helen learns that the male professor changed himself.	6.989939212799072	correct
+The king learns that the lady changed himself.	6.447285175323486	The king learns that the lady changed herself.	6.285153865814209	correct
+Helen imagines herself closed the door.	6.2893266677856445	Helen imagines herself closing the door.	6.11836051940918	correct
+The king imagines himself closed the door.	5.927801132202148	The king imagines himself closing the door.	5.990407943725586	incorrect
+Ruth thinks that the father proves herself.	5.894579887390137	Ruth thinks that the father proves himself.	5.61370849609375	correct
+Victor thinks that the girl proves himself.	5.91568660736084	Victor thinks that the girl proves herself.	5.573409557342529	correct
+Ruth finds herself proved this case.	6.4373955726623535	Ruth finds herself proving this case.	6.062605381011963	correct
+Victor finds himself proved this case.	6.4927873611450195	Victor finds himself proving this case.	6.157729148864746	correct
+Ann explains that the male doctor hides herself.	6.384223937988281	Ann explains that the male doctor hides himself.	6.408242225646973	incorrect
+Thomas explains that the lady hides himself.	5.786067962646484	Thomas explains that the lady hides herself.	5.713933944702148	correct
+Elizabeth feels that the male player helps herself to food.	5.859053611755371	Elizabeth feels that the male player helps himself to food.	5.739020824432373	correct
+Jimmy feels that the female professor helps himself to food.	5.917510986328125	Jimmy feels that the female professor helps herself to food.	5.922536849975586	incorrect
+Elizabeth imagines herself informed this student.	6.359047889709473	Elizabeth imagines herself informing this student.	5.695876598358154	correct
+Jimmy pictures himself informed this student.	7.629720687866211	Jimmy pictures himself informing this student.	6.461164474487305	correct
+The female doctor explains that the male player chooses herself.	6.061659336090088	The female doctor explains that the male player chooses himself.	6.2849440574646	incorrect
+Thomas explains that the woman chooses himself.	5.494299411773682	Thomas explains that the woman chooses herself.	5.3075971603393555	correct
+Elizabeth says that the male professor proves herself.	5.723815441131592	Elizabeth says that the male professor proves himself.	5.64142370223999	correct
+The brother says that the female professor proves himself.	7.063701152801514	The brother says that the female professor proves herself.	7.204520225524902	incorrect
+Elizabeth sees herself proved that case.	6.409037113189697	Elizabeth sees herself proving that case.	5.919205188751221	correct
+The brother sees himself proved that case.	7.616474628448486	The brother sees himself proving that case.	7.327444553375244	correct
+Catherine imagines herself drew the attention.	7.032829761505127	Catherine imagines herself drawing the attention.	6.89370584487915	correct
+Matt imagines himself drew the attention.	7.087886810302734	Matt imagines himself drawing the attention.	7.3017659187316895	incorrect
+The female doctor pictures herself held the election.	7.984682083129883	The female doctor pictures herself holding the election.	7.8783063888549805	correct
+Martin pictures himself held the election.	7.3326263427734375	Martin pictures himself holding the election.	7.4233269691467285	incorrect
+The female professor believes that the male professor adds herself.	7.128425598144531	The female professor believes that the male professor adds himself.	7.35043478012085	incorrect
+Roger imagines himself added this information.	6.584086894989014	Roger imagines himself adding this information.	6.98276948928833	incorrect
+The girl feels that the man has introduced herself to others.	5.060268402099609	The girl feels that the man has introduced himself to others.	4.9445481300354	correct
+Ryan feels that the female player has introduced himself to others.	5.413026809692383	Ryan feels that the female player has introduced herself to others.	5.471200942993164	incorrect
+The girl imagines herself described that picture.	6.595816612243652	The girl imagines herself describing that picture.	6.298284530639648	correct
+Ryan pictures himself described that picture.	7.910534381866455	Ryan pictures himself describing that picture.	7.614896297454834	correct
+Elizabeth imagines herself produced the goods.	5.79722261428833	Elizabeth imagines herself producing the goods.	5.670033931732178	correct
+Sam sees himself produced the goods.	7.638831615447998	Sam sees himself producing the goods.	7.045017242431641	correct
+The female doctor sees that the male doctor saves herself.	5.771791458129883	The female doctor sees that the male doctor saves himself.	6.177250862121582	incorrect
+The father sees that the mother saved himself.	5.528999328613281	The father sees that the mother saved herself.	5.490232944488525	correct
+The female doctor sees herself read this story.	6.474689483642578	The female doctor sees herself reading this story.	6.400671482086182	correct
+The father sees himself read this story.	5.7278852462768555	The father sees himself reading this story.	5.805970668792725	incorrect
+Mary learns that her brother is helping herself.	4.7815375328063965	Mary learns that her brother is helping himself.	4.75425910949707	correct
+Roger learns that his wife is helping himself.	4.910396099090576	Roger learns that his wife is helping herself.	5.235091686248779	incorrect
+Mary imagines herself helped the people.	7.371496200561523	Mary imagines herself helping the people.	7.1048479080200195	correct
+Roger imagines himself helped the people.	6.679520606994629	Roger imagines himself helping the people.	6.5623626708984375	correct
+The woman understands that the male doctor chooses herself.	6.068794250488281	The woman understands that the male doctor chooses himself.	6.30742883682251	incorrect
+The male professor understands that the woman chooses himself.	6.947829246520996	The male professor understands that the woman chooses herself.	6.599612712860107	correct
+The girl sees that the brother doesn't like herself.	5.208873748779297	The girl sees that the brother doesn't like himself.	5.193613529205322	correct
+Ben sees that the girl doesn't like himself.	4.8763251304626465	Ben sees that the girl doesn't like herself.	4.52446985244751	correct
+The girl sees herself sold those goods.	7.4961676597595215	The girl sees herself selling those goods.	7.0505876541137695	correct
+Ben sees himself sold those goods.	7.7588019371032715	Ben sees himself selling those goods.	7.492766380310059	correct
+Helen writes that the man introduces herself to others.	4.905721664428711	Helen writes that the man introduces himself to others.	4.469671726226807	correct
+The prince writes that the lady introduces himself to others.	5.573408603668213	The prince writes that the lady introduces herself to others.	5.5985188484191895	incorrect
+Helen imagines herself described a picture.	6.903336524963379	Helen imagines herself describing a picture.	6.766955375671387	correct
+The prince imagines himself described a picture.	7.153911590576172	The prince imagines himself describing a picture.	6.9659833908081055	correct
+Elizabeth sees herself reached the city.	5.164276123046875	Elizabeth sees herself reaching the city.	5.107942581176758	correct
+Jack sees himself reached the city.	6.969357490539551	Jack sees himself reaching the city.	6.531135559082031	correct
+The lady finds herself won that war.	7.332393646240234	The lady finds herself winning that war.	6.800238609313965	correct
+Jason finds himself won that war.	6.311264991760254	Jason finds himself winning that war.	6.247918605804443	correct
+The woman writes that the male professor supports herself.	6.664549350738525	The woman writes that the male professor supports himself.	6.802846908569336	incorrect
+Stephen writes that the female doctor supports himself.	5.710225582122803	Stephen writes that the female doctor supports herself.	5.565999507904053	correct
+The woman imagines herself raised the money for children.	6.208554744720459	The woman imagines herself raising the money for children.	6.00213098526001	correct
+Stephen imagines himself raised the money for children.	6.498721122741699	Stephen imagines himself raising the money for children.	6.385072231292725	correct
+Jane explains that the father is protecting herself.	6.1126227378845215	Jane explains that the father is protecting himself.	5.479769229888916	correct
+Lawrence explains that the wife is protecting himself.	5.834928035736084	Lawrence explains that the wife is protecting herself.	5.7446608543396	correct
+The lady imagines herself reported the crime.	6.681551933288574	The lady imagines herself reporting the crime.	6.702392578125	incorrect
+The boy imagines himself reported the crime.	6.221589088439941	The boy imagines himself reporting the crime.	6.14005184173584	correct
+The princess feels that the king is dressing herself.	5.7793121337890625	The princess feels that the king is dressing himself.	5.612739562988281	correct
+Oliver feels that the girl is dressing himself.	5.5243377685546875	Oliver feels that the girl is dressing herself.	5.487721920013428	correct
+The princess imagines herself fought the enemy.	6.974829196929932	The princess imagines herself fighting the enemy.	6.386660575866699	correct
+Oliver imagines himself fought the enemy.	6.3522515296936035	Oliver imagines himself fighting the enemy.	6.010412693023682	correct
+Ann imagines herself bought a car.	6.123833179473877	Ann imagines herself buying a car.	5.913071155548096	correct
+Matt imagines himself bought a car.	6.484663009643555	Matt imagines himself buying a car.	6.418986797332764	correct
+Jane reports that the man saves herself.	5.510006904602051	Jane reports that the man saves himself.	5.039702415466309	correct
+The boy reports that the female president saves himself.	7.008787631988525	The boy reports that the female president saves herself.	6.900660037994385	correct
+Jane finds herself read that story.	6.03748083114624	Jane finds herself reading that story.	5.782120704650879	correct
+The boy finds himself read that story.	6.2082085609436035	The boy finds himself reading that story.	5.913092613220215	correct
+Mary thinks that the king attacks herself.	6.046963691711426	Mary thinks that the king attacks himself.	5.868441104888916	correct
+Sam thinks that the daughter attacks himself.	6.424469470977783	Sam thinks that the daughter attacks herself.	5.963149547576904	correct
+Mary finds herself attacked the enemy.	5.50002384185791	Mary finds herself attacking the enemy.	5.0569658279418945	correct
+Sam finds himself attacked the enemy.	5.7385783195495605	Sam finds himself attacking the enemy.	5.2802348136901855	correct
+The princess imagines herself bought this book.	6.500885009765625	The princess imagines herself buying this book.	6.275362014770508	correct
+Carl imagines himself bought this book.	6.335057735443115	Carl imagines himself buying this book.	6.387546539306641	incorrect
+The daughter imagines herself performed this song.	6.2403364181518555	The daughter imagines herself performing this song.	5.952400207519531	correct
+Alexander imagines himself performed this song.	6.114180564880371	Alexander imagines himself performing this song.	6.031950950622559	correct
+Kelly sees that the king is hiding herself.	5.686593055725098	Kelly sees that the king is hiding himself.	5.321952819824219	correct
+The male president sees that the female player is hiding himself.	5.991487979888916	The male president sees that the female player is hiding herself.	6.060357570648193	incorrect
+Alice finds herself held this line.	6.558801651000977	Alice finds herself holding this line.	6.101959228515625	correct
+The father finds himself held this line.	6.639078617095947	The father finds himself holding this line.	6.294023036956787	correct
+The mother sees herself reported that crime.	7.951384544372559	The mother sees herself reporting that crime.	7.147059440612793	correct
+Alexander sees himself reported that crime.	7.453553676605225	Alexander sees himself reporting that crime.	6.764986515045166	correct
+The female doctor learns that the man protected herself.	5.457736492156982	The female doctor learns that the man protected himself.	5.264781951904297	correct
+Jack learns that the woman protected himself.	5.735635280609131	Jack learns that the woman protected herself.	5.520932197570801	correct
+The female doctor imagines herself protected those people.	6.805473327636719	The female doctor imagines herself protecting those people.	6.312449932098389	correct
+Jack imagines himself protected those people.	6.795244216918945	Jack imagines himself protecting those people.	6.464484214782715	correct
+Anna imagines herself tried this method.	8.105807304382324	Anna imagines herself trying this method.	8.283031463623047	incorrect
+The male doctor imagines himself tried this method.	7.650774002075195	The male doctor imagines himself trying this method.	7.571372032165527	correct
+The female president wrote that the brother helped herself.	6.437580585479736	The female president wrote that the brother helped himself.	6.11757230758667	correct
+The male doctor wrote that the female player helped himself.	5.914367198944092	The male doctor wrote that the female player helped herself.	5.796472072601318	correct
+Maria imagines herself cut this line.	7.3525471687316895	Maria imagines herself cutting this line.	7.5245442390441895	incorrect
+Charles imagines himself cut this line.	5.82963752746582	Charles imagines himself cutting this line.	6.087491512298584	incorrect
+The wife means to say that the father doesn't like herself.	4.226405143737793	The wife means to say that the father doesn't like himself.	4.139427185058594	correct
+Anthony means to say that the wife doesn't like himself.	4.630887985229492	Anthony means to say that the wife doesn't like herself.	4.427175045013428	correct
+The woman imagines herself caught the train.	6.018505096435547	The woman imagines herself catching the train.	6.040724277496338	incorrect
+The king pictures himself caught the train.	7.389707565307617	The king pictures himself catching the train.	7.327489852905273	correct
+Victoria writes that the man trusts herself.	5.9819769859313965	Victoria writes that the man trusts himself.	5.486128330230713	correct
+William writes that the mother trusts himself.	5.864138126373291	William writes that the mother trusts herself.	5.752786636352539	correct
+Victoria pictures herself trusted that assistant.	10.018619537353516	Victoria pictures herself trusting that assistant.	9.145008087158203	correct
+William pictures himself trusted that assistant.	9.721784591674805	William pictures himself trusting that assistant.	9.112604141235352	correct
+Sarah means to say that the male player believes in herself.	5.494412899017334	Sarah means to say that the male player believes in himself.	5.469893455505371	correct
+Jerry means to say that the mother believes in himself.	5.228253364562988	Jerry means to say that the mother believes in herself.	4.988945007324219	correct
+Sarah imagines herself believed the truth.	6.356179237365723	Sarah imagines herself believing the truth.	5.994580268859863	correct
+Jerry imagines himself believed the truth.	6.455460548400879	Jerry imagines himself believing the truth.	6.064364910125732	correct
+The female professor knows that the prince prepared herself for the job.	5.493279933929443	The female professor knows that the prince prepared himself for the job.	5.478305816650391	correct
+Gary knows that the lady prepared himself for the job.	5.554215431213379	Gary knows that the lady prepared herself for the job.	5.451083183288574	correct
+The female professor finds herself finished a project.	7.368095397949219	The female professor finds herself finishing a project.	7.009675979614258	correct
+Gary finds himself finished a project.	6.9047722816467285	Gary finds himself finishing a project.	6.62204122543335	correct
+The female doctor thinks that the male doctor saved herself.	5.390480041503906	The female doctor thinks that the male doctor saved himself.	5.572824954986572	incorrect
+Charles thinks that the female professor saved himself.	5.797479152679443	Charles thinks that the female professor saved herself.	5.763859272003174	correct
+The female doctor finds herself led the group.	6.338217735290527	The female doctor finds herself leading the group.	5.6530914306640625	correct
+Charles finds himself led the group.	5.100820541381836	Charles finds himself leading the group.	4.721632957458496	correct
+Elizabeth explains that the male doctor is dressing herself.	5.000644683837891	Elizabeth explains that the male doctor is dressing himself.	4.9863715171813965	correct
+Dennis explains that the mother is dressing himself.	5.632925033569336	Dennis explains that the mother is dressing herself.	5.406011581420898	correct
+The female professor finds herself threw the party.	7.1018853187561035	The female professor finds herself throwing the party.	6.250185489654541	correct
+Dennis finds himself threw the party.	5.906290054321289	Dennis finds himself throwing the party.	5.333732604980469	correct
+Ann reports that the father trusts herself.	6.719086170196533	Ann reports that the father trusts himself.	6.222914218902588	correct
+Walter reports that the female president trusts himself.	6.409155368804932	Walter reports that the female president trusts herself.	6.426689147949219	incorrect
+Ann finds herself trusted a friend.	6.686629772186279	Ann finds herself trusting a friend.	6.1572394371032715	correct
+Walter finds himself trusted a friend.	6.4200944900512695	Walter finds himself trusting a friend.	5.821680545806885	correct
+Catherine finds herself ate that food.	7.065181732177734	Catherine finds herself eating that food.	5.931612491607666	correct
+The male professor finds himself ate that food.	7.972766399383545	The male professor finds himself eating that food.	7.393614768981934	correct
+Ruth says that the male doctor supports herself.	5.527665615081787	Ruth says that the male doctor supports himself.	5.605221271514893	incorrect
+The man says that the princess supports himself.	5.697750091552734	The man says that the princess supports herself.	5.821956634521484	incorrect
+The daughter understands that the father prepared herself for the job.	4.972500324249268	The daughter understands that the father prepared himself for the job.	5.050408840179443	incorrect
+The boy understands that the female professor prepared himself for the job.	5.5638017654418945	The boy understands that the female professor prepared herself for the job.	5.419209957122803	correct
+The female player hears that the brother is improving herself.	6.666440010070801	The female player hears that the brother is improving himself.	6.272963047027588	correct
+Robert hears that the female doctor is improving himself.	5.2324090003967285	Robert hears that the female doctor is improving herself.	5.173890590667725	correct
+The female player sees herself built a house.	6.032805919647217	The female player sees herself building a house.	5.440737724304199	correct
+Robert sees himself built a house.	5.5936431884765625	Robert sees himself building a house.	5.077998161315918	correct
+The female doctor finds herself watched the film.	6.322362899780273	The female doctor finds herself watching the film.	5.473508834838867	correct
+Joe finds himself watched the film.	5.903584957122803	Joe finds himself watching the film.	5.063048362731934	correct
+Kelly knows that the man prepared herself for the job.	4.870944023132324	Kelly knows that the man prepared himself for the job.	4.5955305099487305	correct
+Matt knows that the mother prepared himself for the job.	5.5349297523498535	Matt knows that the mother prepared herself for the job.	5.40003776550293	correct
+The female professor learns that the prince protected herself.	6.409600734710693	The female professor learns that the prince protected himself.	6.319365501403809	correct
+Dennis learns that the female doctor protected himself.	5.69620418548584	Dennis learns that the female doctor protected herself.	5.541593074798584	correct
+The female professor imagines herself opened an account.	7.1645684242248535	The female professor imagines herself opening an account.	7.223588943481445	incorrect
+Dennis imagines himself opened an account.	6.465057373046875	Dennis imagines himself opening an account.	6.829214096069336	incorrect
+The wife finds herself learned a new language.	5.696088790893555	The wife finds herself learning a new language.	4.982707500457764	correct
+The father finds himself learned a new language.	5.576152801513672	The father finds himself learning a new language.	4.9912309646606445	correct
+The wife understands that the prince is controlling herself.	5.491387844085693	The wife understands that the prince is controlling himself.	5.395892143249512	correct
+Adam understands that the female president is controlling himself.	5.651793956756592	Adam understands that the female president is controlling herself.	6.058609485626221	incorrect
+Maria hears that the boy asked herself a question.	5.400986671447754	Maria hears that the boy asked himself a question.	4.895175933837891	correct
+Thomas hears that his mother asked himself a question.	4.929601669311523	Thomas hears that his mother asked herself a question.	5.020938396453857	incorrect
+Maria sees herself asked this question.	6.4218339920043945	Maria sees herself asking this question.	5.719107151031494	correct
+Thomas sees himself asked this question.	5.6604790687561035	Thomas sees himself asking this question.	4.954281806945801	correct
+The mother learns that the male doctor trusts herself.	6.270898818969727	The mother learns that the male doctor trusts himself.	6.559925079345703	incorrect
+Adam learns that the female doctor trusts himself.	6.325718879699707	Adam learns that the female doctor trusts herself.	6.2981743812561035	correct
+The mother imagines herself trusted that friend.	8.217958450317383	The mother imagines herself trusting that friend.	7.3085174560546875	correct
+Adam imagines himself trusted that friend.	8.262273788452148	Adam imagines himself trusting that friend.	7.5844831466674805	correct
+The princess sees herself added the information to the book.	5.8766984939575195	The princess sees herself adding the information to the book.	5.988851070404053	incorrect
+William sees himself added the information to the book.	5.746045112609863	William sees himself adding the information to the book.	5.6132121086120605	correct
+Catherine feels that the boy wants to improve herself.	5.235535144805908	Catherine feels that the boy wants to improve himself.	4.6664252281188965	correct
+Oliver feels that the girl wants to improve himself.	5.085188388824463	Oliver feels that the girl wants to improve herself.	4.822542667388916	correct
+Catherine imagines herself built that stadium.	7.599888324737549	Catherine imagines herself building that stadium.	7.577089309692383	correct
+Oliver pictures himself built that stadium.	7.686413764953613	Oliver pictures himself building that stadium.	8.353015899658203	incorrect
+Victoria sees herself caught a fish.	5.9751787185668945	Victoria sees herself catching a fish.	5.259181976318359	correct
+The man sees himself caught a fish.	4.587712287902832	The man sees himself catching a fish.	4.4752516746521	correct
+The female professor knows that the male player helped herself.	6.31111478805542	The female professor knows that the male player helped himself.	6.4243927001953125	incorrect
+Paul knows that the lady helped himself.	5.336302757263184	Paul knows that the lady helped herself.	5.249894618988037	correct
+The daughter pictures herself brought this change.	7.900618553161621	The daughter pictures herself bringing this change.	8.07123851776123	incorrect
+The brother pictures himself brought this change.	8.216418266296387	The brother pictures himself bringing this change.	8.372892379760742	incorrect
+The female doctor finds that the prince saved herself.	5.995207786560059	The female doctor finds that the prince saved himself.	5.89976692199707	correct
+Dan finds that the lady saved himself.	5.89036226272583	Dan finds that the lady saved herself.	5.949509620666504	incorrect
+The female doctor sees herself read a paper.	6.31315803527832	The female doctor sees herself reading a paper.	5.511281967163086	correct
+Dan sees himself read a paper.	6.496936798095703	Dan sees himself reading a paper.	5.747663497924805	correct
+Ruth pictures herself met some people.	7.374697208404541	Ruth pictures herself meeting some people.	7.325214862823486	correct
+Walter pictures himself met some people.	6.94184684753418	Walter pictures himself meeting some people.	7.2072601318359375	incorrect
+The woman knows that the boy is supporting herself.	4.889443874359131	The woman knows that the boy is supporting himself.	4.614987850189209	correct
+William knows that the princess is supporting himself.	5.078070640563965	William knows that the princess is supporting herself.	4.715017318725586	correct
+Jack pictures himself drew that picture.	7.786167144775391	Jack pictures himself drawing that picture.	7.418982982635498	correct
+The female doctor believes that the male president is dressing herself.	5.5822367668151855	The female doctor believes that the male president is dressing himself.	5.699998378753662	incorrect
+Victor knows that the female professor is dressing himself.	6.016727447509766	Victor knows that the female professor is dressing herself.	6.0842695236206055	incorrect
+The female doctor imagines herself fought that enemy.	7.700311660766602	The female doctor imagines herself fighting that enemy.	7.357938289642334	correct
+Ruth feels that the male professor is hitting herself.	5.841725826263428	Ruth feels that the male professor is hitting himself.	5.905181884765625	incorrect
+Robert feels that the girl is hitting himself.	4.6880717277526855	Robert feels that the girl is hitting herself.	4.470202922821045	correct
+Ruth imagines herself hit the target.	5.929290294647217	Ruth imagines herself hitting the target.	6.03083610534668	incorrect
+Robert pictures himself hit the target.	5.977427959442139	Robert pictures himself hitting the target.	6.303514003753662	incorrect
+The princess notices that the brother saved herself.	6.7906107902526855	The princess notices that the brother saved himself.	6.586584568023682	correct
+Carl notices that the wife saved himself.	6.248624324798584	Carl notices that the wife saved herself.	6.160980701446533	correct
+The princess sees herself led the group.	6.835103511810303	The princess sees herself leading the group.	5.722466945648193	correct
+Carl sees himself led the group.	6.694406509399414	Carl sees himself leading the group.	5.823947429656982	correct
+Elizabeth sees herself showed this result.	6.6008076667785645	Elizabeth sees herself showing this result.	5.948009967803955	correct
+The brother sees himself showed this result.	7.856738090515137	The brother sees himself showing this result.	7.315627098083496	correct
+The girl believes that the male doctor protected herself.	5.760004043579102	The girl believes that the male doctor protected himself.	6.094655513763428	incorrect
+Adam believes that the female president protected himself.	5.890738010406494	Adam believes that the female president protected herself.	5.823090553283691	correct
+The girl imagines herself protected the people.	6.741825580596924	The girl imagines herself protecting the people.	6.058473587036133	correct
+Adam imagines himself protected the people.	6.697882175445557	Adam imagines himself protecting the people.	6.224327087402344	correct
+Anna imagines herself wrote letters.	7.669007778167725	Anna imagines herself writing letters.	7.3073859214782715	correct
+The brother pictures himself wrote letters.	7.79561710357666	The brother pictures himself writing letters.	8.065874099731445	incorrect
+Martin reports that the woman supports himself.	5.6951069831848145	Martin reports that the woman supports herself.	5.474252700805664	correct
+The daughter finds herself raised the money for children.	5.459530353546143	The daughter finds herself raising the money for children.	5.235284805297852	correct
+Martin finds himself raised the money.	5.686216831207275	Martin finds himself raising the money.	5.193220615386963	correct
+Jane understands that the boy believes in herself.	5.522843837738037	Jane understands that the boy believes in himself.	5.173308849334717	correct
+Jerry understands that his mother believes in himself.	5.067385196685791	Jerry understands that his mother believes in herself.	4.967877388000488	correct
+Anna hears that the king is helping herself.	6.585943222045898	Anna hears that the king is helping himself.	6.178961753845215	correct
+The man hears that the wife is helping himself.	5.626468181610107	The man hears that the wife is helping herself.	5.676815032958984	incorrect
+Anna sees herself helped that family.	8.898340225219727	Anna sees herself helping that family.	7.993801116943359	correct
+The man sees himself helped that family.	6.842281818389893	The man sees himself helping that family.	5.9795026779174805	correct
+The princess believes that the king is preparing herself for the job.	4.624273300170898	The princess believes that the king is preparing himself for the job.	4.6578898429870605	incorrect
+Jason believes that the lady is preparing himself for the job.	4.65116548538208	Jason believes that the lady is preparing herself for the job.	4.550646781921387	correct
+Anna pictures herself caught a ball.	7.183773994445801	Anna pictures herself catching a ball.	7.399457931518555	incorrect
+Anthony pictures himself caught a ball.	6.818722248077393	Anthony pictures himself catching a ball.	6.700498580932617	correct
+The female player explains that the male doctor saved herself.	5.9373698234558105	The female player explains that the male doctor saved himself.	5.93080472946167	correct
+Martin explains that the female player saved himself.	5.277684211730957	Martin explains that the female player saved herself.	5.426172256469727	incorrect
+The woman finds herself told that story to Anna.	6.154184818267822	The woman finds herself telling that story to Anna.	5.716543674468994	correct
+Adam finds himself told that story to Anna.	5.81467342376709	Adam finds himself telling that story to Anna.	5.524211406707764	correct
+The female player hears that the man saw herself appear on television.	6.143312454223633	The female player hears that the man saw himself appear on television.	5.741511344909668	correct
+Martin hears that the lady saw himself appear on television.	5.364833831787109	Martin hears that the lady saw herself appear on television.	5.454601764678955	incorrect
+The female player sees herself joined a team.	6.592994213104248	The female player sees herself joining a team.	5.974319934844971	correct
+Martin sees himself joined a team.	5.8850202560424805	Martin sees himself joining a team.	5.154853820800781	correct
+Helen sees herself sold some goods.	7.138469696044922	Helen sees herself selling some goods.	6.849076747894287	correct
+Matt sees himself sold some goods.	7.6988959312438965	Matt sees himself selling some goods.	7.421849727630615	correct
+Ruth learns that the prince changed herself.	6.108912467956543	Ruth learns that the prince changed himself.	5.831415176391602	correct
+John learns that his mother changed himself.	5.866641521453857	John learns that his mother changed herself.	5.630945682525635	correct
+Ruth imagines herself closed this door.	6.568946838378906	Ruth imagines herself closing this door.	6.291658878326416	correct
+John imagines himself closed this door.	6.895343780517578	John imagines himself closing this door.	6.929142951965332	incorrect
+The princess sees herself made money.	7.372112274169922	The princess sees herself making money.	6.359920501708984	correct
+Dan sees himself made money.	7.589580535888672	Dan sees himself making money.	6.284825801849365	correct
+The lady sees that the brother helps herself to food.	6.841142177581787	The lady sees that the brother helps himself to food.	6.7271952629089355	correct
+Jack sees that the woman helps himself to food.	6.15741491317749	Jack sees that the woman helps herself to food.	6.070548057556152	correct
+The female professor sees herself reached this goal.	7.953355312347412	The female professor sees herself reaching this goal.	7.552475929260254	correct
+Kelly hears that the male doctor proved herself.	6.829018592834473	Kelly hears that the male doctor proved himself.	7.096238136291504	incorrect
+Carl hears that the woman proved himself.	6.53749942779541	Carl hears that the woman proved herself.	6.175527572631836	correct
+Kelly sees herself proved the claim.	7.7852911949157715	Kelly sees herself proving the claim.	7.382147789001465	correct
+Carl sees himself proved the claim.	7.798585414886475	Carl sees himself proving the claim.	7.428407192230225	correct
+The female professor imagines herself painted some wall.	7.935353755950928	The female professor imagines herself painting some wall.	7.655552387237549	correct
+Dennis imagines himself painted some wall.	6.770833492279053	Dennis imagines himself painting some wall.	6.855260848999023	incorrect
+The female player believes that the father is attacking herself.	5.416042327880859	The female player believes that the father is attacking himself.	5.073129177093506	correct
+The prince believes that the female professor is attacking himself.	6.368044853210449	The prince believes that the female professor is attacking herself.	6.375235557556152	incorrect
+The female doctor sees herself started a project.	6.554141044616699	The female doctor sees herself starting a project.	5.866806507110596	correct
