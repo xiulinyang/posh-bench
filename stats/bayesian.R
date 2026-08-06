@@ -29,16 +29,16 @@ contrasts(df$source)   <- contr.sum(2) # baby=1, wiki=-1
 
 family_used <- bernoulli(link = "logit")
 # 
-# fml <- bf(
-#   val ~ (size_z + category) * filter + source +
-#     (1 | dataset) + (1 | dataset:random_seed) +
-#     (1 | phenomenon)
-# )
-
 fml <- bf(
   val ~ (size_z + category) * filter + source +
-    (1 | random_seed) + (1 | phenomenon)
+    (1 | dataset) + (1 | dataset:random_seed) +
+    (1 | phenomenon)
 )
+
+# fml <- bf(
+#   val ~ (size_z + category) * filter + source +
+#     (1 | random_seed) + (1 | phenomenon)
+# )
 
 
 priors <- c(
@@ -61,7 +61,7 @@ m_brm <- brm(
   iter = 2000,
   warmup = 1000,
   seed = 42,
-  file = "fit_bayesian",
+  file = "fit_bayesian_benchmark",
   file_refit = "on_change",
   control = list(adapt_delta = 0.99, max_treedepth = 15)
 )
