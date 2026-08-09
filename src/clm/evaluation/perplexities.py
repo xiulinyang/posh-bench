@@ -16,8 +16,8 @@ import argparse
 import os
 
 CHECKPOINTS = range(1,11)
-DATA_DIR = '/scratch/xiulyang/multilingual-tokenization/data/'
-HF_ID = 'xiulinyang'
+DATA_DIR = 'data/'
+HF_ID = None
 def create_attention_mask(token_lists):
     seq_length = max([len(i) for i in token_lists])
     batch_size = len(token_lists)

@@ -13,7 +13,7 @@ import torch
 os.environ['MKL_THREADING_LAYER'] = 'GNU'
 
 CHECKPOINTS= list(range(1, 11))
-MODEL_HUB = 'xiulinyang'
+MODEL_HUB = None
 parser = argparse.ArgumentParser('get multiblimp scores')
 parser.add_argument('model_name', type=str, help='model name')
 parser.add_argument('experiment', help='experiment name', choices=['parallel10', 'parallel3', 'parallel3-100'])
