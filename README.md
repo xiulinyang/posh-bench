@@ -31,7 +31,7 @@ python benchmark_eval.py model_name --eval_dataset posh --best_checkpoint
 ```
 ## Experiments 3
 
-You can run experiment 3 using the code from the repositories for [dynamic locality bias] (https://github.com/osekilab/CPLM) and [pre-pretraining] (https://github.com/michahu/pre-pretraining).
+You can run experiment 3 using the code from the repositories for [dynamic locality bias](https://github.com/osekilab/CPLM) and [pre-pretraining](https://github.com/michahu/pre-pretraining).
 (Customized code will be released upon acceptance to preserve anonymity during the review process.)
 ## Dataset
 - Training data: it is stored in [OSF](https://osf.io/jht6y/overview)
