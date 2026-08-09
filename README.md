@@ -40,14 +40,26 @@ You can run experiment 3 using the code from the repositories for [dynamic local
 
 
 ## Citation
-```
-@misc{yang2026unifiedassessmentpovertystimulus,
-      title={A Unified Assessment of the Poverty of the Stimulus Argument for Neural Language Models}, 
-      author={Xiulin Yang and Arianna Bisazza and Nathan Schneider and Ethan Gotlieb Wilcox},
-      year={2026},
-      eprint={2602.09992},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2602.09992}, 
-}
-```
+TBA
+
+[//]: # (```)
+
+[//]: # (@misc{yang2026unifiedassessmentpovertystimulus,)
+
+[//]: # (      title={A Unified Assessment of the Poverty of the Stimulus Argument for Neural Language Models}, )
+
+[//]: # (      author={Xiulin Yang and Arianna Bisazza and Nathan Schneider and Ethan Gotlieb Wilcox},)
+
+[//]: # (      year={2026},)
+
+[//]: # (      eprint={2602.09992},)
+
+[//]: # (      archivePrefix={arXiv},)
+
+[//]: # (      primaryClass={cs.CL},)
+
+[//]: # (      url={https://arxiv.org/abs/2602.09992}, )
+
+[//]: # (})
+
+[//]: # (```)
