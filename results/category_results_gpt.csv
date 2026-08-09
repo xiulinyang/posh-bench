@@ -1,0 +1,139 @@
+benchmark_suite,category,arch,domain,train_size,seed,avg_accuracy
+blimp,Binding,gpt2,NA,NA,NA,0.8453333333333334
+blimp,Island,gpt2,NA,NA,NA,0.7283333333333334
+posh,Binding,gpt2,NA,NA,NA,0.7749999999999999
+posh,Binding,mini,baby,10M,42,0.535
+posh,Binding,mini,baby,10M,53,0.5800000000000001
+posh,Binding,mini,baby,10M,76,0.487
+posh,Binding,mini,baby,10Mf,42,0.519
+posh,Binding,mini,baby,10Mf,53,0.536
+posh,Binding,mini,baby,10Mf,76,0.529
+posh,Binding,mini,wiki,10M,42,0.45
+posh,Binding,mini,wiki,10M,53,0.44299999999999995
+posh,Binding,mini,wiki,10M,76,0.477
+posh,Binding,small,baby,100M,42,0.743
+posh,Binding,small,baby,100M,53,0.712
+posh,Binding,small,baby,100M,76,0.738
+posh,Binding,small,baby,30M,42,0.55
+posh,Binding,small,baby,30M,53,0.5660000000000001
+posh,Binding,small,baby,30M,76,0.603
+posh,Binding,small,baby,30Mf,42,0.5690000000000001
+posh,Binding,small,baby,30Mf,53,0.57
+posh,Binding,small,baby,30Mf,76,0.589
+posh,Binding,small,baby,50M,42,0.647
+posh,Binding,small,baby,50M,53,0.589
+posh,Binding,small,baby,50M,76,0.628
+posh,Binding,small,baby,50Mf,42,0.651
+posh,Binding,small,baby,50Mf,53,0.631
+posh,Binding,small,baby,50Mf,76,0.671
+posh,Binding,small,wiki,100M,42,0.587
+posh,Binding,small,wiki,100M,53,0.5599999999999999
+posh,Binding,small,wiki,100M,76,0.6739999999999999
+posh,Binding,small,wiki,30M,42,0.6
+posh,Binding,small,wiki,30M,53,0.634
+posh,Binding,small,wiki,30M,76,0.659
+posh,Binding,small,wiki,50M,42,0.588
+posh,Binding,small,wiki,50M,53,0.637
+posh,Binding,small,wiki,50M,76,0.626
+posh,Island,gpt2,NA,NA,NA,0.9513333333333334
+posh,Island,mini,baby,10M,42,0.682
+posh,Island,mini,baby,10M,53,0.672
+posh,Island,mini,baby,10M,76,0.684
+posh,Island,mini,baby,10Mf,42,0.6846666666666668
+posh,Island,mini,baby,10Mf,53,0.7226666666666667
+posh,Island,mini,baby,10Mf,76,0.6393333333333333
+posh,Island,mini,wiki,10M,42,0.6646666666666666
+posh,Island,mini,wiki,10M,53,0.7106666666666667
+posh,Island,mini,wiki,10M,76,0.666
+posh,Island,small,baby,100M,42,0.836
+posh,Island,small,baby,100M,53,0.7679999999999999
+posh,Island,small,baby,100M,76,0.842
+posh,Island,small,baby,30M,42,0.7853333333333333
+posh,Island,small,baby,30M,53,0.782
+posh,Island,small,baby,30M,76,0.8006666666666667
+posh,Island,small,baby,30Mf,42,0.7093333333333334
+posh,Island,small,baby,30Mf,53,0.7673333333333333
+posh,Island,small,baby,30Mf,76,0.6833333333333332
+posh,Island,small,baby,50M,42,0.8113333333333334
+posh,Island,small,baby,50M,53,0.7366666666666667
+posh,Island,small,baby,50M,76,0.7386666666666667
+posh,Island,small,baby,50Mf,42,0.7273333333333333
+posh,Island,small,baby,50Mf,53,0.7266666666666666
+posh,Island,small,baby,50Mf,76,0.7120000000000001
+posh,Island,small,wiki,100M,42,0.8033333333333333
+posh,Island,small,wiki,100M,53,0.7493333333333334
+posh,Island,small,wiki,100M,76,0.7733333333333334
+posh,Island,small,wiki,30M,42,0.7653333333333333
+posh,Island,small,wiki,30M,53,0.7153333333333333
+posh,Island,small,wiki,30M,76,0.8019999999999999
+posh,Island,small,wiki,50M,42,0.7466666666666667
+posh,Island,small,wiki,50M,53,0.7713333333333333
+posh,Island,small,wiki,50M,76,0.754
+posh,Question Formation,gpt2,NA,NA,NA,0.7866666666666667
+posh,Question Formation,mini,baby,10M,42,0.5733333333333334
+posh,Question Formation,mini,baby,10M,53,0.5559999999999999
+posh,Question Formation,mini,baby,10M,76,0.5213333333333333
+posh,Question Formation,mini,baby,10Mf,42,0.5666666666666668
+posh,Question Formation,mini,baby,10Mf,53,0.518
+posh,Question Formation,mini,baby,10Mf,76,0.586
+posh,Question Formation,mini,wiki,10M,42,0.6313333333333334
+posh,Question Formation,mini,wiki,10M,53,0.6086666666666667
+posh,Question Formation,mini,wiki,10M,76,0.5906666666666666
+posh,Question Formation,small,baby,100M,42,0.52
+posh,Question Formation,small,baby,100M,53,0.5273333333333333
+posh,Question Formation,small,baby,100M,76,0.5086666666666667
+posh,Question Formation,small,baby,30M,42,0.522
+posh,Question Formation,small,baby,30M,53,0.5393333333333333
+posh,Question Formation,small,baby,30M,76,0.5366666666666666
+posh,Question Formation,small,baby,30Mf,42,0.5233333333333333
+posh,Question Formation,small,baby,30Mf,53,0.5640000000000001
+posh,Question Formation,small,baby,30Mf,76,0.5546666666666668
+posh,Question Formation,small,baby,50M,42,0.5486666666666666
+posh,Question Formation,small,baby,50M,53,0.5413333333333333
+posh,Question Formation,small,baby,50M,76,0.5339999999999999
+posh,Question Formation,small,baby,50Mf,42,0.5366666666666666
+posh,Question Formation,small,baby,50Mf,53,0.5293333333333333
+posh,Question Formation,small,baby,50Mf,76,0.548
+posh,Question Formation,small,wiki,100M,42,0.6093333333333333
+posh,Question Formation,small,wiki,100M,53,0.616
+posh,Question Formation,small,wiki,100M,76,0.5873333333333334
+posh,Question Formation,small,wiki,30M,42,0.6113333333333334
+posh,Question Formation,small,wiki,30M,53,0.5619999999999999
+posh,Question Formation,small,wiki,30M,76,0.6033333333333334
+posh,Question Formation,small,wiki,50M,42,0.5840000000000001
+posh,Question Formation,small,wiki,50M,53,0.5753333333333334
+posh,Question Formation,small,wiki,50M,76,0.6013333333333334
+posh,Wanna,gpt2,NA,NA,NA,0.436
+posh,Wanna,mini,baby,10M,42,0.518
+posh,Wanna,mini,baby,10M,53,0.712
+posh,Wanna,mini,baby,10M,76,0.718
+posh,Wanna,mini,baby,10Mf,42,0.776
+posh,Wanna,mini,baby,10Mf,53,0.754
+posh,Wanna,mini,baby,10Mf,76,0.802
+posh,Wanna,mini,wiki,10M,42,0.082
+posh,Wanna,mini,wiki,10M,53,0.288
+posh,Wanna,mini,wiki,10M,76,0.398
+posh,Wanna,small,baby,100M,42,0.908
+posh,Wanna,small,baby,100M,53,0.96
+posh,Wanna,small,baby,100M,76,0.896
+posh,Wanna,small,baby,30M,42,0.532
+posh,Wanna,small,baby,30M,53,0.654
+posh,Wanna,small,baby,30M,76,0.66
+posh,Wanna,small,baby,30Mf,42,0.81
+posh,Wanna,small,baby,30Mf,53,0.748
+posh,Wanna,small,baby,30Mf,76,0.546
+posh,Wanna,small,baby,50M,42,0.792
+posh,Wanna,small,baby,50M,53,0.692
+posh,Wanna,small,baby,50M,76,0.772
+posh,Wanna,small,baby,50Mf,42,0.852
+posh,Wanna,small,baby,50Mf,53,0.87
+posh,Wanna,small,baby,50Mf,76,0.826
+posh,Wanna,small,wiki,100M,42,0.868
+posh,Wanna,small,wiki,100M,53,0.698
+posh,Wanna,small,wiki,100M,76,0.406
+posh,Wanna,small,wiki,30M,42,0.334
+posh,Wanna,small,wiki,30M,53,0.602
+posh,Wanna,small,wiki,30M,76,0.636
+posh,Wanna,small,wiki,50M,42,0.5
+posh,Wanna,small,wiki,50M,53,0.56
+posh,Wanna,small,wiki,50M,76,0.482

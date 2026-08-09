@@ -1,0 +1,501 @@
+correct	incorrect	model_choice
+A:Who did this father learn that Louis served at the party?	B:Who did this father learn whether Louis served at the party?	A
+B:What did this father learn that Louis taught?	A:What did this father learn whether Louis taught?	B
+A:What might this father find out he taught?	B:What might this father find out who taught?	A
+B:What might this father find out he drew?	A:What might this father find out who drew?	B
+A:Who did this male professor know that Ryan found?	B:Who did this male professor know whether Ryan found?	A
+A:What did this male professor know that Ryan shared with others?	B:What did this male professor know whether Ryan shared with others?	A
+B:What won't this male professor know he shared with others?	A:What won't this male professor know who shared with others?	B
+B:What won't this male professor know he chose?	A:What won't this male professor know who chose?	B
+A:Who did this woman hear that Elizabeth defeated?	B:Who did this woman hear whether Elizabeth defeated?	A
+B:What doesn't this woman know she chose?	A:What doesn't this woman know who chose?	B
+A:What doesn't this woman know she found?	B:What doesn't this woman know who found?	A
+A:What did the man hear that Anna remembered?	B:What did the man hear whether Anna remembered?	A
+A:What would the man say he remembered?	B:What would the man say who remembered?	A
+A:What would the man say he chose?	B:What would the man say who chose?	A
+B:What did this girl see that Bill built?	A:What did this girl see whether Bill built?	B
+A:What can't this girl believe she built?	B:What can't this girl believe who built?	A
+B:What didn't this male player know he wrote?	A:What didn't this male player know who wrote?	B
+A:What didn't this male player know he fought for?	B:What didn't this male player know who fought for?	A
+A:Who did this woman see that Maria taught?	B:Who did this woman see whether Maria taught?	A
+A:What don't these women tell us they shared?	B:What don't these women tell us who shared?	A
+B:Who did this mother learn that Maria killed?	A:Who did this mother learn whether Maria killed?	B
+A:What didn't this mother realize she served at the party?	B:What didn't this mother realize who served at the party?	A
+A:Who did the lady remember that Michael served at the party?	B:Who did the lady remember whether Michael served at the party?	A
+B:What will the lady find out she helped?	A:What will the lady find out who helped?	B
+A:Who did the father learn that Charles asked?	B:Who did the father learn whether Charles asked?	A
+B:What did the male doctor hear that Peter was watching?	A:What did the male doctor hear whether Peter was watching?	B
+A:What did the male doctor hear that Peter shared?	B:What did the male doctor hear whether Peter shared?	A
+A:What can't the male doctor believe he shared?	B:What can't the male doctor believe who shared?	A
+B:What can't the male doctor believe he finished?	A:What can't the male doctor believe who finished?	B
+A:Who did the male president learn that Steve met?	B:Who did the male president learn whether Steve met?	A
+A:What did the male president learn that Steve chose?	B:What did the male president learn whether Steve chose?	A
+B:What shouldn't the male president find out he chose?	A:What shouldn't the male president find out who chose?	B
+B:What shouldn't the male president find out he described?	A:What shouldn't the male president find out who described?	B
+A:Who did the female professor explain that Helen trusted?	B:Who did the female professor explain whether Helen trusted?	A
+A:What did the female professor explain that Helen put on the table?	B:What did the female professor explain whether Helen put on the table?	A
+B:What didn't the female professor realize she put on the table?	A:What didn't the female professor realize who put on the table?	B
+A:What didn't the female professor realize she found?	B:What didn't the female professor realize who found?	A
+A:What could this lady believe she wrote?	B:What could this lady believe who wrote?	A
+B:Who did this daughter know that Anna saved?	A:Who did this daughter know whether Anna saved?	B
+A:What did this daughter know that Anna saved?	B:What did this daughter know whether Anna saved?	A
+B:What doesn't this daughter find out she saved?	A:What doesn't this daughter find out who saved?	B
+B:What doesn't this daughter find out she informed her mother about?	A:What doesn't this daughter find out who informed her mother about?	B
+B:Who did the princess explain that Ann saw?	A:Who did the princess explain whether Ann saw?	B
+A:What did the princess explain that Ann saved?	B:What did the princess explain whether Ann saved?	A
+A:What did the female professor learn that Louis shared?	B:What did the female professor learn whether Louis shared?	A
+A:What must the female professor decide she shared?	B:What must the female professor decide who shared?	A
+B:What must the female professor decide she taught?	A:What must the female professor decide who taught?	B
+A:Who did this woman decide that Philip helped?	B:Who did this woman decide whether Philip helped?	A
+B:What did this woman decide that Philip built?	A:What did this woman decide whether Philip built?	B
+B:What must this woman decide she built?	A:What must this woman decide who built?	B
+A:What must this woman decide she wrote?	B:What must this woman decide who wrote?	A
+A:Who did this male doctor say that Gary helped?	B:Who did this male doctor say whether Gary helped?	A
+B:What did this male doctor say that Gary helped?	A:What did this male doctor say whether Gary helped?	B
+B:What must this male doctor say he helped?	A:What must this male doctor say who helped?	B
+A:What must this male doctor say he served at the party?	B:What must this male doctor say who served at the party?	A
+B:Who did the female doctor know that Bill found?	A:Who did the female doctor know whether Bill found?	B
+A:What did the female doctor know that Bill made?	B:What did the female doctor know whether Bill made?	A
+B:What didn't the female doctor realize she made?	A:What didn't the female doctor realize who made?	B
+A:What didn't the female doctor realize she finished?	B:What didn't the female doctor realize who finished?	A
+A:Who did this father say that Louis saw?	B:Who did this father say whether Louis saw?	A
+B:What did this father say that Louis wrote?	A:What did this father say whether Louis wrote?	B
+B:What can this father learn he wrote?	A:What can this father learn who wrote?	A
+A:What can this father learn he can't control?	B:What can this father learn who can't control?	A
+A:Who did this female professor know that Scott helped?	B:Who did this female professor know whether Scott helped?	A
+B:What did this female professor know that Scott taught?	A:What did this female professor know whether Scott taught?	B
+A:What didn't this female professor realize she taught?	B:What didn't this female professor realize who taught?	A
+B:What didn't this female professor realize she was fighting against?	A:What didn't this female professor realize who was fighting against?	B
+A:Who did the brother see that Ryan asked about?	B:Who did the brother see whether Ryan asked about?	A
+B:Who did this male professor explain that Joe married?	A:Who did this male professor explain whether Joe married?	B
+B:What did this male professor explain that Joe finished?	A:What did this male professor explain whether Joe finished?	B
+A:What didn't this male professor realize he finished?	B:What didn't this male professor realize who finished?	A
+A:What didn't this male professor realize he saved?	B:What didn't this male professor realize who saved?	A
+A:What did the male professor say that Helen chose?	B:What did the male professor say whether Helen chose?	A
+B:What will the male professor remember he chose?	A:What will the male professor remember who chose?	B
+B:What will the male professor remember he learned?	A:What will the male professor remember who learned?	B
+A:Who did the father remember that Mary led?	B:Who did the father remember whether Mary led?	A
+A:What mustn't the father say he left at home?	B:What mustn't the father say who left at home?	A
+B:Who did this lady decide that Dennis watched?	A:Who did this lady decide whether Dennis watched?	B
+A:What did this lady decide that Dennis drew?	B:What did this lady decide whether Dennis drew?	A
+A:What won't this lady believe she drew?	B:What won't this lady believe who drew?	A
+B:Who did the male player know that Peter trusted?	A:Who did the male player know whether Peter trusted?	B
+A:What did the male player know that Peter finished?	B:What did the male player know whether Peter finished?	A
+A:What does the male player need to find he finished?	B:What does the male player need to find who finished?	A
+A:Who did the man remember that Carl followed?	B:Who did the man remember whether Carl followed?	A
+B:What did the man remember that Carl taught?	A:What did the man remember whether Carl taught?	B
+B:What won't the man tell us he taught?	A:What won't the man tell us who taught?	B
+B:What won't the man tell us he informed about?	A:What won't the man tell us who informed about?	B
+B:Who did the man see that Louis attacked?	A:Who did the man see whether Louis attacked?	B
+B:Who did the princess hear that Carl followed?	A:Who did the princess hear whether Carl followed?	B
+B:What did the princess hear that Carl fought?	A:What did the princess hear whether Carl fought?	B
+B:What didn't the princess decide she won?	A:What didn't the princess decide who won?	B
+B:Who did the male player explain that Bruce supported?	A:Who did the male player explain whether Bruce supported?	B
+A:What did the male player explain that Bruce described?	B:What did the male player explain whether Bruce described?	A
+B:What would the male player find out he described?	A:What would the male player find out who described?	B
+A:Who did this boy hear that James saw?	B:Who did this boy hear whether James saw?	A
+A:What did this boy hear that James learned?	B:What did this boy hear whether James learned?	A
+B:What will this boy decide he taught his friend?	A:What will this boy decide who taught his friend?	B
+A:What will this boy decide he served at the party at the table?	B:What will this boy decide who served at the party at the table?	A
+A:Who did this boy know that Edward met?	B:Who did this boy know whether Edward met?	A
+A:What did this boy know that Edward fought for?	B:What did this boy know whether Edward fought for?	A
+A:Who did the princess say that Louis led?	B:Who did the princess say whether Louis led?	A
+B:What did the princess say that Louis got?	A:What did the princess say whether Louis got?	B
+A:What can't the princess tell her she got?	B:What can't the princess tell her who got?	A
+A:What can't the princess tell her she trusted?	B:What can't the princess tell her who trusted?	A
+A:Who did this daughter say that Steve served at the table?	B:Who did this daughter say whether Steve served at the table?	A
+B:What did this female president explain that Jane understood?	A:What did this female president explain whether Jane understood?	B
+A:What did this female president explain that Jane played with?	B:What did this female president explain whether Jane played with?	A
+A:What did this female president decide she played with?	B:What did this female president decide who played with?	A
+A:Who did this female president remember that Bobby told the secret?	B:Who did this female president remember whether Bobby told the secret?	B
+B:What did this female president remember that Bobby helped to do?	A:What did this female president remember whether Bobby helped to do?	B
+A:What won't this female president see she helped to finish?	B:What won't this female president see who helped to finish?	A
+A:What won't this female president see she won at the game?	B:What won't this female president see who won at the game?	B
+B:What can't this male doctor find out he chose?	A:What can't this male doctor find out who chose?	B
+B:Who did this female professor know that Martin served at the party?	A:Who did this female professor know whether Martin served at the party?	B
+B:What did this female professor know that Martin drew?	A:What did this female professor know whether Martin drew?	B
+A:What won't this female professor realize she drew?	B:What won't this female professor realize who drew?	A
+A:What won't this female professor realize she told her student about?	B:What won't this female professor realize who told her student about?	A
+A:What did the wife know that Walter wrote?	B:What did the wife know whether Walter wrote?	A
+B:What could the wife learn she wrote?	A:What could the wife learn who wrote?	B
+B:What could the wife learn she taught?	A:What could the wife learn who taught?	A
+A:Who did the mother write that Jason trained?	B:Who did the mother write whether Jason trained?	A
+A:What did the mother write that Jason found?	B:What did the mother write whether Jason found?	A
+A:Who did the female president learn that Catherine defeated?	B:Who did the female president learn whether Catherine defeated?	A
+B:What did the female president learn that Catherine chose?	A:What did the female president learn whether Catherine chose?	B
+A:What doesn't the female president say she chose?	B:What doesn't the female president say who chose?	A
+B:What doesn't the female president say she raised?	A:What doesn't the female president say who raised?	B
+B:Who did the women know that Sarah joined?	A:Who did the women know whether Sarah joined?	B
+B:What may the women say she drew?	A:What may the women say who drew?	A
+A:Who did this daughter explain that Jane watched?	B:Who did this daughter explain whether Jane watched?	A
+A:What did this daughter explain that Jane learned?	B:What did this daughter explain whether Jane learned?	A
+B:What didn't the mother say she talked to the student about?	A:What didn't the mother say who talked to the student about?	B
+A:Who did the girl decide that Jane told her about?	B:Who did the girl decide whether Jane told her about?	A
+A:What did the girl decide that Jane played with?	B:What did the girl decide whether Jane played with?	A
+B:What can't the girl know she played with?	A:What can't the girl know who played with?	B
+A:What can't the girl know she described?	B:What can't the girl know who described?	A
+A:Who did the mother remember that Richard led?	B:Who did the mother remember whether Richard led?	A
+A:What did the mother remember that Richard learned?	B:What did the mother remember whether Richard learned?	A
+A:What can the mother find out she learned?	B:What can the mother find out who learned?	A
+B:Who did this lady know that Gary taught?	A:Who did this lady know whether Gary taught?	B
+B:What did this lady know that Gary drew?	A:What did this lady know whether Gary drew?	B
+B:What will this lady know she drew?	A:What will this lady know who drew?	B
+A:What will this lady know she described?	B:What will this lady know who described?	A
+B:Who did the wife write that Alice met?	A:Who did the wife write whether Alice met?	B
+A:What did the wife write that Alice moved?	B:What did the wife write whether Alice moved?	A
+A:What may the wife remember she moved?	B:What may the wife remember who moved?	A
+A:Who did the women decide that Peter trusted?	B:Who did the women decide whether Peter trusted?	A
+A:What do the women need to decide they told them about?	B:What do the women need to decide who told them about?	B
+A:Who did the male president know that Mary defeated?	B:Who did the male president know whether Mary defeated?	A
+A:What did the male president know that Mary held?	B:What did the male president know whether Mary held?	A
+A:What didn't the male president remember he held?	B:What didn't the male president remember who held?	A
+B:What didn't the male president remember he described?	A:What didn't the male president remember who described?	B
+B:Who did this female professor know that Fred found?	A:Who did this female professor know whether Fred found?	B
+B:What did this female professor know that Fred finished?	A:What did this female professor know whether Fred finished?	B
+A:What may this female professor remember she finished?	B:What may this female professor remember who finished?	A
+B:Who did this male player know that Oliver trained?	A:Who did this male player know whether Oliver trained?	B
+B:What did this male player know that Oliver taught?	A:What did this male player know whether Oliver taught?	B
+B:What could this male player believe he taught?	A:What could this male player believe who taught?	B
+B:What could this male player believe he told him about?	A:What could this male player believe who told him about?	B
+B:Who did the wife know that Oliver taught?	A:Who did the wife know whether Oliver taught?	B
+A:What did the wife know that Oliver taught?	B:What did the wife know whether Oliver taught?	A
+A:What couldn't the wife see she taught?	B:What couldn't the wife see who taught?	B
+B:Who did the male player remember that Alice trusted?	A:Who did the male player remember whether Alice trusted?	B
+B:What did the male player remember that Alice helped?	A:What did the male player remember whether Alice helped?	B
+A:What doesn't the male player remember he helped?	B:What doesn't the male player remember who helped?	B
+B:What doesn't the male player remember he put on the table?	A:What doesn't the male player remember who put on the table?	B
+A:Who did the boy say that Joe married?	B:Who did the boy say whether Joe married?	A
+A:What did this male player know that Edward won in the game?	B:What did this male player know whether Edward won in the game?	A
+A:What couldn't this male player realize he won?	B:What couldn't this male player realize who won?	B
+A:What couldn't this male player realize he informed him about?	B:What couldn't this male player realize who informed him about?	A
+B:Who did the mother explain that Gary saved?	A:Who did the mother explain whether Gary saved?	B
+B:What did the mother explain that Gary taught?	A:What did the mother explain whether Gary taught?	B
+A:What shouldn't the mother find out she taught?	B:What shouldn't the mother find out who taught?	B
+A:What shouldn't the mother find out she built?	B:What shouldn't the mother find out who built?	B
+A:Who did the male president hear that Scott loved?	B:Who did the male president hear whether Scott loved?	A
+A:What did the male president hear that Scott taught?	B:What did the male president hear whether Scott taught?	A
+A:What could the male president believe he taught?	B:What could the male president believe who taught?	A
+A:What could the male president believe he learned?	B:What could the male president believe who learned?	A
+A:Who did the female doctor decide that Scott followed?	B:Who did the female doctor decide whether Scott followed?	A
+A:What did the female doctor decide that Scott fought for?	B:What did the female doctor decide whether Scott fought for?	A
+A:Who did the female president learn that Pierre supported?	B:Who did the female president learn whether Pierre supported?	A
+A:What did the female president learn that Pierre played with?	B:What did the female president learn whether Pierre played with?	A
+B:What mustn't the female president remember she played with?	A:What mustn't the female president remember who played with?	B
+B:What mustn't the female president remember she told her about?	A:What mustn't the female president remember who told her about?	B
+A:Who did this brother explain that Mary visited?	B:Who did this brother explain whether Mary visited?	A
+A:What did this brother explain that Mary learned?	B:What did this brother explain whether Mary learned?	A
+B:What should this brother remember he learned?	A:What should this brother remember who learned?	A
+B:What should this brother remember he helped to do?	A:What should this brother remember who helped to do?	B
+A:Who did this girl know that Philip served at the table?	B:Who did this girl know whether Philip served at the table?	A
+A:What did this girl know that Philip described?	B:What did this girl know whether Philip described?	A
+A:What will this girl believe she described?	B:What will this girl believe who described?	A
+A:What will this girl believe she told them?	B:What will this girl believe who told them?	A
+B:Who did this female president write that Thomas supported?	A:Who did this female president write whether Thomas supported?	B
+B:What did this female president write that Thomas moved?	A:What did this female president write whether Thomas moved?	B
+B:What does this female president need to tell him she moved?	A:What does this female president need to tell him who moved?	B
+A:Who did this father know that Jane supported?	B:Who did this father know whether Jane supported?	A
+B:What did this father know that Jane learned?	A:What did this father know whether Jane learned?	B
+A:What must this father decide he learned?	B:What must this father decide who learned?	A
+B:What must this father decide he informed him about?	A:What must this father decide who informed him about?	B
+B:Who did this lady learn that Alice defeated?	A:Who did this lady learn whether Alice defeated?	B
+B:What did the father know that Anna remembered?	A:What did the father know whether Anna remembered?	B
+B:What mustn't the father believe he remembered?	A:What mustn't the father believe who remembered?	B
+A:What mustn't the father believe he won?	B:What mustn't the father believe who won?	A
+A:Who did the female professor hear that Martin trusted?	B:Who did the female professor hear whether Martin trusted?	A
+B:What did the female professor hear that Martin drew?	A:What did the female professor hear whether Martin drew?	B
+A:What did the female professor remember she drew?	B:What did the female professor remember who drew?	A
+A:What did the female professor remember she found?	B:What did the female professor remember who found?	A
+B:Who did the male president explain that Scott followed?	A:Who did the male president explain whether Scott followed?	B
+A:What did the male president explain that Scott drew?	B:What did the male president explain whether Scott drew?	A
+B:What did the mother decide that James described?	A:What did the mother decide whether James described?	B
+A:What can't the mother know she described?	B:What can't the mother know who described?	A
+A:What can't the mother know she moved?	B:What can't the mother know who moved?	B
+A:Who did the king say that Bobby attacked?	B:Who did the king say whether Bobby attacked?	A
+B:What did the king say that Bobby served at the party?	A:What did the king say whether Bobby served at the party?	B
+B:Who did this brother explain that Bobby supported?	A:Who did this brother explain whether Bobby supported?	B
+A:What did this brother explain that Bobby remembered?	B:What did this brother explain whether Bobby remembered?	A
+B:What would this brother realize he remembered?	A:What would this brother realize who remembered?	B
+B:What would this brother realize he taught?	A:What would this brother realize who taught?	B
+A:Who did this female president learn that Bruce loved?	B:Who did this female president learn whether Bruce loved?	A
+A:What did this female president learn that Bruce served at the party?	B:What did this female president learn whether Bruce served at the party?	A
+B:Who did this wife know that Tim loved?	A:Who did this wife know whether Tim loved?	B
+B:What did this wife know that Tim built?	A:What did this wife know whether Tim built?	B
+B:What won't this wife know she built?	A:What won't this wife know who built?	B
+B:What won't this wife know she wrote?	A:What won't this wife know who wrote?	B
+B:Who did the female player learn that James supported?	A:Who did the female player learn whether James supported?	B
+A:What did the female player learn that James found?	B:What did the female player learn whether James found?	A
+A:What may the female player remember she found?	B:What may the female player remember who found?	A
+B:What may the female player remember she remembered?	A:What may the female player remember who remembered?	B
+B:Who did the father remember that Thomas trusted?	A:Who did the father remember whether Thomas trusted?	B
+B:Who did this girl remember that Walter called?	A:Who did this girl remember whether Walter called?	B
+B:What did this girl remember that Walter talked to her about?	A:What did this girl remember whether Walter talked to her about?	B
+A:What should this girl say she described?	B:What should this girl say who described?	A
+B:Who did this mother know that Anna told the story?	A:Who did this mother know whether Anna told the story?	B
+B:What did this mother know that Anna described?	A:What did this mother know whether Anna described?	B
+B:Who did the wife hear that Ruth watched?	A:Who did the wife hear whether Ruth watched?	B
+A:What did the wife hear that Ruth moved?	B:What did the wife hear whether Ruth moved?	A
+B:What will the wife remember she moved?	A:What will the wife remember who moved?	A
+B:What will the wife remember she raised?	A:What will the wife remember who raised?	B
+B:Who did the man hear that Bruce visited?	A:Who did the man hear whether Bruce visited?	B
+B:What did the mother learn that Ted taught?	A:What did the mother learn whether Ted taught?	B
+A:Who did the women say that Tim trusted?	B:Who did the women say whether Tim trusted?	A
+B:What did the women say that Tim trusted?	A:What did the women say whether Tim trusted?	B
+A:What will the women find out she talked to her about?	B:What will the women find out who talked to her about?	A
+A:What will the women find out they wrote?	B:What will the women find out who wrote?	A
+B:Who did this male president learn that James saved?	A:Who did this male president learn whether James saved?	B
+B:What did this male president learn that James won?	A:What did this male president learn whether James won?	B
+B:Who did the brother know that Jason met?	A:Who did the brother know whether Jason met?	B
+B:What did the brother know that Jason won?	A:What did the brother know whether Jason won?	B
+A:What couldn't the brother realize he won?	B:What couldn't the brother realize who won?	B
+A:What couldn't the brother realize he taught?	B:What couldn't the brother realize who taught?	A
+B:Who did this father think that Kelly met?	A:Who did this father think whether Kelly met?	B
+A:What will this father say he left at home?	B:What will this father say who left at home?	A
+A:Who did this mother say that Ryan saw?	B:Who did this mother say whether Ryan saw?	A
+B:What did this mother say that Ryan described?	A:What did this mother say whether Ryan described?	B
+B:What will this male president remember he saved?	A:What will this male president remember who saved?	B
+A:What will this male president remember he described?	B:What will this male president remember who described?	A
+A:What can't this man know he talked to John about?	B:What can't this man know who talked to John about?	A
+A:Who did the princess hear that Alice found?	B:Who did the princess hear whether Alice found?	A
+B:What did the princess hear that Alice built?	A:What did the princess hear whether Alice built?	B
+A:What won't the princess tell her she built?	B:What won't the princess tell her who built?	A
+A:What won't the princess tell her she raised?	B:What won't the princess tell her who raised?	A
+B:Who did this female player think that Philip asked about?	A:Who did this female player think whether Philip asked about?	B
+B:What did this female player think that Philip controlled?	A:What did this female player think whether Philip controlled?	B
+B:What can't this female player realize she controlled?	A:What can't this female player realize who controlled?	B
+B:What can't this female player realize she built?	A:What can't this female player realize who built?	B
+B:Who did the wife know that Steve led?	A:Who did the wife know whether Steve led?	B
+B:What did the wife know that Steve made?	A:What did the wife know whether Steve made?	B
+B:What can't the wife see she made?	A:What can't the wife see who made?	B
+A:What can't the wife see she hit?	B:What can't the wife see who hit?	A
+B:Who did this female president think that Richard defeated?	A:Who did this female president think whether Richard defeated?	B
+A:What did this female president think that Richard moved?	B:What did this female president think whether Richard moved?	A
+B:Who did the female professor remember that Alice trusted?	A:Who did the female professor remember whether Alice trusted?	B
+A:What did the female professor remember that Alice chose?	B:What did the female professor remember whether Alice chose?	A
+B:Who did this female player say that Catherine trained?	A:Who did this female player say whether Catherine trained?	B
+B:What did this female player say that Catherine finished?	A:What did this female player say whether Catherine finished?	B
+A:Who did the mother know that Maria led?	B:Who did the mother know whether Maria led?	A
+B:What couldn't the mother say she made?	A:What couldn't the mother say who made?	B
+B:What did this female professor remember that Alice hit?	A:What did this female professor remember whether Alice hit?	B
+A:What would this female professor tell she hit?	B:What would this female professor tell who hit?	A
+A:What would this female professor tell she remembered?	B:What would this female professor tell who remembered?	B
+A:Who did this mother remember that Ann defeated?	B:Who did this mother remember whether Ann defeated?	A
+B:What will this mother believe she shared with her?	A:What will this mother believe who shared with her?	B
+A:Who did the father hear that Bruce served at the party?	B:Who did the father hear whether Bruce served at the party?	A
+A:What did the father hear that Bruce found?	B:What did the father hear whether Bruce found?	A
+A:What couldn't the father see he found?	B:What couldn't the father see who found?	A
+B:Who did the brother remember that Victoria defeated?	A:Who did the brother remember whether Victoria defeated?	B
+A:What did the brother remember that Victoria remembered?	B:What did the brother remember whether Victoria remembered?	A
+A:Who did this brother learn that Victoria visited?	B:Who did this brother learn whether Victoria visited?	A
+A:What didn't this brother know he found?	B:What didn't this brother know who found?	A
+B:Who did the wife know that Ted invited to the party?	A:Who did the wife know whether Ted invited to the party?	B
+B:Who did this male professor hear that Kevin asked about?	A:Who did this male professor hear whether Kevin asked about?	B
+B:What did this male professor hear that Kevin helped with?	A:What did this male professor hear whether Kevin helped with?	B
+B:What didn't this male professor see he helped with?	A:What didn't this male professor see who helped with?	B
+A:What did this mother say that Charles made?	B:What did this mother say whether Charles made?	A
+B:Who did this brother know that Kevin met?	A:Who did this brother know whether Kevin met?	B
+A:What could this brother remember he taught?	B:What could this brother remember who taught?	A
+B:Who did this female doctor learn that Charles trusted?	A:Who did this female doctor learn whether Charles trusted?	B
+A:What did this female doctor learn that Charles served at the party?	B:What did this female doctor learn whether Charles served at the party?	A
+B:What will this female doctor find out she served at the party?	A:What will this female doctor find out who served at the party?	A
+B:What will this female doctor find out she won?	A:What will this female doctor find out who won?	B
+B:Who did this boy know that Richard saved?	A:Who did this boy know whether Richard saved?	B
+A:What did this boy know that Richard drew?	B:What did this boy know whether Richard drew?	A
+A:What doesn't this boy learn he drew?	B:What doesn't this boy learn who drew?	A
+B:What doesn't this boy learn he fought for?	A:What doesn't this boy learn who fought for?	B
+A:Who did the prince hear that Kelly trusted?	B:Who did the prince hear whether Kelly trusted?	A
+B:What did the prince hear that Kelly helped with?	A:What did the prince hear whether Kelly helped with?	B
+B:Who did this female doctor know that Edward defeated?	A:Who did this female doctor know whether Edward defeated?	B
+B:What did this female doctor know that Edward built?	A:What did this female doctor know whether Edward built?	B
+A:What may this female doctor learn she built?	B:What may this female doctor learn who built?	A
+B:Who did the male player explain that Sarah attacked?	A:Who did the male player explain whether Sarah attacked?	B
+A:What did the male player explain that Sarah helped with?	B:What did the male player explain whether Sarah helped with?	A
+B:What didn't the male player know he helped with?	A:What didn't the male player know who helped with?	B
+B:Who did the king say that Elizabeth invited to the party?	A:Who did the king say whether Elizabeth invited to the party?	B
+A:What did the king say that Elizabeth served at the party?	B:What did the king say whether Elizabeth served at the party?	A
+A:What would the king know he liked?	B:What would the king know who liked?	A
+B:What would the king know he saved?	A:What would the king know who saved?	B
+B:Who did the women learn that Mary liked?	A:Who did the women learn whether Mary liked?	B
+A:What did the women learn that Mary shared with her?	B:What did the women learn whether Mary shared with her?	A
+A:What don't the women know she shared?	B:What don't the women know who shared?	A
+A:What don't the women know she raised?	B:What don't the women know who raised?	A
+A:Who did this lady remember that Alice trained with?	B:Who did this lady remember whether Alice trained with?	A
+B:What did this lady remember that Alice controlled?	A:What did this lady remember whether Alice controlled?	B
+A:Who did this female doctor know that Maria met with?	B:Who did this female doctor know whether Maria met with?	A
+A:What did this female doctor know that Maria helped with?	B:What did this female doctor know whether Maria helped with?	A
+B:What can't this female doctor find out she helped with?	A:What can't this female doctor find out who helped with?	B
+A:What can't this female doctor find out she talked to her about?	B:What can't this female doctor find out who talked to her about?	B
+B:Who did this princess remember that Kelly trained?	A:Who did this princess remember whether Kelly trained?	B
+B:What did this princess remember that Kelly raised?	A:What did this princess remember whether Kelly raised?	B
+A:Who did the daughter think that Ryan attacked?	B:Who did the daughter think whether Ryan attacked?	A
+B:What did the daughter think that Ryan built?	A:What did the daughter think whether Ryan built?	B
+B:Who did the women hear that Pierre saw?	A:Who did the women hear whether Pierre saw?	B
+A:What did the women hear that Pierre informed him about?	B:What did the women hear whether Pierre informed him about?	A
+A:What will the women remember she informed her about?	B:What will the women remember who informed her about?	A
+A:Who did this female doctor remember that Helen loved?	B:Who did this female doctor remember whether Helen loved?	A
+A:What did this female doctor remember that Helen taught?	B:What did this female doctor remember whether Helen taught?	A
+A:What should this female doctor decide she taught?	B:What should this female doctor decide who taught?	A
+A:What should this female doctor decide she told the man?	B:What should this female doctor decide who told the man?	A
+A:What did this brother say that Maria moved to her house?	B:What did this brother say whether Maria moved to her house?	A
+A:Who did the mother hear that Bruce led?	B:Who did the mother hear whether Bruce led?	A
+B:What did the mother hear that Bruce made?	A:What did the mother hear whether Bruce made?	B
+B:Who did the male player hear that Kelly married?	A:Who did the male player hear whether Kelly married?	B
+A:What did the male player hear that Kelly taught?	B:What did the male player hear whether Kelly taught?	A
+B:What might the male player find out he taught?	A:What might the male player find out who taught?	B
+A:What might the male player find out he told us?	B:What might the male player find out who told us?	A
+B:Who did this daughter explain that Victoria met?	A:Who did this daughter explain whether Victoria met?	B
+A:What did this daughter explain that Victoria shared?	B:What did this daughter explain whether Victoria shared?	A
+B:What does this daughter know she shared with her mother?	A:What does this daughter know who shared with her mother?	B
+B:What does this daughter know she built?	A:What does this daughter know who built?	B
+B:Who did the female president explain that Philip found?	A:Who did the female president explain whether Philip found?	B
+A:What did the female president explain that Philip made?	B:What did the female president explain whether Philip made?	A
+B:What will the female president learn she made?	A:What will the female president learn who made?	B
+B:What will the female president learn she learned?	A:What will the female president learn who learned?	B
+B:Who did this female president remember that Fred joined?	A:Who did this female president remember whether Fred joined?	B
+A:Who did this woman say that Carl met?	B:Who did this woman say whether Carl met?	A
+A:What did this woman say that Carl drew?	B:What did this woman say whether Carl drew?	A
+B:What didn't this woman remember she drew?	A:What didn't this woman remember who drew?	B
+B:What didn't this woman remember she chose?	A:What didn't this woman remember who chose?	B
+A:Who did this daughter remember that Philip invited?	B:Who did this daughter remember whether Philip invited?	A
+A:What did this daughter remember that Philip moved to his house?	B:What did this daughter remember whether Philip moved to his house?	A
+B:What will this man say he told the doctor about?	A:What will this man say who told the doctor about?	B
+A:Who did the female professor learn that Tim attacked?	B:Who did the female professor learn whether Tim attacked?	A
+A:What did the female professor learn that Tim saved?	B:What did the female professor learn whether Tim saved?	A
+A:What can the female professor believe she saved?	B:What can the female professor believe who saved?	A
+B:What can the female professor believe she found?	A:What can the female professor believe who found?	B
+B:Who did this wife remember that Catherine trusted?	A:Who did this wife remember whether Catherine trusted?	B
+B:What did this wife remember that Catherine drew?	A:What did this wife remember whether Catherine drew?	B
+B:What doesn't this wife know she drew?	A:What doesn't this wife know who drew?	B
+A:Who did the father know that James visited?	B:Who did the father know whether James visited?	A
+A:What did the father know that James taught?	B:What did the father know whether James taught?	A
+A:Who did this brother learn that Mary taught English to?	B:Who did this brother learn whether Mary taught English to?	B
+A:Who did this brother learn that Mary shared the food with?	B:Who did this brother learn whether Mary shared the food with?	A
+A:Who could this father learn he shared the room with?	B:Who could this father learn who shared the room with?	A
+A:Who did this male doctor write that James visited?	B:Who did this male doctor write whether James visited?	B
+A:What did this male doctor write that James informed him about?	B:What did this male doctor write whether James informed him about?	A
+A:What did this male doctor decide he made up?	B:What did this male doctor decide who made up?	A
+A:What did the male president think that Sarah saved?	B:What did the male president think whether Sarah saved?	A
+B:What shouldn't the male president know he saved?	A:What shouldn't the male president know who saved?	B
+B:What shouldn't the male president know he helped with?	A:What shouldn't the male president know who helped with?	B
+A:Who did this lady say that Ryan joined?	B:Who did this lady say whether Ryan joined?	A
+A:What did this mother learn that Fred watched?	B:What did this mother learn whether Fred watched?	A
+A:What did this mother learn that Fred wrote?	B:What did this mother learn whether Fred wrote?	A
+B:What won't this mother see she wrote?	A:What won't this mother see who wrote?	A
+A:What won't this mother see she raised?	B:What won't this mother see who raised?	A
+A:Who did the male doctor learn that Alice supported?	B:Who did the male doctor learn whether Alice supported?	A
+B:What did the male doctor learn that Alice found?	A:What did the male doctor learn whether Alice found?	B
+B:What couldn't the male doctor learn he found?	A:What couldn't the male doctor learn who found?	B
+B:What couldn't the male doctor remember he wrote?	A:What couldn't the male doctor remember who wrote?	B
+A:Who did the princess remember that Elizabeth trained?	B:Who did the princess remember whether Elizabeth trained?	A
+A:What did the princess write that Elizabeth drew?	B:What did the princess write whether Elizabeth drew?	A
+B:What didn't the princess say she drew?	A:What didn't the princess say who drew?	B
+B:What didn't the princess say she won?	A:What didn't the princess say who won?	B
+B:Who did this female professor explain that Elizabeth attacked?	A:Who did this female professor explain whether Elizabeth attacked?	B
+A:What did this female professor explain that Elizabeth taught?	B:What did this female professor explain whether Elizabeth taught?	A
+A:Who did this female professor hear that Louis helped?	B:Who did this female professor hear whether Louis helped?	A
+B:What did this female professor hear that Louis finished?	A:What did this female professor hear whether Louis finished?	B
+A:What couldn't this female professor learn she finished?	B:What couldn't this female professor learn who finished?	A
+A:Who did the male president know that Carl understood at the meeting?	B:Who did the male president know whether Carl understood at the meeting?	A
+A:What did the male president know that Carl shared with him?	B:What did the male president know whether Carl shared with him?	A
+B:What would the male president learn he shared with the man?	A:What would the male president learn who shared with the man?	B
+B:What would the male president learn he helped with?	A:What would the male president learn who helped with?	B
+B:Who did the male president hear that Ryan supported?	A:Who did the male president hear whether Ryan supported?	B
+A:What did the male president hear that Ryan moved?	B:What did the male president hear whether Ryan moved?	A
+A:What can the male president learn he moved?	B:What can the male president learn who moved?	B
+A:What can the male president learn he made?	B:What can the male president learn who made?	A
+B:Who did this male player see that Dennis invited?	A:Who did this male player see whether Dennis invited?	B
+B:What did this male player see that Dennis trusted?	A:What did this male player see whether Dennis trusted?	B
+B:What could this male player decide he trusted?	A:What could this male player decide who trusted?	B
+A:What did the man remember that Catherine made?	B:What did the man remember whether Catherine made?	A
+A:What can't the man remember he made?	B:What can't the man remember who made?	A
+B:What can't the man remember he moved?	A:What can't the man remember who moved?	A
+A:Who did this brother write that Gary called?	B:Who did this brother write whether Gary called?	A
+A:What will this brother learn he taught?	B:What will this brother learn who taught?	B
+A:Who did the mother explain that Kevin led?	B:Who did the mother explain whether Kevin led?	A
+B:What did the mother explain that Kevin informed her about?	A:What did the mother explain whether Kevin informed her about?	B
+B:What couldn't the mother know she informed her about?	A:What couldn't the mother know who informed her about?	B
+A:What couldn't the mother know she talked to her about?	B:What couldn't the mother know who talked to her about?	A
+A:Who did this female doctor explain that Dennis talked to her about?	B:Who did this female doctor explain whether Dennis talked to her about?	A
+A:What did this female doctor explain that Dennis informed her about?	B:What did this female doctor explain whether Dennis informed her about?	A
+B:What can this female doctor say she informed her about?	A:What can this female doctor say who informed her about?	B
+B:What can this female doctor say she shared with her?	A:What can this female doctor say who shared with her?	B
+A:Who did the lady remember that Martin hit?	B:Who did the lady remember whether Martin hit?	A
+A:What did the lady remember that Martin described?	B:What did the lady remember whether Martin described?	A
+A:What would the lady remember she described?	B:What would the lady remember who described?	A
+B:Who did this female doctor learn that Edward supported?	A:Who did this female doctor learn whether Edward supported?	B
+B:What did this female doctor learn that Edward moved?	A:What did this female doctor learn whether Edward moved?	B
+B:What must this female doctor remember she moved?	A:What must this female doctor remember who moved?	A
+B:What must this female doctor remember she found?	A:What must this female doctor remember who found?	B
+B:Who did this prince hear that Anna trusted?	A:Who did this prince hear whether Anna trusted?	B
+A:What did this prince hear that Anna drew?	B:What did this prince hear whether Anna drew?	A
+B:Who did the prince write that Gary trained?	A:Who did the prince write whether Gary trained?	B
+A:What did the prince write that Gary taught?	B:What did the prince write whether Gary taught?	A
+B:What does the prince say he taught?	A:What does the prince say who taught?	B
+A:What does the prince say he learned because of him?	B:What does the prince say who learned because of him?	A
+B:Who did the daughter think that Fred loved?	A:Who did the daughter think whether Fred loved?	B
+A:Who did the princess learn that Walter found?	B:Who did the princess learn whether Walter found?	A
+B:What didn't the princess tell her she taught?	A:What didn't the princess tell her who taught?	B
+B:Who did this wife say that Charles visited?	A:Who did this wife say whether Charles visited?	B
+B:What did this wife say that Charles told us?	A:What did this wife say whether Charles told us?	B
+A:Who did this male doctor know that Kevin invited?	B:Who did this male doctor know whether Kevin invited?	A
+B:What did this male doctor know that Kevin helped with?	A:What did this male doctor know whether Kevin helped with?	B
+B:What doesn't this male doctor believe he helped with?	A:What doesn't this male doctor believe who helped with?	B
+B:What doesn't this male doctor believe he taught?	A:What doesn't this male doctor believe who taught?	B
+B:Who did the prince hear that Steve found?	A:Who did the prince hear whether Steve found?	B
+B:What did the prince hear that Steve hit?	A:What did the prince hear whether Steve hit?	B
+B:What might the prince remember he hit?	A:What might the prince remember who hit?	B
+B:What might the prince remember he won?	A:What might the prince remember who won?	B
+B:Who did this woman learn that Ted called?	A:Who did this woman learn whether Ted called?	B
+B:What did this woman learn that Ted controlled?	A:What did this woman learn whether Ted controlled?	B
+B:What may this woman learn she controlled?	A:What may this woman learn who controlled?	B
+B:What may this woman learn she fought for?	A:What may this woman learn who fought for?	B
+A:Who did the women say that Kevin served at the party?	B:Who did the women say whether Kevin served at the party?	A
+B:What did the women say that Kevin won?	A:What did the women say whether Kevin won?	B
+B:What won't the women reveal she won?	A:What won't the women reveal who won?	A
+A:What won't the women reveal she told us?	B:What won't the women reveal who told us?	A
+A:Who did this brother say that Ryan met with?	B:Who did this brother say whether Ryan met with?	A
+B:Who did the male president explain that Ruth loved very much?	A:Who did the male president explain whether Ruth loved very much?	B
+B:What did the male president explain that Ruth held?	A:What did the male president explain whether Ruth held?	B
+B:What mustn't the male president believe he held?	A:What mustn't the male president believe who held?	B
+A:What mustn't the male president believe he found?	B:What mustn't the male president believe who found?	A
+B:Who did this female doctor say that Nick joined?	A:Who did this female doctor say whether Nick joined?	B
+A:What will this female doctor say she wrote about?	B:What will this female doctor say who wrote about?	A
+A:Who did this male president explain that Philip helped?	B:Who did this male president explain whether Philip helped?	B
+A:What did this male president explain that Philip held?	B:What did this male president explain whether Philip held?	A
+B:What couldn't this male president learn he held?	A:What couldn't this male president learn who held?	B
+B:What couldn't this male president learn he taught?	A:What couldn't this male president learn who taught?	B
+A:Who did this boy hear that Scott trusted?	B:Who did this boy hear whether Scott trusted?	A
+B:What can this male professor remember he remembered?	A:What can this male professor remember who remembered?	B
+B:What did this male player explain that Catherine taught?	A:What did this male player explain whether Catherine taught?	B
+B:Who did the girl explain that Kelly remembered?	A:Who did the girl explain whether Kelly remembered?	B
+B:What did the girl explain that Kelly wrote?	A:What did the girl explain whether Kelly wrote?	B
+B:Who did this brother hear that Thomas supported?	A:Who did this brother hear whether Thomas supported?	B
+A:What did this brother hear that Thomas talked to him about?	B:What did this brother hear whether Thomas talked to him about?	A
+B:What would this brother know he remembered?	A:What would this brother know who remembered?	A
+A:What mustn't this wife believe she described?	B:What mustn't this wife believe who described?	A
+B:Who did the female professor know that Helen met?	A:Who did the female professor know whether Helen met?	B
+A:What did the female professor know that Helen played?	B:What did the female professor know whether Helen played?	A
+A:Who did this princess learn that Mary trusted?	B:Who did this princess learn whether Mary trusted?	A
+B:What would this prince see he fought for?	A:What would this prince see who fought for?	A
+B:What would this prince see he controlled?	A:What would this prince see who controlled?	A
+B:What did this man write that Walter made?	A:What did this man write whether Walter made?	B
+A:What couldn't this man find out he made?	B:What couldn't this man find out who made?	A
+A:What couldn't this man find out he chose?	B:What couldn't this man find out who chose?	B
+B:What would the brother believe he found?	A:What would the brother believe who found?	B
+B:What didn't this king tell he helped?	A:What didn't this king tell who helped?	B
+B:What mustn't the boy say he described?	A:What mustn't the boy say who described?	B
+B:What mustn't the boy say he talked to him about?	A:What mustn't the boy say who talked to him about?	B
+A:What did the boy see that Helen drew on the paper?	B:What did the boy see whether Helen drew on the paper?	A
+B:What doesn't this male professor know he talked to him about?	A:What doesn't this male professor know who talked to him about?	B
+B:What doesn't this male professor know he played with?	A:What doesn't this male professor know who played with?	B
+B:What will the male player say he moved to the park?	A:What will the male player say who moved to the park?	B
+A:What didn't this female president know she saved?	B:What didn't this female president know who saved?	A
+B:Who did this female doctor hear that Ted attacked?	A:Who did this female doctor hear whether Ted attacked?	B
+A:What did this female doctor hear that Ted talked to her about?	B:What did this female doctor hear whether Ted talked to her about?	A
+B:Who did the mother explain that Michael invited to the party?	A:Who did the mother explain whether Michael invited to the party?	B
+B:What couldn't the mother remember she taught?	A:What couldn't the mother remember who taught?	B
+A:What won't this male professor decide he won?	B:What won't this male professor decide who won?	B
+A:What did the brother learn he shared with the man?	B:What did the brother learn who shared with the man?	A
+A:What did the brother learn he taught?	B:What did the brother learn who taught?	A
+B:What can't this lady know she found?	A:What can't this lady know who found?	B
+B:What can't this lady know she helped with?	A:What can't this lady know who helped with?	B
+A:What did the female doctor think that Alice helped with?	B:What did the female doctor think whether Alice helped with?	A

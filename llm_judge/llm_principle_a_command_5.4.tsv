@@ -1,0 +1,501 @@
+correct	incorrect	model_choice
+B:Lawrence reports that Peter's wife introduces herself to others.	A:Lawrence reports that Peter's wife introduces himself to others.	B
+B:The female president reports that Ruth's brother introduces himself to others.	A:The female president reports that Ruth's brother introduces herself to others.	B
+A:Ann reports that the male professor who trusts Ann teaches himself.	B:Ann reports that the male professor who trusts Ann teaches herself.	A
+A:Anthony shows that Charlie's mother helps herself.	B:Anthony shows that Charlie's mother helps himself.	A
+A:The lady shows that Helen's husband helps himself.	B:The lady shows that Helen's husband helps herself.	A
+B:The king writes that Brian's daughter hides herself from the enemy.	A:The king writes that Brian's daughter hides himself from the enemy.	B
+B:The daughter writes that Anna's brother hides himself from the enemy.	A:The daughter writes that Anna's brother hides herself from the enemy.	B
+B:The king reports that William's mother tells herself the truth.	A:The king reports that William's mother tells himself the truth.	B
+B:Sarah reports that Victoria's uncle tells himself the truth.	A:Sarah reports that Victoria's uncle tells herself the truth.	B
+A:Sarah reports that the boy who tells Sarah the story helps himself.	B:Sarah reports that the boy who tells Sarah the story helps herself.	A
+A:The king reports that the daughter who tells the king the story helps herself.	B:The king reports that the daughter who tells the king the story helps himself.	A
+A:The male president learns that Jeff's wife trusts herself.	B:The male president learns that Jeff's wife trusts himself.	A
+B:The female player learns that Mary's uncle trusts himself.	A:The female player learns that Mary's uncle trusts herself.	B
+A:The female player learns that the man who trusts the female player hits himself.	B:The female player learns that the man who trusts the female player hits herself.	A
+A:The male president learns that the princess who trusts the male president hits herself.	B:The male president learns that the princess who trusts the male president hits himself.	A
+A:Louis hears that Alexander's sister enjoys herself in the park.	B:Louis hears that Alexander's sister enjoys himself in the park.	A
+B:The lady hears that Maria's husband enjoys himself in the park.	A:The lady hears that Maria's husband enjoys herself in the park.	B
+B:The lady hears that the male president who likes the lady introduces himself to others.	A:The lady hears that the male president who likes the lady introduces herself to others.	B
+B:Louis hears that the mother who likes Louis introduces herself to others.	A:Louis hears that the mother who likes Louis introduces himself to others.	B
+B:The princess believes that the male player who joins the princess enjoys himself in the park.	A:The princess believes that the male player who joins the princess enjoys herself in the park.	B
+A:Ryan believes that the female professor who joins Ryan enjoys herself in the park.	B:Ryan believes that the female professor who joins Ryan enjoys himself in the park.	A
+B:The brother writes that Thomas's sister supports herself.	A:The brother writes that Thomas's sister supports himself.	B
+A:Elizabeth writes that Helen's brother supports himself.	B:Elizabeth writes that Helen's brother supports herself.	A
+A:Elizabeth writes that the male player who supports Elizabeth hides himself from the enemy.	B:Elizabeth writes that the male player who supports Elizabeth hides herself from the enemy.	A
+A:The brother writes that the female president who supports the brother hides herself from the enemy.	B:The brother writes that the female president who supports the brother hides himself from the enemy.	A
+A:The boy feels that Tony's sister helps herself.	B:The boy feels that Tony's sister helps himself.	A
+A:Mary feels that Kelly's son helps himself.	B:Mary feels that Kelly's son helps herself.	A
+A:Alexander claims that Martin's mother attacks herself.	B:Alexander claims that Martin's mother attacks himself.	A
+B:The female professor claims that Jane's husband attacks himself.	A:The female professor claims that Jane's husband attacks herself.	B
+A:The female professor claims that the brother who attacks the female professor asks himself a question.	B:The female professor claims that the brother who attacks the female professor asks herself a question.	A
+B:Alexander claims that the mother who attacks Alexander asks herself a question.	A:Alexander claims that the mother who attacks Alexander asks himself a question.	B
+A:Maria explains that the male president who leads Maria introduces himself to others.	B:Maria explains that the male president who leads Maria introduces herself to others.	A
+A:Anthony explains that the female player who leads Anthony introduces herself to others.	B:Anthony explains that the female player who leads Anthony introduces himself to others.	A
+B:The brother explains that Martin's daughter enjoys herself in the park.	A:The brother explains that Martin's daughter enjoys himself in the park.	B
+A:Ann explains that Helen's uncle enjoys himself in the park.	B:Ann explains that Helen's uncle enjoys herself in the park.	A
+B:Ann explains that the male professor who likes Ann talks to himself.	A:Ann explains that the male professor who likes Ann talks to herself.	B
+A:The brother explains that the daughter who likes the brother talks to herself.	B:The brother explains that the daughter who likes the brother talks to himself.	A
+B:Nick says that Brian's daughter supports herself.	A:Nick says that Brian's daughter supports himself.	B
+B:The daughter says that Helen's father supports himself.	A:The daughter says that Helen's father supports herself.	B
+A:The daughter says that the man who calls the daughter hides himself from the enemy.	B:The daughter says that the man who calls the daughter hides herself from the enemy.	A
+A:Nick says that the female president who calls Nick hides herself from the enemy.	B:Nick says that the female president who calls Nick hides himself from the enemy.	A
+B:The male doctor feels that Dennis's sister asks herself a question.	A:The male doctor feels that Dennis's sister asks himself a question.	B
+B:The princess feels that Helen's brother asks himself a question.	A:The princess feels that Helen's brother asks herself a question.	B
+A:Fred says that Ben's daughter trains herself.	B:Fred says that Ben's daughter trains himself.	A
+B:Ann says that Alice's son trains himself.	A:Ann says that Alice's son trains herself.	B
+A:Ann says that the father who trains Ann supports himself.	B:Ann says that the father who trains Ann supports herself.	A
+A:Fred says that the female professor who trains Fred supports herself.	B:Fred says that the female professor who trains Fred supports himself.	A
+B:Jeff understands that Charles's sister loves herself.	A:Jeff understands that Charles's sister loves himself.	B
+A:Kelly understands that Sarah's father loves himself.	B:Kelly understands that Sarah's father loves herself.	A
+B:Kelly understands that the male professor who loves Kelly beats himself.	A:Kelly understands that the male professor who loves Kelly beats herself.	B
+B:Jeff understands that the female doctor who loves Jeff beats herself.	A:Jeff understands that the female doctor who loves Jeff beats himself.	B
+A:Lawrence learns that Bruce's sister tells herself the truth.	B:Lawrence learns that Bruce's sister tells himself the truth.	A
+B:The girl learns that Victoria's husband tells himself the truth.	A:The girl learns that Victoria's husband tells herself the truth.	B
+A:The girl learns that the male professor who tells the girl the news supports himself.	B:The girl learns that the male professor who tells the girl the news supports herself.	A
+B:Lawrence learns that the woman who tells Lawrence the news supports herself.	A:Lawrence learns that the woman who tells Lawrence the news supports himself.	B
+A:Thomas writes that Bruce's wife attacks herself.	B:Thomas writes that Bruce's wife attacks himself.	A
+B:Anna writes that Helen's son attacks himself.	A:Anna writes that Helen's son attacks herself.	B
+B:Anna writes that the man who attacks Anna talks to himself.	A:Anna writes that the man who attacks Anna talks to herself.	B
+A:Thomas writes that the mother who attacks Thomas talks to herself.	B:Thomas writes that the mother who attacks Thomas talks to himself.	A
+A:Alexander sees that Dennis's mother saves herself.	B:Alexander sees that Dennis's mother saves himself.	A
+B:The princess sees that Maria's uncle saves himself.	A:The princess sees that Maria's uncle saves herself.	B
+B:The princess sees that the boy who serves the princess introduces himself to others.	A:The princess sees that the boy who serves the princess introduces herself to others.	B
+A:Alexander sees that the female professor who serves Alexander introduces herself to others.	B:Alexander sees that the female professor who serves Alexander introduces himself to others.	A
+A:Alexander says that Ben's wife hides herself from the enemy.	B:Alexander says that Ben's wife hides himself from the enemy.	A
+A:The lady says that Elizabeth's father hides himself from the enemy.	B:The lady says that Elizabeth's father hides herself from the enemy.	A
+B:The lady says that the male president who invites the lady attacks himself.	A:The lady says that the male president who invites the lady attacks herself.	B
+A:Alexander says that the princess who invites Alexander attacks herself.	B:Alexander says that the princess who invites Alexander attacks himself.	A
+A:Anthony feels that Bill's wife sees herself appear on screen.	B:Anthony feels that Bill's wife sees himself appear on screen.	A
+B:Elizabeth feels that Jane's husband sees himself appear on screen.	A:Elizabeth feels that Jane's husband sees herself appear on screen.	B
+A:Elizabeth feels that the father who sees Elizabeth protects himself.	B:Elizabeth feels that the father who sees Elizabeth protects herself.	A
+A:Anthony feels that the female professor who sees Anthony protects herself.	B:Anthony feels that the female professor who sees Anthony protects himself.	A
+B:Ben thinks that William's daughter watches herself in the video.	A:Ben thinks that William's daughter watches himself in the video.	B
+B:Elizabeth thinks that Elizabeth's brother watches himself in the video.	A:Elizabeth thinks that Elizabeth's brother watches herself in the video.	B
+B:Elizabeth thinks that the king who watches Elizabeth introduces himself to others.	A:Elizabeth thinks that the king who watches Elizabeth introduces herself to others.	B
+B:Ben thinks that the female professor who watches Ben introduces herself to others.	A:Ben thinks that the female professor who watches Ben introduces himself to others.	B
+A:Ben learns that James's mother trusts herself.	B:Ben learns that James's mother trusts himself.	A
+A:Elizabeth learns that Ruth's husband trusts himself.	B:Elizabeth learns that Ruth's husband trusts herself.	A
+B:Sarah reports that the king who meets Sarah hides himself from the enemy.	A:Sarah reports that the king who meets Sarah hides herself from the enemy.	B
+B:Louis reports that the female doctor who meets Louis hides herself from the enemy.	A:Louis reports that the female doctor who meets Louis hides himself from the enemy.	B
+A:Thomas claims that Charles's mother is defending herself.	B:Thomas claims that Charles's mother is defending himself.	A
+A:Kelly claims that Ann's husband is defending himself.	B:Kelly claims that Ann's husband is defending herself.	A
+B:Kelly claims that the king who hits Kelly is defending himself.	A:Kelly claims that the king who hits Kelly is defending herself.	B
+A:Thomas claims that the daughter who hits Thomas is defending herself.	B:Thomas claims that the daughter who hits Thomas is defending himself.	A
+A:Lawrence writes that Nick's daughter beats herself.	B:Lawrence writes that Nick's daughter beats himself.	A
+A:The wife writes that Sarah's uncle beats himself.	B:The wife writes that Sarah's uncle beats herself.	A
+B:The wife writes that the brother who likes the wife supports himself.	A:The wife writes that the brother who likes the wife supports herself.	B
+A:Lawrence writes that the daughter who beats Lawrence supports herself.	B:Lawrence writes that the daughter who beats Lawrence supports himself.	A
+A:Fred says that Roger's daughter introduces herself to others.	B:Fred says that Roger's daughter introduces himself to others.	A
+A:The lady says that Jane's son introduces himself to others.	B:The lady says that Jane's son introduces herself to others.	A
+A:John sees that Oliver's sister trains herself.	B:John sees that Oliver's sister trains himself.	A
+A:The mother sees that Anna's father trains himself.	B:The mother sees that Anna's father trains herself.	A
+B:The mother sees that the prince who trains the mother asks himself a question.	A:The mother sees that the prince who trains the mother asks herself a question.	B
+A:John sees that the female player who trains John asks herself a question.	B:John sees that the female player who trains John asks himself a question.	A
+A:Martin understands that Steve's mother enjoys herself in the park.	B:Martin understands that Steve's mother enjoys himself in the park.	A
+A:The girl understands that Sarah's brother enjoys himself in the park.	B:The girl understands that Sarah's brother enjoys herself in the park.	A
+A:The girl understands that the male player who likes the girl attacks himself.	B:The girl understands that the male player who likes the girl attacks herself.	A
+A:Martin understands that the wife who likes Martin attacks herself.	B:Martin understands that the wife who likes Martin attacks himself.	A
+B:John explains that Larry's mother sees herself appear on screen.	A:John explains that Larry's mother sees himself appear on screen.	B
+A:The female doctor explains that Anna's husband sees himself appear on screen.	B:The female doctor explains that Anna's husband sees herself appear on screen.	A
+A:The female doctor explains that the prince who sees the female doctor respects himself.	B:The female doctor explains that the prince who sees the female doctor respects herself.	A
+B:John explains that the mother who sees John respects herself.	A:John explains that the mother who sees John respects himself.	B
+A:James feels that Charlie's wife supports herself.	B:James feels that Charlie's wife supports himself.	A
+A:The female doctor feels that Catherine's son supports himself.	B:The female doctor feels that Catherine's son supports herself.	A
+B:The female doctor feels that the man who helps the female doctor supports himself.	A:The female doctor feels that the man who helps the female doctor supports herself.	B
+A:James feels that the daughter who helps James supports herself.	B:James feels that the daughter who helps James supports himself.	A
+B:Joe knows that Mike's mother tells herself the truth.	A:Joe knows that Mike's mother tells himself the truth.	B
+B:Sarah knows that Helen's son tells himself the truth.	A:Sarah knows that Helen's son tells herself the truth.	B
+A:Sarah knows that the male professor who tells Sarah the story introduces himself to others.	B:Sarah knows that the male professor who tells Sarah the story introduces herself to others.	A
+B:Joe knows that the female professor who tells Joe the news introduces herself to others.	A:Joe knows that the female professor who tells Joe the news introduces himself to others.	B
+A:James writes that Nick's sister sees herself appear on screen.	B:James writes that Nick's sister sees himself appear on screen.	A
+A:Maria writes that Mary's husband sees himself appear on screen.	B:Maria writes that Mary's husband sees herself appear on screen.	A
+A:Maria writes that the male professor who sees Maria talks to himself.	B:Maria writes that the male professor who sees Maria talks to herself.	A
+B:James writes that the female player who sees James talks to herself.	A:James writes that the female player who sees James talks to himself.	B
+B:Bill thinks that Mike's wife enjoys herself in the park.	A:Bill thinks that Mike's wife enjoys himself in the park.	B
+B:Maria thinks that Ruth's son enjoys himself in the park.	A:Maria thinks that Ruth's son enjoys herself in the park.	B
+B:Maria thinks that the male professor who likes Maria defends himself.	A:Maria thinks that the male professor who likes Maria defends herself.	B
+A:Bill thinks that the female professor who likes Bill defends herself.	B:Bill thinks that the female professor who likes Bill defends himself.	A
+B:Ryan reports that Nick's mother supports herself.	A:Ryan reports that Nick's mother supports himself.	B
+A:Alice reports that Elizabeth's brother supports himself.	B:Alice reports that Elizabeth's brother supports herself.	A
+A:Alice reports that the brother who calls Alice attacks himself.	B:Alice reports that the brother who calls Alice attacks herself.	A
+B:Ryan reports that the wife who calls Ryan attacks herself.	A:Ryan reports that the wife who calls Ryan attacks himself.	B
+B:Tim shows that Anthony's wife watches herself in the video.	A:Tim shows that Anthony's wife watches himself in the video.	B
+A:Helen shows that Ann's father watches himself in the video.	B:Helen shows that Ann's father watches herself in the video.	A
+A:Helen shows that the father who watches Helen hides himself from the enemy.	B:Helen shows that the father who watches Helen hides herself from the enemy.	A
+A:Tim shows that the princess who watches Tim hides herself from the enemy.	B:Tim shows that the princess who watches Tim hides himself from the enemy.	A
+A:Tim knows that Ben's daughter hits herself.	B:Tim knows that Ben's daughter hits himself.	A
+A:Maria knows that Mary's father hits himself.	B:Maria knows that Mary's father hits herself.	A
+B:Maria knows that the male professor who hits Maria tells himself the truth.	A:Maria knows that the male professor who hits Maria tells herself the truth.	B
+A:Tim knows that the female professor who hits Tim tells herself the truth.	B:Tim knows that the female professor who hits Tim tells himself the truth.	A
+B:Larry learns that Tim's mother introduces herself to others.	A:Larry learns that Tim's mother introduces himself to others.	B
+A:The female doctor learns that Kelly's son introduces himself to others.	B:The female doctor learns that Kelly's son introduces herself to others.	A
+A:The female doctor learns that the male professor who meets the female doctor respects himself.	B:The female doctor learns that the male professor who meets the female doctor respects herself.	A
+A:Larry learns that the lady who meets Larry respects herself.	B:Larry learns that the lady who meets Larry respects himself.	A
+B:Ben claims that Charlie's sister loves herself.	A:Ben claims that Charlie's sister loves himself.	B
+B:The female president claims that Alice's brother loves himself.	A:The female president claims that Alice's brother loves herself.	B
+B:Emma claims that the husband who loves Emma enjoys himself in the park.	A:Emma claims that the husband who loves Emma enjoys herself in the park.	B
+B:Alexander hears that Mike's wife respects herself.	A:Alexander hears that Mike's wife respects himself.	B
+A:The wife hears that Mary's brother respects himself.	B:The wife hears that Mary's brother respects herself.	A
+A:The male professor believes that Nick's wife loves herself.	B:The male professor believes that Nick's wife loves himself.	A
+A:Sarah believes that Jane's husband loves himself.	B:Sarah believes that Jane's husband loves herself.	A
+A:Sarah believes that the father who loves Sarah supports himself.	B:Sarah believes that the father who loves Sarah supports herself.	A
+A:The female professor believes that the husband who loves the female professor supports himself.	B:The female professor believes that the husband who loves the female professor supports herself.	A
+A:Brian hears that Tony's mother supports herself.	B:Brian hears that Tony's mother supports himself.	A
+A:Helen hears that Mary's uncle supports himself.	B:Helen hears that Mary's uncle supports herself.	A
+A:Brian hears that the female player who helps Brian tells herself the truth.	B:Brian hears that the female player who helps Brian tells himself the truth.	A
+B:Tony understands that Oliver's daughter asks herself a question.	A:Tony understands that Oliver's daughter asks himself a question.	B
+A:The daughter understands that Anna's son asks himself a question.	B:The daughter understands that Anna's son asks herself a question.	A
+B:The daughter understands that the king who asks the daughter saves himself.	A:The daughter understands that the king who asks the daughter saves herself.	B
+B:Tony understands that the female player who asks Tony saves herself.	A:Tony understands that the female player who asks Tony saves himself.	B
+B:Fred learns that James's wife introduces herself to others.	A:Fred learns that James's wife introduces himself to others.	B
+B:The female president learns that Alice's brother introduces himself to others.	A:The female president learns that Alice's brother introduces herself to others.	B
+A:The female president learns that the male player who meets the female president defends himself.	B:The female president learns that the male player who meets the female president defends herself.	A
+A:Fred learns that the woman who meets Fred defends herself.	B:Fred learns that the woman who meets Fred defends himself.	A
+B:Bill reports that William's wife enjoys herself in the park.	A:Bill reports that William's wife enjoys himself in the park.	B
+B:Ann reports that Sarah's uncle enjoys himself in the park.	A:Ann reports that Sarah's uncle enjoys herself in the park.	B
+B:Ann reports that the male president who likes Ann trusts himself.	A:Ann reports that the male president who likes Ann trusts herself.	B
+A:Bill reports that the female doctor who likes Bill trusts herself.	B:Bill reports that the female doctor who likes Bill trusts himself.	A
+A:Peter feels that Oliver's sister enjoys herself in the park.	B:Peter feels that Oliver's sister enjoys himself in the park.	A
+B:Maria feels that Anna's husband enjoys himself in the park.	A:Maria feels that Anna's husband enjoys herself in the park.	B
+B:Maria feels that the brother who likes Maria enjoys himself in the park.	A:Maria feels that the brother who likes Maria enjoys herself in the park.	B
+A:Peter feels that the lady who likes Peter enjoys herself in the park.	B:Peter feels that the lady who likes Peter enjoys himself in the park.	A
+B:Oliver explains that Martin's wife introduces herself to others.	A:Oliver explains that Martin's wife introduces himself to others.	B
+A:The female professor explains that Jane's son introduces himself to others.	B:The female professor explains that Jane's son introduces herself to others.	A
+B:The female professor explains that the king who visits the female professor supports himself.	A:The female professor explains that the king who visits the female professor supports herself.	B
+B:Oliver explains that the female player who visits Oliver supports herself.	A:Oliver explains that the female player who visits Oliver supports himself.	B
+A:The man hears that Thomas's daughter hides herself from the enemy.	B:The man hears that Thomas's daughter hides himself from the enemy.	A
+A:Catherine hears that Maria's father hides himself from the enemy.	B:Catherine hears that Maria's father hides herself from the enemy.	A
+A:Catherine hears that the boy who invites Catherine introduces himself to others.	B:Catherine hears that the boy who invites Catherine introduces herself to others.	A
+A:The man hears that the woman who invites the man introduces herself to others.	B:The man hears that the woman who invites the man introduces himself to others.	A
+A:Oliver understands that Tim's mother hits herself.	B:Oliver understands that Tim's mother hits himself.	A
+B:The mother understands that Maria's father hits himself.	A:The mother understands that Maria's father hits herself.	B
+A:The mother understands that the brother who hits the mother supports himself.	B:The mother understands that the brother who hits the mother supports herself.	A
+A:Oliver understands that the female player who hits Oliver supports herself.	B:Oliver understands that the female player who hits Oliver supports himself.	A
+B:Peter writes that Martin's mother protects herself.	A:Peter writes that Martin's mother protects himself.	B
+B:Ruth writes that Helen's father protects himself.	A:Ruth writes that Helen's father protects herself.	B
+A:Ruth writes that the man who joins Ruth saves himself.	B:Ruth writes that the man who joins Ruth saves herself.	A
+A:Peter writes that the female doctor who joins Peter saves herself.	B:Peter writes that the female doctor who joins Peter saves himself.	A
+B:The male doctor reports that Harry's wife defends herself.	A:The male doctor reports that Harry's wife defends himself.	B
+B:The mother reports that Victoria's husband defends himself.	A:The mother reports that Victoria's husband defends herself.	B
+B:The mother reports that the boy who follows the mother supports himself.	A:The mother reports that the boy who follows the mother supports herself.	B
+B:Joe shows that Alexander's mother asks herself a question.	A:Joe shows that Alexander's mother asks himself a question.	B
+B:The mother shows that Sarah's husband asks himself a question.	A:The mother shows that Sarah's husband asks herself a question.	B
+B:Joe shows that the mother who asks Joe introduces herself to others.	A:Joe shows that the mother who asks Joe introduces himself to others.	B
+B:Charles explains that Ryan's daughter watches herself in the video.	A:Charles explains that Ryan's daughter watches himself in the video.	B
+B:Elizabeth explains that Catherine's son watches himself in the video.	A:Elizabeth explains that Catherine's son watches herself in the video.	B
+B:Elizabeth explains that the boy who watches Elizabeth supports himself.	A:Elizabeth explains that the boy who watches Elizabeth supports herself.	B
+A:Charles explains that the wife who watches Charles supports herself.	B:Charles explains that the wife who watches Charles supports himself.	A
+B:The male player explains that Oliver's sister teaches herself.	A:The male player explains that Oliver's sister teaches himself.	B
+A:The princess explains that Elizabeth's son teaches himself.	B:The princess explains that Elizabeth's son teaches herself.	A
+A:The princess explains that the male doctor who teaches the princess protects himself.	B:The princess explains that the male doctor who teaches the princess protects herself.	A
+A:The male player explains that the mother who teaches the male player protects herself.	B:The male player explains that the mother who teaches the male player protects himself.	A
+A:Thomas feels that Harry's wife introduces herself to others.	B:Thomas feels that Harry's wife introduces himself to others.	A
+B:Mary feels that Ruth's father introduces himself to others.	A:Mary feels that Ruth's father introduces herself to others.	B
+B:Mary feels that the male player who meets Mary protects himself.	A:Mary feels that the male player who meets Mary protects herself.	B
+B:Thomas feels that the wife who meets Thomas protects herself.	A:Thomas feels that the wife who meets Thomas protects himself.	B
+B:Steve explains that Tim's wife introduces herself to others.	A:Steve explains that Tim's wife introduces himself to others.	B
+A:The lady explains that Sarah's brother introduces himself to others.	B:The lady explains that Sarah's brother introduces herself to others.	A
+A:The lady explains that the male doctor who visits the lady attacks himself.	B:The lady explains that the male doctor who visits the lady attacks herself.	A
+B:Steve explains that the princess who visits Steve attacks herself.	A:Steve explains that the princess who visits Steve attacks himself.	B
+B:Jeff shows that William's wife saves herself.	A:Jeff shows that William's wife saves himself.	B
+A:The girl shows that Victoria's husband saves himself.	B:The girl shows that Victoria's husband saves herself.	A
+A:The girl shows that the brother who saves the girl defends himself.	B:The girl shows that the brother who saves the girl defends herself.	A
+B:Jeff shows that the female player who saves Jeff defends herself.	A:Jeff shows that the female player who saves Jeff defends himself.	B
+A:Fred knows that Charles's wife defends herself.	B:Fred knows that Charles's wife defends himself.	A
+B:The daughter knows that Ruth's brother defends himself.	A:The daughter knows that Ruth's brother defends herself.	B
+B:Fred knows that the daughter who follows Fred respects herself.	A:Fred knows that the daughter who follows Fred respects himself.	B
+A:The male doctor shows that Oliver's daughter hides herself from the enemy.	B:The male doctor shows that Oliver's daughter hides himself from the enemy.	A
+A:Elizabeth shows that Helen's brother hides himself from the enemy.	B:Elizabeth shows that Helen's brother hides herself from the enemy.	A
+A:Elizabeth shows that the prince who invites Elizabeth defends himself.	B:Elizabeth shows that the prince who invites Elizabeth defends herself.	A
+A:The male doctor shows that the lady who invites the male doctor defends herself.	B:The male doctor shows that the lady who invites the male doctor defends himself.	A
+A:The prince explains that William's sister attacks herself.	B:The prince explains that William's sister attacks himself.	A
+A:The lady explains that Ann's father attacks himself.	B:The lady explains that Ann's father attacks herself.	A
+A:The lady explains that the prince who attacks the lady sees himself appear on screen.	B:The lady explains that the prince who attacks the lady sees herself appear on screen.	A
+B:The prince explains that the girl who attacks the prince sees herself appear on screen.	A:The prince explains that the girl who attacks the prince sees himself appear on screen.	B
+A:The brother learns that Larry's wife saves herself.	B:The brother learns that Larry's wife saves himself.	A
+A:The wife learns that Anna's father saves himself.	B:The wife learns that Anna's father saves herself.	A
+A:The wife learns that the prince who saves the wife introduces himself to others.	B:The wife learns that the prince who saves the wife introduces herself to others.	A
+B:The brother learns that the wife who saves the brother introduces herself to others.	A:The brother learns that the wife who saves the brother introduces himself to others.	B
+A:The brother learns that Dennis's wife protects herself.	B:The brother learns that Dennis's wife protects himself.	A
+B:The daughter learns that Ruth's father protects himself.	A:The daughter learns that Ruth's father protects herself.	B
+B:The daughter learns that the king who joins the daughter helps himself.	A:The daughter learns that the king who joins the daughter helps herself.	B
+B:The brother learns that the princess who joins the brother helps herself.	A:The brother learns that the princess who joins the brother helps himself.	B
+A:Louis sees that Roger's daughter attacks herself.	B:Louis sees that Roger's daughter attacks himself.	A
+B:The wife sees that Jane's brother attacks himself.	A:The wife sees that Jane's brother attacks herself.	B
+A:Louis sees that the girl who attacks Louis supports herself.	B:Louis sees that the girl who attacks Louis supports himself.	A
+B:Roger sees that Jeff's daughter teaches herself.	A:Roger sees that Jeff's daughter teaches himself.	B
+B:Mary sees that Maria's brother teaches himself.	A:Mary sees that Maria's brother teaches herself.	B
+A:Mary sees that the father who teaches Mary attacks himself.	B:Mary sees that the father who teaches Mary attacks herself.	A
+A:Roger sees that the female professor who teaches Roger attacks herself.	B:Roger sees that the female professor who teaches Roger attacks himself.	A
+B:Tony learns that Anthony's wife enjoys herself in the park.	A:Tony learns that Anthony's wife enjoys himself in the park.	B
+A:The woman learns that Anna's uncle enjoys himself in the park.	B:The woman learns that Anna's uncle enjoys herself in the park.	A
+B:Tony learns that the female player who likes Tony trains herself.	A:Tony learns that the female player who likes Tony trains himself.	B
+B:Fred knows that Steve's daughter supports herself.	A:Fred knows that Steve's daughter supports himself.	B
+A:Sarah knows that Mary's father supports himself.	B:Sarah knows that Mary's father supports herself.	A
+B:Sarah knows that the boy who helps Sarah talks to himself.	A:Sarah knows that the boy who helps Sarah talks to herself.	B
+B:Fred knows that the female president who helps Fred talks to herself.	A:Fred knows that the female president who helps Fred talks to himself.	B
+B:Dennis understands that Oliver's sister enjoys herself in the park.	A:Dennis understands that Oliver's sister enjoys himself in the park.	B
+B:Ruth understands that Ruth's brother enjoys himself in the park.	A:Ruth understands that Ruth's brother enjoys herself in the park.	B
+A:Ruth understands that the male doctor who likes Ruth trusts himself.	B:Ruth understands that the male doctor who likes Ruth trusts herself.	A
+A:Dennis understands that the princess who likes Dennis trusts herself.	B:Dennis understands that the princess who likes Dennis trusts himself.	A
+B:The man writes that Bruce's mother beats herself.	A:The man writes that Bruce's mother beats himself.	B
+B:The princess writes that Catherine's father beats himself.	A:The princess writes that Catherine's father beats herself.	B
+A:The princess writes that the male professor who beats the princess asks himself a question.	B:The princess writes that the male professor who beats the princess asks herself a question.	A
+A:The man writes that the wife who beats the man asks herself a question.	B:The man writes that the wife who beats the man asks himself a question.	A
+B:The male player sees that Fred's sister defends herself.	A:The male player sees that Fred's sister defends himself.	B
+A:The daughter sees that Victoria's brother defends himself.	B:The daughter sees that Victoria's brother defends herself.	A
+A:The daughter sees that the prince who follows the daughter sees himself appear on screen.	B:The daughter sees that the prince who follows the daughter sees herself appear on screen.	A
+B:Tony says that Jeff's daughter enjoys herself in the park.	A:Tony says that Jeff's daughter enjoys himself in the park.	B
+B:The mother says that Ruth's husband enjoys himself in the park.	A:The mother says that Ruth's husband enjoys herself in the park.	B
+B:Tony says that the female doctor who likes Tony beats herself.	A:Tony says that the female doctor who likes Tony beats himself.	B
+A:James writes that Louis's daughter defends herself.	B:James writes that Louis's daughter defends himself.	A
+A:The girl writes that Mary's husband defends himself.	B:The girl writes that Mary's husband defends herself.	A
+B:The girl writes that the male president who leads the girl respects himself.	A:The girl writes that the male president who leads the girl respects herself.	B
+B:James writes that the wife who leads James respects herself.	A:James writes that the wife who leads James respects himself.	B
+A:Anthony reports that Tony's sister trains herself.	B:Anthony reports that Tony's sister trains himself.	A
+A:Mary reports that Ann's father trains himself.	B:Mary reports that Ann's father trains herself.	A
+B:Mary reports that the male player who trains Mary hides himself from the enemy.	A:Mary reports that the male player who trains Mary hides herself from the enemy.	B
+B:Anthony reports that the daughter who trains Anthony hides herself from the enemy.	A:Anthony reports that the daughter who trains Anthony hides himself from the enemy.	B
+B:Ryan reports that Nick's sister protects herself.	A:Ryan reports that Nick's sister protects himself.	B
+B:The female player reports that Catherine's uncle protects himself.	A:The female player reports that Catherine's uncle protects herself.	B
+B:The female player reports that the father who joins the female player defends himself.	A:The female player reports that the father who joins the female player defends herself.	B
+B:Ryan reports that the princess who joins Ryan defends herself.	A:Ryan reports that the princess who joins Ryan defends himself.	B
+A:Tony knows that Tim's mother helps herself.	B:Tony knows that Tim's mother helps himself.	A
+B:Elizabeth knows that Elizabeth's brother helps himself.	A:Elizabeth knows that Elizabeth's brother helps herself.	B
+B:Elizabeth knows that the king who helps Elizabeth talks to himself.	A:Elizabeth knows that the king who helps Elizabeth talks to herself.	B
+B:Tony knows that the female doctor who helps Tony talks to herself.	A:Tony knows that the female doctor who helps Tony talks to himself.	B
+B:Joe writes that Harry's mother supports herself.	A:Joe writes that Harry's mother supports himself.	B
+A:The female president writes that Kelly's husband supports himself.	B:The female president writes that Kelly's husband supports herself.	A
+B:Joe writes that the female doctor who helps Joe sees herself appear on screen.	A:Joe writes that the female doctor who helps Joe sees himself appear on screen.	B
+A:The man explains that Joe's mother hides herself from the enemy.	B:The man explains that Joe's mother hides himself from the enemy.	A
+A:The daughter explains that Sarah's brother hides himself from the enemy.	B:The daughter explains that Sarah's brother hides herself from the enemy.	A
+B:The man explains that the daughter who invites the man helps herself.	A:The man explains that the daughter who invites the man helps himself.	B
+B:Bill understands that Fred's daughter beats herself.	A:Bill understands that Fred's daughter beats himself.	B
+A:The girl understands that Catherine's uncle beats himself.	B:The girl understands that Catherine's uncle beats herself.	A
+A:The girl understands that the male professor who beats the girl saves himself.	B:The girl understands that the male professor who beats the girl saves herself.	A
+A:Bill understands that the woman who beats Bill saves herself.	B:Bill understands that the woman who beats Bill saves himself.	A
+A:The man reports that Fred's sister respects herself.	B:The man reports that Fred's sister respects himself.	A
+B:The woman reports that Catherine's father respects himself.	A:The woman reports that Catherine's father respects herself.	B
+B:The woman reports that the prince who finds the woman supports himself.	A:The woman reports that the prince who finds the woman supports herself.	B
+B:The man reports that the princess who finds the man supports herself.	A:The man reports that the princess who finds the man supports himself.	B
+B:Brian believes that Larry's mother defends herself.	A:Brian believes that Larry's mother defends himself.	B
+A:Victoria believes that Alice's brother defends himself.	B:Victoria believes that Alice's brother defends herself.	A
+B:Victoria believes that the boy who leads Victoria defends himself.	A:Victoria believes that the boy who leads Victoria defends herself.	B
+A:Brian believes that the lady who leads Brian defends herself.	B:Brian believes that the lady who leads Brian defends himself.	A
+B:Harry knows that Dennis's wife helps herself.	A:Harry knows that Dennis's wife helps himself.	B
+B:Maria knows that Alice's uncle helps himself.	A:Maria knows that Alice's uncle helps herself.	B
+A:Maria knows that the boy who calls Maria saves himself.	B:Maria knows that the boy who calls Maria saves herself.	A
+B:Harry knows that the girl who calls Harry saves herself.	A:Harry knows that the girl who calls Harry saves himself.	B
+A:Peter explains that Alexander's daughter defends herself.	B:Peter explains that Alexander's daughter defends himself.	A
+B:The princess hears that Ruth's brother teaches himself.	A:The princess hears that Ruth's brother teaches herself.	B
+A:The princess hears that the father who teaches the princess asks himself a question.	B:The princess hears that the father who teaches the princess asks herself a question.	A
+A:Tony hears that the lady who teaches Tony asks herself a question.	B:Tony hears that the lady who teaches Tony asks himself a question.	A
+B:Harry reports that Thomas's sister enjoys herself in the park.	A:Harry reports that Thomas's sister enjoys himself in the park.	B
+A:Catherine reports that Elizabeth's husband enjoys himself in the park.	B:Catherine reports that Elizabeth's husband enjoys herself in the park.	A
+A:Catherine reports that the male player who likes Catherine supports himself.	B:Catherine reports that the male player who likes Catherine supports herself.	A
+B:Harry reports that the female professor who likes Harry supports herself.	A:Harry reports that the female professor who likes Harry supports himself.	B
+A:Thomas explains that Jeff's wife enjoys herself in the park.	B:Thomas explains that Jeff's wife enjoys himself in the park.	A
+A:The woman explains that Catherine's father enjoys himself in the park.	B:The woman explains that Catherine's father enjoys herself in the park.	A
+B:Thomas explains that the princess who likes Thomas watches herself in the video.	A:Thomas explains that the princess who likes Thomas watches himself in the video.	B
+B:Fred reports that Charlie's wife supports herself.	A:Fred reports that Charlie's wife supports himself.	B
+A:Maria reports that Anna's brother supports himself.	B:Maria reports that Anna's brother supports herself.	A
+A:Maria reports that the male doctor who supports Maria sees himself appear on screen.	B:Maria reports that the male doctor who supports Maria sees herself appear on screen.	A
+B:Fred reports that the lady who supports Fred sees herself appear on screen.	A:Fred reports that the lady who supports Fred sees himself appear on screen.	B
+B:The male professor thinks that Harry's wife trains herself.	A:The male professor thinks that Harry's wife trains himself.	B
+A:The lady thinks that Ruth's brother trains himself.	B:The lady thinks that Ruth's brother trains herself.	A
+A:The lady thinks that the prince who trains the lady enjoys himself in the park.	B:The lady thinks that the prince who trains the lady enjoys herself in the park.	A
+B:The male professor thinks that the female player who trains the male professor enjoys herself in the park.	A:The male professor thinks that the female player who trains the male professor enjoys himself in the park.	B
+A:John reports that Martin's mother saves herself.	B:John reports that Martin's mother saves himself.	A
+B:Kelly reports that Victoria's brother saves himself.	A:Kelly reports that Victoria's brother saves herself.	B
+A:Kelly reports that the male player who serves Kelly asks himself a question.	B:Kelly reports that the male player who serves Kelly asks herself a question.	A
+A:John reports that the female professor who serves John asks herself a question.	B:John reports that the female professor who serves John asks himself a question.	A
+A:John hears that Oliver's daughter respects herself.	B:John hears that Oliver's daughter respects himself.	A
+A:The woman hears that Elizabeth's uncle respects himself.	B:The woman hears that Elizabeth's uncle respects herself.	A
+A:John hears that the female doctor who understands John enjoys herself in the park.	B:John hears that the female doctor who understands John enjoys himself in the park.	A
+A:Ryan says that Tim's sister talks to herself.	B:Ryan says that Tim's sister talks to himself.	A
+B:Alice says that Anna's father talks to himself.	A:Alice says that Anna's father talks to herself.	B
+A:Alice says that the king who believes Alice enjoys himself in the park.	B:Alice says that the king who believes Alice enjoys herself in the park.	A
+A:Ryan says that the female doctor who believes Ryan enjoys herself in the park.	B:Ryan says that the female doctor who believes Ryan enjoys himself in the park.	B
+A:Roger hears that James's wife hides herself from the enemy.	B:Roger hears that James's wife hides himself from the enemy.	A
+A:The girl hears that Mary's uncle hides himself from the enemy.	B:The girl hears that Mary's uncle hides herself from the enemy.	A
+A:The girl hears that the boy who invites the girl teaches himself.	B:The girl hears that the boy who invites the girl teaches herself.	A
+B:Roger hears that the female player who invites Roger teaches herself.	A:Roger hears that the female player who invites Roger teaches himself.	B
+A:The prince knows that Brian's daughter hides herself from the enemy.	B:The prince knows that Brian's daughter hides himself from the enemy.	A
+B:The lady knows that Ruth's husband hides himself from the enemy.	A:The lady knows that Ruth's husband hides herself from the enemy.	B
+B:The prince knows that the wife who invites the prince enjoys herself in the park.	A:The prince knows that the wife who invites the prince enjoys himself in the park.	B
+B:The male player explains that John's sister beats herself.	A:The male player explains that John's sister beats himself.	B
+B:The lady explains that Maria's husband beats himself.	A:The lady explains that Maria's husband beats herself.	B
+A:The lady explains that the male player who beats the lady watches himself in the video.	B:The lady explains that the male player who beats the lady watches herself in the video.	A
+B:The male player explains that the female doctor who beats the male player watches herself in the video.	A:The male player explains that the female doctor who beats the male player watches himself in the video.	B
+B:James explains that Mike's mother supports herself.	A:James explains that Mike's mother supports himself.	B
+A:Mary explains that Mary's son supports himself.	B:Mary explains that Mary's son supports herself.	A
+A:Mary explains that the prince who helps Mary respects himself.	B:Mary explains that the prince who helps Mary respects herself.	A
+A:James explains that the girl who helps James respects herself.	B:James explains that the girl who helps James respects himself.	A
+B:Thomas thinks that Tony's wife saves herself.	A:Thomas thinks that Tony's wife saves himself.	B
+B:Alice thinks that Sarah's son saves himself.	A:Alice thinks that Sarah's son saves herself.	B
+B:Alice thinks that the brother who serves Alice helps himself.	A:Alice thinks that the brother who serves Alice helps herself.	B
+A:Thomas thinks that the mother who serves Thomas helps herself.	B:Thomas thinks that the mother who serves Thomas helps himself.	A
+B:Ben reports that Mike's daughter hits herself.	A:Ben reports that Mike's daughter hits himself.	B
+A:Victoria reports that Elizabeth's son hits himself.	B:Victoria reports that Elizabeth's son hits herself.	A
+B:Victoria reports that the prince who hits Victoria asks himself a question.	A:Victoria reports that the prince who hits Victoria asks herself a question.	B
+B:Ben reports that the woman who hits Ben asks herself a question.	A:Ben reports that the woman who hits Ben asks himself a question.	B
+B:The king learns that James's daughter saves herself.	A:The king learns that James's daughter saves himself.	B
+A:Alice learns that Alice's uncle saves himself.	B:Alice learns that Alice's uncle saves herself.	A
+B:The queen learns that the male president who saves the queen enjoys himself in the park.	A:The queen learns that the male president who saves the queen enjoys herself in the park.	B
+B:Roger shows that Louis's wife sees herself appear on screen.	A:Roger shows that Louis's wife sees himself appear on screen.	B
+B:Sarah shows that Anna's uncle sees himself appear on screen.	A:Sarah shows that Anna's uncle sees herself appear on screen.	B
+B:Sarah shows that the prince who sees Sarah introduces himself to others.	A:Sarah shows that the prince who sees Sarah introduces herself to others.	B
+B:Roger shows that the wife who sees Roger introduces herself to others.	A:Roger shows that the wife who sees Roger introduces himself to others.	B
+B:Brian explains that Roger's daughter saves herself.	A:Brian explains that Roger's daughter saves himself.	B
+A:Maria explains that Elizabeth's father saves himself.	B:Maria explains that Elizabeth's father saves herself.	A
+A:Maria explains that the king who serves Maria asks himself a question.	B:Maria explains that the king who serves Maria asks herself a question.	A
+A:Brian explains that the female professor who serves Brian asks herself a question.	B:Brian explains that the female professor who serves Brian asks himself a question.	A
+A:Bill writes that Tim's mother watches herself in the video.	B:Bill writes that Tim's mother watches himself in the video.	A
+A:Mary writes that Catherine's uncle watches himself in the video.	B:Mary writes that Catherine's uncle watches herself in the video.	A
+A:Mary writes that the prince who watches Mary introduces himself to others.	B:Mary writes that the prince who watches Mary introduces herself to others.	A
+B:Bill writes that the princess who watches Bill introduces herself to others.	A:Bill writes that the princess who watches Bill introduces himself to others.	B
+B:James learns that Harry's daughter tells herself the truth.	A:James learns that Harry's daughter tells himself the truth.	B
+B:Ann learns that Victoria's husband tells himself the truth.	A:Ann learns that Victoria's husband tells herself the truth.	B
+A:Ann learns that the king who tells Ann the news defends himself.	B:Ann learns that the king who tells Ann the news defends herself.	A
+A:James learns that the girl who tells James the news defends herself.	B:James learns that the girl who tells James the news defends himself.	A
+A:Ben knows that Alexander's daughter watches herself in the video.	B:Ben knows that Alexander's daughter watches himself in the video.	A
+B:Ruth knows that Catherine's brother watches himself in the video.	A:Ruth knows that Catherine's brother watches herself in the video.	B
+B:Ruth knows that the male president who watches Ruth saves himself.	A:Ruth knows that the male president who watches Ruth saves herself.	B
+B:Ben knows that the daughter who watches Ben saves herself.	A:Ben knows that the daughter who watches Ben saves himself.	B
+A:The man knows that Dennis's mother tells herself the truth.	B:The man knows that Dennis's mother tells himself the truth.	A
+B:Kelly knows that Ruth's son tells himself the truth.	A:Kelly knows that Ruth's son tells herself the truth.	B
+B:Kelly knows that the brother who tells Kelly the news watches himself in the video.	A:Kelly knows that the brother who tells Kelly the news watches herself in the video.	B
+B:The man knows that the girl who tells the man the news watches herself in the video.	A:The man knows that the girl who tells the man the news watches himself in the video.	B
+A:Jeff understands that Nick's wife trains herself.	B:Jeff understands that Nick's wife trains himself.	A
+A:The girl understands that Anna's son trains himself.	B:The girl understands that Anna's son trains herself.	A
+B:The girl understands that the male president who trains the girl defends himself.	A:The girl understands that the male president who trains the girl defends herself.	B
+A:Jeff understands that the lady who trains Jeff defends herself.	B:Jeff understands that the lady who trains Jeff defends himself.	A
+A:Lawrence thinks that Alexander's wife supports herself.	B:Lawrence thinks that Alexander's wife supports himself.	A
+B:Alice thinks that Ruth's father supports himself.	A:Alice thinks that Ruth's father supports herself.	B
+B:Alice thinks that the father who supports Alice helps himself.	A:Alice thinks that the father who supports Alice helps herself.	B
+B:Lawrence thinks that the female president who supports Lawrence helps herself.	A:Lawrence thinks that the female president who supports Lawrence helps himself.	B
+A:The father understands that Anthony's mother watches herself in the video.	B:The father understands that Anthony's mother watches himself in the video.	A
+B:Mary understands that Mary's brother watches himself in the video.	A:Mary understands that Mary's brother watches herself in the video.	B
+A:Mary understands that the boy who watches Jane introduces himself to others.	B:Mary understands that the boy who watches Jane introduces herself to others.	A
+B:The father understands that the lady who watches the father introduces herself to others.	A:The father understands that the lady who watches the father introduces himself to others.	B
+B:Martin learns that Martin's sister talks to herself.	A:Martin learns that Martin's sister talks to himself.	B
+A:The female player learns that Victoria's son talks to himself.	B:The female player learns that Victoria's son talks to herself.	A
+A:The female player learns that the prince who believes the female player defends himself.	B:The female player learns that the prince who believes the female player defends herself.	B
+A:Martin learns that the princess who believes Martin defends herself.	B:Martin learns that the princess who believes Martin defends himself.	B
+B:James explains that Martin's sister talks to herself.	A:James explains that Martin's sister talks to himself.	B
+A:The lady explains that Elizabeth's son talks to himself.	B:The lady explains that Elizabeth's son talks to herself.	A
+A:The lady explains that the male doctor who believes the lady introduces himself to others.	B:The lady explains that the male doctor who believes the lady introduces herself to others.	A
+B:James explains that the wife who believes James introduces herself to others.	A:James explains that the wife who believes James introduces himself to others.	B
+B:Bill thinks that Alexander's wife enjoys herself in the park.	A:Bill thinks that Alexander's wife enjoys himself in the park.	B
+A:The wife thinks that Alice's brother enjoys himself in the park.	B:The wife thinks that Alice's brother enjoys herself in the park.	A
+B:The wife thinks that the boy who likes her daughter supports himself.	A:The wife thinks that the boy who likes her daughter supports herself.	B
+A:Bill thinks that the wife who likes Bill supports herself.	B:Bill thinks that the wife who likes Bill supports himself.	A
+B:Charlie understands that Martin's mother enjoys herself in the park.	A:Charlie understands that Martin's mother enjoys himself in the park.	B
+A:Maria understands that Helen's father enjoys himself in the park.	B:Maria understands that Helen's father enjoys herself in the park.	A
+B:Maria understands that the prince who likes Maria trusts himself.	A:Maria understands that the prince who likes Maria trusts herself.	B
+A:Charlie understands that the lady who likes Charlie trusts herself.	B:Charlie understands that the lady who likes Charlie trusts himself.	A
+B:Tim believes that Oliver's wife watches herself in the video.	A:Tim believes that Oliver's wife watches himself in the video.	B
+B:The lady believes that Helen's son watches himself in the video.	A:The lady believes that Helen's son watches herself in the video.	B
+A:The lady believes that the male president who watches the lady hides himself from the enemy.	B:The lady believes that the male president who watches the lady hides herself from the enemy.	A
+A:Tim believes that the female player who watches Tim hides herself from the enemy.	B:Tim believes that the female player who watches Tim hides himself from the enemy.	A
+B:The boy learns that Ben's wife sees herself appear on screen.	A:The boy learns that Ben's wife sees himself appear on screen.	B
+A:The female president learns that Kelly's uncle sees himself appear on screen.	B:The female president learns that Kelly's uncle sees herself appear on screen.	A
+A:The boy learns that the female president who sees the boy tells herself the truth.	B:The boy learns that the female president who sees the boy tells himself the truth.	A
+A:Louis reports that Ryan's sister trusts herself.	B:Louis reports that Ryan's sister trusts himself.	A
+B:The female player reports that Kelly's uncle trusts himself.	A:The female player reports that Kelly's uncle trusts herself.	B
+A:The female player reports that the father who trusts the female player asks himself a question.	B:The female player reports that the father who trusts the female player asks herself a question.	A
+B:Louis reports that the female doctor who trusts Louis asks herself a question.	A:Louis reports that the female doctor who trusts Louis asks himself a question.	B
+B:Bruce thinks that Bill's wife hits herself.	A:Bruce thinks that Bill's wife hits himself.	B
+B:The female president thinks that Alice's husband hits himself.	A:The female president thinks that Alice's husband hits herself.	B
+B:The female president thinks that the prince who hits the female president teaches himself.	A:The female president thinks that the prince who hits the female president teaches herself.	B
+A:Bruce thinks that the female doctor who hits Bruce teaches herself.	B:Bruce thinks that the female doctor who hits Bruce teaches himself.	A
+A:The father reports that William's daughter introduces herself to others.	B:The father reports that William's daughter introduces himself to others.	A
+B:Elizabeth reports that Catherine's husband introduces himself to others.	A:Elizabeth reports that Catherine's husband introduces herself to others.	B
+A:Elizabeth reports that the male professor who trusts Elizabeth tells himself the truth.	B:Elizabeth reports that the male professor who trusts Elizabeth tells herself the truth.	A
+A:The father reports that the princess who trusts the father tells herself the truth.	B:The father reports that the princess who trusts the father tells himself the truth.	A
+A:Larry hears that Charles's mother saves herself.	B:Larry hears that Charles's mother saves himself.	A
+A:Ann hears that Ruth's father saves himself.	B:Ann hears that Ruth's father saves herself.	A
+A:Larry hears that the girl who serves Larry loves herself.	B:Larry hears that the girl who serves Larry loves himself.	A
+A:The male professor sees that Louis's wife supports herself.	B:The male professor sees that Louis's wife supports himself.	A
+A:The female professor sees that Sarah's husband supports himself.	B:The female professor sees that Sarah's husband supports herself.	A
+A:The female professor sees that the male professor who helps the female professor trusts himself.	B:The female professor sees that the male professor who helps the female professor trusts herself.	A
+B:The male professor sees that the female professor who helps the male professor trusts herself.	A:The male professor sees that the female professor who helps the male professor trusts himself.	B
+B:Charles reports that Mike's sister saves herself.	A:Charles reports that Mike's sister saves himself.	B
+B:The female player reports that Sarah's father saves himself.	A:The female player reports that Sarah's father saves herself.	B
+B:The female player reports that the male professor who serves the female player talks to himself.	A:The female player reports that the male professor who serves the female player talks to herself.	B
+B:Charles reports that the princess who serves Charles talks to herself.	A:Charles reports that the princess who serves Charles talks to himself.	B
+A:William understands that Bill's wife enjoys herself in the park.	B:William understands that Bill's wife enjoys himself in the park.	A
+B:Jane understands that Jane's son enjoys himself in the park.	A:Jane understands that Jane's son enjoys herself in the park.	B
+B:Jane understands that the boy who likes Jane helps himself.	A:Jane understands that the boy who likes Jane helps herself.	B
+B:William understands that the woman who likes William helps herself.	A:William understands that the woman who likes William helps himself.	B
+B:The male professor learns that William's wife loves herself.	A:The male professor learns that William's wife loves himself.	B
+B:Mary learns that Helen's uncle loves himself.	A:Mary learns that Helen's uncle loves herself.	B
+A:The male professor learns that the wife who loves the male professor supports herself.	B:The male professor learns that the wife who loves the male professor supports himself.	A
+B:Charles hears that Ryan's daughter talks to herself.	A:Charles hears that Ryan's daughter talks to himself.	B
+B:The princess hears that Ann's son talks to himself.	A:The princess hears that Ann's son talks to herself.	B
+B:The princess hears that the prince who believes the princess tells himself the truth.	A:The princess hears that the prince who believes the princess tells herself the truth.	B
+B:Charles hears that the mother who believes Charles tells herself the truth.	A:Charles hears that the mother who believes Charles tells himself the truth.	B
+A:John explains that Oliver's wife enjoys herself in the park.	B:John explains that Oliver's wife enjoys himself in the park.	A
+A:The princess explains that Maria's uncle enjoys himself in the park.	B:The princess explains that Maria's uncle enjoys herself in the park.	A
+B:The princess explains that the male player who likes the princess loves himself.	A:The princess explains that the male player who likes the princess loves herself.	B
+A:John explains that the female president who likes John loves herself.	B:John explains that the female president who likes John loves himself.	A
+A:The male president says that Peter's daughter hides herself from the enemy.	B:The male president says that Peter's daughter hides himself from the enemy.	A
+B:The female professor says that Anna's husband hides himself from the enemy.	A:The female professor says that Anna's husband hides herself from the enemy.	B
+B:The female professor says that the male player who invites the female professor enjoys himself in the park.	A:The female professor says that the male player who invites the female professor enjoys herself in the park.	B
+A:The male president says that the mother who invites the male president enjoys herself in the park.	B:The male president says that the mother who invites the male president enjoys himself in the park.	A
+A:Bruce feels that John's mother attacks herself.	B:Bruce feels that John's mother attacks himself.	A
+A:The daughter feels that Maria's brother attacks himself.	B:The daughter feels that Maria's brother attacks herself.	A
+B:Bruce feels that the female doctor who attacks Bruce introduces herself to others.	A:Bruce feels that the female doctor who attacks Bruce introduces himself to others.	B
+A:Charles thinks that Bill's sister enjoys herself in the park.	B:Charles thinks that Bill's sister enjoys himself in the park.	A
+A:The woman thinks that Mary's uncle enjoys himself in the park.	B:The woman thinks that Mary's uncle enjoys herself in the park.	A
+B:Ann thinks that the boy who likes her introduces himself to others.	A:Ann thinks that the boy who likes her introduces herself to others.	B
+A:Larry knows that Ryan's wife saves herself.	B:Larry knows that Ryan's wife saves himself.	A
+A:The girl knows that Sarah's brother saves himself.	B:The girl knows that Sarah's brother saves herself.	A
+B:The girl knows that the male player who saves the girl helps himself.	A:The girl knows that the male player who saves the girl helps herself.	B
+A:Larry knows that the female president who saves Larry helps herself.	B:Larry knows that the female president who saves Larry helps himself.	A
+A:The male president reports that Oliver's mother protects herself.	B:The male president reports that Oliver's mother protects himself.	A
+A:Elizabeth reports that Mary's son protects himself.	B:Elizabeth reports that Mary's son protects herself.	A
+B:Elizabeth reports that the male doctor who joins Elizabeth hits himself.	A:Elizabeth reports that the male doctor who joins Elizabeth hits herself.	B
+B:The male president reports that the lady who joins the male president hits herself.	A:The male president reports that the lady who joins the male president hits himself.	B
+A:Alice feels that Emma's father respects himself.	B:Alice feels that Emma's father respects herself.	A
+A:Mary feels that Helen's son respects himself.	B:Mary feels that Helen's son respects herself.	A
+A:Mary feels that the man who understands Mary introduces himself to others.	B:Mary feels that the man who understands Mary introduces herself to others.	A
+B:Dennis feels that the female professor who understands Dennis introduces herself to others.	A:Dennis feels that the female professor who understands Dennis introduces himself to others.	B
+A:Ryan knows that Alexander's daughter teaches herself.	B:Ryan knows that Alexander's daughter teaches himself.	A
+A:Catherine knows that Catherine's son teaches himself.	B:Catherine knows that Catherine's son teaches herself.	A
+B:Catherine knows that the father who teaches Catherine beats himself.	A:Catherine knows that the father who teaches Catherine beats herself.	B
+B:Sarah knows that the man who teaches Sarah beats himself.	A:Sarah knows that the man who teaches Sarah beats herself.	B
+A:Peter writes that John's wife helps herself.	B:Peter writes that John's wife helps himself.	A
+A:Sarah writes that Victoria's husband helps himself.	B:Sarah writes that Victoria's husband helps herself.	A
+B:Sarah writes that the boy who helps Sarah helps himself.	A:Sarah writes that the boy who helps Sarah helps herself.	B
+A:Peter writes that the woman who helps Peter helps herself.	B:Peter writes that the woman who helps Peter helps himself.	A
+B:Martin hears that Martin's mother defends herself.	A:Martin hears that Martin's mother defends himself.	B
+B:Ruth hears that Helen's uncle defends himself.	A:Ruth hears that Helen's uncle defends herself.	B
+B:Ruth hears that the male president who leads Ruth tells himself the truth.	A:Ruth hears that the male president who leads Ruth tells herself the truth.	B
+A:Martin hears that the female doctor who leads Martin tells herself the truth.	B:Martin hears that the female doctor who leads Martin tells himself the truth.	A
+B:Charlie hears that Jeff's daughter introduces herself to others.	A:Charlie hears that Jeff's daughter introduces himself to others.	B
+B:Victoria hears that Alice's son introduces himself to others.	A:Victoria hears that Alice's son introduces herself to others.	B
+B:Victoria hears that the boy who visits Victoria respects himself.	A:Victoria hears that the boy who visits Victoria respects herself.	B
+A:Charlie hears that the princess who visits Charlie respects herself.	B:Charlie hears that the princess who visits Charlie respects himself.	A
+B:Tim believes that Nick's wife asks herself a question.	A:Tim believes that Nick's wife asks himself a question.	B
+B:The lady believes that Jane's father asks himself a question.	A:The lady believes that Jane's father asks herself a question.	B
+B:The lady believes that the male professor who asks the lady helps himself.	A:The lady believes that the male professor who asks the lady helps herself.	B
+A:Tim believes that the female professor who asks Tim helps herself.	B:Tim believes that the female professor who asks Tim helps himself.	A
+A:Jeff knows that Brian's daughter attacks herself.	B:Jeff knows that Brian's daughter attacks himself.	A
+B:Sarah knows that Elizabeth's uncle attacks himself.	A:Sarah knows that Elizabeth's uncle attacks herself.	B
+B:Sarah knows that the king who attacks Sarah hits himself.	A:Sarah knows that the king who attacks Sarah hits herself.	B
+A:Jeff knows that the girl who attacks Jeff hits herself.	B:Jeff knows that the girl who attacks Jeff hits himself.	A
+B:Alexander feels that Mike's mother trusts herself.	A:Alexander feels that Mike's mother trusts himself.	B
+A:Alice feels that Jane's son trusts himself.	B:Alice feels that Jane's son trusts herself.	A
+B:Alice feels that the male doctor who trusts Alice attacks himself.	A:Alice feels that the male doctor who trusts Alice attacks herself.	B
+B:Alexander feels that the female player who trusts Alexander attacks herself.	A:Alexander feels that the female player who trusts Alexander attacks himself.	B
+A:Charles says that Ben's mother loves herself.	B:Charles says that Ben's mother loves himself.	A
+B:Ann says that Alice's father loves himself.	A:Ann says that Alice's father loves herself.	B
+B:Ann says that the male president who loves Ann helps himself.	A:Ann says that the male president who loves Ann helps herself.	B
+B:Thomas believes that Dennis's daughter introduces herself to others.	A:Thomas believes that Dennis's daughter introduces himself to others.	B
+B:The female president believes that Elizabeth's father introduces himself to others.	A:The female president believes that Elizabeth's father introduces herself to others.	B
+A:The female president believes that the male professor who visits the female president supports himself.	B:The female president believes that the male professor who visits the female president supports herself.	A
+B:Thomas believes that the princess who visits Thomas supports herself.	A:Thomas believes that the princess who visits Thomas supports himself.	B
+B:The mother believes that Ann's husband asks himself a question.	A:The mother believes that Ann's husband asks herself a question.	B
+A:The mother believes that Ann's husband introduces himself to others.	B:The mother believes that Ann's husband introduces herself to others.	A

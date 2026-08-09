@@ -1,0 +1,501 @@
+correct	incorrect	model_choice
+B:Catherine sees herself joining this committee.	A:Catherine sees herself joined this committee.	B
+B:Gary sees himself joining this committee.	A:Gary sees himself joined this committee.	B
+B:The girl explains that the man believes in himself.	A:The girl explains that the man believes in herself.	B
+A:Jerry explains that the female player believes in herself.	B:Jerry explains that the female player believes in himself.	A
+B:Kelly knows that the king enjoys himself.	A:Kelly knows that the king enjoys herself.	B
+A:Anthony knows that the female president enjoys herself.	B:Anthony knows that the female president enjoys himself.	A
+A:Kelly imagines herself enjoying that music.	B:Kelly imagines herself enjoyed that music.	A
+B:Anthony caught himself enjoying that music.	A:Anthony caught himself enjoyed that music.	B
+A:Alice knows that the man introduces himself to others.	B:Alice knows that the man introduces herself to others.	A
+B:William knows that the woman introduces herself to others.	A:William knows that the woman introduces himself to others.	B
+A:Alice pictures herself describing the process.	B:Alice pictures herself described the process.	A
+A:William pictures himself describing the process.	B:William pictures himself described the process.	A
+B:Victoria explains that the father hides himself.	A:Victoria explains that the father hides herself.	B
+A:Jack explains that his mother hides herself.	B:Jack explains that his mother hides himself.	A
+A:Sarah shows that her brother enjoys himself.	B:Sarah shows that her brother enjoys herself.	A
+B:Robert shows that the female president enjoys herself.	A:Robert shows that the female president enjoys himself.	B
+A:Sarah caught herself enjoying the film.	B:Sarah caught herself enjoyed the film.	A
+A:Robert caught himself enjoying the film.	B:Robert caught himself enjoyed the film.	A
+A:The daughter imagines herself opening this door.	B:The daughter imagines herself opened this door.	A
+B:Dan imagines himself opening this door.	A:Dan imagines himself opened this door.	B
+A:Jane feels that the prince teaches himself French.	B:Jane feels that the prince teaches herself French.	A
+A:The king feels that the wife teaches herself French.	B:The king feels that the wife teaches himself French.	A
+A:Jane imagines herself teaching the course.	B:Jane imagines herself taught the course.	A
+A:The king saw himself teaching the course.	B:The king saw himself taught the course.	A
+B:Anna feels that the father depends on himself.	A:Anna feels that the father depends on herself.	B
+B:The male player feels that the wife depends on herself.	A:The male player feels that the wife depends on himself.	B
+A:Anna imagines herself living with her parents.	B:Anna imagines herself lived with her parents.	A
+B:The male player sees himself living with his parents.	A:The male player sees himself lived with his parents.	B
+A:Maria imagines herself finishing a project.	B:Maria imagines herself finished a project.	A
+B:Oliver imagines himself finishing a project.	A:Oliver imagines himself finished a project.	B
+B:The wife hears that the male player sees himself appear on television.	A:The wife hears that the male player sees herself appear on television.	B
+A:The father hears that the female president sees herself appear on television.	B:The father hears that the female president sees himself appear on television.	A
+A:The wife sees herself joining the party.	B:The wife sees herself joined the party.	A
+B:The father sees himself joining the party.	A:The father sees himself joined the party.	B
+B:The lady heard that the brother introduced himself to others.	A:The lady heard that the brother introduced herself to others.	B
+B:Adam heard that the female president introduced herself to others.	A:Adam heard that the female president introduced himself to others.	B
+A:The lady imagines herself starting this project.	B:The lady imagines herself started this project.	A
+B:Adam sees himself starting this project.	A:Adam sees himself started this project.	B
+A:The boy wrote that the lady protected herself.	B:The boy wrote that the lady protected himself.	A
+B:The boy pictures himself opening the museum.	A:The boy pictures himself opened the museum.	B
+A:Ann means that the father improves himself.	B:Ann means that the father improves herself.	A
+B:The male president means that the lady improves herself.	A:The male president means that the lady improves himself.	B
+A:The female doctor sees herself throwing this ball.	B:The female doctor sees herself threw this ball.	A
+A:John sees himself throwing this ball.	B:John sees himself threw this ball.	A
+A:The female president explains that the prince saves himself.	B:The female president explains that the prince saves herself.	A
+B:The prince explains that the girl saves herself.	A:The prince explains that the girl saves himself.	B
+A:The girl hears that the male player supports himself.	B:The girl hears that the male player supports herself.	A
+A:Stephen hears that the female doctor supports herself.	B:Stephen hears that the female doctor supports himself.	A
+A:Alice sees that the father supports himself.	B:Alice sees that the father supports herself.	A
+A:Adam sees that the daughter supports herself.	B:Adam sees that the daughter supports himself.	A
+B:Alice sees herself raising some children.	A:Alice sees herself raised some children.	B
+B:Adam sees himself raising some children.	A:Adam sees himself raised some children.	B
+A:The woman means to say that the brother protected himself.	B:The woman means to say that the brother protected herself.	A
+B:Paul means to say that the girl protected herself.	A:Paul means to say that the girl protected himself.	B
+B:The woman imagines herself designing that program.	A:The woman imagines herself designed that program.	B
+B:Paul imagines himself designing that program.	A:Paul imagines himself designed that program.	B
+B:The female professor learns that the male professor sees himself appear on television.	A:The female professor learns that the male professor sees herself appear on television.	B
+A:The man learns that the girl sees herself appear on television.	B:The man learns that the girl sees himself appear on television.	A
+A:The female professor imagines herself joining this team.	B:The female professor imagines herself joined this team.	A
+B:The man imagines himself joining this team.	A:The man imagines himself joined this team.	B
+B:Mary understands that the male doctor saved himself.	A:Mary understands that the male doctor saved herself.	B
+A:Matt understands that the girl saved herself.	B:Matt understands that the girl saved himself.	A
+B:Mary knows that the male professor introduced himself to others.	A:Mary knows that the male professor introduced herself to others.	B
+A:Carl knows that the wife introduced herself to others.	B:Carl knows that the wife introduced himself to others.	A
+B:Ruth imagines herself winning this game.	A:Ruth imagines herself won this game.	B
+B:Stephen imagines himself winning this game.	A:Stephen imagines himself won this game.	B
+A:The girl sees that the male player changed himself.	B:The girl sees that the male player changed herself.	A
+A:Dennis sees that the mother changed herself.	B:Dennis sees that the mother changed himself.	A
+B:The girl sees herself closing her eyes.	A:The girl sees herself closed her eyes.	B
+A:Dennis sees himself closing his eyes.	B:Dennis sees himself closed his eyes.	A
+A:Victoria knows that the prince helps himself to food.	B:Victoria knows that the prince helps herself to food.	A
+B:The male president knows that the mother helps herself to food.	A:The male president knows that the mother helps himself to food.	B
+A:Victoria finds herself calling that meeting.	B:Victoria finds herself called that meeting.	A
+B:The male president finds himself calling that meeting.	A:The male president finds himself called that meeting.	B
+A:Carl imagines himself selling that house.	B:Carl imagines himself sold that house.	A
+A:The female player means to say that the male president hit himself.	B:The female player means to say that the male president hit herself.	A
+B:Oliver means to say that the lady hit herself.	A:Oliver means to say that the lady hit himself.	B
+A:The female player imagines herself hitting the target.	B:The female player imagines herself hit the target.	A
+A:Oliver imagines himself hitting the target.	B:Oliver imagines himself hit the target.	A
+B:The mother learns that the king supports himself.	A:The mother learns that the king supports herself.	B
+B:Anthony learns that the female player supports herself.	A:Anthony learns that the female player supports himself.	B
+A:The mother imagines herself supporting that family.	B:The mother imagines herself supported that family.	A
+B:Anthony imagines himself supporting that family.	A:Anthony imagines himself supported that family.	B
+A:Victoria learns that the man prepares himself for the job.	B:Victoria learns that the man prepares herself for the job.	A
+B:The male player learns that the wife prepares herself for the job.	A:The male player learns that the wife prepares himself for the job.	B
+A:Victoria imagines herself finishing this season.	B:Victoria imagines herself finished this season.	A
+A:The male player imagines himself finishing this season.	B:The male player imagines himself finished this season.	A
+B:The female professor imagines herself driving a bus.	A:The female professor imagines herself drove a bus.	B
+A:Jason imagines himself driving a bus.	B:Jason imagines himself drove a bus.	A
+B:The woman finds herself painting a wall.	A:The woman finds herself painted a wall.	B
+B:Charles finds himself painting some wall.	A:Charles finds himself painted some wall.	B
+A:The female president hears that the prince trusts himself.	B:The female president hears that the prince trusts herself.	A
+B:The father hears that the female president trusts herself.	A:The father hears that the female president trusts himself.	B
+B:The female president sees herself trusting this friend.	A:The female president sees herself trusted this friend.	B
+A:The father sees himself trusting this friend.	B:The father sees himself trusted this friend.	A
+B:Alice sees herself adding a record to the system.	A:Alice sees herself added a record to the system.	B
+B:Alexander sees himself adding a record to the system.	A:Alexander sees himself added a record to the system.	B
+A:The woman says that the king understands himself.	B:The woman says that the king understands herself.	A
+A:Ben says that the woman understands herself.	B:Ben says that the woman understands himself.	A
+A:Victoria imagines herself throwing the ball.	B:Victoria imagines herself threw the ball.	A
+B:Adam pictures himself throwing the ball.	A:Adam pictures himself threw the ball.	B
+B:Maria pictures herself selling a car.	A:Maria pictures herself sold a car.	B
+A:The boy pictures himself selling a car.	B:The boy pictures himself sold a car.	A
+B:The female president feels that the boy loses himself in the game.	A:The female president feels that the boy loses herself in the game.	B
+A:Ben feels that the female player loses herself in the game.	B:Ben feels that the female player loses himself in the game.	A
+B:The female president imagines herself losing that game.	A:The female president imagines herself lost that game.	B
+A:Ben pictures himself losing that game.	B:Ben pictures himself lost that game.	A
+B:The princess pictures herself moving to this house.	A:The princess pictures herself moved to this house.	B
+A:Paul pictures himself moving to that house.	B:Paul pictures himself moved to that house.	A
+A:The girl shows that the male doctor understands himself.	B:The girl shows that the male doctor understands herself.	A
+A:Sam shows that the daughter understands herself.	B:Sam shows that the daughter understands himself.	A
+A:The girl pictures herself understanding that story.	B:The girl pictures herself understood that story.	A
+B:Sam pictures himself understanding that story.	A:Sam pictures himself understood that story.	B
+B:The female professor reports that the man believes in himself.	A:The female professor reports that the man believes in herself.	B
+A:Jerry reports that the female player believes in herself.	B:Jerry reports that the female player believes in himself.	A
+A:The female professor imagined herself believing this news.	B:The female professor imagined herself believed this news.	A
+A:Jerry finds himself believing this news.	B:Jerry finds himself believed this news.	A
+A:Maria shows that the boy supports himself.	B:Maria shows that the boy supports herself.	A
+B:The brother shows that the mother supports herself.	A:The brother shows that the mother supports himself.	B
+B:Maria pictures herself raising the money for children.	A:Maria pictures herself raised the money for children.	B
+A:The brother pictures himself raising the money for children.	B:The brother pictures himself raised the money for children.	A
+B:The female professor feels that the male president loves himself.	A:The female professor feels that the male president loves herself.	B
+B:Matt feels that the mother loves herself.	A:Matt feels that the mother loves himself.	B
+A:The female professor imagines herself enjoying some music.	B:The female professor imagines herself enjoyed some music.	A
+B:Matt pictures himself loving some music.	A:Matt pictures himself loved some music.	B
+B:Ruth understands that the male professor is defending himself.	A:Ruth understands that the male professor is defending herself.	B
+B:The male doctor understands that the female doctor is defending herself.	A:The male doctor understands that the female doctor is defending himself.	B
+A:Elizabeth says that the prince saved himself.	B:Elizabeth says that the prince saved herself.	A
+A:Robert says that the wife saved herself.	B:Robert says that the wife saved himself.	A
+B:Elizabeth sees herself saving some time.	A:Elizabeth sees herself saved some time.	B
+B:Robert sees himself saving some time.	A:Robert sees himself saved some time.	B
+B:Jane pictures herself adding this number to the list.	A:Jane pictures herself added this number to the list.	B
+B:The male doctor pictures himself adding this number to the list.	A:The male doctor pictures himself added this number to the list.	B
+A:Elizabeth explains that the king saves himself.	B:Elizabeth explains that the king saves herself.	A
+A:Lawrence explains that the daughter saves herself.	B:Lawrence explains that the daughter saves himself.	A
+A:The wife imagines herself trying this method.	B:The wife imagines herself tried this method.	A
+B:Ryan imagines himself trying this method.	A:Ryan imagines himself tried this method.	B
+A:The female player sees herself trying that method.	B:The female player sees herself tried that method.	A
+B:Jerry sees himself trying that method.	A:Jerry sees himself tried that method.	B
+B:Ruth writes that the boy changed himself.	A:Ruth writes that the boy changed herself.	B
+B:The male doctor writes that the female president changed herself.	A:The male doctor writes that the female president changed himself.	B
+A:Ruth pictures herself closing the door.	B:Ruth pictures herself closed the door.	A
+B:The male doctor pictures himself closing the door.	A:The male doctor pictures himself closed the door.	B
+B:The woman shows that the father studies himself in the picture.	A:The woman shows that the father studies herself in the picture.	B
+B:Matt shows that the woman studies herself in the picture.	A:Matt shows that the woman studies himself in the picture.	B
+B:The woman pictures herself studying history.	A:The woman pictures herself studied history.	B
+B:Matt pictures himself studying the history.	A:Matt pictures himself studied the history.	B
+A:Ann imagines herself marrying a woman.	B:Ann imagines herself married a woman.	A
+B:The man pictures himself marrying a woman.	A:The man pictures himself married a woman.	B
+B:Catherine understands that the male professor hid himself.	A:Catherine understands that the male professor hid herself.	B
+B:The male doctor understands that the lady hid herself.	A:The male doctor understands that the lady hid himself.	B
+B:Helen sees herself explaining the reason.	A:Helen sees herself explained the reason.	B
+B:Dan sees himself explaining the reason.	A:Dan sees himself explained the reason.	B
+B:The woman finds herself carrying the water.	A:The woman finds herself carried the water.	B
+A:Paul finds himself carrying the water.	B:Paul finds himself carried the water.	A
+A:Jane thinks that the brother introduced himself to others.	B:Jane thinks that the brother introduced herself to others.	A
+A:Adam thinks that the female doctor introduced herself to others.	B:Adam thinks that the female doctor introduced himself to others.	A
+A:Jane finds herself taking the picture.	B:Jane finds herself took the picture.	A
+A:Adam finds himself taking the picture.	B:Adam finds himself took the picture.	A
+A:Jane writes that the prince found himself in a picture.	B:Jane writes that the prince found herself in a picture.	A
+B:Jason writes that the girl found herself in a picture.	A:Jason writes that the girl found himself in a picture.	B
+B:Jane pictures herself finding the job.	A:Jane pictures herself found the job.	B
+B:Jason pictures himself finding the job.	A:Jason pictures himself found the job.	B
+B:The female president reports that the prince saved himself.	A:The female president reports that the prince saved herself.	B
+A:Sam reports that the female player saved herself.	B:Sam reports that the female player saved himself.	A
+A:The woman thinks that the male player helps himself to food.	B:The woman thinks that the male player helps herself to food.	A
+A:Jason thinks that the wife helps herself to food.	B:Jason thinks that the wife helps himself to food.	A
+A:The woman finds herself helping this child.	B:The woman finds herself helped this child.	A
+B:Jason finds himself helping this child.	A:Jason finds himself helped this child.	B
+A:The princess understands that the prince believes in himself.	B:The princess understands that the prince believes in herself.	A
+B:Victor understands that the female player believes in herself.	A:Victor understands that the female player believes in himself.	B
+B:The female president finds herself sharing the information.	A:The female president finds herself shared the information.	B
+A:Roger finds himself sharing the information.	B:Roger finds himself shared the information.	A
+B:Ann hears that the father cares for himself.	A:Ann hears that the father cares for herself.	B
+B:Gary hears that the girl cares for herself.	A:Gary hears that the girl cares for himself.	B
+B:Ann sees herself buying some goods.	A:Ann sees herself bought some goods.	B
+B:Gary sees himself buying some goods.	A:Gary sees himself bought some goods.	B
+A:The female doctor explains that the man helps himself to food.	B:The female doctor explains that the man helps herself to food.	A
+A:Matt explains that the female professor helps herself to food.	B:Matt explains that the female professor helps himself to food.	A
+A:The wife writes that the father teaches himself French.	B:The wife writes that the father teaches herself French.	A
+B:Roger writes that the woman teaches herself French.	A:Roger writes that the woman teaches himself French.	B
+A:The wife pictures herself teaching a course.	B:The wife pictures herself taught a course.	A
+A:Roger pictures himself teaching a course.	B:Roger pictures himself taught a course.	A
+A:The mother imagines herself moving the rock.	B:The mother imagines herself moved the rock.	A
+B:Martin imagines himself moving the rock.	A:Martin imagines himself moved the rock.	B
+B:The mother imagines herself drawing that picture.	A:The mother imagines herself drew that picture.	B
+B:Thomas imagines himself drawing that picture.	A:Thomas imagines himself drew that picture.	B
+B:Alice sees that the king hit himself.	A:Alice sees that the king hit herself.	B
+A:Jerry sees that the princess hit herself.	B:Jerry sees that the princess hit himself.	A
+A:Alice sees herself hitting that record.	B:Alice sees herself hit that record.	A
+B:Jerry sees himself hitting that record.	A:Jerry sees himself hit that record.	B
+A:Catherine believes that the boy is fighting for himself.	B:Catherine believes that the boy is fighting for herself.	A
+B:Dennis believes that the female president is fighting for herself.	A:Dennis believes that the female president is fighting for himself.	B
+B:Catherine imagines herself fighting the fire.	A:Catherine imagines herself fought the fire.	B
+A:Dennis imagines himself fighting the fire.	B:Dennis imagines himself fought the fire.	A
+A:Alice feels that the father is protecting himself.	B:Alice feels that the father is protecting herself.	A
+A:The man feels that the girl is protecting herself.	B:The man feels that the girl is protecting himself.	A
+A:Alice imagines herself opening an account.	B:Alice imagines herself opened an account.	A
+A:The man pictures himself opening an account.	B:The man pictures himself opened an account.	A
+A:Alice reports that the boy helps himself to food.	B:Alice reports that the boy helps herself to food.	A
+B:The king reports that the woman helps herself to food.	A:The king reports that the woman helps himself to food.	B
+A:Alice finds herself helping a family.	B:Alice finds herself helped a family.	A
+B:The king finds himself helping a family.	A:The king finds himself helped a family.	B
+B:Ruth thinks that the male doctor helps himself to food.	A:Ruth thinks that the male doctor helps herself to food.	B
+B:Martin thinks that the woman helps herself to food.	A:Martin thinks that the woman helps himself to food.	B
+B:Ruth finds herself fixing that car.	A:Ruth finds herself fixed that car.	B
+B:Martin finds himself fixing that car.	A:Martin finds himself fixed that car.	B
+B:Anna believes that the brother was defending himself.	A:Anna believes that the brother was defending herself.	B
+B:Jack believes that the mother was defending herself.	A:Jack believes that the mother was defending himself.	B
+A:Alice sees herself stopping this car.	B:Alice sees herself stopped this car.	A
+B:The father sees himself stopping this car.	A:The father sees himself stopped this car.	B
+B:Sarah believes that the prince is drawing a picture of himself.	A:Sarah believes that the prince is drawing a picture of herself.	B
+A:Oliver believes that the girl is drawing a picture of herself.	B:Oliver believes that the girl is drawing a picture of himself.	A
+A:Sarah imagines herself drawing a line.	B:Sarah imagines herself drew a line.	A
+A:Oliver imagines himself drawing a line.	B:Oliver imagines himself drew a line.	A
+B:Kelly feels that the brother trusts himself.	A:Kelly feels that the brother trusts herself.	B
+A:The boy feels that the daughter trusts herself.	B:The boy feels that the daughter trusts himself.	A
+A:Kelly imagines herself trusting the assistant.	B:Kelly imagines herself trusted the assistant.	A
+A:The boy pictures himself trusting the assistant.	B:The boy pictures himself trusted the assistant.	A
+A:Helen pictures herself performing a song.	B:Helen pictures herself performed a song.	A
+A:John pictures himself performing a song.	B:John pictures himself performed a song.	A
+B:The lady knows that the male player is dressing himself.	A:The lady knows that the male player is dressing herself.	B
+B:The male player knows that the female professor is dressing herself.	A:The male player knows that the female professor is dressing himself.	B
+A:The lady finds herself fighting in that war.	B:The lady finds herself fought in that war.	A
+B:The male player finds himself fighting in that war.	A:The male player finds himself fought in that war.	B
+A:Mary pictures herself giving that speech.	B:Mary pictures herself gave that speech.	A
+A:Alexander pictures himself giving that speech.	B:Alexander pictures himself gave that speech.	A
+A:Sarah finds herself asking that question.	B:Sarah finds herself asked that question.	A
+A:The prince finds himself asking that question.	B:The prince finds himself asked that question.	A
+A:Catherine imagines herself performing this music.	B:Catherine imagines herself performed this music.	A
+A:Dennis pictures himself performing this music.	B:Dennis pictures himself performed this music.	A
+B:The wife explains that the male president is attacking himself.	A:The wife explains that the male president is attacking herself.	B
+A:Lawrence explains that the princess is attacking herself.	B:Lawrence explains that the princess is attacking himself.	A
+B:The mother learns that the father asked himself a question.	A:The mother learns that the father asked herself a question.	B
+B:Ryan learns that the female player asked herself a question.	A:Ryan learns that the female player asked himself a question.	B
+A:The mother imagines herself asking some questions.	B:The mother imagines herself asked some questions.	A
+B:Ryan imagines himself asking some questions.	A:Ryan imagines himself asked some questions.	B
+B:Ruth reports that the father depends on himself.	A:Ruth reports that the father depends on herself.	B
+B:Victor reports that the girl depends on herself.	A:Victor reports that the girl depends on himself.	B
+A:Ruth finds herself living with her parents.	B:Ruth finds herself lived with her parents.	A
+B:Victor finds himself living with his parents.	A:Victor finds himself lived with his parents.	B
+A:Maria imagines herself performing this song.	B:Maria imagines herself performed this song.	A
+A:Paul imagines himself performing this song.	B:Paul imagines himself performed this song.	A
+A:Sarah thinks that the male professor brought himself to the park.	B:Sarah thinks that the male professor brought herself to the park.	A
+A:Roger thinks that the female player brought herself to the park.	B:Roger thinks that the female player brought himself to the park.	A
+A:Sarah finds herself bringing about the change.	B:Sarah finds herself brought about the change.	A
+A:Roger finds himself bringing about the change.	B:Roger finds himself brought about the change.	A
+A:The wife writes that the boy helps himself to food.	B:The wife writes that the boy helps herself to food.	A
+B:The male professor writes that the female player helps herself to food.	A:The male professor writes that the female player helps himself to food.	B
+A:The wife pictures herself fixing the car.	B:The wife pictures herself fixed the car.	A
+A:The male professor pictures himself fixing the car.	B:The male professor pictures himself fixed the car.	A
+A:The girl imagines herself finding the place.	B:The girl imagines herself found the place.	A
+A:Jimmy imagines himself finding the place.	B:Jimmy imagines himself found the place.	A
+A:Ruth thinks that the male professor understands himself.	B:Ruth thinks that the male professor understands herself.	A
+B:The father thinks that the lady understands herself.	A:The father thinks that the lady understands himself.	B
+A:Ruth finds herself understanding the story.	B:Ruth finds herself understood the story.	A
+A:The father finds himself understanding the story.	B:The father finds himself understood the story.	A
+A:Catherine believes that the male player has prepared himself for the job.	B:Catherine believes that the male player has prepared herself for the job.	A
+B:Alexander believes that the princess prepared herself for the job.	A:Alexander believes that the princess prepared himself for the job.	B
+B:Catherine imagines herself sending the message.	A:Catherine imagines herself sent the message.	B
+B:Alexander imagines himself sending the message.	A:Alexander imagines himself sent the message.	B
+A:The female professor means to say that the prince is teaching himself.	B:The female professor means to say that the prince is teaching herself.	A
+B:The male president means to say that the wife is teaching herself.	A:The male president means to say that the wife is teaching himself.	B
+B:The female professor imagines herself teaching that class.	A:The female professor imagines herself taught that class.	B
+B:The male president imagines himself teaching that class.	A:The male president imagines himself taught that class.	B
+B:Helen learns that the male professor changed himself.	A:Helen learns that the male professor changed herself.	B
+B:The king learns that the lady changed herself.	A:The king learns that the lady changed himself.	B
+B:Helen imagines herself closing the door.	A:Helen imagines herself closed the door.	B
+B:The king imagines himself closing the door.	A:The king imagines himself closed the door.	B
+A:Ruth thinks that the father proves himself.	B:Ruth thinks that the father proves herself.	A
+B:Victor thinks that the girl proves herself.	A:Victor thinks that the girl proves himself.	B
+B:Ruth finds herself proving this case.	A:Ruth finds herself proved this case.	B
+A:Victor finds himself proving this case.	B:Victor finds himself proved this case.	A
+A:Ann explains that the male doctor hides himself.	B:Ann explains that the male doctor hides herself.	A
+A:Thomas explains that the lady hides herself.	B:Thomas explains that the lady hides himself.	A
+A:Elizabeth feels that the male player helps himself to food.	B:Elizabeth feels that the male player helps herself to food.	A
+B:Jimmy feels that the female professor helps herself to food.	A:Jimmy feels that the female professor helps himself to food.	B
+B:Elizabeth imagines herself informing this student.	A:Elizabeth imagines herself informed this student.	B
+B:Jimmy pictures himself informing this student.	A:Jimmy pictures himself informed this student.	B
+B:The female doctor explains that the male player chooses himself.	A:The female doctor explains that the male player chooses herself.	B
+A:Thomas explains that the woman chooses herself.	B:Thomas explains that the woman chooses himself.	A
+B:Elizabeth says that the male professor proves himself.	A:Elizabeth says that the male professor proves herself.	B
+B:The brother says that the female professor proves herself.	A:The brother says that the female professor proves himself.	B
+B:Elizabeth sees herself proving that case.	A:Elizabeth sees herself proved that case.	B
+B:The brother sees himself proving that case.	A:The brother sees himself proved that case.	B
+B:Catherine imagines herself drawing the attention.	A:Catherine imagines herself drew the attention.	B
+B:Matt imagines himself drawing the attention.	A:Matt imagines himself drew the attention.	B
+B:The female doctor pictures herself holding the election.	A:The female doctor pictures herself held the election.	B
+A:Martin pictures himself holding the election.	B:Martin pictures himself held the election.	A
+B:The female professor believes that the male professor adds himself.	A:The female professor believes that the male professor adds herself.	B
+B:Roger imagines himself adding this information.	A:Roger imagines himself added this information.	B
+B:The girl feels that the man has introduced himself to others.	A:The girl feels that the man has introduced herself to others.	B
+A:Ryan feels that the female player has introduced herself to others.	B:Ryan feels that the female player has introduced himself to others.	A
+B:The girl imagines herself describing that picture.	A:The girl imagines herself described that picture.	B
+A:Ryan pictures himself describing that picture.	B:Ryan pictures himself described that picture.	A
+A:Elizabeth imagines herself producing the goods.	B:Elizabeth imagines herself produced the goods.	A
+B:Sam sees himself producing the goods.	A:Sam sees himself produced the goods.	B
+A:The female doctor sees that the male doctor saves himself.	B:The female doctor sees that the male doctor saves herself.	A
+A:The father sees that the mother saved herself.	B:The father sees that the mother saved himself.	A
+A:The female doctor sees herself reading this story.	B:The female doctor sees herself read this story.	A
+B:The father sees himself reading this story.	A:The father sees himself read this story.	B
+A:Mary learns that her brother is helping himself.	B:Mary learns that her brother is helping herself.	A
+A:Roger learns that his wife is helping herself.	B:Roger learns that his wife is helping himself.	A
+A:Mary imagines herself helping the people.	B:Mary imagines herself helped the people.	A
+B:Roger imagines himself helping the people.	A:Roger imagines himself helped the people.	B
+A:The woman understands that the male doctor chooses himself.	B:The woman understands that the male doctor chooses herself.	A
+B:The male professor understands that the woman chooses herself.	A:The male professor understands that the woman chooses himself.	B
+B:The girl sees that the brother doesn't like himself.	A:The girl sees that the brother doesn't like herself.	B
+A:Ben sees that the girl doesn't like herself.	B:Ben sees that the girl doesn't like himself.	A
+A:The girl sees herself selling those goods.	B:The girl sees herself sold those goods.	A
+B:Ben sees himself selling those goods.	A:Ben sees himself sold those goods.	B
+A:Helen writes that the man introduces himself to others.	B:Helen writes that the man introduces herself to others.	A
+A:The prince writes that the lady introduces herself to others.	B:The prince writes that the lady introduces himself to others.	A
+A:Helen imagines herself describing a picture.	B:Helen imagines herself described a picture.	A
+A:The prince imagines himself describing a picture.	B:The prince imagines himself described a picture.	A
+B:Elizabeth sees herself reaching the city.	A:Elizabeth sees herself reached the city.	B
+B:Jack sees himself reaching the city.	A:Jack sees himself reached the city.	B
+B:The lady finds herself winning that war.	A:The lady finds herself won that war.	B
+B:Jason finds himself winning that war.	A:Jason finds himself won that war.	B
+A:The woman writes that the male professor supports himself.	B:The woman writes that the male professor supports herself.	A
+A:Stephen writes that the female doctor supports herself.	B:Stephen writes that the female doctor supports himself.	A
+B:The woman imagines herself raising the money for children.	A:The woman imagines herself raised the money for children.	B
+B:Stephen imagines himself raising the money for children.	A:Stephen imagines himself raised the money for children.	B
+B:Jane explains that the father is protecting himself.	A:Jane explains that the father is protecting herself.	B
+A:Lawrence explains that the wife is protecting herself.	B:Lawrence explains that the wife is protecting himself.	A
+A:The lady imagines herself reporting the crime.	B:The lady imagines herself reported the crime.	A
+B:The boy imagines himself reporting the crime.	A:The boy imagines himself reported the crime.	B
+A:The princess feels that the king is dressing himself.	B:The princess feels that the king is dressing herself.	A
+B:Oliver feels that the girl is dressing herself.	A:Oliver feels that the girl is dressing himself.	B
+B:The princess imagines herself fighting the enemy.	A:The princess imagines herself fought the enemy.	B
+B:Oliver imagines himself fighting the enemy.	A:Oliver imagines himself fought the enemy.	B
+B:Ann imagines herself buying a car.	A:Ann imagines herself bought a car.	B
+A:Matt imagines himself buying a car.	B:Matt imagines himself bought a car.	A
+A:Jane reports that the man saves himself.	B:Jane reports that the man saves herself.	A
+A:The boy reports that the female president saves herself.	B:The boy reports that the female president saves himself.	A
+A:Jane finds herself reading that story.	B:Jane finds herself read that story.	A
+A:The boy finds himself reading that story.	B:The boy finds himself read that story.	A
+B:Mary thinks that the king attacks himself.	A:Mary thinks that the king attacks herself.	B
+A:Sam thinks that the daughter attacks herself.	B:Sam thinks that the daughter attacks himself.	A
+B:Mary finds herself attacking the enemy.	A:Mary finds herself attacked the enemy.	B
+B:Sam finds himself attacking the enemy.	A:Sam finds himself attacked the enemy.	B
+A:The princess imagines herself buying this book.	B:The princess imagines herself bought this book.	A
+B:Carl imagines himself buying this book.	A:Carl imagines himself bought this book.	B
+A:The daughter imagines herself performing this song.	B:The daughter imagines herself performed this song.	A
+A:Alexander imagines himself performing this song.	B:Alexander imagines himself performed this song.	A
+A:Kelly sees that the king is hiding himself.	B:Kelly sees that the king is hiding herself.	A
+B:The male president sees that the female player is hiding herself.	A:The male president sees that the female player is hiding himself.	B
+B:Alice finds herself holding this line.	A:Alice finds herself held this line.	B
+A:The father finds himself holding this line.	B:The father finds himself held this line.	A
+B:The mother sees herself reporting that crime.	A:The mother sees herself reported that crime.	B
+A:Alexander sees himself reporting that crime.	B:Alexander sees himself reported that crime.	A
+A:The female doctor learns that the man protected himself.	B:The female doctor learns that the man protected herself.	A
+A:Jack learns that the woman protected herself.	B:Jack learns that the woman protected himself.	A
+A:The female doctor imagines herself protecting those people.	B:The female doctor imagines herself protected those people.	A
+A:Jack imagines himself protecting those people.	B:Jack imagines himself protected those people.	A
+A:Anna imagines herself trying this method.	B:Anna imagines herself tried this method.	A
+B:The male doctor imagines himself trying this method.	A:The male doctor imagines himself tried this method.	B
+B:The female president wrote that the brother helped himself.	A:The female president wrote that the brother helped herself.	B
+B:The male doctor wrote that the female player helped herself.	A:The male doctor wrote that the female player helped himself.	B
+A:Maria imagines herself cutting this line.	B:Maria imagines herself cut this line.	A
+B:Charles imagines himself cutting this line.	A:Charles imagines himself cut this line.	B
+B:The wife means to say that the father doesn't like himself.	A:The wife means to say that the father doesn't like herself.	B
+A:Anthony means to say that the wife doesn't like herself.	B:Anthony means to say that the wife doesn't like himself.	A
+A:The woman imagines herself catching the train.	B:The woman imagines herself caught the train.	A
+A:The king pictures himself catching the train.	B:The king pictures himself caught the train.	A
+B:Victoria writes that the man trusts himself.	A:Victoria writes that the man trusts herself.	B
+A:William writes that the mother trusts herself.	B:William writes that the mother trusts himself.	A
+B:Victoria pictures herself trusting that assistant.	A:Victoria pictures herself trusted that assistant.	B
+A:William pictures himself trusting that assistant.	B:William pictures himself trusted that assistant.	A
+A:Sarah means to say that the male player believes in himself.	B:Sarah means to say that the male player believes in herself.	A
+A:Jerry means to say that the mother believes in herself.	B:Jerry means to say that the mother believes in himself.	A
+B:Sarah imagines herself believing the truth.	A:Sarah imagines herself believed the truth.	B
+A:Jerry imagines himself believing the truth.	B:Jerry imagines himself believed the truth.	A
+A:The female professor knows that the prince prepared himself for the job.	B:The female professor knows that the prince prepared herself for the job.	A
+B:Gary knows that the lady prepared herself for the job.	A:Gary knows that the lady prepared himself for the job.	B
+B:The female professor finds herself finishing a project.	A:The female professor finds herself finished a project.	B
+A:Gary finds himself finishing a project.	B:Gary finds himself finished a project.	A
+A:The female doctor thinks that the male doctor saved himself.	B:The female doctor thinks that the male doctor saved herself.	A
+A:Charles thinks that the female professor saved herself.	B:Charles thinks that the female professor saved himself.	A
+B:The female doctor finds herself leading the group.	A:The female doctor finds herself led the group.	B
+B:Charles finds himself leading the group.	A:Charles finds himself led the group.	B
+B:Elizabeth explains that the male doctor is dressing himself.	A:Elizabeth explains that the male doctor is dressing herself.	B
+B:Dennis explains that the mother is dressing herself.	A:Dennis explains that the mother is dressing himself.	B
+A:The female professor finds herself throwing the party.	B:The female professor finds herself threw the party.	A
+B:Dennis finds himself throwing the party.	A:Dennis finds himself threw the party.	B
+A:Ann reports that the father trusts himself.	B:Ann reports that the father trusts herself.	A
+A:Walter reports that the female president trusts herself.	B:Walter reports that the female president trusts himself.	A
+A:Ann finds herself trusting a friend.	B:Ann finds herself trusted a friend.	A
+A:Walter finds himself trusting a friend.	B:Walter finds himself trusted a friend.	A
+A:Catherine finds herself eating that food.	B:Catherine finds herself ate that food.	A
+B:The male professor finds himself eating that food.	A:The male professor finds himself ate that food.	B
+B:Ruth says that the male doctor supports himself.	A:Ruth says that the male doctor supports herself.	B
+A:The man says that the princess supports herself.	B:The man says that the princess supports himself.	A
+A:The daughter understands that the father prepared himself for the job.	B:The daughter understands that the father prepared herself for the job.	A
+B:The boy understands that the female professor prepared herself for the job.	A:The boy understands that the female professor prepared himself for the job.	B
+B:The female player hears that the brother is improving himself.	A:The female player hears that the brother is improving herself.	B
+B:Robert hears that the female doctor is improving herself.	A:Robert hears that the female doctor is improving himself.	B
+A:The female player sees herself building a house.	B:The female player sees herself built a house.	A
+A:Robert sees himself building a house.	B:Robert sees himself built a house.	A
+A:The female doctor finds herself watching the film.	B:The female doctor finds herself watched the film.	A
+B:Joe finds himself watching the film.	A:Joe finds himself watched the film.	B
+B:Kelly knows that the man prepared himself for the job.	A:Kelly knows that the man prepared herself for the job.	B
+A:Matt knows that the mother prepared herself for the job.	B:Matt knows that the mother prepared himself for the job.	A
+A:The female professor learns that the prince protected himself.	B:The female professor learns that the prince protected herself.	A
+A:Dennis learns that the female doctor protected herself.	B:Dennis learns that the female doctor protected himself.	A
+A:The female professor imagines herself opening an account.	B:The female professor imagines herself opened an account.	A
+A:Dennis imagines himself opening an account.	B:Dennis imagines himself opened an account.	A
+A:The wife finds herself learning a new language.	B:The wife finds herself learned a new language.	A
+B:The father finds himself learning a new language.	A:The father finds himself learned a new language.	B
+A:The wife understands that the prince is controlling himself.	B:The wife understands that the prince is controlling herself.	A
+B:Adam understands that the female president is controlling herself.	A:Adam understands that the female president is controlling himself.	B
+B:Maria hears that the boy asked himself a question.	A:Maria hears that the boy asked herself a question.	B
+B:Thomas hears that his mother asked herself a question.	A:Thomas hears that his mother asked himself a question.	B
+A:Maria sees herself asking this question.	B:Maria sees herself asked this question.	A
+A:Thomas sees himself asking this question.	B:Thomas sees himself asked this question.	A
+B:The mother learns that the male doctor trusts himself.	A:The mother learns that the male doctor trusts herself.	B
+A:Adam learns that the female doctor trusts herself.	B:Adam learns that the female doctor trusts himself.	A
+A:The mother imagines herself trusting that friend.	B:The mother imagines herself trusted that friend.	A
+A:Adam imagines himself trusting that friend.	B:Adam imagines himself trusted that friend.	A
+A:The princess sees herself adding the information to the book.	B:The princess sees herself added the information to the book.	A
+A:William sees himself adding the information to the book.	B:William sees himself added the information to the book.	A
+A:Catherine feels that the boy wants to improve himself.	B:Catherine feels that the boy wants to improve herself.	A
+A:Oliver feels that the girl wants to improve herself.	B:Oliver feels that the girl wants to improve himself.	A
+B:Catherine imagines herself building that stadium.	A:Catherine imagines herself built that stadium.	B
+A:Oliver pictures himself building that stadium.	B:Oliver pictures himself built that stadium.	A
+B:Victoria sees herself catching a fish.	A:Victoria sees herself caught a fish.	B
+B:The man sees himself catching a fish.	A:The man sees himself caught a fish.	B
+A:The female professor knows that the male player helped himself.	B:The female professor knows that the male player helped herself.	A
+B:Paul knows that the lady helped herself.	A:Paul knows that the lady helped himself.	B
+B:The daughter pictures herself bringing this change.	A:The daughter pictures herself brought this change.	B
+B:The brother pictures himself bringing this change.	A:The brother pictures himself brought this change.	B
+A:The female doctor finds that the prince saved himself.	B:The female doctor finds that the prince saved herself.	A
+B:Dan finds that the lady saved herself.	A:Dan finds that the lady saved himself.	B
+B:The female doctor sees herself reading a paper.	A:The female doctor sees herself read a paper.	B
+B:Dan sees himself reading a paper.	A:Dan sees himself read a paper.	B
+A:Ruth pictures herself meeting some people.	B:Ruth pictures herself met some people.	A
+B:Walter pictures himself meeting some people.	A:Walter pictures himself met some people.	B
+A:The woman knows that the boy is supporting himself.	B:The woman knows that the boy is supporting herself.	A
+A:William knows that the princess is supporting herself.	B:William knows that the princess is supporting himself.	A
+B:Jack pictures himself drawing that picture.	A:Jack pictures himself drew that picture.	B
+B:The female doctor believes that the male president is dressing himself.	A:The female doctor believes that the male president is dressing herself.	B
+A:Victor knows that the female professor is dressing herself.	B:Victor knows that the female professor is dressing himself.	A
+A:The female doctor imagines herself fighting that enemy.	B:The female doctor imagines herself fought that enemy.	A
+A:Ruth feels that the male professor is hitting himself.	B:Ruth feels that the male professor is hitting herself.	A
+A:Robert feels that the girl is hitting herself.	B:Robert feels that the girl is hitting himself.	A
+A:Ruth imagines herself hitting the target.	B:Ruth imagines herself hit the target.	A
+B:Robert pictures himself hitting the target.	A:Robert pictures himself hit the target.	B
+B:The princess notices that the brother saved himself.	A:The princess notices that the brother saved herself.	B
+A:Carl notices that the wife saved herself.	B:Carl notices that the wife saved himself.	A
+B:The princess sees herself leading the group.	A:The princess sees herself led the group.	B
+B:Carl sees himself leading the group.	A:Carl sees himself led the group.	B
+A:Elizabeth sees herself showing this result.	B:Elizabeth sees herself showed this result.	A
+A:The brother sees himself showing this result.	B:The brother sees himself showed this result.	A
+A:The girl believes that the male doctor protected himself.	B:The girl believes that the male doctor protected herself.	A
+B:Adam believes that the female president protected herself.	A:Adam believes that the female president protected himself.	B
+A:The girl imagines herself protecting the people.	B:The girl imagines herself protected the people.	A
+B:Adam imagines himself protecting the people.	A:Adam imagines himself protected the people.	B
+A:Anna imagines herself writing letters.	B:Anna imagines herself wrote letters.	A
+B:The brother pictures himself writing letters.	A:The brother pictures himself wrote letters.	B
+A:Martin reports that the woman supports herself.	B:Martin reports that the woman supports himself.	A
+B:The daughter finds herself raising the money for children.	A:The daughter finds herself raised the money for children.	B
+A:Martin finds himself raising the money.	B:Martin finds himself raised the money.	A
+A:Jane understands that the boy believes in himself.	B:Jane understands that the boy believes in herself.	A
+B:Jerry understands that his mother believes in herself.	A:Jerry understands that his mother believes in himself.	B
+B:Anna hears that the king is helping himself.	A:Anna hears that the king is helping herself.	B
+B:The man hears that the wife is helping herself.	A:The man hears that the wife is helping himself.	B
+A:Anna sees herself helping that family.	B:Anna sees herself helped that family.	A
+B:The man sees himself helping that family.	A:The man sees himself helped that family.	B
+A:The princess believes that the king is preparing himself for the job.	B:The princess believes that the king is preparing herself for the job.	A
+A:Jason believes that the lady is preparing herself for the job.	B:Jason believes that the lady is preparing himself for the job.	A
+B:Anna pictures herself catching a ball.	A:Anna pictures herself caught a ball.	B
+B:Anthony pictures himself catching a ball.	A:Anthony pictures himself caught a ball.	B
+A:The female player explains that the male doctor saved himself.	B:The female player explains that the male doctor saved herself.	A
+B:Martin explains that the female player saved herself.	A:Martin explains that the female player saved himself.	B
+B:The woman finds herself telling that story to Anna.	A:The woman finds herself told that story to Anna.	B
+A:Adam finds himself telling that story to Anna.	B:Adam finds himself told that story to Anna.	A
+B:The female player hears that the man saw himself appear on television.	A:The female player hears that the man saw herself appear on television.	B
+A:Martin hears that the lady saw herself appear on television.	B:Martin hears that the lady saw himself appear on television.	A
+A:The female player sees herself joining a team.	B:The female player sees herself joined a team.	A
+A:Martin sees himself joining a team.	B:Martin sees himself joined a team.	A
+A:Helen sees herself selling some goods.	B:Helen sees herself sold some goods.	A
+A:Matt sees himself selling some goods.	B:Matt sees himself sold some goods.	A
+A:Ruth learns that the prince changed himself.	B:Ruth learns that the prince changed herself.	A
+B:John learns that his mother changed herself.	A:John learns that his mother changed himself.	B
+B:Ruth imagines herself closing this door.	A:Ruth imagines herself closed this door.	B
+A:John imagines himself closing this door.	B:John imagines himself closed this door.	A
+B:The princess sees herself making money.	A:The princess sees herself made money.	B
+A:Dan sees himself making money.	B:Dan sees himself made money.	A
+B:The lady sees that the brother helps himself to food.	A:The lady sees that the brother helps herself to food.	B
+B:Jack sees that the woman helps herself to food.	A:Jack sees that the woman helps himself to food.	B
+A:The female professor sees herself reaching this goal.	B:The female professor sees herself reached this goal.	A
+A:Kelly hears that the male doctor proved himself.	B:Kelly hears that the male doctor proved herself.	A
+A:Carl hears that the woman proved herself.	B:Carl hears that the woman proved himself.	A
+A:Kelly sees herself proving the claim.	B:Kelly sees herself proved the claim.	A
+B:Carl sees himself proving the claim.	A:Carl sees himself proved the claim.	B
+A:The female professor imagines herself painting some wall.	B:The female professor imagines herself painted some wall.	A
+A:Dennis imagines himself painting some wall.	B:Dennis imagines himself painted some wall.	A
+A:The female player believes that the father is attacking himself.	B:The female player believes that the father is attacking herself.	A
+A:The prince believes that the female professor is attacking herself.	B:The prince believes that the female professor is attacking himself.	A
+A:The female doctor sees herself starting a project.	B:The female doctor sees herself started a project.	A

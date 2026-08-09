@@ -1,0 +1,111 @@
+benchmark_suite,category,arch,domain,train_size,seed,avg_accuracy
+blimp,Binding,ngram,baby,100M,NA,0.6513333333333333
+blimp,Binding,ngram,baby,10M,NA,0.6591666666666667
+blimp,Binding,ngram,baby,10Mf,NA,0.6833333333333332
+blimp,Binding,ngram,baby,30M,NA,0.6545
+blimp,Binding,ngram,baby,30Mf,NA,0.6815000000000001
+blimp,Binding,ngram,baby,50M,NA,0.6213333333333333
+blimp,Binding,ngram,baby,50Mf,NA,0.676
+blimp,Binding,ngram,wiki,100M,NA,0.4971666666666667
+blimp,Binding,ngram,wiki,10M,NA,0.6638333333333334
+blimp,Binding,ngram,wiki,30M,NA,0.6623333333333333
+blimp,Binding,ngram,wiki,50M,NA,0.6651666666666667
+blimp,Island,ngram,baby,100M,NA,0.5313333333333333
+blimp,Island,ngram,baby,10M,NA,0.45366666666666666
+blimp,Island,ngram,baby,10Mf,NA,0.541
+blimp,Island,ngram,baby,30M,NA,0.6456666666666667
+blimp,Island,ngram,baby,30Mf,NA,0.5526666666666666
+blimp,Island,ngram,baby,50M,NA,0.6243333333333334
+blimp,Island,ngram,baby,50Mf,NA,0.534
+blimp,Island,ngram,wiki,100M,NA,0.36533333333333334
+blimp,Island,ngram,wiki,10M,NA,0.4426666666666666
+blimp,Island,ngram,wiki,30M,NA,0.5146666666666667
+blimp,Island,ngram,wiki,50M,NA,0.5203333333333333
+posh,Binding,ngram,baby,100M,NA,0.434
+posh,Binding,ngram,baby,10M,NA,0.45399999999999996
+posh,Binding,ngram,baby,10Mf,NA,0.453
+posh,Binding,ngram,baby,30M,NA,0.46299999999999997
+posh,Binding,ngram,baby,30Mf,NA,0.431
+posh,Binding,ngram,baby,50M,NA,0.46199999999999997
+posh,Binding,ngram,baby,50Mf,NA,0.431
+posh,Binding,ngram,wiki,100M,NA,0.489
+posh,Binding,ngram,wiki,10M,NA,0.438
+posh,Binding,ngram,wiki,30M,NA,0.438
+posh,Binding,ngram,wiki,50M,NA,0.442
+posh,Island,ngram,baby,100M,NA,0.6386666666666666
+posh,Island,ngram,baby,10M,NA,0.5579999999999999
+posh,Island,ngram,baby,10Mf,NA,0.5826666666666667
+posh,Island,ngram,baby,30M,NA,0.6266666666666666
+posh,Island,ngram,baby,30Mf,NA,0.608
+posh,Island,ngram,baby,50M,NA,0.7200000000000001
+posh,Island,ngram,baby,50Mf,NA,0.614
+posh,Island,ngram,wiki,100M,NA,0.5573333333333333
+posh,Island,ngram,wiki,10M,NA,0.636
+posh,Island,ngram,wiki,30M,NA,0.6533333333333333
+posh,Island,ngram,wiki,50M,NA,0.6686666666666667
+posh,Question Formation,ngram,baby,100M,NA,0.5746666666666667
+posh,Question Formation,ngram,baby,10M,NA,0.5153333333333333
+posh,Question Formation,ngram,baby,10Mf,NA,0.6073333333333334
+posh,Question Formation,ngram,baby,30M,NA,0.5273333333333333
+posh,Question Formation,ngram,baby,30Mf,NA,0.568
+posh,Question Formation,ngram,baby,50M,NA,0.5013333333333333
+posh,Question Formation,ngram,baby,50Mf,NA,0.5693333333333334
+posh,Question Formation,ngram,wiki,100M,NA,0.47000000000000003
+posh,Question Formation,ngram,wiki,10M,NA,0.5753333333333334
+posh,Question Formation,ngram,wiki,30M,NA,0.5826666666666667
+posh,Question Formation,ngram,wiki,50M,NA,0.5766666666666667
+posh,Wanna,ngram,baby,100M,NA,0.736
+posh,Wanna,ngram,baby,10M,NA,0.668
+posh,Wanna,ngram,baby,10Mf,NA,0.774
+posh,Wanna,ngram,baby,30M,NA,0.586
+posh,Wanna,ngram,baby,30Mf,NA,0.796
+posh,Wanna,ngram,baby,50M,NA,0.058
+posh,Wanna,ngram,baby,50Mf,NA,0.746
+posh,Wanna,ngram,wiki,100M,NA,0.562
+posh,Wanna,ngram,wiki,10M,NA,0.53
+posh,Wanna,ngram,wiki,30M,NA,0.498
+posh,Wanna,ngram,wiki,50M,NA,0.498
+scamp_plausible,Binding,ngram,baby,100M,NA,0.6355
+scamp_plausible,Binding,ngram,baby,10M,NA,0.61775
+scamp_plausible,Binding,ngram,baby,10Mf,NA,0.62325
+scamp_plausible,Binding,ngram,baby,30M,NA,0.53725
+scamp_plausible,Binding,ngram,baby,30Mf,NA,0.6365000000000001
+scamp_plausible,Binding,ngram,baby,50M,NA,0.63025
+scamp_plausible,Binding,ngram,baby,50Mf,NA,0.6435
+scamp_plausible,Binding,ngram,wiki,100M,NA,0.54525
+scamp_plausible,Binding,ngram,wiki,10M,NA,0.6234999999999999
+scamp_plausible,Binding,ngram,wiki,30M,NA,0.599
+scamp_plausible,Binding,ngram,wiki,50M,NA,0.6132500000000001
+scamp_plausible,Island,ngram,baby,100M,NA,0.699
+scamp_plausible,Island,ngram,baby,10M,NA,0.4333333333333333
+scamp_plausible,Island,ngram,baby,10Mf,NA,0.6693333333333333
+scamp_plausible,Island,ngram,baby,30M,NA,0.6463333333333333
+scamp_plausible,Island,ngram,baby,30Mf,NA,0.6976666666666667
+scamp_plausible,Island,ngram,baby,50M,NA,0.6573333333333333
+scamp_plausible,Island,ngram,baby,50Mf,NA,0.684
+scamp_plausible,Island,ngram,wiki,100M,NA,0.3626666666666667
+scamp_plausible,Island,ngram,wiki,10M,NA,0.5433333333333333
+scamp_plausible,Island,ngram,wiki,30M,NA,0.5603333333333333
+scamp_plausible,Island,ngram,wiki,50M,NA,0.556
+zorro,Binding,ngram,baby,100M,NA,0.572
+zorro,Binding,ngram,baby,10M,NA,0.5295
+zorro,Binding,ngram,baby,10Mf,NA,0.5025
+zorro,Binding,ngram,baby,30M,NA,0.3215
+zorro,Binding,ngram,baby,30Mf,NA,0.5115
+zorro,Binding,ngram,baby,50M,NA,0.5745
+zorro,Binding,ngram,baby,50Mf,NA,0.466
+zorro,Binding,ngram,wiki,100M,NA,0.361
+zorro,Binding,ngram,wiki,10M,NA,0.432
+zorro,Binding,ngram,wiki,30M,NA,0.429
+zorro,Binding,ngram,wiki,50M,NA,0.4085
+zorro,Island,ngram,baby,100M,NA,0.7015
+zorro,Island,ngram,baby,10M,NA,0.558
+zorro,Island,ngram,baby,10Mf,NA,0.665
+zorro,Island,ngram,baby,30M,NA,0.5605
+zorro,Island,ngram,baby,30Mf,NA,0.6915
+zorro,Island,ngram,baby,50M,NA,0.492
+zorro,Island,ngram,baby,50Mf,NA,0.682
+zorro,Island,ngram,wiki,100M,NA,0.4985
+zorro,Island,ngram,wiki,10M,NA,0.494
+zorro,Island,ngram,wiki,30M,NA,0.578
+zorro,Island,ngram,wiki,50M,NA,0.569

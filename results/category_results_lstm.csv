@@ -1,0 +1,331 @@
+benchmark_suite,category,arch,domain,train_size,seed,avg_accuracy
+blimp,Binding,large,baby,100M,42,0.8048333333333333
+blimp,Binding,large,baby,100M,53,0.7941666666666666
+blimp,Binding,large,baby,100M,76,0.7986666666666666
+blimp,Binding,large,wiki,100M,42,0.7968333333333333
+blimp,Binding,large,wiki,100M,53,0.8086666666666668
+blimp,Binding,large,wiki,100M,76,0.7878333333333334
+blimp,Binding,medium,baby,50M,42,0.7646666666666667
+blimp,Binding,medium,baby,50M,53,0.7866666666666666
+blimp,Binding,medium,baby,50M,76,0.7843333333333334
+blimp,Binding,medium,baby,50Mf,42,0.7715
+blimp,Binding,medium,baby,50Mf,53,0.7853333333333333
+blimp,Binding,medium,baby,50Mf,76,0.7856666666666667
+blimp,Binding,medium,wiki,50M,42,0.7546666666666667
+blimp,Binding,medium,wiki,50M,53,0.7631666666666667
+blimp,Binding,medium,wiki,50M,76,0.7738333333333333
+blimp,Binding,small,baby,10M,42,0.7425
+blimp,Binding,small,baby,10M,53,0.7435
+blimp,Binding,small,baby,10M,76,0.7535
+blimp,Binding,small,baby,10Mf,42,0.7374999999999999
+blimp,Binding,small,baby,10Mf,53,0.7293333333333333
+blimp,Binding,small,baby,10Mf,76,0.7476666666666666
+blimp,Binding,small,baby,30M,42,0.7643333333333334
+blimp,Binding,small,baby,30M,53,0.7675000000000001
+blimp,Binding,small,baby,30M,76,0.7626666666666666
+blimp,Binding,small,baby,30Mf,42,0.7616666666666667
+blimp,Binding,small,baby,30Mf,53,0.769
+blimp,Binding,small,baby,30Mf,76,0.7695
+blimp,Binding,small,wiki,10M,42,0.7635000000000001
+blimp,Binding,small,wiki,10M,53,0.7643333333333334
+blimp,Binding,small,wiki,10M,76,0.7546666666666667
+blimp,Binding,small,wiki,30M,42,0.7773333333333333
+blimp,Binding,small,wiki,30M,53,0.7968333333333333
+blimp,Binding,small,wiki,30M,76,0.786
+blimp,Island,large,baby,100M,42,0.7056666666666667
+blimp,Island,large,baby,100M,53,0.6926666666666668
+blimp,Island,large,baby,100M,76,0.6873333333333332
+blimp,Island,large,wiki,100M,42,0.6070000000000001
+blimp,Island,large,wiki,100M,53,0.6223333333333333
+blimp,Island,large,wiki,100M,76,0.5706666666666668
+blimp,Island,medium,baby,50M,42,0.6546666666666666
+blimp,Island,medium,baby,50M,53,0.6263333333333333
+blimp,Island,medium,baby,50M,76,0.611
+blimp,Island,medium,baby,50Mf,42,0.645
+blimp,Island,medium,baby,50Mf,53,0.646
+blimp,Island,medium,baby,50Mf,76,0.6443333333333333
+blimp,Island,medium,wiki,50M,42,0.5246666666666667
+blimp,Island,medium,wiki,50M,53,0.6413333333333333
+blimp,Island,medium,wiki,50M,76,0.6573333333333333
+blimp,Island,small,baby,10M,42,0.6146666666666666
+blimp,Island,small,baby,10M,53,0.5616666666666666
+blimp,Island,small,baby,10M,76,0.619
+blimp,Island,small,baby,10Mf,42,0.5976666666666667
+blimp,Island,small,baby,10Mf,53,0.6446666666666666
+blimp,Island,small,baby,10Mf,76,0.628
+blimp,Island,small,baby,30M,42,0.5806666666666667
+blimp,Island,small,baby,30M,53,0.6326666666666667
+blimp,Island,small,baby,30M,76,0.5946666666666667
+blimp,Island,small,baby,30Mf,42,0.6829999999999999
+blimp,Island,small,baby,30Mf,53,0.652
+blimp,Island,small,baby,30Mf,76,0.6013333333333333
+blimp,Island,small,wiki,10M,42,0.5156666666666666
+blimp,Island,small,wiki,10M,53,0.449
+blimp,Island,small,wiki,10M,76,0.504
+blimp,Island,small,wiki,30M,42,0.557
+blimp,Island,small,wiki,30M,53,0.6626666666666666
+blimp,Island,small,wiki,30M,76,0.582
+posh,Binding,large,baby,100M,42,0.741
+posh,Binding,large,baby,100M,53,0.7749999999999999
+posh,Binding,large,baby,100M,76,0.761
+posh,Binding,large,wiki,100M,42,0.599
+posh,Binding,large,wiki,100M,53,0.613
+posh,Binding,large,wiki,100M,76,0.619
+posh,Binding,medium,baby,50M,42,0.62
+posh,Binding,medium,baby,50M,53,0.585
+posh,Binding,medium,baby,50M,76,0.585
+posh,Binding,medium,baby,50Mf,42,0.527
+posh,Binding,medium,baby,50Mf,53,0.575
+posh,Binding,medium,baby,50Mf,76,0.56
+posh,Binding,medium,wiki,50M,42,0.547
+posh,Binding,medium,wiki,50M,53,0.643
+posh,Binding,medium,wiki,50M,76,0.626
+posh,Binding,small,baby,10M,42,0.518
+posh,Binding,small,baby,10M,53,0.491
+posh,Binding,small,baby,10M,76,0.528
+posh,Binding,small,baby,10Mf,42,0.484
+posh,Binding,small,baby,10Mf,53,0.526
+posh,Binding,small,baby,10Mf,76,0.483
+posh,Binding,small,baby,30M,42,0.46
+posh,Binding,small,baby,30M,53,0.46399999999999997
+posh,Binding,small,baby,30M,76,0.627
+posh,Binding,small,baby,30Mf,42,0.489
+posh,Binding,small,baby,30Mf,53,0.514
+posh,Binding,small,baby,30Mf,76,0.5469999999999999
+posh,Binding,small,wiki,10M,42,0.573
+posh,Binding,small,wiki,10M,53,0.5619999999999999
+posh,Binding,small,wiki,10M,76,0.5579999999999999
+posh,Binding,small,wiki,30M,42,0.568
+posh,Binding,small,wiki,30M,53,0.544
+posh,Binding,small,wiki,30M,76,0.573
+posh,Island,large,baby,100M,42,0.8373333333333334
+posh,Island,large,baby,100M,53,0.8406666666666668
+posh,Island,large,baby,100M,76,0.806
+posh,Island,large,wiki,100M,42,0.8093333333333333
+posh,Island,large,wiki,100M,53,0.8486666666666668
+posh,Island,large,wiki,100M,76,0.762
+posh,Island,medium,baby,50M,42,0.7833333333333333
+posh,Island,medium,baby,50M,53,0.7813333333333334
+posh,Island,medium,baby,50M,76,0.7906666666666666
+posh,Island,medium,baby,50Mf,42,0.8146666666666667
+posh,Island,medium,baby,50Mf,53,0.894
+posh,Island,medium,baby,50Mf,76,0.778
+posh,Island,medium,wiki,50M,42,0.7400000000000001
+posh,Island,medium,wiki,50M,53,0.7293333333333334
+posh,Island,medium,wiki,50M,76,0.6960000000000001
+posh,Island,small,baby,10M,42,0.7840000000000001
+posh,Island,small,baby,10M,53,0.798
+posh,Island,small,baby,10M,76,0.7446666666666667
+posh,Island,small,baby,10Mf,42,0.7546666666666667
+posh,Island,small,baby,10Mf,53,0.7133333333333333
+posh,Island,small,baby,10Mf,76,0.7733333333333334
+posh,Island,small,baby,30M,42,0.7399999999999999
+posh,Island,small,baby,30M,53,0.7906666666666666
+posh,Island,small,baby,30M,76,0.7326666666666667
+posh,Island,small,baby,30Mf,42,0.7906666666666666
+posh,Island,small,baby,30Mf,53,0.824
+posh,Island,small,baby,30Mf,76,0.7546666666666667
+posh,Island,small,wiki,10M,42,0.7113333333333335
+posh,Island,small,wiki,10M,53,0.64
+posh,Island,small,wiki,10M,76,0.6446666666666667
+posh,Island,small,wiki,30M,42,0.698
+posh,Island,small,wiki,30M,53,0.706
+posh,Island,small,wiki,30M,76,0.718
+posh,Question Formation,large,baby,100M,42,0.44799999999999995
+posh,Question Formation,large,baby,100M,53,0.45933333333333337
+posh,Question Formation,large,baby,100M,76,0.4466666666666666
+posh,Question Formation,large,wiki,100M,42,0.5579999999999999
+posh,Question Formation,large,wiki,100M,53,0.5473333333333333
+posh,Question Formation,large,wiki,100M,76,0.5093333333333333
+posh,Question Formation,medium,baby,50M,42,0.49
+posh,Question Formation,medium,baby,50M,53,0.49133333333333334
+posh,Question Formation,medium,baby,50M,76,0.4633333333333334
+posh,Question Formation,medium,baby,50Mf,42,0.454
+posh,Question Formation,medium,baby,50Mf,53,0.458
+posh,Question Formation,medium,baby,50Mf,76,0.4606666666666667
+posh,Question Formation,medium,wiki,50M,42,0.52
+posh,Question Formation,medium,wiki,50M,53,0.5233333333333333
+posh,Question Formation,medium,wiki,50M,76,0.5746666666666667
+posh,Question Formation,small,baby,10M,42,0.5146666666666667
+posh,Question Formation,small,baby,10M,53,0.5526666666666666
+posh,Question Formation,small,baby,10M,76,0.5379999999999999
+posh,Question Formation,small,baby,10Mf,42,0.5233333333333333
+posh,Question Formation,small,baby,10Mf,53,0.5406666666666667
+posh,Question Formation,small,baby,10Mf,76,0.5373333333333333
+posh,Question Formation,small,baby,30M,42,0.5066666666666667
+posh,Question Formation,small,baby,30M,53,0.5086666666666667
+posh,Question Formation,small,baby,30M,76,0.49466666666666664
+posh,Question Formation,small,baby,30Mf,42,0.49266666666666664
+posh,Question Formation,small,baby,30Mf,53,0.5006666666666667
+posh,Question Formation,small,baby,30Mf,76,0.5246666666666666
+posh,Question Formation,small,wiki,10M,42,0.5526666666666666
+posh,Question Formation,small,wiki,10M,53,0.5673333333333334
+posh,Question Formation,small,wiki,10M,76,0.5673333333333334
+posh,Question Formation,small,wiki,30M,42,0.5626666666666666
+posh,Question Formation,small,wiki,30M,53,0.54
+posh,Question Formation,small,wiki,30M,76,0.5633333333333334
+posh,Wanna,large,baby,100M,42,0.786
+posh,Wanna,large,baby,100M,53,0.84
+posh,Wanna,large,baby,100M,76,0.836
+posh,Wanna,large,wiki,100M,42,0.554
+posh,Wanna,large,wiki,100M,53,0.516
+posh,Wanna,large,wiki,100M,76,0.526
+posh,Wanna,medium,baby,50M,42,0.872
+posh,Wanna,medium,baby,50M,53,0.532
+posh,Wanna,medium,baby,50M,76,0.748
+posh,Wanna,medium,baby,50Mf,42,0.692
+posh,Wanna,medium,baby,50Mf,53,0.654
+posh,Wanna,medium,baby,50Mf,76,0.562
+posh,Wanna,medium,wiki,50M,42,0.664
+posh,Wanna,medium,wiki,50M,53,0.286
+posh,Wanna,medium,wiki,50M,76,0.61
+posh,Wanna,small,baby,10M,42,0.674
+posh,Wanna,small,baby,10M,53,0.768
+posh,Wanna,small,baby,10M,76,0.786
+posh,Wanna,small,baby,10Mf,42,0.766
+posh,Wanna,small,baby,10Mf,53,0.762
+posh,Wanna,small,baby,10Mf,76,0.43
+posh,Wanna,small,baby,30M,42,0.846
+posh,Wanna,small,baby,30M,53,0.728
+posh,Wanna,small,baby,30M,76,0.888
+posh,Wanna,small,baby,30Mf,42,0.8
+posh,Wanna,small,baby,30Mf,53,0.718
+posh,Wanna,small,baby,30Mf,76,0.824
+posh,Wanna,small,wiki,10M,42,0.104
+posh,Wanna,small,wiki,10M,53,0.09
+posh,Wanna,small,wiki,10M,76,0.034
+posh,Wanna,small,wiki,30M,42,0.396
+posh,Wanna,small,wiki,30M,53,0.322
+posh,Wanna,small,wiki,30M,76,0.45
+scamp_plausible,Binding,large,baby,100M,42,0.73925
+scamp_plausible,Binding,large,baby,100M,53,0.7585
+scamp_plausible,Binding,large,baby,100M,76,0.6990000000000001
+scamp_plausible,Binding,large,wiki,100M,42,0.70675
+scamp_plausible,Binding,large,wiki,100M,53,0.7335
+scamp_plausible,Binding,large,wiki,100M,76,0.7345
+scamp_plausible,Binding,medium,baby,50M,42,0.735
+scamp_plausible,Binding,medium,baby,50M,53,0.724
+scamp_plausible,Binding,medium,baby,50M,76,0.736
+scamp_plausible,Binding,medium,baby,50Mf,42,0.704
+scamp_plausible,Binding,medium,baby,50Mf,53,0.711
+scamp_plausible,Binding,medium,baby,50Mf,76,0.7165
+scamp_plausible,Binding,medium,wiki,50M,42,0.7130000000000001
+scamp_plausible,Binding,medium,wiki,50M,53,0.71275
+scamp_plausible,Binding,medium,wiki,50M,76,0.70025
+scamp_plausible,Binding,small,baby,10M,42,0.71175
+scamp_plausible,Binding,small,baby,10M,53,0.68875
+scamp_plausible,Binding,small,baby,10M,76,0.70375
+scamp_plausible,Binding,small,baby,10Mf,42,0.67275
+scamp_plausible,Binding,small,baby,10Mf,53,0.656
+scamp_plausible,Binding,small,baby,10Mf,76,0.6595
+scamp_plausible,Binding,small,baby,30M,42,0.718
+scamp_plausible,Binding,small,baby,30M,53,0.7130000000000001
+scamp_plausible,Binding,small,baby,30M,76,0.6995
+scamp_plausible,Binding,small,baby,30Mf,42,0.7025
+scamp_plausible,Binding,small,baby,30Mf,53,0.734
+scamp_plausible,Binding,small,baby,30Mf,76,0.67075
+scamp_plausible,Binding,small,wiki,10M,42,0.67625
+scamp_plausible,Binding,small,wiki,10M,53,0.6825
+scamp_plausible,Binding,small,wiki,10M,76,0.677
+scamp_plausible,Binding,small,wiki,30M,42,0.7082499999999999
+scamp_plausible,Binding,small,wiki,30M,53,0.73175
+scamp_plausible,Binding,small,wiki,30M,76,0.68175
+scamp_plausible,Island,large,baby,100M,42,0.6726666666666666
+scamp_plausible,Island,large,baby,100M,53,0.6886666666666666
+scamp_plausible,Island,large,baby,100M,76,0.7273333333333333
+scamp_plausible,Island,large,wiki,100M,42,0.5586666666666668
+scamp_plausible,Island,large,wiki,100M,53,0.6066666666666667
+scamp_plausible,Island,large,wiki,100M,76,0.5489999999999999
+scamp_plausible,Island,medium,baby,50M,42,0.662
+scamp_plausible,Island,medium,baby,50M,53,0.617
+scamp_plausible,Island,medium,baby,50M,76,0.6496666666666666
+scamp_plausible,Island,medium,baby,50Mf,42,0.6509999999999999
+scamp_plausible,Island,medium,baby,50Mf,53,0.7000000000000001
+scamp_plausible,Island,medium,baby,50Mf,76,0.682
+scamp_plausible,Island,medium,wiki,50M,42,0.5403333333333333
+scamp_plausible,Island,medium,wiki,50M,53,0.5726666666666667
+scamp_plausible,Island,medium,wiki,50M,76,0.5906666666666667
+scamp_plausible,Island,small,baby,10M,42,0.599
+scamp_plausible,Island,small,baby,10M,53,0.592
+scamp_plausible,Island,small,baby,10M,76,0.6103333333333333
+scamp_plausible,Island,small,baby,10Mf,42,0.6216666666666667
+scamp_plausible,Island,small,baby,10Mf,53,0.6836666666666668
+scamp_plausible,Island,small,baby,10Mf,76,0.6536666666666666
+scamp_plausible,Island,small,baby,30M,42,0.6709999999999999
+scamp_plausible,Island,small,baby,30M,53,0.6993333333333333
+scamp_plausible,Island,small,baby,30M,76,0.6053333333333334
+scamp_plausible,Island,small,baby,30Mf,42,0.7063333333333333
+scamp_plausible,Island,small,baby,30Mf,53,0.6603333333333333
+scamp_plausible,Island,small,baby,30Mf,76,0.6506666666666666
+scamp_plausible,Island,small,wiki,10M,42,0.5379999999999999
+scamp_plausible,Island,small,wiki,10M,53,0.5093333333333333
+scamp_plausible,Island,small,wiki,10M,76,0.48466666666666675
+scamp_plausible,Island,small,wiki,30M,42,0.498
+scamp_plausible,Island,small,wiki,30M,53,0.5766666666666667
+scamp_plausible,Island,small,wiki,30M,76,0.5326666666666666
+zorro,Binding,large,baby,100M,42,0.9605
+zorro,Binding,large,baby,100M,53,0.93
+zorro,Binding,large,baby,100M,76,0.9685
+zorro,Binding,large,wiki,100M,42,0.941
+zorro,Binding,large,wiki,100M,53,0.9515
+zorro,Binding,large,wiki,100M,76,0.957
+zorro,Binding,medium,baby,50M,42,0.8985
+zorro,Binding,medium,baby,50M,53,0.97
+zorro,Binding,medium,baby,50M,76,0.961
+zorro,Binding,medium,baby,50Mf,42,0.9675
+zorro,Binding,medium,baby,50Mf,53,0.961
+zorro,Binding,medium,baby,50Mf,76,0.982
+zorro,Binding,medium,wiki,50M,42,0.9075
+zorro,Binding,medium,wiki,50M,53,0.919
+zorro,Binding,medium,wiki,50M,76,0.903
+zorro,Binding,small,baby,10M,42,0.8545
+zorro,Binding,small,baby,10M,53,0.913
+zorro,Binding,small,baby,10M,76,0.941
+zorro,Binding,small,baby,10Mf,42,0.9
+zorro,Binding,small,baby,10Mf,53,0.8885
+zorro,Binding,small,baby,10Mf,76,0.899
+zorro,Binding,small,baby,30M,42,0.929
+zorro,Binding,small,baby,30M,53,0.91
+zorro,Binding,small,baby,30M,76,0.9465
+zorro,Binding,small,baby,30Mf,42,0.9535
+zorro,Binding,small,baby,30Mf,53,0.946
+zorro,Binding,small,baby,30Mf,76,0.9115
+zorro,Binding,small,wiki,10M,42,0.9105
+zorro,Binding,small,wiki,10M,53,0.893
+zorro,Binding,small,wiki,10M,76,0.8135
+zorro,Binding,small,wiki,30M,42,0.9085
+zorro,Binding,small,wiki,30M,53,0.86
+zorro,Binding,small,wiki,30M,76,0.9555
+zorro,Island,large,baby,100M,42,0.656
+zorro,Island,large,baby,100M,53,0.7125
+zorro,Island,large,baby,100M,76,0.754
+zorro,Island,large,wiki,100M,42,0.422
+zorro,Island,large,wiki,100M,53,0.364
+zorro,Island,large,wiki,100M,76,0.292
+zorro,Island,medium,baby,50M,42,0.648
+zorro,Island,medium,baby,50M,53,0.662
+zorro,Island,medium,baby,50M,76,0.7085
+zorro,Island,medium,baby,50Mf,42,0.6375
+zorro,Island,medium,baby,50Mf,53,0.658
+zorro,Island,medium,baby,50Mf,76,0.6555
+zorro,Island,medium,wiki,50M,42,0.2835
+zorro,Island,medium,wiki,50M,53,0.2805
+zorro,Island,medium,wiki,50M,76,0.442
+zorro,Island,small,baby,10M,42,0.7015
+zorro,Island,small,baby,10M,53,0.514
+zorro,Island,small,baby,10M,76,0.529
+zorro,Island,small,baby,10Mf,42,0.5715
+zorro,Island,small,baby,10Mf,53,0.7635
+zorro,Island,small,baby,10Mf,76,0.591
+zorro,Island,small,baby,30M,42,0.631
+zorro,Island,small,baby,30M,53,0.684
+zorro,Island,small,baby,30M,76,0.4345
+zorro,Island,small,baby,30Mf,42,0.6685
+zorro,Island,small,baby,30Mf,53,0.75
+zorro,Island,small,baby,30Mf,76,0.6145
+zorro,Island,small,wiki,10M,42,0.404
+zorro,Island,small,wiki,10M,53,0.304
+zorro,Island,small,wiki,10M,76,0.3185
+zorro,Island,small,wiki,30M,42,0.402
+zorro,Island,small,wiki,30M,53,0.3605
+zorro,Island,small,wiki,30M,76,0.4135

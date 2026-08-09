@@ -1,0 +1,501 @@
+correct	incorrect	model_choice
+B:Who did the customer who talked to that man love?	A:Who did the customer who talked to love that man?	B
+A:Who did the customer who loved that man talk to?	B:Who did the customer who loved talk to that man?	A
+B:What did this male professor who understood the rule follow?	A:What did this male professor who understood follow the rule?	B
+A:What did this male professor who protected the rule understand?	B:What did this male professor who protected understand the rule?	A
+B:Who did the writer who trusted that teacher call?	A:Who did the writer who trusted call that teacher?	B
+B:Who did the writer who called that teacher trust?	A:Who did the writer who called trust that teacher?	B
+A:Who did this male professor who contacted this child see?	B:Who did this male professor who contacted see this child?	A
+B:Who did this male professor who saw this child contact?	A:Who did this male professor who saw contact this child?	B
+A:Who did the visitor who defeated Mike beat?	B:Who did the visitor who defeated beat Mike?	A
+B:Who did that prince who beat Alice defeat?	A:Who did that prince who beat defeat Alice?	B
+B:Who did the student who trusted Robert visit?	A:Who did the student who trusted visit Robert?	B
+A:Who did this daughter who beat that president talk to?	B:Who did this daughter who beat talk to that president?	A
+B:Who did this daughter who talked to that president beat?	A:Who did this daughter who talked to beat that president?	B
+A:Who did this male president who believed the teacher hide?	B:Who did this male president who believed hide the teacher?	B
+B:Who did this male president who hid the teacher believe?	A:Who did this male president who hid believe the teacher?	B
+B:Who did the judge who saw this minister contact?	A:Who did the judge who saw contact this minister?	B
+B:Who did the judge who contacted this minister see?	A:Who did the judge who contacted see this minister?	B
+B:Who did the doctor who talked to Alexander beat?	A:Who did the doctor who talked to beat Alexander?	B
+A:Who did the doctor who beat Alexander talk to?	B:Who did the doctor who beat talk to Alexander?	A
+B:Who did that female president who met this parent support?	A:Who did that female president who met support this parent?	B
+A:Who did that female president who supported this parent meet?	B:Who did that female president who supported meet this parent?	A
+A:Who did that daughter who believed the police call?	B:Who did that daughter who believed call the police?	B
+A:Who did that daughter who called the police believe?	B:Who did that daughter who called believe the police?	A
+A:Who did the professor who found this student talk to?	B:Who did the professor who found talk to this student?	A
+A:Who did the professor who talked to this student find?	B:Who did the professor who talked to find this student?	A
+B:Who did the judge who beat that teacher select?	A:Who did the judge who beat select that teacher?	B
+B:Who did the judge who selected that teacher beat?	A:Who did the judge who selected beat that teacher?	B
+B:Who did the driver who beat this doctor save?	A:Who did the driver who beat save this doctor?	B
+B:Who did the driver who saved this doctor beat?	A:Who did the driver who saved beat this doctor?	B
+A:Who did his wife who trusted Henry defeat?	B:Who did his wife who trusted defeat Henry?	A
+B:Who did his wife who defeated Henry trust?	A:Who did his wife who defeated trust Henry?	B
+A:Who did the coach who visited this leader talk to?	B:Who did the coach who visited talk to this leader?	A
+B:Who did the coach who talked to this leader visit?	A:Who did the coach who talked to visit this leader?	B
+B:Who did the girl who visited that team attack?	A:Who did the girl who visited attack that team?	B
+B:Who did the girl who attacked that team visit?	A:Who did the girl who attacked visit that team?	B
+A:Who did the driver who saved Mary visit?	B:Who did the driver who saved visit Mary?	A
+A:Who did the driver who visited Mary save?	B:Who did the driver who visited save Mary?	A
+A:Who did the professor who met William recognize?	B:Who did the professor who met recognize William?	A
+A:Who did the professor who recognized William meet?	B:Who did the professor who recognized meet William?	A
+A:Who did the soldier who contacted that government defeat?	B:Who did the soldier who contacted defeat that government?	A
+B:Who did the soldier who defeated that government contact?	A:Who did the soldier who defeated contact that government?	B
+A:Who did that male doctor who kicked the woman believe?	B:Who did that male doctor who kicked believe the woman?	A
+A:Who did that male doctor who believed the woman marry?	B:Who did that male doctor who believed marry the woman?	A
+B:Who did the teacher who defeated that coach select?	A:Who did the teacher who defeated select that coach?	B
+B:Who did the teacher who selected that coach defeat?	A:Who did the teacher who selected defeat that coach?	B
+A:Who did the assistant who kicked the student believe?	B:Who did the assistant who kicked believe the student?	A
+A:Who did the assistant who believed the student marry?	B:Who did the assistant who believed marry the student?	A
+A:Who did the writer who met Victor trust?	B:Who did the writer who met trust Victor?	A
+A:Who did the writer who trusted Victor meet?	B:Who did the writer who trusted meet Victor?	A
+A:Who did the director who loved her parent support?	B:Who did the director who loved support her parent?	A
+B:Who did the director who supported her parent love?	A:Who did the director who supported love her parent?	B
+A:Who did that girl who called Jane defeat?	B:Who did that girl who called defeat Jane?	A
+B:Who did that girl who defeated Jane call?	A:Who did that girl who defeated call Jane?	B
+A:Who did the farmer who selected that student trust?	B:Who did the farmer who selected trust that student?	A
+B:Who did the farmer who trusted that student select?	A:Who did the farmer who trusted select that student?	B
+B:Who did the soldier who injured the police officer find?	A:Who did the soldier who injured find the police officer?	B
+A:Who did the soldier who found the police officer injure?	B:Who did the soldier who found injure the police officer?	A
+B:Who did the judge who visited the teacher select?	A:Who did the judge who visited select the teacher?	B
+B:Who did the judge who selected the teacher visit?	A:Who did the judge who selected visit the teacher?	B
+A:Who did the judge who visited the student follow?	B:Who did the judge who visited follow the student?	A
+B:Who did the judge who protected the student visit?	A:Who did the judge who protected visit the student?	B
+B:Who did this daughter who called that friend select?	A:Who did this daughter who called select that friend?	B
+B:Who did this daughter who selected that friend call?	A:Who did this daughter who selected call that friend?	B
+A:Who did the female president who trusted the child injure?	B:Who did the female president who trusted injure the child?	A
+A:Who did the female president who injured the child trust?	B:Who did the female president who injured trust the child?	A
+A:What did the president who works for that government support?	B:What did the president who works for support that government?	A
+A:What did the president who supported that government work for?	B:What did the president who supported work for that government?	A
+A:Who did the manager who invited this doctor save?	B:Who did the manager who invited save this doctor?	A
+A:Who did the manager who saved this doctor invite?	B:Who did the manager who saved invite this doctor?	A
+B:Who did the soldier who visited that man hit?	A:Who did the soldier who visited hit that man?	B
+B:Who did the soldier who hit that man visit?	A:Who did the soldier who hit visit that man?	B
+A:Who did that king who visited this friend select?	B:Who did that king who visited select this friend?	A
+A:Who did the doctor who invited the teacher select?	B:Who did the doctor who invited select the teacher?	A
+A:Who did the doctor who selected the teacher invite?	B:Who did the doctor who selected invite the teacher?	A
+B:Who did the soldier who visited this team talk to?	A:Who did the soldier who visited talk to this team?	B
+B:Who did the soldier who talked to this team visit?	A:Who did the soldier who talked to visit this team?	B
+B:Who did the manager who contacted Mary visit?	A:Who did the manager who contacted visit Mary?	B
+A:Who did the manager who visited Mary contact?	B:Who did the manager who visited contact Mary?	B
+B:Who did the professor who recognized this actor marry?	A:Who did the professor who recognized marry this actor?	B
+A:Who did the professor who kicked this actor recognize?	B:Who did the professor who kicked recognize this actor?	A
+B:Who did the president who found this professor select?	A:Who did the president who found select this professor?	B
+A:Who did the president who selected this professor find?	B:Who did the president who selected find this professor?	A
+A:Who did the student who saw the friend support?	B:Who did the student who saw support the friend?	A
+A:Who did the student who supported the friend see?	B:Who did the student who supported see the friend?	A
+A:Who did the director who talked to Nick recognize?	B:Who did the director who talked to recognize Nick?	A
+B:Who did the director who recognized Nick talk to?	A:Who did the director who recognized talk to Nick?	B
+A:Who did the teacher who hit this student call?	B:Who did the teacher who hit call this student?	A
+B:Who did the teacher who called this student hit?	A:Who did the teacher who called hit this student?	B
+B:Who did the soldier who saved Bobby beat?	A:Who did the soldier who saved beat Bobby?	B
+A:Who did the soldier who beat Bobby save?	B:Who did the soldier who beat save Bobby?	A
+A:Who did that mother who watched this soldier attack?	B:Who did that mother who watched attack this soldier?	A
+B:Who did that mother who attacked this soldier watch?	A:Who did that mother who attacked watch this soldier?	B
+A:Who did the singer who trusted his parent love?	B:Who did the singer who trusted love his parent?	A
+B:Who did the singer who loved his parent trust?	A:Who did the singer who loved trust his parent?	B
+B:Who did the manager who defeated Carl beat?	A:Who did the manager who defeated beat Carl?	B
+A:Who did the manager who beat Carl defeat?	B:Who did the manager who beat defeat Carl?	A
+B:What did the worker who supported the army work for?	A:What did the worker who supported work for the army?	B
+B:What did the worker who worked for the army support?	A:What did the worker who worked for support the army?	B
+B:Who did the teacher who talked to the player trust?	A:Who did the teacher who talked to trust the player?	B
+A:Who did the teacher who trusted the player talk to?	B:Who did the teacher who trusted talk to the player?	A
+B:Who did the singer who loved this team follow?	A:Who did the singer who loved follow this team?	B
+A:Who did the singer who protected this team love?	B:Who did the singer who protected love this team?	A
+B:Who did that woman who visited that student call?	A:Who did that woman who visited call that student?	B
+B:Who did that woman who called that student visit?	A:Who did that woman who called visit that student?	B
+A:Who did the judge who saved the student hide?	B:Who did the judge who saved hide the student?	B
+B:Who did the judge who hid the student save?	A:Who did the judge who hid save the student?	B
+A:Who did the female player who selected Tom trust?	B:Who did the female player who selected trust Tom?	A
+A:Who did the female player who trusted Tom select?	B:Who did the female player who trusted select Tom?	A
+B:Who did that female president who found Sarah trust?	A:Who did that female president who found trust Sarah?	B
+B:Who did that female president who trusted Sarah find?	A:Who did that female president who trusted find Sarah?	B
+A:Who did the assistant who talked to Adam defeat?	B:Who did the assistant who talked to defeat Adam?	A
+A:Who did the assistant who defeated Adam talk to?	B:Who did the assistant who defeated talk to Adam?	A
+A:Who did the teacher who selected the student talk to?	B:Who did the teacher who selected talk to the student?	A
+B:Who did the teacher who talked to the student select?	A:Who did the teacher who talked to select the student?	B
+A:Who did the farmer who invited his parent support?	B:Who did the farmer who invited support his parent?	A
+B:Who did the farmer who supported his parent invite?	A:Who did the farmer who supported invite his parent?	B
+A:Who did the lawyer who kicked this man hit?	B:Who did the lawyer who kicked hit this man?	A
+B:Who did the lawyer who hit this man marry?	A:Who did the lawyer who hit marry this man?	B
+A:Who did the visitor who called the child follow?	B:Who did the visitor who called follow the child?	A
+B:Who did the visitor who protected the child call?	A:Who did the visitor who protected call the child?	B
+A:Who did the officer who attacked the child injure?	B:Who did the officer who attacked injure the child?	A
+B:Who did the officer who injured the child attack?	A:Who did the officer who injured attack the child?	B
+B:Who did the customer who kicked the friend select?	A:Who did the customer who kicked select the friend?	B
+A:Who did the customer who selected the friend marry?	B:Who did the customer who selected marry the friend?	A
+A:Who did the student who hit this doctor hide?	B:Who did the student who hit hide this doctor?	A
+B:Who did the student who hid this doctor hit?	A:Who did the student who hid hit this doctor?	B
+B:Who did the visitor who saved the man love?	A:Who did the visitor who saved love the man?	B
+A:Who did the visitor who loved the man save?	B:Who did the visitor who loved save the man?	A
+A:Who did the lawyer who defeated that coach select?	B:Who did the lawyer who defeated select that coach?	A
+B:Who did the lawyer who selected that coach defeat?	A:Who did the lawyer who selected defeat that coach?	B
+A:Who did these women who found the man marry?	B:Who did these women who found marry the man?	A
+A:Who did these women who kicked the man find?	B:Who did these women who kicked find the man?	A
+B:Who did the artist who believed Michael visit?	A:Who did the artist who believed visit Michael?	B
+A:Who did the artist who visited Michael believe?	B:Who did the artist who visited believe Michael?	A
+A:Who did the writer who selected the friend call?	B:Who did the writer who selected call the friend?	B
+A:Who did the writer who called the friend select?	B:Who did the writer who called select the friend?	A
+A:Who did the president who kicked the soldier save?	B:Who did the president who kicked save the soldier?	A
+A:Who did the president who saved the soldier marry?	B:Who did the president who saved marry the soldier?	A
+A:Who did the visitor who understood Ruth defeat?	B:Who did the visitor who understood defeat Ruth?	B
+A:Who did the visitor who defeated Ruth understand?	B:Who did the visitor who defeated understand Ruth?	A
+B:Who did the father who beat that student believe in?	A:Who did the father who beat believe in that student?	B
+A:Who did the father who believed in that student beat?	B:Who did the father who believed in beat that student?	A
+B:Who did the lawyer who kicked the student see?	A:Who did the lawyer who kicked see the student?	B
+B:Who did the lawyer who saw the student marry?	A:Who did the lawyer who saw marry the student?	B
+B:Who did the lawyer who invited Robert recognize?	A:Who did the lawyer who invited recognize Robert?	B
+B:Who did the lawyer who recognized Robert invite?	A:Who did the lawyer who recognized invite Robert?	B
+B:Who did the student who recognized that teacher select?	A:Who did the student who recognized select that teacher?	B
+B:Who did the student who selected that teacher recognize?	A:Who did the student who selected recognize that teacher?	B
+A:Who did the musician who trusted that player talk to?	B:Who did the musician who trusted talk to that player?	A
+A:Who did the musician who talked to that player trust?	B:Who did the musician who talked to trust that player?	A
+A:Who did the female player who loved the student see?	B:Who did the female player who loved see the student?	A
+B:Who did the female player who saw the student love?	A:Who did the female player who saw love the student?	B
+B:Who did this king who called this parent select?	A:Who did this king who called select this parent?	B
+B:Who did this king who selected this parent call?	A:Who did this king who selected call this parent?	B
+A:Who did that female professor who understood that minister contact?	B:Who did that female professor who understood contact that minister?	A
+B:Who did that female professor who contacted that minister understand?	A:Who did that female professor who contacted understand that minister?	B
+B:Who did the assistant who invited that teacher hide?	A:Who did the assistant who invited hide that teacher?	B
+B:Who did the assistant who hid that teacher invite?	A:Who did the assistant who hid invite that teacher?	B
+B:Who did the man who found Anna beat?	A:Who did the man who found beat Anna?	B
+B:Who did the man who beat Anna find?	A:Who did the man who beat find Anna?	B
+B:Who did the professor who found this friend trust?	A:Who did the professor who found trust this friend?	B
+B:Who did the professor who trusted this friend find?	A:Who did the professor who trusted find this friend?	B
+B:Who did the male doctor who loved this student trust?	A:Who did the male doctor who loved trust this student?	B
+B:Who did the male doctor who trusted this student love?	A:Who did the male doctor who trusted love this student?	B
+B:Who did the teacher who understood Sarah trust?	A:Who did the teacher who understood trust Sarah?	B
+A:Who did the teacher who trusted Sarah understand?	B:Who did the teacher who trusted understand Sarah?	A
+B:Who did the musician who killed this doctor select?	A:Who did the musician who killed select this doctor?	B
+B:Who did the musician who selected this doctor kill?	A:Who did the musician who selected kill this doctor?	B
+A:Who did the manager who recognized this student talk to?	B:Who did the manager who recognized talk to this student?	A
+A:Who did the manager who talked to this student recognize?	B:Who did the manager who talked to recognize this student?	A
+B:Who did that man who protected that woman marry?	A:Who did that man who protected marry that woman?	B
+B:Who did that man who kicked that woman follow?	A:Who did that man who kicked follow that woman?	B
+B:Who did the manager who injured Gary beat?	A:Who did the manager who injured beat Gary?	B
+A:Who did the manager who beat Gary injure?	B:Who did the manager who beat injure Gary?	A
+B:Who did the student who contacted this woman believe?	A:Who did the student who contacted believe this woman?	B
+B:Who did the student who believed this woman contact?	A:Who did the student who believed contact this woman?	B
+B:Who did the assistant who selected that student believe?	A:Who did the assistant who selected believe that student?	B
+A:Who did the assistant who believed that student select?	B:Who did the assistant who believed select that student?	A
+B:Who did the musician who believed the woman see?	A:Who did the musician who believed see the woman?	B
+A:Who did the musician who saw the woman believe?	B:Who did the musician who saw believe the woman?	A
+A:Who did the driver who loved that man find?	B:Who did the driver who loved find that man?	A
+A:Who did the driver who found that man love?	B:Who did the driver who found love that man?	A
+B:Who did the female professor who selected this teacher recognize?	A:Who did the female professor who recognized select this teacher?	B
+A:Who did the female professor who recognized this teacher select?	B:Who did the female professor who selected recognize this teacher?	A
+B:Who did the manager who trusted that student hide?	A:Who did the manager who trusted hide that student?	B
+B:Who did the manager who hid that student trust?	A:Who did the manager who hid trust that student?	B
+B:Who did that man who injured the team member talk to?	A:Who did that man who injured talk to the team member?	B
+B:Who did that man who talked to the team member injure?	A:Who did that man who talked to injure the team member?	B
+A:Who did that man who defeated the doctor save?	B:Who did that man who defeated save the doctor?	A
+B:Who did that man who saved the doctor defeat?	A:Who did that man who saved defeat the doctor?	B
+A:Who did the player who hid that friend select?	B:Who did the player who hid select that friend?	A
+A:Who did the player who selected that friend hide?	B:Who did the player who selected hide that friend?	A
+A:Who did the musician who called Maria trust?	B:Who did the musician who called trust Maria?	A
+B:Who did the musician who trusted Maria call?	A:Who did the musician who trusted call Maria?	B
+B:Who did the doctor who saved her parent love?	A:Who did the doctor who saved love her parent?	B
+A:Who did the doctor who loved her parent save?	B:Who did the doctor who loved save her parent?	A
+A:Who did this man who protected that friend trust?	B:Who did this man who protected trust that friend?	A
+A:Who did this man who trusted that friend follow?	B:Who did this man who trusted follow that friend?	A
+B:Who did the judge who saved this army defeat?	A:Who did the judge who saved defeat this army?	B
+A:Who did the judge who defeated this army save?	B:Who did the judge who defeated save this army?	A
+A:Who did the officer who hit that teacher see?	B:Who did the officer who hit see that teacher?	A
+A:Who did the officer who saw that teacher hit?	B:Who did the officer who saw hit that teacher?	A
+A:Who did that father who saw Dan defeat?	B:Who did that father who saw defeat Dan?	B
+B:Who did that father who defeated Dan see?	A:Who did that father who defeated see Dan?	B
+B:What did the brother who supported that army attack?	A:What did the brother who supported attack that army?	B
+A:What did the brother who attacked that army support?	B:What did the brother who attacked support that army?	A
+B:Who did the politician who selected this leader meet?	A:Who did the politician who selected meet this leader?	B
+A:Who did the politician who met this leader select?	B:Who did the politician who met select this leader?	A
+A:Who did the lawyer who trusted this student call?	B:Who did the lawyer who trusted call this student?	A
+A:Who did the lawyer who called this student trust?	B:Who did the lawyer who called trust this student?	A
+B:Who did the soldier who saw the minister talk to?	A:Who did the soldier who saw talk to the minister?	B
+A:Who did the soldier who talked to the minister see?	B:Who did the soldier who talked to see the minister?	A
+B:Who did the actress who met Sarah defeat?	A:Who did the actress who met defeat Sarah?	B
+B:Who did the actress who defeated Sarah meet?	A:Who did the actress who defeated meet Sarah?	B
+B:Who did this female player who supported this student like?	A:Who did this female player who supported like this student?	B
+B:Who did this female player who liked this student support?	A:Who did this female player who liked support this student?	B
+A:Who did the player who talked to his parents support?	B:Who did the player who talked to support his parents?	A
+A:Who did the player who supported his parents talk to?	B:Who did the player who supported talk to his parents?	A
+B:Who did the writer who found Jane trust?	A:Who did the writer who found trust Jane?	B
+A:Who did the writer who trusted Jane find?	B:Who did the writer who trusted find Jane?	A
+B:Who did this male professor who selected this child see?	A:Who did this male professor who selected see this child?	B
+B:Who did this male professor who saw this child select?	A:Who did this male professor who saw select this child?	B
+B:Who did the soldier who watched this president meet?	A:Who did the soldier who watched meet this president?	B
+A:Who did the soldier who met this president watch?	B:Who did the soldier who met watch this president?	A
+A:Who did the musician who supported Dan recognize?	B:Who did the musician who supported recognize Dan?	A
+B:Who did the musician who recognized Dan support?	A:Who did the musician who recognized support Dan?	B
+B:Who did the boy who contacted this player trust?	A:Who did the boy who contacted trust this player?	B
+A:Who did the boy who trusted this player contact?	B:Who did the boy who trusted contact this player?	A
+A:Who did the actress who talked to the players hit?	B:Who did the actress who talked to hit the players?	A
+A:Who did the actress who hit the players talk to?	B:Who did the actress who hit talk to the players?	A
+A:Who did the manager who saw that man believe?	B:Who did the manager who saw believe that man?	A
+B:Who did the manager who believed that man see?	A:Who did the manager who believed see that man?	B
+B:Who did that princess who supported this president invite?	A:Who did that princess who supported invite this president?	B
+A:Who did that princess who invited this president support?	B:Who did that princess who invited support this president?	A
+A:What did the player who supported that team defeat?	B:What did the player who supported defeat that team?	A
+B:What did the player who defeated that team support?	A:What did the player who defeated support that team?	B
+B:Who did the writer who defeated that coach select?	A:Who did the writer who defeated select that coach?	B
+A:Who did the writer who selected that coach defeat?	B:Who did the writer who selected defeat that coach?	B
+B:Who did the engineer who liked this president see?	A:Who did the engineer who liked see this president?	B
+B:Who did the engineer who saw this president like?	A:Who did the engineer who saw like this president?	B
+B:Who did the lawyer who saw this student call?	A:Who did the lawyer who saw call this student?	B
+A:Who did the lawyer who called this student see?	B:Who did the lawyer who called see this student?	A
+A:Who did the writer who trusted the team support?	B:Who did the writer who trusted support the team?	A
+A:Who did the writer who supported the team trust?	B:Who did the writer who supported trust the team?	A
+A:Who did the male player who hit the police find?	B:Who did the male player who hit find the police?	A
+A:Who did the male player who found the police hit?	B:Who did the male player who found hit the police?	B
+A:Who did the director who met this boy hit?	B:Who did the director who met hit this boy?	A
+A:Who did the director who hit this boy meet?	B:Who did the director who hit meet this boy?	A
+A:Who did the student who hit this woman believe?	B:Who did the student who hit believe this woman?	A
+B:Who did the student who believed this woman hit?	A:Who did the student who believed hit this woman?	B
+B:Who did the coach who recognized this student injure?	A:Who did the coach who recognized injure this student?	B
+A:Who did the coach who injured this student recognize?	B:Who did the coach who injured recognize this student?	A
+B:Who did the wife who liked this teacher visit?	A:Who did the wife who liked visit this teacher?	B
+A:Who did the wife who visited this teacher like?	B:Who did the wife who visited like this teacher?	A
+B:Who did that professor who understood this man hit?	A:Who did that professor who understood hit this man?	B
+A:Who did that professor who hit this man understand?	B:Who did that professor who hit understand this man?	B
+B:Who did the player who visited that woman marry?	A:Who did the player who visited marry that woman?	B
+A:Who did the player who kicked that woman visit?	B:Who did the player who kicked visit that woman?	A
+A:Who did the doctor who believed that worker contact?	B:Who did the doctor who believed contact that worker?	A
+B:Who did the doctor who contacted that worker believe?	A:Who did the doctor who contacted believe that worker?	B
+A:Who did the lawyer who defeated the friend call?	B:Who did the lawyer who defeated call the friend?	A
+B:Who did the lawyer who called the friend defeat?	A:Who did the lawyer who called defeat the friend?	B
+B:Who did the soldier who called that friend like?	A:Who did the soldier who called like that friend?	B
+A:Who did the soldier who liked that friend call?	B:Who did the soldier who liked call that friend?	A
+A:Who did the driver who liked the soldier kill?	B:Who did the driver who liked kill the soldier?	A
+B:Who did the driver who killed the soldier like?	A:Who did the driver who killed like the soldier?	B
+B:Who did the mother who trusted Patrick visit?	A:Who did the mother who trusted visit Patrick?	B
+A:Who did the mother who visited Patrick trust?	B:Who did the mother who visited trust Patrick?	A
+A:Who did the manager who beat Gary trust?	B:Who did the manager who beat trust Gary?	A
+B:Who did the manager who trusted Gary beat?	A:Who did the manager who trusted beat Gary?	B
+A:Who did the singer who attacked this player trust?	B:Who did the singer who attacked trust this player?	A
+A:Who did the singer who trusted this player attack?	B:Who did the singer who trusted attack this player?	A
+A:Who did the manager who contacted the doctor hide?	B:Who did the manager who contacted hide the doctor?	A
+A:Who did the manager who hid the doctor contact?	B:Who did the manager who hid contact the doctor?	A
+B:Who did the musician who invited the teacher select?	A:Who did the musician who invited select the teacher?	B
+A:Who did the musician who selected the teacher invite?	B:Who did the musician who selected invite the teacher?	B
+B:Who did the boy who supported that teacher believe?	A:Who did the boy who supported believe that teacher?	B
+B:Who did the boy who believed that teacher support?	A:Who did the boy who believed support that teacher?	B
+A:Who did the worker who beat Larry trust?	B:Who did the worker who beat trust Larry?	A
+A:Who did the worker who trusted Larry beat?	B:Who did the worker who trusted beat Larry?	A
+B:Who did that lady who called that soldier save?	A:Who did that lady who called save that soldier?	B
+A:Who did that lady who saved that soldier call?	B:Who did that lady who saved call that soldier?	A
+B:Who did the artist who trusted that teacher invite?	A:Who did the artist who trusted invite that teacher?	B
+B:Who did the artist who invited that teacher trust?	A:Who did the artist who invited trust that teacher?	B
+A:Who did that woman who found that student call?	B:Who did that woman who found call that student?	A
+A:Who did that woman who called that student find?	B:Who did that woman who called find that student?	A
+B:Who did the writer who called the woman find?	A:Who did the writer who called find the woman?	B
+A:Who did the writer who found the woman call?	B:Who did the writer who found call the woman?	A
+B:Who did this king who watched this child see?	A:Who did this king who watched see this child?	B
+A:Who did this king who saw this child watch?	B:Who did this king who saw watch this child?	A
+A:Who did this mother who supported that student injure?	B:Who did this mother who supported injure that student?	A
+B:Who did this mother who injured that student support?	A:Who did this mother who injured support that student?	B
+B:Who did the driver who found Alexander trust?	A:Who did the driver who found trust Alexander?	B
+A:Who did the driver who trusted Alexander find?	B:Who did the driver who trusted find Alexander?	A
+A:Who did that king who found Charles visit?	B:Who did that king who found visit Charles?	A
+B:Who did that king who visited Charles find?	A:Who did that king who visited find Charles?	B
+A:Who did the worker who selected the player hit?	B:Who did the worker who selected hit the player?	A
+B:Who did the worker who hit the player select?	A:Who did the worker who hit select the player?	B
+B:Who did the customer who saved this teacher invite?	A:Who did the customer who saved invite this teacher?	B
+A:Who did the customer who invited this teacher save?	B:Who did the customer who invited save this teacher?	A
+A:Who did this mother who understood this player trust?	B:Who did this mother who understood trust this player?	A
+A:Who did this mother who trusted this player understand?	B:Who did this mother who trusted understand this player?	B
+A:Who did those women who called this boy hit?	B:Who did those women who called hit this boy?	A
+B:Who did those women who hit this boy call?	A:Who did those women who hit call this boy?	B
+B:Who did the politician who loved that minister contact?	A:Who did the politician who loved contact that minister?	B
+A:Who did the politician who contacted that minister love?	B:Who did the politician who contacted love that minister?	A
+B:Who did the mother who saw this woman love?	A:Who did the mother who saw love this woman?	B
+B:Who did the mother who loved this woman see?	A:Who did the mother who loved see this woman?	B
+B:Who did the male president who hit this man believe?	A:Who did the male president who hit believe this man?	B
+B:Who did the male president who believed this man hit?	A:Who did the male president who believed hit this man?	B
+B:Who did this mother who talked to this teacher believe?	A:Who did this mother who talked to believe this teacher?	B
+B:Who did this mother who believed this teacher talk to?	A:Who did this mother who believed talk to this teacher?	B
+A:Who did the visitor who attacked Ruth beat?	B:Who did the visitor who attacked beat Ruth?	A
+B:Who did the visitor who beat Ruth attack?	A:Who did the visitor who beat attack Ruth?	B
+B:Who did that female president who watched the teacher like?	A:Who did that female president who watched like the teacher?	B
+A:Who did that female president who liked the teacher watch?	B:Who did that female president who liked watch the teacher?	A
+A:Who did the writer who saved this friend call?	B:Who did the writer who saved call this friend?	A
+A:Who did the writer who called this friend save?	B:Who did the writer who called save this friend?	A
+A:Who did the musician who invited Walter visit?	B:Who did the musician who invited visit Walter?	A
+A:Who did the musician who visited Walter invite?	B:Who did the musician who visited invite Walter?	A
+B:Who did that female professor who kicked Phil trust?	A:Who did that female professor who kicked trust Phil?	B
+A:Who did that female professor who trusted Phil marry?	B:Who did that female professor who trusted marry Phil?	A
+A:Who did the women who saw the soldier contact?	B:Who did the women who saw contact the soldier?	A
+B:Who did the women who contacted the soldier see?	A:Who did the women who contacted see the soldier?	B
+B:Who did the officer who supported that man hit?	A:Who did the officer who supported hit that man?	B
+A:Who did the officer who hit that man support?	B:Who did the officer who hit support that man?	A
+B:Who did the manager who understood Maria visit?	A:Who did the manager who understood visit Maria?	B
+B:Who did the manager who visited Maria understand?	A:Who did the manager who visited understand Maria?	B
+A:Who did that female president who liked that man marry?	B:Who did that female president who liked marry that man?	A
+B:Who did that female president who kicked that man like?	A:Who did that female president who kicked like that man?	B
+B:Who did the officer who called James visit?	A:Who did the officer who called visit James?	B
+B:Who did the officer who visited James call?	A:Who did the officer who visited call James?	B
+B:Who did the artist who talked to this teacher believe?	A:Who did the artist who talked to believe this teacher?	B
+B:Who did the artist who believed this teacher talk to?	A:Who did the artist who believed talk to this teacher?	B
+A:Who did the lawyer who trusted the children select?	B:Who did the lawyer who trusted select the children?	A
+A:Who did the lawyer who selected the children trust?	B:Who did the lawyer who selected trust the children?	A
+A:What did that princess who built the project end?	B:What did that princess who built end the project?	A
+B:What did that princess who ended the project build?	A:What did that princess who ended build the project?	B
+B:What did the lawyer who understood the team attack?	A:What did the lawyer who understood attack the team?	B
+A:What did the lawyer who attacked the team understand?	B:What did the lawyer who attacked understand the team?	A
+A:Who did the professor who loved the teacher like?	B:Who did the professor who loved like the teacher?	A
+B:Who did the professor who liked the teacher love?	A:Who did the professor who liked love the teacher?	B
+A:Who did the customer who protected William visit?	B:Who did the customer who protected visit William?	A
+A:Who did the customer who visited William follow?	B:Who did the customer who visited follow William?	A
+A:Who did the writer who trusted that woman marry?	B:Who did the writer who trusted marry that woman?	A
+B:Who did the writer who kicked that woman trust?	A:Who did the writer who kicked trust that woman?	B
+A:Who did this female professor who recognized Nick visit?	B:Who did this female professor who recognized visit Nick?	A
+A:Who did this female professor who visited Nick recognize?	B:Who did this female professor who visited recognize Nick?	A
+A:Who did the lawyer who understood that worker contact?	B:Who did the lawyer who understood contact that worker?	A
+B:Who did the lawyer who contacted that worker understand?	A:Who did the lawyer who contacted understand that worker?	B
+A:Who did the visitor who believed William trust?	B:Who did the visitor who believed trust William?	A
+A:Who did the visitor who trusted William believe?	B:Who did the visitor who trusted believe William?	A
+A:Who did the woman who kicked this friend like?	B:Who did the woman who kicked like this friend?	A
+A:Who did the woman who liked this friend marry?	B:Who did the woman who liked marry this friend?	A
+A:Who did that male professor who invited Nick visit?	B:Who did that male professor who invited visit Nick?	B
+B:Who did that male professor who visited Nick invite?	A:Who did that male professor who visited invite Nick?	B
+A:Who did the captain who protected the team talk to?	B:Who did the captain who protected talk to the team?	A
+B:Who did the captain who talked to the team follow?	A:Who did the captain who talked to follow the team?	B
+B:Who did the female professor who invited the student hide?	A:Who did the female professor who invited hide the student?	B
+B:Who did the female professor who hid the student invite?	A:Who did the female professor who hid invite the student?	B
+B:Who did the writer who trusted this doctor hide?	A:Who did the writer who trusted hide this doctor?	B
+A:Who did the writer who hid this doctor trust?	B:Who did the writer who hid trust this doctor?	A
+A:Who did the worker who supported the player trust?	B:Who did the worker who supported trust the player?	A
+A:Who did the worker who trusted the player support?	B:Who did the worker who trusted support the player?	A
+B:Who did the artist who beat that man believe?	A:Who did the artist who beat believe that man?	B
+A:Who did the artist who believed that man beat?	B:Who did the artist who believed beat that man?	A
+A:Who did the soldier who defeated this man hit?	B:Who did the soldier who defeated hit this man?	A
+A:Who did the soldier who hit this man defeat?	B:Who did the soldier who hit defeat this man?	A
+A:Who did the writer who found that woman marry?	B:Who did the writer who found marry that woman?	A
+A:Who did the writer who kicked that woman find?	B:Who did the writer who kicked find that woman?	A
+A:Who did the prince who visited the friend like?	B:Who did the prince who visited like the friend?	A
+B:Who did the prince who liked the friend visit?	A:Who did the prince who liked visit the friend?	B
+B:Who did the woman who saw this man watch?	A:Who did the woman who saw watch this man?	B
+B:Who did the woman who watched this man see?	A:Who did the woman who watched see this man?	B
+A:Who did the judge who kicked the soldier visit?	B:Who did the judge who kicked visit the soldier?	A
+B:Who did the judge who visited the soldier marry?	A:Who did the judge who visited marry the soldier?	B
+B:Who did the player who trusted that team support?	A:Who did the player who trusted support that team?	B
+B:Who did the player who supported that team trust?	A:Who did the player who supported trust that team?	B
+B:Who did the officer who trusted this student call?	A:Who did the officer who trusted call this student?	B
+A:Who did the officer who called this student trust?	B:Who did the officer who called trust this student?	A
+A:Who did the artist who hit that student see?	B:Who did the artist who hit see that student?	A
+A:Who did the artist who saw that student hit?	B:Who did the artist who saw hit that student?	A
+A:Who did the captain who defeated this student believe?	B:Who did the captain who defeated believe this student?	A
+A:Who did the captain who believed this student defeat?	B:Who did the captain who believed defeat this student?	A
+A:Who did the teacher who loved that student meet?	B:Who did the teacher who loved meet that student?	A
+A:Who did the teacher who met that student love?	B:Who did the teacher who met love that student?	A
+A:Who did the visitor who saved his leader meet?	B:Who did the visitor who saved meet his leader?	A
+A:Who did the visitor who met his leader save?	B:Who did the visitor who met save his leader?	A
+B:Who did the female professor who saved that boy hit?	A:Who did the female professor who saved hit that boy?	B
+A:Who did the female professor who hit that boy save?	B:Who did the female professor who hit save that boy?	A
+A:Who did the customer who kicked his friend like?	B:Who did the customer who kicked like his friend?	A
+B:Who did the customer who liked his friend marry?	A:Who did the customer who liked marry his friend?	B
+B:Who did the student who defeated the teacher injure?	A:Who did the student who defeated injure the teacher?	B
+A:Who did the student who injured the teacher defeat?	B:Who did the student who injured defeat the teacher?	A
+B:Who did the boy who supported the coach select?	A:Who did the boy who supported select the coach?	B
+A:Who did the boy who selected the coach support?	B:Who did the boy who selected support the coach?	B
+B:Who did that man who invited Charles visit?	A:Who did that man who invited visit Charles?	B
+B:Who did that man who visited Charles invite?	A:Who did that man who visited invite Charles?	B
+B:Who did this wife who met that president invite?	A:Who did this wife who met invite that president?	B
+B:Who did this wife who invited that president meet?	A:Who did this wife who invited meet that president?	B
+B:Who did the singer who invited the police call?	A:Who did the singer who invited call the police?	B
+A:Who did the singer who called the police invite?	B:Who did the singer who called invite the police?	A
+B:Who did the actress who talked to Bill visit?	A:Who did the actress who talked to visit Bill?	B
+A:Who did the actress who visited Bill talk to?	B:Who did the actress who visited talk to Bill?	A
+B:Who did the female president who hit the president meet?	A:Who did the female president who hit meet the president?	B
+B:Who did the female president who met the president hit?	A:Who did the female president who met hit the president?	B
+B:Who did the girl who understood that officer contact?	A:Who did the girl who understood contact that officer?	B
+B:Who did the girl who contacted that officer understand?	A:Who did the girl who contacted understand that officer?	B
+A:Who did the doctor who supported that teacher call?	B:Who did the doctor who supported call that teacher?	A
+B:Who did the doctor who called that teacher support?	A:Who did the doctor who called support that teacher?	B
+B:Who did the singer who trusted the student injure?	A:Who did the singer who trusted injure the student?	B
+A:Who did the singer who injured the student trust?	B:Who did the singer who injured trust the student?	A
+A:Who did the writer who found the man hit?	B:Who did the writer who found hit the man?	A
+A:Who did the writer who hit the man find?	B:Who did the writer who hit find the man?	A
+A:Who did the writer who saw the friend trust?	B:Who did the writer who saw trust the friend?	A
+B:Who did the writer who trusted the friend see?	A:Who did the writer who trusted see the friend?	B
+A:Who did the prince who saw the woman love?	B:Who did the prince who saw love the woman?	A
+A:Who did the prince who loved the woman see?	B:Who did the prince who loved see the woman?	A
+A:Who did the manager who contacted the woman marry?	B:Who did the manager who contacted marry the woman?	A
+A:Who did the manager who kicked the woman contact?	B:Who did the manager who kicked contact the woman?	A
+A:Who did the farmer who understood Martin visit?	B:Who did the farmer who understood visit Martin?	B
+A:Who did the farmer who visited Martin understand?	B:Who did the farmer who visited understand Martin?	B
+A:Who did the doctor who saved the parents love?	B:Who did the doctor who saved love the parents?	A
+A:Who did the doctor who loved the parents save?	B:Who did the doctor who loved save the parents?	A
+B:Who did the student who loved the woman watch?	A:Who did the student who loved watch the woman?	B
+B:Who did the student who watched the woman love?	A:Who did the student who watched love the woman?	B
+A:Who did the president who beat this coach select?	B:Who did the president who beat select this coach?	A
+A:Who did the president who selected this coach beat?	B:Who did the president who selected beat this coach?	A
+B:Who did the princess who talked to that friend save?	A:Who did the princess who talked to save that friend?	B
+B:Who did the princess who saved that friend talk to?	A:Who did the princess who saved talk to that friend?	B
+A:Who did this daughter who trusted that member talk to?	B:Who did this daughter who trusted talk to that member?	A
+A:Who did this daughter who talked to that member trust?	B:Who did this daughter who talked to trust that member?	A
+A:Who did the doctor who saved the army attack?	B:Who did the doctor who saved attack the army?	A
+A:Who did the doctor who attacked the army save?	B:Who did the doctor who attacked save the army?	A
+A:Who did this female player who found this student support?	B:Who did this female player who found support this student?	B
+A:Who did this female player who supported this student find?	B:Who did this female player who supported find this student?	A
+A:Who did that king who recognized that leader meet?	B:Who did that king who recognized meet that leader?	A
+A:Who did that king who met that leader recognize?	B:Who did that king who met recognize that leader?	B
+A:Who did the player who saw Bobby beat?	B:Who did the player who saw beat Bobby?	A
+A:Who did the player who beat Bobby see?	B:Who did the player who beat see Bobby?	A
+B:Who did the manager who killed Alice trust?	A:Who did the manager who killed trust Alice?	B
+A:Who did the manager who trusted Alice kill?	B:Who did the manager who trusted kill Alice?	A
+A:Who did the professor who loved Ann visit?	B:Who did the professor who loved visit Ann?	A
+A:Who did the professor who visited Ann love?	B:Who did the professor who visited love Ann?	A
+A:Who did the student who trusted this boy hit?	B:Who did the student who trusted hit this boy?	A
+A:Who did the student who hit this boy trust?	B:Who did the student who hit trust this boy?	A
+A:Who did the customer who invited Ted trust?	B:Who did the customer who invited trust Ted?	A
+A:Who did the customer who trusted Ted invite?	B:Who did the customer who trusted invite Ted?	A
+B:What did the assistant who loved the team follow?	A:What did the assistant who loved follow the team?	B
+B:What did the assistant who protected the team love?	A:What did the assistant who protected love the team?	B
+B:Who did the musician who found that student watch?	A:Who did the musician who found watch that student?	B
+B:Who did the musician who watched that student find?	A:Who did the musician who watched find that student?	B
+B:Who did the officer who recognized this student call?	A:Who did the officer who recognized call this student?	B
+B:Who did the officer who called this student recognize?	A:Who did the officer who called recognize this student?	B
+A:Who did the lawyer who called Helen recognize?	B:Who did the lawyer who called recognize Helen?	A
+A:Who did the lawyer who recognized Helen call?	B:Who did the lawyer who recognized call Helen?	A
+B:Who did the teacher who loved that child see?	A:Who did the teacher who loved see that child?	B
+A:Who did the teacher who saw that child love?	B:Who did the teacher who saw love that child?	A
+A:Who did the girl who recognized the teacher select?	B:Who did the girl who recognized select the teacher?	A
+B:Who did the girl who selected the teacher recognize?	A:Who did the girl who selected recognize the teacher?	B
+B:Who did the farmer who selected the doctor save?	A:Who did the farmer who selected save the doctor?	B
+B:Who did the farmer who saved the doctor select?	A:Who did the farmer who saved select the doctor?	B
+A:Who did this wife who contacted that president invite?	B:Who did this wife who contacted invite that president?	A
+A:Who did this wife who invited that president contact?	B:Who did this wife who invited contact that president?	A
+A:Who did the male professor who supported that child follow?	B:Who did the male professor who supported follow that child?	A
+B:Who did the male professor who protected that child support?	A:Who did the male professor who protected support that child?	B
+B:Who did the manager who defeated Ann recognize?	A:Who did the manager who defeated recognize Ann?	B
+B:Who did the manager who recognized Ann defeat?	A:Who did the manager who recognized defeat Ann?	B
+B:Who did that mother who contacted the man love?	A:Who did that mother who contacted love the man?	B
+A:Who did that mother who loved the man contact?	B:Who did that mother who loved contact the man?	A
+A:Who did the man who recognized the leader talk to?	B:Who did the man who recognized talk to the leader?	A
+A:Who did the man who talked to the leader recognize?	B:Who did the man who talked to recognize the leader?	A
+A:Who did the engineer who kicked his friend select?	B:Who did the engineer who kicked select his friend?	A
+B:Who did the engineer who selected his friend marry?	A:Who did the engineer who selected marry his friend?	B
+B:Who did the judge who saw the teacher hide?	A:Who did the judge who saw hide the teacher?	B
+B:Who did the judge who hid the teacher see?	A:Who did the judge who hid see the teacher?	B
+B:Who did the soldier who supported the man love?	A:Who did the soldier who supported love the man?	B
+B:Who did the soldier who loved the man support?	A:Who did the soldier who loved support the man?	B
+A:Who did that female player who attacked that player hit?	B:Who did that female player who attacked hit that player?	A
+B:Who did that female player who hit that player attack?	A:Who did that female player who hit attack that player?	B
+B:Who did the officer who attacked the president invite?	A:Who did the officer who attacked invite the president?	B
+B:Who did the officer who invited the president attack?	A:Who did the officer who invited attack the president?	B
+A:Who did the lawyer who saved the woman see?	B:Who did the lawyer who saved see the woman?	A
+A:Who did the lawyer who saw the woman save?	B:Who did the lawyer who saw save the woman?	A
+A:Who did that female president who defeated that man marry?	B:Who did that female president who defeated marry that man?	A
+B:Who did that female president who kicked that man defeat?	A:Who did that female president who kicked defeat that man?	B
+A:Who did the farmer who recognized the doctor select?	B:Who did the farmer who recognized select the doctor?	A
+B:Who did the farmer who selected the doctor recognize?	A:Who did the farmer who selected recognize the doctor?	B
+A:Who did the judge who selected the student hide?	B:Who did the judge who selected hide the student?	A
+A:Who did the judge who hid the student select?	B:Who did the judge who hid select the student?	A
+B:Who did the princess who invited that minister talk to?	A:Who did the princess who invited talk to that minister?	B
+B:Who did the princess who talked to that minister invite?	A:Who did the princess who talked to invite that minister?	B
+A:Who did the engineer who trusted Anna see?	B:Who did the engineer who trusted see Anna?	A
+B:Who did the engineer who saw Anna trust?	A:Who did the engineer who saw trust Anna?	B
+B:Who did the mother who defeated that player talk to?	A:Who did the mother who defeated talk to that player?	B
+B:Who did the mother who talked to that player defeat?	A:Who did the mother who talked to defeat that player?	B
+A:Who did this prince who saved Phil defeat?	B:Who did this prince who saved defeat Phil?	A
+A:Who did this prince who defeated Phil save?	B:Who did this prince who defeated save Phil?	A
+A:Who did the singer who selected the woman find?	B:Who did the singer who selected find the woman?	A
+A:Who did the singer who found the woman select?	B:Who did the singer who found select the woman?	A
