@@ -6,40 +6,36 @@ suppressPackageStartupMessages({
 })
 
 
-raw_df <- read.csv("benchmark_item_level_results.csv")
+raw_df <- read.csv("posh_item_level_results.csv")
 
 df <- raw_df %>%
   mutate(
     val = ifelse(correct == "correct", 1, 0),
     size_num = as.numeric(data_size),
     size_z   = as.numeric(scale(size_num)),
-    filter = factor(filter, levels = c("yes", "no")), 
     random_seed = factor(random_seed),
-    source   = factor(data_source, levels = c("baby", "wiki")), 
     category = factor(category),
     phenomenon = factor(phenomenon),
-    dataset = factor(benchmark) 
+    dataset = factor(benchmark),
+    source_filter = case_when(
+      data_source == "wiki"              ~ "wiki",
+      data_source == "baby" & filter == "yes" ~ "baby_filtered",
+      data_source == "baby" & filter == "no"  ~ "baby_unfiltered",
+      TRUE ~ NA_character_
+    ),
+    source_filter = factor(source_filter,
+      levels = c("baby_unfiltered", "baby_filtered", "wiki"))
   ) %>%
-  select(val, size_z, category, filter, source, dataset, random_seed, phenomenon)
+  select(val, size_z, category, source_filter, dataset, random_seed, phenomenon)
+
 
 contrasts(df$category) <- contr.sum(nlevels(df$category))
-contrasts(df$filter)   <- contr.sum(2) # yes=1, no=-1
-contrasts(df$source)   <- contr.sum(2) # baby=1, wiki=-1
-
-
 family_used <- bernoulli(link = "logit")
-# 
+
 fml <- bf(
-  val ~ (size_z + category) * filter + source +
-    (1 | dataset) + (1 | dataset:random_seed) +
-    (1 | phenomenon)
+  val ~ (size_z + category) * source_filter +
+    (1 | random_seed) + (1 | phenomenon)
 )
-
-# fml <- bf(
-#   val ~ (size_z + category) * filter + source +
-#     (1 | random_seed) + (1 | phenomenon)
-# )
-
 
 priors <- c(
   set_prior("normal(0, 0.5)", class = "b"),
@@ -61,7 +57,7 @@ m_brm <- brm(
   iter = 2000,
   warmup = 1000,
   seed = 42,
-  file = "fit_bayesian_benchmark",
+  file = "fit_bayesian_new",
   file_refit = "on_change",
   control = list(adapt_delta = 0.99, max_treedepth = 15)
 )
