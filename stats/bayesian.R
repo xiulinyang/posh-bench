@@ -30,6 +30,7 @@ df <- raw_df %>%
 
 
 contrasts(df$category) <- contr.sum(nlevels(df$category))
+contrasts(df$source_filter) <- contr.sum(nlevels(df$source_filter))
 family_used <- bernoulli(link = "logit")
 
 fml <- bf(
@@ -65,3 +66,18 @@ m_brm <- brm(
 print(summary(m_brm))
 
 pp_check(m_brm, ndraws = 200)
+
+library(emmeans)
+
+em <- emmeans(m_brm, ~ source_filter)
+
+my_contrasts <- contrast(em, method = list(
+  "filtering_effect (baby_filtered - baby_unfiltered)" = c(-1, 1, 0),
+  "domain_effect (wiki - baby_unfiltered)"             = c(-1, 0, 1)
+))
+
+summary(my_contrasts, point.est = median)
+em_by_cat <- emmeans(m_brm, ~ source_filter | category)
+contrast(em_by_cat, method = list(
+  "filtering_effect" = c(-1, 1, 0)
+), by = "category")
